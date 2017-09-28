@@ -29,14 +29,14 @@ RMS: Enrollment パフォーマンス オブジェクトに対して使用可能
 <tr class="odd">
 <td style="border:1px solid black;"><p>SubEnroll Failures</p></td>
 <td style="border:1px solid black;"><p>完全に処理されなかったサブ登録要求の総数</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>SubEnroll Processing Time</p></td>
 <td style="border:1px solid black;"><p>サブ登録要求 1 件あたりの平均処理時間 (マイクロ秒単位)</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>SubEnroll Requests</p></td>
 <td style="border:1px solid black;"><p>登録サービスが受け取ったサブ登録要求の総数</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>

@@ -141,7 +141,7 @@ CSIRT チームの中核以外に、特定の問題の処理や対応を行う�
 <tr class="odd">
 <td style="border:1px solid black;"><p>IT 責任者</p></td>
 <td style="border:1px solid black;"><p>主に、CSIRT 問題担当リーダーと IT グループの他のメンバとのコミュニケーションの調整を担当します。IT 責任者は、問題に対応するための特定の技術的な知識を持っていない場合もありますが、IT グループ内で特定のセキュリティ問題を処理できる人物を見つけることに責任を持ちます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>法務担当者</p></td>
 <td style="border:1px solid black;"><p>通常、社内の法務部門のメンバで、確立された問題の対応ポリシーに詳しい人です。法務担当者は、問題の発生時に、法的責任を最小限にし、違反者を最大限に追及できるようにする処理方法を決定します。</p>
@@ -201,7 +201,7 @@ CSIRT チームの中核以外に、特定の問題の処理や対応を行う�
 <td style="border:1px solid black;"><p><strong>法務担当者</strong></p></td>
 <td style="border:1px solid black;"><p><strong>広報責任者</strong></p></td>
 <td style="border:1px solid black;"><p><strong>経営陣</strong></p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>初期調査</p></td>
 <td style="border:1px solid black;"><p>責任者</p></td>
@@ -209,7 +209,7 @@ CSIRT チームの中核以外に、特定の問題の処理や対応を行う�
 <td style="border:1px solid black;"><p>なし</p></td>
 <td style="border:1px solid black;"><p>なし</p></td>
 <td style="border:1px solid black;"><p>なし</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>初期の対応</p></td>
 <td style="border:1px solid black;"><p>責任者</p></td>
@@ -217,7 +217,7 @@ CSIRT チームの中核以外に、特定の問題の処理や対応を行う�
 <td style="border:1px solid black;"><p>更新</p></td>
 <td style="border:1px solid black;"><p>更新</p></td>
 <td style="border:1px solid black;"><p>更新</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>法的証拠の収集</p></td>
 <td style="border:1px solid black;"><p>実施</p></td>
@@ -225,7 +225,7 @@ CSIRT チームの中核以外に、特定の問題の処理や対応を行う�
 <td style="border:1px solid black;"><p>責任者</p></td>
 <td style="border:1px solid black;"><p>なし</p></td>
 <td style="border:1px solid black;"><p>なし</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>一時的な解決策の実施</p></td>
 <td style="border:1px solid black;"><p>責任者</p></td>
@@ -233,7 +233,7 @@ CSIRT チームの中核以外に、特定の問題の処理や対応を行う�
 <td style="border:1px solid black;"><p>更新</p></td>
 <td style="border:1px solid black;"><p>更新</p></td>
 <td style="border:1px solid black;"><p>アドバイス</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>連絡</p></td>
 <td style="border:1px solid black;"><p>アドバイス</p></td>
@@ -241,7 +241,7 @@ CSIRT チームの中核以外に、特定の問題の処理や対応を行う�
 <td style="border:1px solid black;"><p>アドバイス</p></td>
 <td style="border:1px solid black;"><p>実施</p></td>
 <td style="border:1px solid black;"><p>責任者</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>地方の司法当局との確認</p></td>
 <td style="border:1px solid black;"><p>更新</p></td>
@@ -249,7 +249,7 @@ CSIRT チームの中核以外に、特定の問題の処理や対応を行う�
 <td style="border:1px solid black;"><p>実施</p></td>
 <td style="border:1px solid black;"><p>更新</p></td>
 <td style="border:1px solid black;"><p>責任者</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>永続的な解決策の実施</p></td>
 <td style="border:1px solid black;"><p>責任者</p></td>
@@ -257,7 +257,7 @@ CSIRT チームの中核以外に、特定の問題の処理や対応を行う�
 <td style="border:1px solid black;"><p>更新</p></td>
 <td style="border:1px solid black;"><p>更新</p></td>
 <td style="border:1px solid black;"><p>更新</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ビジネスに対する財務的な影響の決定</p></td>
 <td style="border:1px solid black;"><p>更新</p></td>
@@ -265,8 +265,8 @@ CSIRT チームの中核以外に、特定の問題の処理や対応を行う�
 <td style="border:1px solid black;"><p>アドバイス</p></td>
 <td style="border:1px solid black;"><p>更新</p></td>
 <td style="border:1px solid black;"><p>責任者</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 [](#mainsection)[ページのトップへ](#mainsection)
@@ -525,30 +525,30 @@ CSIRT は問題を処理する場合、すべてのプロセスを完全にド�
 **表 10.3 Contoso のケース スタディ**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>問題対応の手順</p></th>  
-<th><p>対処</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>問題対応の手順</p></th>
+<th><p>対処</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>初期調査の実施</p></td>
 <td style="border:1px solid black;"><p>当直の CSIRT メンバである Samantha Smith が呼び出され、Contoso の侵入検出システムのログに記録されたイベントの簡単な説明を受けました。この侵入検出システムは、Web サーバー WEB2 上で Code Red II の問題が発生している可能性を示しています。Samantha は WEB2 サーバーのインターネット インフォメーション サービス (IIS) のログ ファイルで署名の文字列を調べて、c:\inetpub\scripts に root.exe が存在するかどうかをチェックします。この調査の結果は、誤検知ではないことを強く示唆しています。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>問題の連絡</p></td>
 <td style="border:1px solid black;"><p>Samantha は、CSIRT の他のメンバに電話で問題の発見を伝え、わかりしだい、追加の詳細情報を伝えることに同意します。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>被害の拡大防止とリスクの最小化</p></td>
 <td style="border:1px solid black;"><p>Contoso の問題対応ポリシーでは、ワームの存在が確認されたら、そのシステムをネットワークから切り離すことになっています。Samantha はネットワーク ケーブルを取り外します。幸いなことに、WEB2 は負荷分散サーバーの一部なので、この切断によって顧客に対する停止時間は発生しません。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>問題の連絡</p></td>
 <td style="border:1px solid black;"><p>Samantha は、発見の内容を電子メールで CSIRT の他のメンバに連絡し、CSIRT リーダーには直接連絡します。CSIRT リーダーは、情報セキュリティ マネージャである Taylor Maxwell を問題担当リーダーに任命します。Taylor は、すべての活動を調整し、CSIRT の中核の連絡の窓口になります。</p>
@@ -558,15 +558,15 @@ CSIRT は問題を処理する場合、すべてのプロセスを完全にド�
 <tr class="odd">
 <td style="border:1px solid black;"><p>被害の重大性の特定</p></td>
 <td style="border:1px solid black;"><p>Samantha は、他のサーバーのログ ファイルを調べて、ワームが感染していないかどうかを確認します。ワームの感染は拡大していないことが確認されました。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>被害の拡大防止とリスクの最小化</p></td>
 <td style="border:1px solid black;"><p>別の CSIRT メンバである Robert Brown は、Microsoft Baseline Security Analyzer (MBSA) を実行して、他のサーバーに Code Red II に対応した修正プログラムが適用されているかどうかをリアルタイムに確認します。MBSA は、ネットワーク上の Microsoftｮ Windows NTｮ Version 4.0、Windows 2000、および Microsoftｮ Windowsｮ XP を実行するすべてのコンピュータの修正プログラムの状況を管理者が集中的にチェックできるようにする マイクロソフトのツールです。Robert は、他の 2 台のサーバーがアップデートされていないことを発見し、直ちに修正プログラムを適用します。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>被害の重大性の特定</p></td>
 <td style="border:1px solid black;"><p>Robert は、他のすべての IIS サーバーのログ ファイルを調べて、この時点で Code Red II のインスタンスが他に存在しないことを確認します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>証拠の保全</p></td>
 <td style="border:1px solid black;"><p>あらゆる情報が、被害が WEB2 に留まっていることを示しています。損害の拡大が正しく防止されており、法務部門から証拠を収集するように指示があったので、Taylor は証拠の混乱や破棄の原因となる可能性がある、立ち入ったシステム分析を行う前に、証拠を収集することにしました。チームの他のメンバは、他の Web サーバーやログで疑わしい活動がないか監視を続けています。</p>
@@ -575,7 +575,7 @@ CSIRT は問題を処理する場合、すべてのプロセスを完全にド�
 <tr class="odd">
 <td style="border:1px solid black;"><p>攻撃の種類と重大性の特定</p></td>
 <td style="border:1px solid black;"><p>組織のセキュリティ ツールキットであるポータブル コンピュータには、数多くの調査ツールが用意されており、このコンピュータを使って回復用のバックアップに他の被害がないかどうかを調べます。レジストリ エントリやフォルダで、起動時にソフトウェアを実行するような場所に項目が追加されていないか確認します。たとえば、profile/startup ディレクトリや <strong>Run</strong> および <strong>RunOnce</strong> レジストリ キーです。ユーザー アカウントやグループ アカウント、およびユーザー権利やセキュリティ ポリシーも変更されていないか確認します。セキュリティ ログで、他に疑わしい活動が記録されていないか調べます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>外部機関への通知</p></td>
 <td style="border:1px solid black;"><p>Contoso は米国政府の大規模なプロジェクトにも数多く参加しているので、Taylor は米国連邦捜査局 (FBI) の National Infrastructure Protection Center に問題について報告します。</p>
@@ -584,18 +584,18 @@ CSIRT は問題を処理する場合、すべてのプロセスを完全にド�
 <tr class="odd">
 <td style="border:1px solid black;"><p>システムの回復</p></td>
 <td style="border:1px solid black;"><p>WEB2 から Code Red II を除去するツールもありますが、CSIRT と WEB2 サポート チームは、新しいメディアにオペレーティング システムを再インストールすることを選択しました。オリジナルの配布メディアから新しいディスク メディアにオペレーティング システムを再インストールするとともに、Microsoft Security Toolkit を使用することによって、ハッカーのバックドアが仕掛けられたり、ファイルが壊れたりしていないクリーンなシステムであることが保証されます。</p>
-<p>Windows 2000 を再インストールした後、このガイドの第 5 章から第 7 章に示されているガイドラインに従って、セキュリティ ロックダウンをより厳格に適用します。</p>  
-<p>感染していないバックアップを探して、ドキュメント化されている手順に従って、データを復元します。データが被害を受けたバックアップにしか存在しない場合は、別のオフライン システムに復元し、他のオペレーティング システムに対して再感染の危険性がないことが明らかになった後で WEB2 に戻します。</p>  
+<p>Windows 2000 を再インストールした後、このガイドの第 5 章から第 7 章に示されているガイドラインに従って、セキュリティ ロックダウンをより厳格に適用します。</p>
+<p>感染していないバックアップを探して、ドキュメント化されている手順に従って、データを復元します。データが被害を受けたバックアップにしか存在しない場合は、別のオフライン システムに復元し、他のオペレーティング システムに対して再感染の危険性がないことが明らかになった後で WEB2 に戻します。</p>
 <p>CSIRT チームは、システム全体の脆弱性の調査を実施し、そのプロセスで判明した情報をすべてドキュメント化します。</p>
 <p>WEB2 をネットワークに再接続し、新しい侵害や既知の侵害の兆候がないか綿密に監視します。</p></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>問題に関するドキュメントの収集と整理</p></td>
 <td style="border:1px solid black;"><p>Taylor および CSIRT は脆弱性の根本的な原因を調査し、問題のあったシステムが最近再インストールされ、修正プログラムが適用されていなかったことが判明しました。これは、明らかに既に定義されているポリシーに反しています。</p>
-<p>この問題を細分化すると 3 つの場所で発生しています。サポート チームのメンバが修正プログラムを再適用しなかったこと、情報セキュリティ部門が遅滞なく、適用された修正プログラムを監査しなかったこと、および構成管理グループが修正プログラムの適用の必要性を認識し、情報セキュリティ部門にシステムを稼動状態に戻す前に見直しを要請しなかったことです。これらのプロセスのいずれかが実施されていれば、この問題は回避できたはずです。</p>  
-<p>チームは、この問題の再発を回避するために新しい手順を実施することを決定します。情報セキュリティ部門が社内ネットワークへのシステムの再接続を承認する前に、変更管理、Web サーバー サポート、および情報セキュリティの各部門が実行しなければならないチェックリストを作成しました。チェックリストの手順は、情報セキュリティ部門が、外部からこのシステムへのアクセスおよびこのシステムから外部へのアクセスを許可するようにファイアウォールを再構成する前に実行する必要があります。また、監査部門は、チェックリストが正確かつ完全に実行されているかどうかを定期的に検討します。</p>  
-<p>Taylor および CSIRT は、問題に対応するために実行された作業、各作業が行われた時刻、および作業を行った人物を特定するすべてのドキュメントを収集します。この情報は、コンピュータの損害に関する一般に公正妥当と認められた会計原則に従ってコストを計算するために財務担当者に送られます。</p>  
-<p>CSIRT チーム リーダーは、経営陣が問題の総コスト、問題の発生原因、将来的な問題の回避方法を理解していることを確認します。経営陣が、手順が存在しない場合や手順に従わなかった場合、および CSIRT などのリソースがない場合の意味を理解していることは重要です。</p>  
+<p>この問題を細分化すると 3 つの場所で発生しています。サポート チームのメンバが修正プログラムを再適用しなかったこと、情報セキュリティ部門が遅滞なく、適用された修正プログラムを監査しなかったこと、および構成管理グループが修正プログラムの適用の必要性を認識し、情報セキュリティ部門にシステムを稼動状態に戻す前に見直しを要請しなかったことです。これらのプロセスのいずれかが実施されていれば、この問題は回避できたはずです。</p>
+<p>チームは、この問題の再発を回避するために新しい手順を実施することを決定します。情報セキュリティ部門が社内ネットワークへのシステムの再接続を承認する前に、変更管理、Web サーバー サポート、および情報セキュリティの各部門が実行しなければならないチェックリストを作成しました。チェックリストの手順は、情報セキュリティ部門が、外部からこのシステムへのアクセスおよびこのシステムから外部へのアクセスを許可するようにファイアウォールを再構成する前に実行する必要があります。また、監査部門は、チェックリストが正確かつ完全に実行されているかどうかを定期的に検討します。</p>
+<p>Taylor および CSIRT は、問題に対応するために実行された作業、各作業が行われた時刻、および作業を行った人物を特定するすべてのドキュメントを収集します。この情報は、コンピュータの損害に関する一般に公正妥当と認められた会計原則に従ってコストを計算するために財務担当者に送られます。</p>
+<p>CSIRT チーム リーダーは、経営陣が問題の総コスト、問題の発生原因、将来的な問題の回避方法を理解していることを確認します。経営陣が、手順が存在しない場合や手順に従わなかった場合、および CSIRT などのリソースがない場合の意味を理解していることは重要です。</p>
 <p>該当するチームのメンバが全体的な問題のドキュメント、問題から学んだ教訓、および実施されたポリシーと実施されなかったポリシーを再検討します。</p>
 <p>訴訟に関連するドキュメントおよび手順を、法務担当者、CSIRT チーム リーダー、問題担当リーダー、および経営陣で再検討します。</p></td>
 </tr>

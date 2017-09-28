@@ -429,7 +429,7 @@ Windows ファイアウォールの設定の構成が完了したら、次に \[
     <td style="border:1px solid black;"><p><strong>未構成</strong></p></td>
     <td style="border:1px solid black;"><p>この GPO は、Windows ファイアウォールの現在の構成を変更しません。</p></td>
     <td style="border:1px solid black;"><p> </p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p><strong>有効</strong></p></td>
     <td style="border:1px solid black;"><p>ポリシーに記載されているユーザーまたはグループから送信されたもの以外、Windows ファイアウォールは IPSec でセキュリティ保護されたトラフィックを処理しません。</p></td>
@@ -440,8 +440,8 @@ Windows ファイアウォールの設定の構成が完了したら、次に \[
     <td style="border:1px solid black;"><p><strong>無効</strong></p></td>
     <td style="border:1px solid black;"><p>Windows ファイアウォールは、IPSec でセキュリティ保護されたトラフィックを処理します。</p></td>
     <td style="border:1px solid black;"><p> </p></td>
-    </tr>  
-    </tbody>  
+    </tr>
+    </tbody>
     </table>
   
 10. 表 1 を参考にして、**\[有効\]** または **\[無効\]** のいずれかをクリックします。
@@ -463,107 +463,107 @@ Windows ファイアウォールの設定の構成が完了したら、次に \[
     **表 2   エンタープライズ環境で使用する \[Windows ファイアウォール\] の推奨設定**
 
 <p> </p>
-    <table style="border:1px solid black;">  
-    <colgroup>  
-    <col width="25%" />  
-    <col width="25%" />  
-    <col width="25%" />  
-    <col width="25%" />  
-    </colgroup>  
-    <thead>  
-    <tr class="header">  
-    <th><p>設定</p></th>  
-    <th><p>説明</p></th>  
-    <th><p>ドメイン プロファイル</p></th>  
-    <th><p>標準プロファイル</p></th>  
-    </tr>  
-    </thead>  
-    <tbody>  
+    <table style="border:1px solid black;">
+    <colgroup>
+    <col width="25%" />
+    <col width="25%" />
+    <col width="25%" />
+    <col width="25%" />
+    </colgroup>
+    <thead>
+    <tr class="header">
+    <th><p>設定</p></th>
+    <th><p>説明</p></th>
+    <th><p>ドメイン プロファイル</p></th>
+    <th><p>標準プロファイル</p></th>
+    </tr>
+    </thead>
+    <tbody>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>ネットワーク接続をすべて保護する</strong></p></td>
     <td style="border:1px solid black;"><p>すべてのネットワーク接続で Windows ファイアウォールを有効にするかどうかを指定します。</p></td>
     <td style="border:1px solid black;"><p>有効</p></td>
     <td style="border:1px solid black;"><p>有効</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p><strong>例外を許可しない</strong></p></td>
     <td style="border:1px solid black;"><p>例外のトラフィックなど、要求していない着信トラフィックをすべてドロップするかどうかを指定します。</p></td>
     <td style="border:1px solid black;"><p>未構成</p></td>
     <td style="border:1px solid black;"><p>有効。ただし、プログラムの例外を構成する必要がある場合を除きます。</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>プログラムの例外を定義する</strong></p></td>
     <td style="border:1px solid black;"><p>例外のトラフィックを、プログラムのファイル名に基づいて定義します。</p></td>
     <td style="border:1px solid black;"><p>有効。この定義は、ネットワークで Windows XP SP2 を実行しているコンピュータによって使用されているプログラム (アプリケーションおよびサービス) で構成します。</p></td>
     <td style="border:1px solid black;"><p>有効。この定義は、ネットワークで Windows XP SP2 を実行しているコンピュータによって使用されているプログラム (アプリケーションおよびサービス) で構成します。</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p><strong>ローカル プログラムの例外を許可する</strong></p></td>
     <td style="border:1px solid black;"><p>プログラムの例外のローカルの構成を許可します。</p></td>
     <td style="border:1px solid black;"><p>無効。ただし、ローカル管理者がプログラムの例外をローカルで構成できるようにする場合を除きます。</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>リモート管理の例外を許可する</strong></p></td>
     <td style="border:1px solid black;"><p>ツールを使用したリモート構成を許可します。</p></td>
     <td style="border:1px solid black;"><p>無効。ただし、MMC スナップインを使用してコンピュータをリモート管理できるようにする場合を除きます。</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p><strong>ファイルとプリンタの共有の例外を許可する</strong></p></td>
     <td style="border:1px solid black;"><p>ファイルとプリンタの共有トラフィックを許可するかどうかを指定します。</p></td>
     <td style="border:1px solid black;"><p>無効。ただし、Windows XP SP2 を実行しているコンピュータでローカル リソースが共有される場合を除きます。</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>ICMP の例外を許可する</strong></p></td>
     <td style="border:1px solid black;"><p>許可する ICMP メッセージのタイプを指定します。</p></td>
     <td style="border:1px solid black;"><p>無効。ただし、ping コマンドを使用してトラブルシューティングを行う場合を除きます。</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p><strong>リモート デスクトップの例外を許可する</strong></p></td>
     <td style="border:1px solid black;"><p>コンピュータでリモート デスクトップ ベースの接続要求を受信できるようにするかどうかを指定します。</p></td>
     <td style="border:1px solid black;"><p>有効</p></td>
     <td style="border:1px solid black;"><p>有効</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>UPnP フレームワークの例外を許可する</strong></p></td>
     <td style="border:1px solid black;"><p>コンピュータで要求していない UPnP メッセージを受信できるようにするかどうかを指定します。</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p><strong>通知を禁止する</strong></p></td>
     <td style="border:1px solid black;"><p>通知を無効にします。</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>ログの記録を許可する</strong></p></td>
     <td style="border:1px solid black;"><p>トラフィックのログの記録とログ ファイル設定の構成を許可します。</p></td>
     <td style="border:1px solid black;"><p>未構成</p></td>
     <td style="border:1px solid black;"><p>未構成</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p><strong>マルチキャストまたはブロードキャスト要求に対するユニキャスト応答を禁止する</strong></p></td>
     <td style="border:1px solid black;"><p>マルチキャストまたはブロードキャスト要求メッセージに対して受信したユニキャスト パケットを破棄します。</p></td>
     <td style="border:1px solid black;"><p>有効</p></td>
     <td style="border:1px solid black;"><p>有効</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>ポートの例外を定義する</strong></p></td>
     <td style="border:1px solid black;"><p>例外のトラフィックを TCP および UDP に基づいて指定します。</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p><strong>ローカル ポートの例外を許可する</strong></p></td>
     <td style="border:1px solid black;"><p>ポートの例外のローカルの構成を許可します。</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
-    </tr>  
-    </tbody>  
+    </tr>
+    </tbody>
     </table>
   
 ##### ポートの例外を有効にする
@@ -825,101 +825,101 @@ Internet Explorer で URL 動作のセキュリティ管理を行うには、**\
     **表 3   Internet Explorer の \[セキュリティの機能\] の設定**
 
 <p> </p>
-    <table style="border:1px solid black;">  
-    <colgroup>  
-    <col width="25%" />  
-    <col width="25%" />  
-    <col width="25%" />  
-    <col width="25%" />  
-    </colgroup>  
-    <thead>  
-    <tr class="header">  
-    <th><p>設定</p></th>  
-    <th><p>説明</p></th>  
-    <th><p>既定の構成</p></th>  
-    <th><p>エンタープライズ環境で使用する場合の推奨構成</p></th>  
-    </tr>  
-    </thead>  
-    <tbody>  
+    <table style="border:1px solid black;">
+    <colgroup>
+    <col width="25%" />
+    <col width="25%" />
+    <col width="25%" />
+    <col width="25%" />
+    </colgroup>
+    <thead>
+    <tr class="header">
+    <th><p>設定</p></th>
+    <th><p>説明</p></th>
+    <th><p>既定の構成</p></th>
+    <th><p>エンタープライズ環境で使用する場合の推奨構成</p></th>
+    </tr>
+    </thead>
+    <tbody>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>バイナリ ビヘイビアのセキュリティの制限</strong></p></td>
     <td style="border:1px solid black;"><p>[バイナリ ビヘイビアのセキュリティの制限] 設定を禁止するか許可するかを制御します。</p></td>
     <td style="border:1px solid black;"><p>未構成</p></td>
     <td style="border:1px solid black;"><p>組織の許可されたビヘイビアを [管理者によって許可されたビヘイビア] リストに追加します。その際には、#package#behavior と表記します。</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p><strong>MK プロトコル セキュリティの制限</strong></p></td>
     <td style="border:1px solid black;"><p>MK プロトコルを使用不可にすることで危険を回避します。</p></td>
     <td style="border:1px solid black;"><p>未構成</p></td>
     <td style="border:1px solid black;"><p>すべてのプロセスに対して有効</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>ローカル コンピュータ ゾーンのロックダウン セキュリティ</strong></p></td>
     <td style="border:1px solid black;"><p>ローカル コンピュータ ゾーンを使用して悪意のある HTML コードを読み込む攻撃のリスクを軽減します。</p></td>
     <td style="border:1px solid black;"><p>未構成</p></td>
     <td style="border:1px solid black;"><p>すべてのプロセスに対して有効</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p><strong>整合性のある MIME 処理</strong></p></td>
     <td style="border:1px solid black;"><p>Web サーバーから送信されるすべてのファイル タイプの情報に一貫性があることを Internet Explorer が要求するかどうかを決定します。</p></td>
     <td style="border:1px solid black;"><p>未構成</p></td>
     <td style="border:1px solid black;"><p>すべてのプロセスに対して有効</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>MIME スニッフィングの安全機能</strong></p></td>
     <td style="border:1px solid black;"><p>Internet Explorer MIME スニッフィングにより、特定のタイプのファイルがより危険性の高いタイプのファイルに昇格しないようにするかどうかを決定します。</p></td>
     <td style="border:1px solid black;"><p>未構成</p></td>
     <td style="border:1px solid black;"><p>すべてのプロセスに対して有効</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p><strong>オブジェクト キャッシュ保護</strong></p></td>
     <td style="border:1px solid black;"><p>ユーザーが同じドメイン内で移動した場合や新しいドメインに移動した場合に、オブジェクトへの参照をアクセス可能にするかどうかを定義します。</p></td>
     <td style="border:1px solid black;"><p>未構成</p></td>
     <td style="border:1px solid black;"><p>すべてのプロセスに対して有効</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>スクリプト化されたウィンドウのセキュリティ制限</strong></p></td>
     <td style="border:1px solid black;"><p>ポップアップ ウィンドウを制限し、タイトル バーやステータス バーが表示されない、またはその他のタイトル バーやステータス バーがわかりにくいウィンドウをスクリプトで表示できなくします。</p></td>
     <td style="border:1px solid black;"><p>未構成</p></td>
     <td style="border:1px solid black;"><p>すべてのプロセスに対して有効</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p><strong>ゾーン昇格からの保護</strong></p></td>
     <td style="border:1px solid black;"><p>ローカル コンピュータのセキュリティ ゾーンを保護できます。</p></td>
     <td style="border:1px solid black;"><p>未構成</p></td>
     <td style="border:1px solid black;"><p>すべてのプロセスに対して有効</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>情報バー</strong></p></td>
     <td style="border:1px solid black;"><p>ファイルやコードのインストールが制限されている場合に、Internet Explorer のプロセスを示す情報バーを表示するかどうかを管理します。</p></td>
     <td style="border:1px solid black;"><p>未構成</p></td>
     <td style="border:1px solid black;"><p>すべてのプロセスに対して有効</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p><strong>ActiveX のインストールの制限</strong></p></td>
     <td style="border:1px solid black;"><p>Internet Explorer のプロセスを示す ActiveX® コントロールのインストールのプロンプトをブロックできます。</p></td>
     <td style="border:1px solid black;"><p>未構成</p></td>
     <td style="border:1px solid black;"><p>すべてのプロセスに対して有効</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>ファイル ダウンロードの制限</strong></p></td>
     <td style="border:1px solid black;"><p>ユーザーが開始したものではないファイル ダウンロード プロンプトをブロックできます。</p></td>
     <td style="border:1px solid black;"><p>未構成</p></td>
     <td style="border:1px solid black;"><p>すべてのプロセスに対して有効</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p><strong>アドオン管理</strong></p></td>
     <td style="border:1px solid black;"><p>[アドオンの一覧] ポリシー設定に表示されていない Internet Explorer アドオンを拒否することができます。</p></td>
     <td style="border:1px solid black;"><p>未構成</p></td>
     <td style="border:1px solid black;"><p>[アドオンの一覧] で明確に許可されていない限り、すべてのアドオンに対して有効です。</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>ネットワーク プロトコルのロックダウン</strong></p></td>
     <td style="border:1px solid black;"><p>インターネット、イントラネット、信頼済みサイト、制限付きサイト、およびローカル コンピュータのセキュリティ ゾーンに対して、制限付きプロトコルのリストを指定します。</p></td>
     <td style="border:1px solid black;"><p>未構成</p></td>
     <td style="border:1px solid black;"><p>各セキュリティ ゾーンごとに、特定のプロトコルを有効にします。</p></td>
-    </tr>  
-    </tbody>  
+    </tr>
+    </tbody>
     </table>
   
 10. **\[インターネット コントロール パネル\]** を展開します。
@@ -952,136 +952,136 @@ Internet Explorer で URL 動作のセキュリティ管理を行うには、**\
         **表 4   \[インターネット コントロール パネル\] のセキュリティ ゾーン別設定**
 
 <p> </p>
-        <table style="border:1px solid black;">  
-        <colgroup>  
-        <col width="33%" />  
-        <col width="33%" />  
-        <col width="33%" />  
-        </colgroup>  
-        <thead>  
-        <tr class="header">  
-        <th><p>設定</p></th>  
-        <th><p>推奨構成</p></th>  
-        <th><p>推奨レベル</p></th>  
-        </tr>  
-        </thead>  
-        <tbody>  
+        <table style="border:1px solid black;">
+        <colgroup>
+        <col width="33%" />
+        <col width="33%" />
+        <col width="33%" />
+        </colgroup>
+        <thead>
+        <tr class="header">
+        <th><p>設定</p></th>
+        <th><p>推奨構成</p></th>
+        <th><p>推奨レベル</p></th>
+        </tr>
+        </thead>
+        <tbody>
         <tr class="odd">
         <td style="border:1px solid black;"><p><strong>インターネット ゾーンのテンプレート</strong></p></td>
         <td style="border:1px solid black;"><p>有効</p></td>
         <td style="border:1px solid black;"><p>中</p></td>
-        </tr>  
+        </tr>
         <tr class="even">
         <td style="border:1px solid black;"><p><strong>イントラネット ゾーンのテンプレート</strong></p></td>
         <td style="border:1px solid black;"><p>有効</p></td>
         <td style="border:1px solid black;"><p>中低</p></td>
-        </tr>  
+        </tr>
         <tr class="odd">
         <td style="border:1px solid black;"><p><strong>信頼済みサイトのテンプレート</strong></p></td>
         <td style="border:1px solid black;"><p>有効</p></td>
         <td style="border:1px solid black;"><p>低</p></td>
-        </tr>  
+        </tr>
         <tr class="even">
         <td style="border:1px solid black;"><p><strong>制限付きサイト ゾーンのテンプレート</strong></p></td>
         <td style="border:1px solid black;"><p>有効</p></td>
         <td style="border:1px solid black;"><p>高</p></td>
-        </tr>  
+        </tr>
         <tr class="odd">
         <td style="border:1px solid black;"><p><strong>ローカル コンピュータ ゾーンのテンプレート</strong></p></td>
         <td style="border:1px solid black;"><p>有効</p></td>
         <td style="border:1px solid black;"><p>低</p></td>
-        </tr>  
+        </tr>
         <tr class="even">
         <td style="border:1px solid black;"><p><strong>ロックダウンされたローカル コンピュータ ゾーンのテンプレート</strong></p></td>
         <td style="border:1px solid black;"><p>有効</p></td>
         <td style="border:1px solid black;"><p>高</p></td>
-        </tr>  
-        </tbody>  
+        </tr>
+        </tbody>
         </table>
   
         **表 5   \[インターネット コントロール パネル\] のセキュリティ ゾーン別設定**
 
 <p> </p>
-        <table style="border:1px solid black;">  
-        <colgroup>  
-        <col width="33%" />  
-        <col width="33%" />  
-        <col width="33%" />  
-        </colgroup>  
-        <thead>  
-        <tr class="header">  
-        <th><p>設定</p></th>  
-        <th><p>説明</p></th>  
-        <th><p>既定の構成</p></th>  
-        </tr>  
-        </thead>  
-        <tbody>  
+        <table style="border:1px solid black;">
+        <colgroup>
+        <col width="33%" />
+        <col width="33%" />
+        <col width="33%" />
+        </colgroup>
+        <thead>
+        <tr class="header">
+        <th><p>設定</p></th>
+        <th><p>説明</p></th>
+        <th><p>既定の構成</p></th>
+        </tr>
+        </thead>
+        <tbody>
         <tr class="odd">
         <td style="border:1px solid black;"><p><strong>署名済み ActiveX コントロールのダウンロード</strong></p></td>
         <td style="border:1px solid black;"><p>HTML ページに署名済み ActiveX コントロールが含まれている場合、その HTML ページの URL ゾーンからの ActiveX コントロールのダウンロードを管理します。</p></td>
         <td style="border:1px solid black;"><p>未構成</p></td>
-        </tr>  
+        </tr>
         <tr class="even">
         <td style="border:1px solid black;"><p><strong>未署名の ActiveX コントロールのダウンロード</strong></p></td>
         <td style="border:1px solid black;"><p>HTML ページに未署名の ActiveX コントロールが含まれている場合、その HTML ページの URL ゾーンからの ActiveX コントロールのダウンロードを管理します。</p></td>
         <td style="border:1px solid black;"><p>未構成</p></td>
-        </tr>  
+        </tr>
         <tr class="odd">
         <td style="border:1px solid black;"><p><strong>スクリプトを実行しても安全だとマークされていない ActiveX コントロールの初期化とスクリプトの実行</strong></p></td>
         <td style="border:1px solid black;"><p>ゾーン内の HTML ページからの ActiveX コントロールとプラグインの実行を管理します。</p></td>
         <td style="border:1px solid black;"><p>未構成</p></td>
-        </tr>  
+        </tr>
         <tr class="even">
         <td style="border:1px solid black;"><p><strong>ActiveX コントロールとプラグインの実行</strong></p></td>
         <td style="border:1px solid black;"><p>URL セキュリティ ゾーン内のページに対する、ActiveX コントロール オブジェクトの安全性を無視するか、強制するかを決定します。 オブジェクトの安全性を無視できるのは、ゾーン内のページで連携する可能性があるすべての ActiveX コントロールとスクリプトが信頼でき、セキュリティに違反しない場合のみです。 これは、URLACTION_ACTIVEX_OVERRIDE_DATA_SAFETY と URLACTION_ACTIVEX_OVERRIDE_SCRIPT_SAFETY を集約したものです。</p></td>
         <td style="border:1px solid black;"><p>未構成</p></td>
-        </tr>  
+        </tr>
         <tr class="odd">
         <td style="border:1px solid black;"><p><strong>アクティブ スクリプトの許可</strong></p></td>
         <td style="border:1px solid black;"><p>URL セキュリティ ゾーン内のページ上のスクリプト コードを実行するかどうかを決定します。</p></td>
         <td style="border:1px solid black;"><p>未構成</p></td>
-        </tr>  
+        </tr>
         <tr class="even">
         <td style="border:1px solid black;"><p><strong>Java アプレットのスクリプト</strong></p></td>
         <td style="border:1px solid black;"><p>Java アプレットのプロパティ、メソッド、およびイベントがスクリプトに公開されている場合、URL セキュリティ ゾーン内の HTML ページ上のスクリプト コードで Java アプレットを使用できるようにするかどうかを決定します。</p></td>
         <td style="border:1px solid black;"><p>未構成</p></td>
-        </tr>  
+        </tr>
         <tr class="odd">
         <td style="border:1px solid black;"><p><strong>スクリプトを実行しても安全だとマークされている ActiveX コントロールのスクリプトの実行</strong></p></td>
         <td style="border:1px solid black;"><p>安全な ActiveX コントロールのスクリプトを使用できるかどうかを決定します。</p></td>
         <td style="border:1px solid black;"><p>未構成</p></td>
-        </tr>  
+        </tr>
         <tr class="even">
         <td style="border:1px solid black;"><p><strong>ドメイン間でのデータ ソースのアクセス</strong></p></td>
         <td style="border:1px solid black;"><p>リソースからドメインのデータ ソースにアクセスできるようにするかどうかを決定します。</p></td>
         <td style="border:1px solid black;"><p>未構成</p></td>
-        </tr>  
+        </tr>
         <tr class="odd">
         <td style="border:1px solid black;"><p><strong>スクリプトによる貼り付け処理の許可</strong></p></td>
         <td style="border:1px solid black;"><p>スクリプトで貼り付け処理をできるようにするかどうかを決定します。</p></td>
         <td style="border:1px solid black;"><p>未構成</p></td>
-        </tr>  
+        </tr>
         <tr class="even">
         <td style="border:1px solid black;"><p><strong>暗号化されていないフォーム データの送信</strong></p></td>
         <td style="border:1px solid black;"><p>URL セキュリティ ゾーン内のページ上の HTML フォーム、またはゾーン内のサーバーに送信された HTML フォームを許可するかどうかを決定します。 これは、URLACTION_HTML_SUBMIT_FORMS_FROM フラグと URLACTION_HTML_SUBMIT_FORMS_TO フラグを集約したものです。</p></td>
         <td style="border:1px solid black;"><p>未構成</p></td>
-        </tr>  
+        </tr>
         <tr class="odd">
         <td style="border:1px solid black;"><p><strong>フォントのダウンロードの許可</strong></p></td>
         <td style="border:1px solid black;"><p>HTML フォントのダウンロードを許可するかどうかを決定します。</p></td>
         <td style="border:1px solid black;"><p>未構成</p></td>
-        </tr>  
+        </tr>
         <tr class="even">
         <td style="border:1px solid black;"><p><strong>UserData の常設</strong></p></td>
         <td style="border:1px solid black;"><p>ユーザー データの常設を有効にするかどうかを決定します。</p></td>
         <td style="border:1px solid black;"><p>未構成</p></td>
-        </tr>  
+        </tr>
         <tr class="odd">
         <td style="border:1px solid black;"><p><strong>異なるドメイン間のサブフレームの移動</strong></p></td>
         <td style="border:1px solid black;"><p>サブフレームの異なるドメイン間での移動を許可するかどうかを決定します。</p></td>
         <td style="border:1px solid black;"><p>未構成</p></td>
-        </tr>  
-        </tbody>  
+        </tr>
+        </tbody>
         </table>
   
 #### GPUpdate を使用して構成を適用する
@@ -1195,57 +1195,57 @@ Windows XP SP2 では、オンラインでのプリントの注文 (**オンラ�
     **表 6   \[インターネット通信の設定\] の推奨設定**
 
 <p> </p>
-    <table style="border:1px solid black;">  
-    <colgroup>  
-    <col width="33%" />  
-    <col width="33%" />  
-    <col width="33%" />  
-    </colgroup>  
-    <thead>  
-    <tr class="header">  
-    <th><p>設定</p></th>  
-    <th><p>説明</p></th>  
-    <th><p>推奨設定</p></th>  
-    </tr>  
-    </thead>  
-    <tbody>  
+    <table style="border:1px solid black;">
+    <colgroup>
+    <col width="33%" />
+    <col width="33%" />
+    <col width="33%" />
+    </colgroup>
+    <thead>
+    <tr class="header">
+    <th><p>設定</p></th>
+    <th><p>説明</p></th>
+    <th><p>推奨設定</p></th>
+    </tr>
+    </thead>
+    <tbody>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>ファイルとフォルダのタスクから [Web に公開する] を削除する</strong></p></td>
     <td style="border:1px solid black;"><p>[このファイルを Web に公開する]、[このフォルダを Web に公開する]、および [選択した項目を Web に発行する] の各タスクを、Windows フォルダの [ファイルとフォルダのタスク] から実行できるかどうかを指定します。</p></td>
     <td style="border:1px solid black;"><p>有効</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p><strong>Web 発行およびオンライン注文ウィザードのインターネット ダウンロードをオフにする</strong></p></td>
     <td style="border:1px solid black;"><p>Web 発行ウィザードおよびオンラインでの注文ウィザードで、プロバイダのリストのダウンロードが実行されるかどうかを制御します。</p></td>
     <td style="border:1px solid black;"><p>有効</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>Windows Messenger カスタマ エクスペリエンス向上プログラムをオフにする</strong></p>
     <p></p></td>
     <td style="border:1px solid black;"><p>Windows Messenger ソフトウェアおよびサービスの使用方法に関する匿名情報を収集するかどうかを指定します。</p></td>
     <td style="border:1px solid black;"><p>有効</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p><strong>検索コンパニオンのコンテンツ ファイルの更新をオフにする</strong></p></td>
     <td style="border:1px solid black;"><p>ローカル検索およびインターネット検索時に、検索コンパニオンのコンテンツのアップデートを自動的にダウンロードするかどうかを指定します。</p></td>
     <td style="border:1px solid black;"><p>有効</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>HTTP 経由の印刷をオフにする</strong></p></td>
     <td style="border:1px solid black;"><p>このクライアントの HTTP 経由の印刷を無効にすることができます。</p></td>
     <td style="border:1px solid black;"><p>有効</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p><strong>プリンタ ドライバの HTTP 経由でのダウンロードをオフにする</strong></p></td>
     <td style="border:1px solid black;"><p>HTTP 経由でプリンタ ドライバ パッケージがダウンロードされるようにするかどうかを制御します。</p></td>
     <td style="border:1px solid black;"><p>有効</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>Windows Update でのデバイス ドライバの検索をオフにする</strong></p></td>
     <td style="border:1px solid black;"><p>ローカルのデバイス ドライバが存在しない場合に、Windows Update でデバイス ドライバを検索するかどうかを指定します。</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
-    </tr>  
-    </tbody>  
+    </tr>
+    </tbody>
     </table>
   
     **注意 :** 表 6 には、インターネット通信の推奨設定がすべて記載されています。
@@ -1339,40 +1339,40 @@ DCOM 要求があるたびに、コンピュータ全体のアクセス制御リ
 **表 7   既定の DCOM アクセス制御の制限**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>許可</p></th>  
-<th><p>Administrator</p></th>  
-<th><p>Everyone</p></th>  
-<th><p>Anonymous</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>許可</p></th>
+<th><p>Administrator</p></th>
+<th><p>Everyone</p></th>
+<th><p>Anonymous</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>起動とアクティブ化</p></td>
 <td style="border:1px solid black;"><p>ローカルの起動</p>
-<p>ローカルのアクティブ化</p>  
+<p>ローカルのアクティブ化</p>
 <p>リモートの起動</p>
 <p>リモートのアクティブ化</p></td>
 <td style="border:1px solid black;"><p>ローカルの起動</p>
 <p>ローカルのアクティブ化</p></td>
 <td style="border:1px solid black;"><p>許可は未設定</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>アクセス</p></td>
 <td style="border:1px solid black;"><p>許可は未設定</p></td>
 <td style="border:1px solid black;"><p>ローカルの呼び出し</p>
 <p>リモートの呼び出し</p></td>
 <td style="border:1px solid black;"><p>ローカルの呼び出し</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 既定の設定により、ローカルのシナリオはすべて、ソフトウェアまたはオペレーティング システムを変更しなくても有効です。 また、ほとんどの COM クライアントのシナリオも有効ですが、管理者以外のユーザーがインストール済みの COM サーバーに対して行うリモートでのアクティブ化は無効です。

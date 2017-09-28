@@ -71,14 +71,14 @@ Windows 2000 の評価された構成には Windows 2000 Professional、Server�
 <tr class="odd">
 <td style="border:1px solid black;"><p>Microsoft Windows 2000 Advanced Server</p></td>
 <td style="border:1px solid black;"><p>ドメイン コントローラ</p>
-<p>ドメイン メンバ サーバー</p>  
+<p>ドメイン メンバ サーバー</p>
 <p>ワークグループ メンバ サーバー</p>
 <p>スタンドアロン</p></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Microsoft Windows 2000 Server</p></td>
 <td style="border:1px solid black;"><p>ドメイン コントローラ</p>
-<p>ドメイン メンバ サーバー</p>  
+<p>ドメイン メンバ サーバー</p>
 <p>ワークグループ メンバ サーバー</p>
 <p>スタンドアロン</p></td>
 </tr>

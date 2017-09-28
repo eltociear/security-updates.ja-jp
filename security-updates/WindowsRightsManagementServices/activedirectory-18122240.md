@@ -45,38 +45,38 @@ Active Directory キャッシュ設定の変更
 <td style="border:1px solid black;"><p>DWORD</p></td>
 <td style="border:1px solid black;"><p>1,000</p></td>
 <td style="border:1px solid black;"><p>キャッシュに格納できるプリンシパルとその電子メール アドレスおよび SID の最大数</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>PrincipalCacheExpireMinutes</p></td>
 <td style="border:1px solid black;"><p>DWORD</p></td>
 <td style="border:1px solid black;"><p>12</p></td>
 <td style="border:1px solid black;"><p>プリンシパルについてキャッシュに格納される情報の有効期間</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>GroupIDCacheMax</p></td>
 <td style="border:1px solid black;"><p>DWORD</p></td>
 <td style="border:1px solid black;"><p>1,000</p></td>
 <td style="border:1px solid black;"><p>キャッシュに格納できるグループとその電子メール アドレスおよび SID の最大数</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>GroupIDCacheExpireMinutes</p></td>
 <td style="border:1px solid black;"><p>DWORD</p></td>
 <td style="border:1px solid black;"><p>12</p></td>
 <td style="border:1px solid black;"><p>グループ メンバシップ用にキャッシュされた情報の有効期間</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>GroupMembershipCacheMax</p></td>
 <td style="border:1px solid black;"><p>DWORD</p></td>
 <td style="border:1px solid black;"><p>1,000</p></td>
 <td style="border:1px solid black;"><p>キャッシュに格納できるグループ メンバの連絡先の最大数</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>GroupMembershipCacheExpireMinutes</p></td>
 <td style="border:1px solid black;"><p>DWORD</p></td>
 <td style="border:1px solid black;"><p>12</p></td>
 <td style="border:1px solid black;"><p>グループ メンバの連絡先用にキャッシュされた情報の有効期間</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 | ![](images/Cc747586.Caution(WS.10).gif)注意                                                                                               |  

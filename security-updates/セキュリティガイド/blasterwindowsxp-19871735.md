@@ -26,10 +26,10 @@ Blaster ワームへの対策 ‐ Windows XP 編
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>2003 年 8 月 18 日 に Blaster ワームの非常に危険な<a href="https://technet.microsoft.com/ja-jp/library/207c8deb-8e10-49e1-a7de-b8e8d8c9be9e(v=TechNet.10)">亜種</a>が確認されました。この新種の Blaster ワームは、マイクロソフトの次の 2 つの脆弱性を使用しています。</p>
-<ul>  
-<li><p><a href="http://www.microsoft.com/japan/security/bulletins/ms03-007e.mspx">MS03-007: Windows コンポーネントの未チェックのバッファにより Web サーバーが侵害される (815021)</a></p></li>  
-<li><p><a href="http://www.microsoft.com/japan/security/bulletins/ms03-026e.mspx">MS03-026: RPC インターフェイスのバッファ オーバーランによりコードが実行される (823980)</a></p></li>  
-</ul>  
+<ul>
+<li><p><a href="http://www.microsoft.com/japan/security/bulletins/ms03-007e.mspx">MS03-007: Windows コンポーネントの未チェックのバッファにより Web サーバーが侵害される (815021)</a></p></li>
+<li><p><a href="http://www.microsoft.com/japan/security/bulletins/ms03-026e.mspx">MS03-026: RPC インターフェイスのバッファ オーバーランによりコードが実行される (823980)</a></p></li>
+</ul>
 <br />
   
 <p>この対策ページの [手順 5-2. MS03-007 を適用します] の手順を追加しました。</p>
@@ -85,15 +85,15 @@ Blaster ワームへの対策 ‐ Windows XP 編
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>LAN ケーブルを抜きます。コンピュータの裏面には左図のような (メーカーにより若干異なります) LAN ケーブルのポートを示すマークがあります。(ダイヤルアップの場合には電話回線を切断します。)</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.plug(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>LAN ケーブルを抜く際は、ツメ (左図赤枠内の部分) をつまんだ状態で抜きます</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### 2. インターネット接続ファイアウォールを有効にします
@@ -101,13 +101,13 @@ Blaster ワームへの対策 ‐ Windows XP 編
 Windows XP には、インターネット接続ファイアウォールが搭載されています。この機能を使うことにより、ワームによる攻撃を防ぐことができます。
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.a04g5_01(ja-jp,TechNet.10).gif" /></p></td>
@@ -139,8 +139,8 @@ Windows XP には、インターネット接続ファイアウォールが搭載
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>[詳細設定] タブをクリックして、[インターネットからのこのコンピュータへのアクセスを制限したり防いだりして、コンピュータとネットワークを保護する] という項目のチェックをオンにします。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### 3. msblast.exe プログラムを停止します
@@ -149,41 +149,41 @@ Windows XP には、インターネット接続ファイアウォールが搭載
 停止するプログラムは、最初に発見された Blaster ワームが作成するプログラムです。**亜種やその他のコンピュータ ウイルスへの対策は、**[コンピュータを安全にお使いいただくために](#step08)**をご覧ください。**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.task1(ja-jp,TechNet.10).png" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>Ctrl + Shift キーを押しながら Esc キーを押し、タスクマネージャを実行します。</p>
-<p>次に [プロセス] タブを表示します。</p>  
-<p>イメージ名の欄に、&quot;msblast.exe&quot; (<strong>*1</strong>) プログラムがあれば、そのファイル名をマウスでクリックし、[プロセスの終了] ボタンをクリックします。</p>  
-<p><strong>注意 :</strong> Blaster ワームが動作していない場合には &quot;msblast.exe&quot; (<strong>*1</strong>) は動作していません。タスクマネージャ右上の [×] ボタンをクリックしタスクマネージャを終了してください。タスクマネージャを終了させた後は、<strong>4. ネットワークケーブルをコンピュータに接続します</strong> へ進んでください。</p>  
-<p>(<strong>*1</strong>) Blaster ワームは現在いくつかの亜種が報告されています。亜種の場合は msblast.exe と表示されず別の名前になります。</p>  
-<p><strong>その亜種</strong><br />  
-既に Blaster ワームとその亜種に感染している場合、下記のいずれかが動作していますので、”msblast.exe” とこれらのプログラムを停止します。</p>  
-<ul>  
-<li><p>Nstask32.exe</p></li>  
-<li><p>Penis32.exe</p></li>  
-<li><p>Teekids.exe</p></li>  
-<li><p>Winlogin.exe</p></li>  
-<li><p>Win32sockdrv.dl</p></li>  
-<li><p>Yuetyutr.dll</p></li>  
-</ul>  
+<p>次に [プロセス] タブを表示します。</p>
+<p>イメージ名の欄に、&quot;msblast.exe&quot; (<strong>*1</strong>) プログラムがあれば、そのファイル名をマウスでクリックし、[プロセスの終了] ボタンをクリックします。</p>
+<p><strong>注意 :</strong> Blaster ワームが動作していない場合には &quot;msblast.exe&quot; (<strong>*1</strong>) は動作していません。タスクマネージャ右上の [×] ボタンをクリックしタスクマネージャを終了してください。タスクマネージャを終了させた後は、<strong>4. ネットワークケーブルをコンピュータに接続します</strong> へ進んでください。</p>
+<p>(<strong>*1</strong>) Blaster ワームは現在いくつかの亜種が報告されています。亜種の場合は msblast.exe と表示されず別の名前になります。</p>
+<p><strong>その亜種</strong><br />
+既に Blaster ワームとその亜種に感染している場合、下記のいずれかが動作していますので、”msblast.exe” とこれらのプログラムを停止します。</p>
+<ul>
+<li><p>Nstask32.exe</p></li>
+<li><p>Penis32.exe</p></li>
+<li><p>Teekids.exe</p></li>
+<li><p>Winlogin.exe</p></li>
+<li><p>Win32sockdrv.dl</p></li>
+<li><p>Yuetyutr.dll</p></li>
+</ul>
 <br />
   
-<p>詳細はウイルス対策ソフトベンダーの Web サイトをご覧ください。</p>  
-<ul>  
-<li><p><a href="http://www.symantec.com/region/jp/">株式会社シマンテック</a><img src="images/Dd362789.leave-ms(ja-jp,TechNet.10).gif" /></p></li>  
-<li><p><a href="http://www.trendmicro.co.jp/home/">トレンドマイクロ株式会社</a><img src="images/Dd362789.leave-ms(ja-jp,TechNet.10).gif" /></p></li>  
-<li><p><a href="http://www.mcafee.com/jp/default.asp">日本ネットワークアソシエイツ株式会社</a><img src="images/Dd362789.leave-ms(ja-jp,TechNet.10).gif" /></p></li>  
-</ul>  
+<p>詳細はウイルス対策ソフトベンダーの Web サイトをご覧ください。</p>
+<ul>
+<li><p><a href="http://www.symantec.com/region/jp/">株式会社シマンテック</a><img src="images/Dd362789.leave-ms(ja-jp,TechNet.10).gif" /></p></li>
+<li><p><a href="http://www.trendmicro.co.jp/home/">トレンドマイクロ株式会社</a><img src="images/Dd362789.leave-ms(ja-jp,TechNet.10).gif" /></p></li>
+<li><p><a href="http://www.mcafee.com/jp/default.asp">日本ネットワークアソシエイツ株式会社</a><img src="images/Dd362789.leave-ms(ja-jp,TechNet.10).gif" /></p></li>
+</ul>
 <br />
 </td>
 </tr>
@@ -193,15 +193,15 @@ Windows XP には、インターネット接続ファイアウォールが搭載
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>タスクマネージャーの警告が表示されます。[はい] をクリックします。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.task3(ja-jp,TechNet.10).png" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>msblast.exe プログラムが消えたことを確認し、[×] ボタンをクリックしタスクマネージャーを終了します。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### 4. ネットワークケーブルをコンピュータに接続します
@@ -214,54 +214,54 @@ Windows XP には、インターネット接続ファイアウォールが搭載
 Blaster ワームが悪用する MS03-026 のセキュリティ修正プログラムを入手してインストールします。
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="100%" />  
-</colgroup>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="100%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>MS03-026 の修正を含む <a href="http://www.microsoft.com/japan/technet/security/bulletin/ms03-039.mspx">MS03-039</a> が公開されました。ここでは MS03-039 のインストール手順を説明しています。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="http://download.microsoft.com/download/c/9/3/c93838c2-2d8a-4b43-9a32-4846b5e950dc/windowsxp-kb824146-x86-jpn.exe">MS03-039 セキュリティ修正プログラム</a></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>左のリンクをクリックし、MS03-039 のセキュリティ修正プログラムをダウンロードします。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.patch03039xp1(ja-jp,TechNet.10).png" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>保存をクリックします。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.patch03039xp2(ja-jp,TechNet.10).png" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>デスクトップをクリックし、保存をクリックします。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.patch03039xp3(ja-jp,TechNet.10).png" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>右の画面が表示され修正プログラムがダウンロードされます。</p>
-<p>ダウンロード時間の目安は以下のとおりです。</p>  
-<ul>  
-<li><p>ダイヤルアップ 約 3 分程度</p></li>  
+<p>ダウンロード時間の目安は以下のとおりです。</p>
+<ul>
+<li><p>ダイヤルアップ 約 3 分程度</p></li>
 <li><p>ブロードバンド (ADSL、CATV、BFLTES) 約 1 分程度</p></li>
 </ul></td>
 </tr>
@@ -288,22 +288,22 @@ Blaster ワームが悪用する MS03-026 のセキュリティ修正プログ�
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>[同意します] をクリックし、[次へ] をクリックします。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.patch03039xp7(ja-jp,TechNet.10).png" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>右の画面が表示され、修正プログラムがインストールされます。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.patch03039xp8(ja-jp,TechNet.10).png" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>[完了] をクリックすると再起動が要求されますので再起動を実行します。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### 5-2. MS03-007 を適用します
@@ -311,20 +311,20 @@ Blaster ワームが悪用する MS03-026 のセキュリティ修正プログ�
 Blaster ワームの亜種が悪用する MS03-007 のセキュリティ修正プログラムを入手してインストールします。
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p><a href="http://download.microsoft.com/download/2/6/c/26c5bdb0-9f86-4f07-b4ed-f91648e138f1/q815021_wxp_sp2_x86_jpn.exe">MS03-007 セキュリティ修正プログラム</a></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>左のリンクをクリックし、MS03-007 のセキュリティ修正プログラムをダウンロードします。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 [Microsoft.com Japan](http://www.microsoft.com/japan/) サイト の左側のメニューから \[ダウンロード\] をクリックし、[ダウンロード センター](http://www.microsoft.com/downloads/search.aspx?displaylang=ja)に進みます。 ダウンロードの検索のキーワードに "815021" と入力し検索を実行します。
@@ -332,36 +332,36 @@ Blaster ワームの亜種が悪用する MS03-007 のセキュリティ修正�
 ["Windows XP セキュリティ修正プログラム : IIS 経由のリモート攻撃を可能にする ntdll.dll の脆弱性"](http://www.microsoft.com/downloads/details.aspx?familyid=84fc577d-f2d5-47b8-ab98-77ba7501b00b&displaylang=ja) をクリックし、セキュリティ修正プログラムを入手することができます。
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.815021_xp_2(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>保存をクリックします。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.815021_xp_3(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>デスクトップをクリックし、保存をクリックします。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.815021_xp_4(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>左の画面が表示され修正プログラムがダウンロードされます。</p>
-<p>ダウンロード時間の目安は以下のとおりです。</p>  
-<ul>  
-<li><p>ダイヤルアップ 約 3 分程度</p></li>  
+<p>ダウンロード時間の目安は以下のとおりです。</p>
+<ul>
+<li><p>ダイヤルアップ 約 3 分程度</p></li>
 <li><p>ブロードバンド (ADSL、CATV、BFLTES) 約 1 分程度</p></li>
 </ul></td>
 </tr>
@@ -388,22 +388,22 @@ Blaster ワームの亜種が悪用する MS03-007 のセキュリティ修正�
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>[同意します] をクリックし、[次へ] をクリックします。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.815021_xp_8(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>左の画面が表示され、修正プログラムがインストールされます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.815021_xp_9(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>[完了] をクリックすると再起動が要求されますので再起動を実行します。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### 6. ワームを駆除します
@@ -415,33 +415,33 @@ Blaster ワームの亜種が悪用する MS03-007 のセキュリティ修正�
 このツールの詳細については[サポート技術情報 833330](http://support.microsoft.com/default.aspx?scid=kb;ja;833330) をご覧下さい。
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Windows Blaster ワーム駆除ツール (KB833330) Windows XP および Windows 2000 向け</p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p><strong>注 :</strong> 2005 年 2 月 8 日、マイクロソフトは Blaster ワーム駆除ツールを Microsoft Windows 悪意のあるソフトウェアの削除ツールに置き換えました。 悪意のあるソフトウェアの削除ツールの関連情報を参照するには、<a href="http://support.microsoft.com/kb/890830/">こちら</a>をクリックしてください。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.blstrtl01(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>保存をクリックします。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.blstrtl02(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>デスクトップをクリックし、保存をクリックします。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.blstrtl03(ja-jp,TechNet.10).gif" /></p></td>
@@ -465,14 +465,14 @@ Blaster ワームの亜種が悪用する MS03-007 のセキュリティ修正�
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>[同意します] をクリックし、[次へ] をクリックします。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.blstrtl06(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>左の画面が表示され、駆除ツールが実行されます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.blstrtl07(ja-jp,TechNet.10).gif" /></p></td>
@@ -538,36 +538,36 @@ Blaster ワームの亜種が悪用する MS03-007 のセキュリティ修正�
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>[スタート] メニューから [コントロールパネル] を開き、[ネットワークとインターネット接続] を選択します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.a04g5_02(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>続いて [ネットワーク接続] をクリックしてください。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.a04g5_03(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>現在のネットワーク接続設定を選択して、[ネットワークタスク] の [この接続の設定を変更する] をクリックします。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.a04g5_05(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>[詳細設定] タブをクリックして、[インターネットからのこのコンピュータへのアクセスを制限したり防いだりして、コンピュータとネットワークを保護する] という項目のチェックをオフにします。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.icf_off(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>左の図のような警告が表示されるので、[はい] をクリックします。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### 8. これで対策は終了です
@@ -577,16 +577,16 @@ Blaster ワームの亜種が悪用する MS03-007 のセキュリティ修正�
 また、Windows XP の Service Pack 1 の適用は、可能な限り行ってください。Windows XP Service Pack 1 は、[ここ](http://www.microsoft.com/japan/windowsxp/pro/downloads/servicepacks/sp1/)から入手できます。
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="100%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th>コンピュータを安全にお使いいただくために</th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>コンピュータを安全にお使いいただくために</th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Blaster ワームの対策はこれで終了ですが、コンピュータ ウイルスには<a href="https://technet.microsoft.com/ja-jp/library/207c8deb-8e10-49e1-a7de-b8e8d8c9be9e(v=TechNet.10)">亜種</a>と呼ばれるものがあり、お客様のコンピュータが他のウイルスに感染していないとは限りません。</p>
 <p>残念ながら、コンピュータ ウイルスは日々作成され、進化しています。感染を防ぐために、ウイルス対策プログラムをご利用いただくことを強くお勧めします。</p>

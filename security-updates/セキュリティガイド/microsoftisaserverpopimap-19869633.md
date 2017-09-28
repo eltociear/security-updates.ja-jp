@@ -190,7 +190,7 @@ Exchange Server を SecureNAT クライアントとして構成することを�
 <td style="border:1px solid black;"><p>143</p></td>
 <td style="border:1px solid black;"><p>すべてのポート</p></td>
 <td style="border:1px solid black;"><p>N/A</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>POP3 (受信)</p></td>
 <td style="border:1px solid black;"><p>カスタム</p></td>
@@ -201,7 +201,7 @@ Exchange Server を SecureNAT クライアントとして構成することを�
 <td style="border:1px solid black;"><p>110</p></td>
 <td style="border:1px solid black;"><p>すべてのポート</p></td>
 <td style="border:1px solid black;"><p>N/A</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>SMTP (受信)</p></td>
 <td style="border:1px solid black;"><p>カスタム</p></td>
@@ -212,7 +212,7 @@ Exchange Server を SecureNAT クライアントとして構成することを�
 <td style="border:1px solid black;"><p>25</p></td>
 <td style="border:1px solid black;"><p>すべてのポート</p></td>
 <td style="border:1px solid black;"><p>N/A</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>SMTP (送信)</p></td>
 <td style="border:1px solid black;"><p>カスタム</p></td>
@@ -223,8 +223,8 @@ Exchange Server を SecureNAT クライアントとして構成することを�
 <td style="border:1px solid black;"><p>N/A</p></td>
 <td style="border:1px solid black;"><p>固定ポート</p></td>
 <td style="border:1px solid black;"><p>25</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **手順 5. クライアントアドレスセットを構成する**

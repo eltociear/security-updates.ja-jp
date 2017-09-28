@@ -57,38 +57,38 @@ Q. 私のコンピュータに感染するのでしょうか?
 <td style="border:1px solid black;" rowspan="2" valign="top" width="98%">
 Slammer ワームは、SQL Server 2000 または MSDE 2000 をインストールしているコンピュータに感染する恐れがあります。次のステップを確認の上、該当する製品がインストールしていないかご確認ください。
   
-<ol>  
-<li>  
+<ol>
+<li>
 \[スタート\] - \[検索\] - \[ファイルやフォルダ(F)...\] をクリックします。  
-</li>  
-<li>  
+</li>
+<li>
 "ファイルまたはフォルダの名前に ssnetlib.dll と入力します。  
-</li>  
-<li>  
+</li>
+<li>
 \[検索開始\]ボタンをクリックします。  
-</li>  
-<li>  
+</li>
+<li>
 ウインドウの右側に検索結果が表示されます。検索は少し時間がかかる場合があります。  
-</li>  
-<li>  
+</li>
+<li>
 ファイルがシステム上に存在している場合、MSDE または SQL Server がインストールされています。  
-</li>  
-<li>  
+</li>
+<li>
 ssnetlib.dll の上で右クリックし、 \[プロパティ\]をクリックします。  
-</li>  
-<li>  
+</li>
+<li>
 ssnetlib.dll のプロパティが開きます。  
-</li>  
-<li>  
+</li>
+<li>
 \[バージョン情報\] タブをクリックします。  
-</li>  
-<li>  
+</li>
+<li>
 ファイル　バージョンを確認します。  
-</li>  
+</li>
 -   バージョンが、 2000.xx.xxx.x ではない場合は、影響を受けません。(SQL Server 2000 または MSDE 2000 ではありません。)  
 -   バージョンが、 2000.80.636.0 よりも古い場合は、影響を受けるため、対策を行う必要があります。
   
-</ol>  
+</ol>
 対策方法は[「SQL Server および MSDE を標的とした SQL Slammer ワームに関する情報」](http://www.microsoft.com/japan/technet/security/alerts/slammer.mspx)をご覧ください
 
 </td>

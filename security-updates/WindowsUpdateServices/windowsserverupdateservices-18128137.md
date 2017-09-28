@@ -88,22 +88,22 @@ WSUS のインストールが既に試行済みで、サイトが存在しない
 <td style="border:1px solid black;"><p>Windows Server 2003</p></td>
 <td style="border:1px solid black;"><p>Microsoft SQL と完全に互換性のあるデータベース ソフトウェア</p></td>
 <td style="border:1px solid black;"><p>N/A</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Windows 2000 Server</p></td>
 <td style="border:1px solid black;"><p>Microsoft SQL と完全に互換性のあるデータベース ソフトウェア</p></td>
 <td style="border:1px solid black;"><p>Microsoft SQL Server 2000 を使用していない場合は、Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) をインストールできます。インストールするには、いくつかの手順を実行する必要があります。詳細については、後半の「Windows 2000 での MSDE 2000 のインストール」を参照してください。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Windows 2000 Server</p></td>
 <td style="border:1px solid black;"><p>Microsoft Internet Explorer 6.0 Service Pack 1</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=47359">Internet Explorer 6 Service Pack 1</a></p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Windows 2000 Server</p></td>
 <td style="border:1px solid black;"><p>Microsoft .NET Framework Version 1.1 再配布可能パッケージ (http://go.microsoft.com/fwlink/?LinkId=47369)</p></td>
 <td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=47369">Microsoft .NET Framework Version 1.1 再頒布可能パッケージ</a></p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Windows 2000 Server</p></td>
 <td style="border:1px solid black;"><p>Microsoft .NET Framework 1.1 Service Pack 1</p></td>

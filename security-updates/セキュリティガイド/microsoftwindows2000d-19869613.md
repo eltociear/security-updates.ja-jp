@@ -43,7 +43,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p> </p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Administrator</p></td>
 <td style="border:1px solid black;"><p>コンピュータ/ドメインを管理するためにあらかじめ組み込まれているアカウント</p></td>
@@ -63,7 +63,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>このアカウントを誤って使用すると、FAU_GEN.2 利用者識別情報の関連付け、FIA_UAU.2 認証、および FIA_UID.2 アクション前の利用者識別 に違反する可能性があります。</p>
-<p>既定ではこのアカウントはすべてのシステムにおいて無効にされています。</p>  
+<p>既定ではこのアカウントはすべてのシステムにおいて無効にされています。</p>
 <p><strong>要件:</strong></p>
 <p>このアカウントは無効のままにしておかなければなりません。</p></td>
 </tr>
@@ -86,7 +86,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>2 人以上のユーザーがこのアカウントを使用することは、FAU_GEN.2 利用者識別情報の関連付けに違反する可能性があります。</p>
-<p>既定ではこのアカウントはドメイン コントローラ上で無効にされています。</p>  
+<p>既定ではこのアカウントはドメイン コントローラ上で無効にされています。</p>
 <p><strong>要件:</strong></p>
 <p>他のユーザー アカウントとは異なり、krbtgt アカウントはドメインにログオンするために使用することはできず、実際に有効にすることはできません。</p></td>
 </tr>
@@ -98,7 +98,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>グローバル グループを使用することにより、権限を与えられた管理者の役割および権限を与えられたユーザーの役割にユーザーを割り当てることができます。それらの役割には、ユーザーが割り当てられた先のグローバル グループに基づいて、ドメインレベルの固有のアクセス制限が課されています。グローバル グループは TOE セキュリティ機能要件 の FMT_SMR.1 セキュリティ役割をサポートします。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Cert Publishers</p></td>
 <td style="border:1px solid black;"><p>エンタプライズの証明書発行と書き換えエージェントです。エンタプライズ証明機関を稼働させているすべてのコンピュータを含みます。Cert Publishers は Active Directory 内のユーザー オブジェクトに関する証明書を発行する権限を与えられています。</p></td>
@@ -107,7 +107,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p>なし</p></td>
 <td style="border:1px solid black;"><p>評価された構成には Windows 2000 Cert Server は含まれていません。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>DnsUpdateProxy</p></td>
 <td style="border:1px solid black;"><p>他のクライアント (たとえば DHCP サーバー) の代りに動的な更新を行うことを許可された DNS クライアントです。</p></td>
@@ -138,7 +138,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p>なし</p></td>
 <td style="border:1px solid black;"><p>ドメイン コンピュータに固有のリソースにアクセスできるようにする、ユーザーの役割の割り当てをサポートします。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Domain Controllers</p></td>
 <td style="border:1px solid black;"><p>ドメイン内のすべてのドメイン コントローラ用のグループ アカウントです。</p></td>
@@ -147,7 +147,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p>DC_Name</p></td>
 <td style="border:1px solid black;"><p>ドメイン コントローラに固有のリソースにアクセスできるようようにする、ユーザーの役割の割り当てをサポートします。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Domain Guests</p></td>
 <td style="border:1px solid black;"><p>このグループはドメイン コントローラの役割を果たしている Windows 2000 のサーバー上でのみ利用することができます。このグループのメンバはネットワークを通じてのみシステムにアクセスすることを許され、既定では非常に限られた特権しか与えられません。このグループには当初はドメインの Guest ユーザー アカウントだけが含まれます。</p></td>
@@ -166,12 +166,12 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p>Administrator</p>
-<p>Guest</p>  
-<p>Krbtgt</p>  
+<p>Guest</p>
+<p>Krbtgt</p>
 <p>TsInternetUser</p>
 <p>(既定では、すべての新しいユーザーが追加されます。)</p></td>
 <td style="border:1px solid black;"><p>ドメインのリソースにアクセスできるようにする、ユーザーの役割の割り当てをサポートします。</p>
-<p>Guest/匿名アカウントは 利用者識別情報の関連付け、FIA_UAU.2 認証、および FIA_UID.2 アクション前のユーザー識別に違反する可能性があります。</p>  
+<p>Guest/匿名アカウントは 利用者識別情報の関連付け、FIA_UAU.2 認証、および FIA_UID.2 アクション前のユーザー識別に違反する可能性があります。</p>
 <p><strong>要件:</strong></p>
 <p>Guest アカウントおよび TsInternetUser アカウントを削除します。</p></td>
 </tr>
@@ -183,7 +183,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p>Administrator (ドメイン コントローラ)</p></td>
 <td style="border:1px solid black;"><p>ネットワーク全体にわたる管理と制御の役割の割り当てをサポートします。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Group Policy Creator Owner</p></td>
 <td style="border:1px solid black;"><p>このグループのメンバはドメインのグループ ポリシーを修正することができます。このグループは Active Directory 内に新しいグループ ポリシー オブジェクトを作成する権限を与えられています。</p></td>
@@ -214,7 +214,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>このグループは、権限を与えられた管理者の役割および権限を与えられたユーザーの役割に、ユーザーを割り当てられるようにします。その際、ユーザーが割り当てられているドメイン ローカル グループに基づいて、ドメイン コントローラへの固有のアクセス制限が課されます。 このグループは TOE セキュリティ機能要件の FMT_SMR.1 セキュリティ役割をサポートします。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Account Operators</p></td>
 <td style="border:1px solid black;"><p>このグループはドメイン コントローラの役割を果たしている Windows 2000 のサーバー上でのみ利用することができます。このグループはシステムおよびドメインに関するユーザー アカウントおよびグループ アカウントを、メンバが管理できるようにします。既定では、このグループは、Active Directory のすべてのコンテナおよび組織単位 (OU) 内のユーザー、グループ、およびコンピュータに関するアカウントを、作成、修正、および削除するアクセス許可を有しています。ただし、Builtin コンテナとドメイン コントローラ OU は対象外です。このグループは Administrators グループおよび Domain Admins グループを修正するアクセス許可は有していません。また、それらのグループのメンバのアカウントを修正するアクセス許可も有していません。</p></td>
@@ -247,9 +247,9 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p>なし</p></td>
 <td style="border:1px solid black;"><p>このアカウントを誤って使用すると、FDP_ACF.1(a) セキュリティ属性によるアクセス制御に違反する可能性があります。</p>
-<p>このグループのメンバは、通常は自分がアクセスしないファイルおよびディレクトリを抽出することができます。このグループに属しているユーザーは、バックアップの目的で、任意のファイルを開くことができ、読み取り用に開いた後で、任意の場所にファイルをリダイレクトすることができます。</p>  
-<p>既定では、Backup Operators グループに属していなくても、ユーザーは適切なファイルおよびディレクトリへのアクセス許可を有しているファイルを、バックアップおよび復元することができます。</p>  
-<p>Administrator アカウントは最初からバックアップ権利を全面的に有しています。</p>  
+<p>このグループのメンバは、通常は自分がアクセスしないファイルおよびディレクトリを抽出することができます。このグループに属しているユーザーは、バックアップの目的で、任意のファイルを開くことができ、読み取り用に開いた後で、任意の場所にファイルをリダイレクトすることができます。</p>
+<p>既定では、Backup Operators グループに属していなくても、ユーザーは適切なファイルおよびディレクトリへのアクセス許可を有しているファイルを、バックアップおよび復元することができます。</p>
+<p>Administrator アカウントは最初からバックアップ権利を全面的に有しています。</p>
 <p><strong>要件:</strong></p>
 <p>このグループに非管理的アカウントを追加してはいけません。*</p></td>
 </tr>
@@ -317,7 +317,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p>なし</p></td>
 <td style="border:1px solid black;"><p> </p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Server Operators</p></td>
 <td style="border:1px solid black;"><p>このグループはドメイン コントローラの役割を果たしている Windows 2000 のサーバー上でのみ利用することができます。このグループのメンバはサーバー管理タスクを遂行することができます。その例として、共有プリンタ、共有ディレクトリ、およびファイルの作成、変更、および削除が挙げられます。このグループのメンバはファイルのバックアップと復元を行うこと、サーバーのコンソールをロックすること、システムをシャットダウンすることもできます。このグループのメンバはシステムのポリシーを変更することやサービスを起動および停止することはできません。</p></td>
@@ -336,7 +336,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p>Authenticated Users</p>
-<p>Domain Users</p>  
+<p>Domain Users</p>
 <p>INTERACTIVE</p>
 <p>(既定では、新しいすべてのローカル ユーザーがこのグループに追加されます。)</p></td>
 <td style="border:1px solid black;"><p>ドメイン コントローラ上のリソースにアクセスする、ユーザーの役割の割り当てをサポートします。</p>
@@ -351,7 +351,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>このグループでは、権限を与えられた管理者の役割および権限を与えられたユーザーの役割に、ユーザーを割り当てることができます。それらの役割には、ユーザーが割り当てられた先のローカル グループに基づいて、ローカルに固有のアクセス制限が課されています。このグループは TOE セキュリティ機能要件の FMT_SMR.1 セキュリティ役割をサポートします。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Administrators</p></td>
 <td style="border:1px solid black;"><p>このグループのメンバはコンピュータ全体を完全に制御することができます。Windows 2000 が稼働しているメンバ サーバーまたはコンピュータがドメインに加えられると、ローカル Administrators グループに Domain Admins グループが追加されます。</p></td>
@@ -359,8 +359,8 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p><strong>スタンドアロン:</strong></p>
-<p>Administrator</p>  
-<p><strong>ドメイン メンバ:</strong></p>  
+<p>Administrator</p>
+<p><strong>ドメイン メンバ:</strong></p>
 <p>Administrator</p>
 <p>Domain Admins</p></td>
 <td style="border:1px solid black;"><p>コンピュータ上のすべてのローカル リソースに対する全面的な管理アクセス権限を持つ、管理的な役割の割り当てをサポートします。</p>
@@ -375,9 +375,9 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>なし</p></td>
 <td style="border:1px solid black;"><p>このアカウントを誤って使用すると、FDP_ACF.1(a) セキュリティ属性によるアクセス制御に違反する可能性があります。</p>
-<p>このグループのメンバは、通常は自分がアクセスしないファイルおよびディレクトリを抽出することができます。このグループに属しているユーザーは、バックアップの目的で、任意のファイルを開くことができ、読み取り用に開いた後で、任意の場所にファイルをリダイレクトすることができます。</p>  
-<p>既定では、Backup Operators グループに属していなくても、ユーザーは適切なファイルおよびデ ィレクトリへのアクセス許可を有しているファイルを、バックアップおよび復元することができます。</p>  
-<p>Administrator アカウントは最初からバックアップ権利を全面的に有しています。</p>  
+<p>このグループのメンバは、通常は自分がアクセスしないファイルおよびディレクトリを抽出することができます。このグループに属しているユーザーは、バックアップの目的で、任意のファイルを開くことができ、読み取り用に開いた後で、任意の場所にファイルをリダイレクトすることができます。</p>
+<p>既定では、Backup Operators グループに属していなくても、ユーザーは適切なファイルおよびデ ィレクトリへのアクセス許可を有しているファイルを、バックアップおよび復元することができます。</p>
+<p>Administrator アカウントは最初からバックアップ権利を全面的に有しています。</p>
 <p><strong>要件:</strong></p>
 <p>このグループに非管理的アカウントを追加してはいけません。*</p></td>
 </tr>
@@ -389,10 +389,10 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p><strong>スタンドアロン Professional:</strong></p>
-<p>Guest</p>  
-<p><strong>スタンドアロン Server:</strong></p>  
-<p>Guest</p>  
-<p>TsInternetUser</p>  
+<p>Guest</p>
+<p><strong>スタンドアロン Server:</strong></p>
+<p>Guest</p>
+<p>TsInternetUser</p>
 <p><strong>ドメイン メンバ:</strong></p>
 <p>Add Domain Guests</p></td>
 <td style="border:1px solid black;"><p>Guest/匿名アカウントは FAU_GEN.2 利用者識別情報の関連付け、FIA_UAU.2 認証、および FIA_UID.2 アクション前のユーザー識別に違反する可能性があります。</p>
@@ -407,7 +407,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>なし</p></td>
 <td style="border:1px solid black;"><p>特定のコンピュータ上で権利を多く与えられた、ユーザーの役割の割り当てをサポートします。</p>
-<p>このグループでは、ローカル ユーザー アカウントの管理およびローカル リソースの管理のような、管理者レベルの特権が与えられます。権限を与えられている管理者ではないユーザーをこのグループのメンバに入れることは、通常は権限のある管理者に与えられる特権をユーザーが持つことになる分だけ、FMT_MTD.1(c) ユーザー属性の管理、FMT_MTD.1(d)、認証データの管理 (ユーザーが作成したアカウント関して)、FMT_MTD.1(e) ロックアウト期間の管理 (ユーザーが作成したアカウント関して)、最小パスワード文字数の管理 (ユーザーが作成したアカウント関して)、および FMT_SMR.1 セキュリティ役割に違反する可能性があります。</p>  
+<p>このグループでは、ローカル ユーザー アカウントの管理およびローカル リソースの管理のような、管理者レベルの特権が与えられます。権限を与えられている管理者ではないユーザーをこのグループのメンバに入れることは、通常は権限のある管理者に与えられる特権をユーザーが持つことになる分だけ、FMT_MTD.1(c) ユーザー属性の管理、FMT_MTD.1(d)、認証データの管理 (ユーザーが作成したアカウント関して)、FMT_MTD.1(e) ロックアウト期間の管理 (ユーザーが作成したアカウント関して)、最小パスワード文字数の管理 (ユーザーが作成したアカウント関して)、および FMT_SMR.1 セキュリティ役割に違反する可能性があります。</p>
 <p><strong>要件:</strong></p>
 <p>このグループに非管理的アカウントを追加してはいけません。*</p></td>
 </tr>
@@ -429,12 +429,12 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p><strong>スタンドアロン:</strong></p>
-<p>Authenticated Users</p>  
-<p>INTERACTIVE</p>  
-<p>(既定では、新しいすべてのローカル ユーザーが追加されます。)</p>  
-<p><strong>ドメイン メンバ:</strong></p>  
-<p>Authenticated Users</p>  
-<p>Domain Users</p>  
+<p>Authenticated Users</p>
+<p>INTERACTIVE</p>
+<p>(既定では、新しいすべてのローカル ユーザーが追加されます。)</p>
+<p><strong>ドメイン メンバ:</strong></p>
+<p>Authenticated Users</p>
+<p>Domain Users</p>
 <p>INTERACTIVE</p>
 <p>(既定では、新しいすべてのローカル ユーザーが追加されます。)</p></td>
 <td style="border:1px solid black;"><p>コンピュータ上のローカル リソースにアクセス可能なユーザーの役割の割り当てをサポートします。</p>
@@ -449,7 +449,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p> </p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Anonymous Logon</p></td>
 <td style="border:1px solid black;"><p>Windows 2000 によって認証されていないユーザー アカウントがこのグループに含まれます。</p></td>
@@ -480,7 +480,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p> </p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>CREATOR OWNER</p></td>
 <td style="border:1px solid black;"><p>リソースを作成または所有しているユーザーのユーザー アカウントがこのグループに含まれます。Administrators グループのメンバがリソースを作成した場合は、Administrators グループがそのリソースの所有者となります。このグループは Windows 2000 Server または Professional 上の共有可能なリソースごとに作成されます。継承可能なアクセス制御エントリ (ACE) 内のプレースホルダです。ACE が継承されるとき、この SID がオブジェクトの作成者の SID で置き換えられます。</p></td>
@@ -489,7 +489,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p>このグループのメンバはリソースを作成または所有しているユーザーです。</p></td>
 <td style="border:1px solid black;"><p>オブジェクトの所有者の属性の割り当てを通じて、FDP_ACF.1(a) セキュリティ属性によるアクセス制御をサポートします。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CREATOR GROUP</p></td>
 <td style="border:1px solid black;"><p>継承可能な ACE 内のプレースホルダです。ACE が継承されるとき、この SID がオブジェクトの作成者のプライマリ グループの SID で置き換えられます。</p></td>
@@ -498,7 +498,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p> </p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>DIALUP</p></td>
 <td style="border:1px solid black;"><p>現在ダイアルアップ接続しているユーザーがこのグループに含まれます。</p></td>
@@ -517,7 +517,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p> </p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Everyone</p></td>
 <td style="border:1px solid black;"><p>コンピュータにアクセスするすべてのユーザーがこのグループに含まれます。Windows 2000 では、有効なユーザー アカウントを持たないユーザーは Guest として認証されます。ユーザーは Everyone グループに割り当てられているすべての権利とアクセス許可を自動的に取得します。</p>
@@ -538,7 +538,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p>Windows 2000 Server または Professional にローカルにログインしたユーザーがこのグループに含まれます。ネットワークを通じて接続されているユーザーはこのグループのメンバになれません。</p></td>
 <td style="border:1px solid black;"><p> </p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>NETWORK</p></td>
 <td style="border:1px solid black;"><p>ネットワーク上の他のコンピュータからコンピュータ上の共有リソースに現在接続しているユーザーがこのグループに含まれます。</p></td>
@@ -547,7 +547,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p>このグループに属するのは、ネットワークを介してリソースに接続したユーザーです。対話型でローカル ログインしたユーザーは含まれません。</p></td>
 <td style="border:1px solid black;"><p> </p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>PROXY</p></td>
 <td style="border:1px solid black;"><p>この SID は Windows 2000 では使用されていません。</p></td>
@@ -556,7 +556,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p> </p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>RESTRICTED</p></td>
 <td style="border:1px solid black;"><p>この SID は Windows 2000 では使用されていません。</p></td>
@@ -565,7 +565,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p> </p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>SELF</p></td>
 <td style="border:1px solid black;"><p>Active Directory 内のアカウント オブジェクトまたはグループ オブジェクト上の継承可能な ACE 内のプレースホルダです。ACE が継承されるとき、この SID がアカウントを保持するセキュリティ プリンシパルの SID で置き換えられます。</p></td>
@@ -574,7 +574,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p> </p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>SERVICE</p></td>
 <td style="border:1px solid black;"><p>サービスとしてログオンしたすべてのセキュリティ プリンシパルを含むグループです。</p></td>
@@ -583,7 +583,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p> </p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>SYSTEM</p></td>
 <td style="border:1px solid black;"><p>サービス、ユーティリティ、およびデバイス ドライバを実行するために、オペレーティング システムによって使用されるアカウントです。このアカウントは無制限の能力を持ち、レジストリの SAM のように Administrator でさえも拒否されるリソースにもアクセスすることができます。</p></td>
@@ -592,7 +592,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><img src="images/Dd277461.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>このアカウントは、権限のある管理者の管轄外にある TSF 保護機能のようなセキュリティ サービスを実行するために、Windows 2000 によって使用されます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>TERMINAL SERVER USER</p></td>
 <td style="border:1px solid black;"><p> </p></td>

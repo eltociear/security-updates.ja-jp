@@ -42,10 +42,10 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362919(v=TechNet.10)'
 <td style="border:1px solid black;"><p>(高)</p>
 <p>(低)</p></td>
 <td style="border:1px solid black;"><ul>
-<li><p>リモートでコードが実行される</p></li>  
-<li><p>(ローカルで) コードが実行される</p></li>  
-<li><p>特権の昇格</p></li>  
-<li><p>情報漏えい</p></li>  
+<li><p>リモートでコードが実行される</p></li>
+<li><p>(ローカルで) コードが実行される</p></li>
+<li><p>特権の昇格</p></li>
+<li><p>情報漏えい</p></li>
 <li><p>サービス妨害 (DoS)</p></li>
 </ul></td>
 </tr>
@@ -74,10 +74,10 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362919(v=TechNet.10)'
 <td style="border:1px solid black;"><p>(高)</p>
 <p>(低)</p></td>
 <td style="border:1px solid black;"><ul>
-<li><p>インターネット</p></li>  
-<li><p>LAN 等のネットワーク</p></li>  
-<li><p>ローカル コンソール</p></li>  
-<li><p>メール等の添付として</p></li>  
+<li><p>インターネット</p></li>
+<li><p>LAN 等のネットワーク</p></li>
+<li><p>ローカル コンソール</p></li>
+<li><p>メール等の添付として</p></li>
 <li><p>物理メディアによる持ち込み</p></li>
 </ul></td>
 </tr>
@@ -108,9 +108,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362919(v=TechNet.10)'
 <td style="border:1px solid black;"><p>(高)</p>
 <p>(低)</p></td>
 <td style="border:1px solid black;"><ul>
-<li><p>匿名で・・・</p></li>  
-<li><p>特定の権限を持った・・・</p></li>  
-<li><p>認証された・・・</p></li>  
+<li><p>匿名で・・・</p></li>
+<li><p>特定の権限を持った・・・</p></li>
+<li><p>認証された・・・</p></li>
 <li><p>コンソールにログオンした・・・</p></li>
 </ul></td>
 </tr>

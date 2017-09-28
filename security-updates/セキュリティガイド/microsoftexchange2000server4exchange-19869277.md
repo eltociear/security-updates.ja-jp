@@ -353,8 +353,8 @@ IPSec の制御には、Windows 2000 グループ ポリシー内で定義され
 <tr class="even">
 <td style="border:1px solid black;"><p>バックエンド</p></td>
 <td style="border:1px solid black;"><p>ポート 80 着信 : 暗号化</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 フロントエンド サーバーとバックエンド サーバーの間の通信は、常にフロントエンド サーバーから開始されるので、フロントエンド サーバーからの着信要求はブロックが可能です。これらの要求をブロックすると、ユーザー資格情報が誤ってクリア テキストで転送されるのを防止でき、フロントエンド サーバーがバッファ オーバーフロー攻撃にさらされるリスクを最小化できます。
@@ -762,7 +762,7 @@ Exchange のデータ フローのセキュリティを強化する対策を講�
   
 -     
 -   エンド ツー エンドのセキュリティ IPSec (Internet Protocol Security) の概要  
-    <http://www.microsoft.com/japan/technet/prodtechnol/windows2000serv/techinfo/planning/security/ipsecsteps.mspx>  
+    <http://www.microsoft.com/japan/technet/prodtechnol/windows2000serv/techinfo/planning/security/ipsecsteps.mspx>
     [http://support.microsoft.com/default.aspx?scid=kb;en-us;Q315132](http://support.microsoft.com/default.aspx?scid=kb;en-us;q315132)
   
 -     

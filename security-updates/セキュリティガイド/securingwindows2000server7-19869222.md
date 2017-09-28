@@ -116,14 +116,14 @@ Contoso 社の Active Directory 内における GPO の場所は次の図に示�
 Backup Operators<br />
 Server Operators</p></td>
 <td style="border:1px solid black;"><p>アカウント管理のみに使用する Account Operators および Print Operators を削除。ドメイン コントローラ上でプリンタ共有を許可するべきではありません。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>システムのシャットダウン</p></td>
 <td style="border:1px solid black;"><p>Administrators<br />
 Server Operators</p></td>
 <td style="border:1px solid black;"><p>ドメイン コントローラをシャットダウンする権限を持たない、Account Operators、Backup Operators、および Print Operators を削除。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **ローカル ログオン**
@@ -181,56 +181,56 @@ Contoso 社のドメイン コントローラでは、Administrators と Server 
 **表 7.2 ドメイン コントローラ ベースライン ポリシーのセキュリティ オプション設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>UI を使用するセキュリティ オプション設定</p></th>  
-<th><p>推奨</p></th>  
-<th><p>コメント</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>UI を使用するセキュリティ オプション設定</p></th>
+<th><p>推奨</p></th>
+<th><p>コメント</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>匿名接続のための追加制限</p></td>
 <td style="border:1px solid black;"><p>SAM (Security Accounts Manager) アカウントと共有の列挙を許可しません。</p></td>
 <td style="border:1px solid black;"><p>第 6 章の MSBP 推奨に同じ。ドメイン コントローラの場合は特に重要です。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>サーバー オペレータがタスクをスケジュールすることを許可します (ドメイン コントローラのみ)</p></td>
 <td style="border:1px solid black;"><p>無効。</p></td>
 <td style="border:1px solid black;"><p>サーバー オペレータはドメイン コントローラではこのレベルの特権を必要としません。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>常にデジタル署名によるクライアント通信</p></td>
 <td style="border:1px solid black;"><p>無効。</p></td>
 <td style="border:1px solid black;"><p>第 6 章の MSBP と同様、この設定を有効にすることにより、サーバーの性能に明らかな影響があります。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>常にデジタル署名によるサーバー通信</p></td>
 <td style="border:1px solid black;"><p>無効。</p></td>
 <td style="border:1px solid black;"><p>第 6 章の MSBP と同様、この設定を有効にすることにより、サーバーの性能に明らかな影響があります。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>LAN マネージャ認証レベル</p></td>
 <td style="border:1px solid black;"><p>NTLMv2 (NTLM version 2) 応答のみを送信。</p></td>
 <td style="border:1px solid black;"><p>第 6 章の MSBP と同様、Windows 98 SE クライアントのサポートに必要です。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>キャッシュするログオン回数 (ドメイン コントローラを利用できない場合)</p></td>
 <td style="border:1px solid black;"><p>値を 0 に設定。</p></td>
 <td style="border:1px solid black;"><p>ドメイン アカウント ログオンのキャッシングをサポートする理由がありません。これらのサーバー<em>こそが</em>ドメイン コントローラだからです。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>セキュリティ保護されているチャネル : セキュリティ保護されているチャネル データを常にデジタル暗号化またはデジタル署名</p></td>
 <td style="border:1px solid black;"><p>無効。</p></td>
 <td style="border:1px solid black;"><p>第 6 章の MSBP に同じ。ローカル ドメインと信頼関係にあるドメインで Windows 98 SE クライアントおよび SP5 (Service Pack 5) 以下の Microsoftｮ Windows NTｮ Version 4.0 のドメイン コントローラ。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 表 7.2 に示したセキュリティ オプションにはさらに説明を加えた方が良いものがあります。以下に、Contoso 社向けシナリオに合わせたドメイン コントローラに実装した設定の背景となる事柄を説明します。
@@ -327,46 +327,46 @@ Windows ドメイン クライアントで、ログオンのキャッシュを�
 **表 7.3 ベースライン ポリシーで必須のドメイン コントローラ サービス**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>UI のサービス名</p></th>  
-<th><p>スタートアップの種類</p></th>  
-<th><p>コメント</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>UI のサービス名</p></th>
+<th><p>スタートアップの種類</p></th>
+<th><p>コメント</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>分散ファイル システム (DFS)</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>Active Directory の Sysvol 共有に必要</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ファイル複製サービス</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>ドメイン コントローラ間のファイル複製に必要</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>サイト間メッセージング</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>Active Directory による複製をサポートするために必要</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Kerberos キー配布センター</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>ユーザーが Kerberos V5 プロトコルを使用してネットワークにログオンできるようにします。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>リモート プロシージャ コール (RPC) ロケータ</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>ドメイン コントローラが RPC ネーム サービスを提供できるようにします。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 この他にも Windows 2000 ドメイン コントローラで一般的に有効にするサービスがありますが、すべての組織で必須ではありません。これらのサービス向けに推奨される設定は、Contoso 社向けシナリオには適していますが、議論の対象となることが多く、検討中の環境には適用可能ではない場合があります。
@@ -374,41 +374,41 @@ Windows ドメイン クライアントで、ログオンのキャッシュを�
 **表 7.4 ドメイン コントローラ サービスの追加検討項目**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>UI のサービス名</p></th>  
-<th><p>スタートアップの種類</p></th>  
-<th><p>コメント</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>UI のサービス名</p></th>
+<th><p>スタートアップの種類</p></th>
+<th><p>コメント</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DNS サーバー</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>Contoso 社の環境では、Active Directory 統合 DNS が使用されています。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>IIS Admin Service</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>SMTP ベースの Active Directory 複製機能は Contoso 社環境では有効にされていないため、IIS Admin Service は必要ありません。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>NT LM セキュリティ サポート プロバイダ</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>名前付きパイプ以外のトランスポートを使用する RPC プログラムにセキュリティを提供。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>SMTP (Simple Mail Transport Protocol)</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>SMTP ベースの Active Directory 複製機能は、Contoso 社環境では有効ではありません。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **注 :** Windows 2000 サポート ツールから DCDiag.exe ユーティリティを作動すると、現在の環境のドメイン コントローラから作動できる全サービスをチェックします。IISADMIN、SMTPSVC、および TrkSvr を始め、ドメイン コントローラ ベースライン ポリシーで無効になっているサービスがあるため、DCDiag.exe はエラーを報告します。これは既に分かっていることなので、現在の構成では問題ありません。
@@ -1134,28 +1134,28 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
   
 **表 7.5 ドメイン コントローラ IPSec ネットワークのトラフィック マップ**
   
-<table style="width:100%;">  
-<colgroup>  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>サービス</p></th>  
-<th><p>プロトコル</p></th>  
-<th><p>ソース ポート</p></th>  
-<th><p>宛先ポート</p></th>  
-<th><p>ソース アドレス</p></th>  
-<th><p>宛先アドレス</p></th>  
-<th><p>動作</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="width:100%;">
+<colgroup>
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>サービス</p></th>
+<th><p>プロトコル</p></th>
+<th><p>ソース ポート</p></th>
+<th><p>宛先ポート</p></th>
+<th><p>ソース アドレス</p></th>
+<th><p>宛先アドレス</p></th>
+<th><p>動作</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DNS クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1164,7 +1164,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1173,7 +1173,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>SNMP サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1182,7 +1182,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1191,7 +1191,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CIFS/SMB クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1200,7 +1200,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1209,7 +1209,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CIFS/SMB サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1218,7 +1218,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1227,7 +1227,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>RPC クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1236,7 +1236,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1245,7 +1245,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>RPC サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1254,7 +1254,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1263,7 +1263,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>FRS/AD 複製ポート アウト</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1272,7 +1272,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1281,7 +1281,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>FRS/AD 複製ポート イン</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1290,7 +1290,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1299,7 +1299,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>NetBIOS クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1308,7 +1308,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1317,7 +1317,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1326,7 +1326,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1335,7 +1335,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>NetBIOS サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1344,7 +1344,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1353,7 +1353,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1362,7 +1362,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1371,7 +1371,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>NTP クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1380,7 +1380,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1389,7 +1389,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>監視クライアント</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
@@ -1398,7 +1398,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>MOM サーバー</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>LDAP クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1407,7 +1407,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1416,7 +1416,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1425,7 +1425,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1434,7 +1434,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Kerberos クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1443,7 +1443,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1452,7 +1452,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ターミナル サービス</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1461,7 +1461,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>グローバル カタログ クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1470,7 +1470,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1479,7 +1479,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>グローバル カタログ サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1488,7 +1488,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1497,7 +1497,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DNS サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1506,7 +1506,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1515,7 +1515,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Kerberos サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1524,7 +1524,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1533,7 +1533,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>LDAP サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1542,7 +1542,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1551,7 +1551,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1560,7 +1560,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1569,7 +1569,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>NTP サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1578,7 +1578,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1587,7 +1587,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ICMP</p></td>
 <td style="border:1px solid black;"><p>ICMP</p></td>
@@ -1596,7 +1596,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>全受信トラフィック</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
@@ -1605,8 +1605,8 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>ブロック</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **注 :** 表 7.5 にリストされているホスト IP 宛先アドレスは、サーバーで構成している IP アドレスに設定します。
@@ -1690,36 +1690,36 @@ Contoso 社シナリオにおけるインフラストラクチャ サーバー�
 **表 7.6 インフラストラクチャ サーバーの増分ポリシー サービス設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>UI のサービス設定</p></th>  
-<th><p>スタートアップの種類</p></th>  
-<th><p>コメント</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>UI のサービス設定</p></th>
+<th><p>スタートアップの種類</p></th>
+<th><p>コメント</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DHCPServer</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>クライアントに DHCP サービスを提供</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>NTLMSSP</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>名前付きパイプ以外のトランスポートを使用する RPC プログラムにセキュリティを提供。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>WINS</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>クライアントに WINS サービスを提供</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **注 :** Contoso 社シナリオでは、DNS サーバーはドメイン コントローラで実行されるため、インフラストラクチャ サーバーの役割としては無効になっています。
@@ -1746,28 +1746,28 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
   
 **表 7.7 WINS サーバーの IPSec ネットワーク トラフィック マップ**
   
-<table style="width:100%;">  
-<colgroup>  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>サービス</p></th>  
-<th><p>プロトコル</p></th>  
-<th><p>ソース ポート</p></th>  
-<th><p>宛先ポート</p></th>  
-<th><p>ソース アドレス</p></th>  
-<th><p>宛先アドレス</p></th>  
-<th><p>動作</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="width:100%;">
+<colgroup>
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>サービス</p></th>
+<th><p>プロトコル</p></th>
+<th><p>ソース ポート</p></th>
+<th><p>宛先ポート</p></th>
+<th><p>ソース アドレス</p></th>
+<th><p>宛先アドレス</p></th>
+<th><p>動作</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DNS クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1776,7 +1776,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1785,7 +1785,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>SNMP サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1794,7 +1794,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1803,7 +1803,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CIFS クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1812,7 +1812,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1821,7 +1821,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CIFS サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1830,7 +1830,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1839,7 +1839,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>RPC クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1848,7 +1848,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1857,7 +1857,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>RPC サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1866,7 +1866,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1875,7 +1875,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>追加 RPC ポート アウト</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1884,7 +1884,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>NetBIOS クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1893,7 +1893,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1902,7 +1902,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1911,7 +1911,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1920,7 +1920,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>NetBIOS サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1929,7 +1929,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1938,7 +1938,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1947,7 +1947,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1956,7 +1956,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>NTP クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1965,7 +1965,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -1974,7 +1974,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>監視クライアント</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
@@ -1983,7 +1983,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>MOM サーバー</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>LDAP クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -1992,7 +1992,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2001,7 +2001,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2010,7 +2010,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2019,7 +2019,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Kerberos クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2028,7 +2028,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2037,7 +2037,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ターミナル サービス</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2046,7 +2046,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>グローバル カタログ クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2055,7 +2055,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2064,7 +2064,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>WINS 解決サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2073,7 +2073,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2082,7 +2082,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>WINS 複製クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2091,7 +2091,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2100,7 +2100,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>WINS 複製サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2109,7 +2109,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2118,7 +2118,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ICMP</p></td>
 <td style="border:1px solid black;"><p>ICMP</p></td>
@@ -2127,7 +2127,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>全受信トラフィック</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
@@ -2136,8 +2136,8 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>ブロック</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **注 :** 表 7.7 にリストされているホスト IP 宛先アドレスは、サーバーで構成している IP アドレスに設定します。
@@ -2274,28 +2274,28 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
   
 **表 7.8 DHCP サーバーの IPSec ネットワーク トラフィック マップ**
   
-<table style="width:100%;">  
-<colgroup>  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>サービス</p></th>  
-<th><p>プロトコル</p></th>  
-<th><p>ソース ポート</p></th>  
-<th><p>宛先ポート</p></th>  
-<th><p>ソース アドレス</p></th>  
-<th><p>宛先アドレス</p></th>  
-<th><p>動作</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="width:100%;">
+<colgroup>
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>サービス</p></th>
+<th><p>プロトコル</p></th>
+<th><p>ソース ポート</p></th>
+<th><p>宛先ポート</p></th>
+<th><p>ソース アドレス</p></th>
+<th><p>宛先アドレス</p></th>
+<th><p>動作</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DNS クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2304,7 +2304,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2313,7 +2313,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>SNMP サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2322,7 +2322,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2331,7 +2331,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CIFS クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2340,7 +2340,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2349,7 +2349,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CIFS サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2358,7 +2358,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2367,7 +2367,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>RPC クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2376,7 +2376,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2385,7 +2385,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>RPC サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2394,7 +2394,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2403,7 +2403,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>追加 RPC ポート アウト</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2412,7 +2412,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>NetBIOS クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2421,7 +2421,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2430,7 +2430,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2439,7 +2439,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2448,7 +2448,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>NetBIOS サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2457,7 +2457,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2466,7 +2466,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2475,7 +2475,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2484,7 +2484,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>NTP クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2493,7 +2493,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2502,7 +2502,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>監視クライアント</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
@@ -2511,7 +2511,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>MOM サーバー</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>LDAP クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2520,7 +2520,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2529,7 +2529,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2538,7 +2538,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2547,7 +2547,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Kerberos クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2556,7 +2556,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2565,7 +2565,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ターミナル サービス</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2574,7 +2574,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>グローバル カタログ クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2583,7 +2583,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2592,7 +2592,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>DHCP サーバー</p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2601,7 +2601,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ICMP</p></td>
 <td style="border:1px solid black;"><p>ICMP</p></td>
@@ -2610,7 +2610,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>全受信トラフィック</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
@@ -2619,8 +2619,8 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>ブロック</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **注 :** 表 7.8 にリストされているホスト IP 宛先アドレスは、サーバーで構成している IP アドレスに設定します。
@@ -2786,28 +2786,28 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
   
 **表 7.9 ファイルとプリント サーバーの IPSec ネットワーク トラフィック マップ**
   
-<table style="width:100%;">  
-<colgroup>  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>サービス</p></th>  
-<th><p>プロトコル</p></th>  
-<th><p>ソース ポート</p></th>  
-<th><p>宛先ポート</p></th>  
-<th><p>ソース アドレス</p></th>  
-<th><p>宛先アドレス</p></th>  
-<th><p>動作</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="width:100%;">
+<colgroup>
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>サービス</p></th>
+<th><p>プロトコル</p></th>
+<th><p>ソース ポート</p></th>
+<th><p>宛先ポート</p></th>
+<th><p>ソース アドレス</p></th>
+<th><p>宛先アドレス</p></th>
+<th><p>動作</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DNS クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2816,7 +2816,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2825,7 +2825,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>SNMP サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2834,7 +2834,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2843,7 +2843,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CIFS クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2852,7 +2852,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2861,7 +2861,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CIFS サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2870,7 +2870,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2879,7 +2879,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>RPC クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2888,7 +2888,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2897,7 +2897,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>RPC サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2906,7 +2906,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2915,7 +2915,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>追加 RPC ポート アウト</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2924,7 +2924,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>NetBIOS クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2933,7 +2933,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2942,7 +2942,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2951,7 +2951,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2960,7 +2960,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>NetBIOS サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2969,7 +2969,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2978,7 +2978,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -2987,7 +2987,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -2996,7 +2996,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>NTP クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -3005,7 +3005,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -3014,7 +3014,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>監視クライアント</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
@@ -3023,7 +3023,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>MOM サーバー</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>LDAP クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -3032,7 +3032,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -3041,7 +3041,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -3050,7 +3050,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -3059,7 +3059,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Kerberos クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -3068,7 +3068,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -3077,7 +3077,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ターミナル サービス</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -3086,7 +3086,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>グローバル カタログ クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -3095,7 +3095,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -3104,7 +3104,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>RPC ポート</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -3113,7 +3113,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ICMP</p></td>
 <td style="border:1px solid black;"><p>ICMP</p></td>
@@ -3122,7 +3122,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>全受信トラフィック</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
@@ -3131,8 +3131,8 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>ブロック</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **注 :** 表 7.9 にリストされているホスト IP 宛先アドレスは、サーバーで設定している IP アドレスに構成します。
@@ -3707,31 +3707,31 @@ IIS サーバー ロールは、ベースライン Windows 2000 サーバー ポ
 **表 7.10 増分 IIS ポリシー サービス設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>サービス設定</p></th>  
-<th><p>スタートアップの種類</p></th>  
-<th><p>ポリシー正当化</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>サービス設定</p></th>
+<th><p>スタートアップの種類</p></th>
+<th><p>ポリシー正当化</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>IISAdmin</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>Web サーバー管理</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>W3SVC</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>Web サーバー機能の提供</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### 手動セキュリティ設定
@@ -4156,28 +4156,28 @@ Contoso 社環境では、運用機能をサポートするために既定の We
   
 **表 7.11 増分 IIS サーバーの IPSec ネットワーク トラフィック マップ**
   
-<table style="width:100%;">  
-<colgroup>  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>サービス</p></th>  
-<th><p>プロトコル</p></th>  
-<th><p>ソース ポート</p></th>  
-<th><p>宛先ポート</p></th>  
-<th><p>ソース アドレス</p></th>  
-<th><p>宛先アドレス</p></th>  
-<th><p>動作</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="width:100%;">
+<colgroup>
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>サービス</p></th>
+<th><p>プロトコル</p></th>
+<th><p>ソース ポート</p></th>
+<th><p>宛先ポート</p></th>
+<th><p>ソース アドレス</p></th>
+<th><p>宛先アドレス</p></th>
+<th><p>動作</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DNS クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4186,7 +4186,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -4195,7 +4195,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>SNMP サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4204,7 +4204,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -4213,7 +4213,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CIFS クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4222,7 +4222,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -4231,7 +4231,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CIFS サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4240,7 +4240,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -4249,7 +4249,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>RPC クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4258,7 +4258,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -4267,7 +4267,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>RPC サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4276,7 +4276,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -4285,7 +4285,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>追加 RPC ポート アウト</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4294,7 +4294,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>NetBIOS クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4303,7 +4303,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -4312,7 +4312,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4321,7 +4321,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -4330,7 +4330,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>NetBIOS サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4339,7 +4339,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -4348,7 +4348,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4357,7 +4357,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -4366,7 +4366,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>NTP クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4375,7 +4375,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -4384,7 +4384,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>監視クライアント</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
@@ -4393,7 +4393,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>MOM サーバー</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>LDAP クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4402,7 +4402,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -4411,7 +4411,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4420,7 +4420,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -4429,7 +4429,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Kerberos クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4438,7 +4438,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>UDP</p></td>
@@ -4447,7 +4447,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ターミナル サービス</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4456,7 +4456,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>グローバル カタログ クライアント</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4465,7 +4465,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p> </p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4474,7 +4474,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>HTTP サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4483,7 +4483,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>HTTPS サーバー</p></td>
 <td style="border:1px solid black;"><p>TCP</p></td>
@@ -4492,7 +4492,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ICMP</p></td>
 <td style="border:1px solid black;"><p>ICMP</p></td>
@@ -4501,7 +4501,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>許可</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>全受信トラフィック</p></td>
 <td style="border:1px solid black;"><p>任意</p></td>
@@ -4510,8 +4510,8 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 <td style="border:1px solid black;"><p>任意</p></td>
 <td style="border:1px solid black;"><p>ホスト IP</p></td>
 <td style="border:1px solid black;"><p>ブロック</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **注 :** 表 7.11 にリストされているホスト IP 宛先アドレスは、サーバーで構成している IP アドレスに設定します。

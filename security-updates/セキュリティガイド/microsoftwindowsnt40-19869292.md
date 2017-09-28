@@ -258,48 +258,48 @@ SCE をインストールした場合、一組のテンプレートが既定で 
 <td style="border:1px solid black;"><p>基本的なセキュリティ</p></td>
 <td style="border:1px solid black;"><p>プライマリ/バックアップ ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>BasicDC4.inf</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"><p>メンバ サーバー</p></td>
 <td style="border:1px solid black;"><p>BasicSv4.inf</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"><p>ワークステーション</p></td>
 <td style="border:1px solid black;"><p>BasicWk4.inf</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>セキュリティの向上とアプリケーションの完全な互換性</p></td>
 <td style="border:1px solid black;"><p>プライマリ/バックアップ ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>CompDC4.inf</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"><p>メンバ サーバー</p></td>
 <td style="border:1px solid black;"><p>CompDC4.inf</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"><p>ワークステーション</p></td>
 <td style="border:1px solid black;"><p>CompWS4.inf</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>高いセキュリティとアプリケーションの互換性の縮小</p></td>
 <td style="border:1px solid black;"><p>メンバ サーバーまたはドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>HiSecDC4.inf</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"><p>ワークステーション</p></td>
 <td style="border:1px solid black;"><p>HiSecWS4.inf</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>高いセキュリティと Windows 98 との互換性の縮小</p></td>
 <td style="border:1px solid black;"><p>メンバ サーバーまたはドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>SecurDC4.inf</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 SCM は、当初 Windows 2000 用に設計されたものであるため、グループ ポリシーを使用する管理者が使い慣れたインターフェイスを提供します。 この使い慣れたインターフェイスには、統合された Windows NT ACL エディタを Windows 2000 で使用されている ACL エディタに更新する機能も備わっています。 この機能を利用した場合、システム全体の ACL の動作に重要な影響を与えます。SCM では、継承された ACL を動的に適用する Windows 2000 ACL 継承モデルが必要となるためです。 新しいサブシステムでは、アクセス制御エントリ (ACE) が親オブジェクトから子オブジェクトにコピーされるのではなく、**継承可能な権限の反映**に関するポリシーを参照することによって有効かどうかの確認が行われます。 更新された継承システムは、SCM によって適用されたポリシーを介して使用されるだけでなく、エクスプローラの通常の ACL エディタによっても使用されます。 ただし、このシステムはレジストリ エディタ (regedt32.exe) で直接アクセスできないため、SCM によって適用された、レジストリの ACL を変更するポリシーでは、レジストリ エディタでは操作できない ACL を作成できます。 新規の ACL エディタ システムの詳細およびその影響 (無効にする手順、つまり SCM を無効にする手順など) については、サポート技術情報 195509「SP4 のセキュリティ構成マネージャをインストールすると Windows NT 4.0 の ACL エディタが変更される」 [http://support.microsoft.com/default.aspx?scid=kb;ja;195509](http://support.microsoft.com/kb/195509) を参照してください。
@@ -1045,43 +1045,43 @@ Trey シナリオの実装が完了したら、実装を検証して要件を満
 **表 4.2: 検証テスト**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>内容</p></th>  
-<th><p>テスト手順</p></th>  
-<th><p>予想される結果</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>内容</p></th>
+<th><p>テスト手順</p></th>
+<th><p>予想される結果</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Internet Explorer 6 SP1 のインストールの検証</p></td>
 <td style="border:1px solid black;"><p>Internet Explorer を起動し、 <strong>[ヘルプ]</strong> メニューの <strong>[バージョン情報]</strong> をクリックします。</p></td>
 <td style="border:1px solid black;"><p>バージョン情報に &quot;6.0.2800.xxxx&quot; と表示されます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Windows NT 4.0 (SP6a) のインストールの検証</p></td>
 <td style="border:1px solid black;"><p>[管理ツール] の [Windows NT 診断プログラム] アプレットを実行して、<strong>[バージョン]</strong> タブをクリックします。</p></td>
 <td style="border:1px solid black;"><p>バージョン情報に &quot;SP6a&quot; と表示されます。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>起動シーケンスの検証</p></td>
 <td style="border:1px solid black;"><p><em>モード 1 の場合</em> (Trey のほとんどのサーバーおよびそのワークステーションすべてで、[ローカルにスタートアップ キーを保存する] を選択)</p>
-<p>起動時にキーの暗号化が解除されて読み込まれ、そのコンピュータは管理者が操作しなくても再起動できるようになります。</p>  
+<p>起動時にキーの暗号化が解除されて読み込まれ、そのコンピュータは管理者が操作しなくても再起動できるようになります。</p>
 <p><em>モード 2 の場合</em> (高付加価値サーバーで、<strong>[パスワード スタートアップ]</strong>、および関連するテキスト フィールドを使用)</p>
 <p>起動処理を完了するには、起動時に管理者がコンソールにパスワードを入力する必要があります。</p></td>
 <td style="border:1px solid black;"><p>クライアントが正常にログオンできます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>DSClient が正常にインストールされていることの検証</p></td>
 <td style="border:1px solid black;"><p><strong>[スタート]</strong> メニューの <strong>[検索]</strong> をクリックして、<strong>[人]</strong> をクリックします。</p></td>
 <td style="border:1px solid black;"><p>Active Directory を検索する機能があれば、DSClient は正常にインストールされています。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>システム ポリシーの検証</p></td>
 <td style="border:1px solid black;"><p>システム ポリシーで制限されているリソースにアクセスしてみます。</p>
@@ -1093,7 +1093,7 @@ Trey シナリオの実装が完了したら、実装を検証して要件を満
 <td style="border:1px solid black;"><p>NTLMv2 認証の検証</p></td>
 <td style="border:1px solid black;"><p>NTLMv2 認証が要求されるようにドメイン コントローラを設定します。</p></td>
 <td style="border:1px solid black;"><p>クライアントが正常にログオンできます。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>セキュリティ構成マネージャの検証</p></td>
 <td style="border:1px solid black;"><p>セキュリティ テンプレートを構築して、ドメイン内の 1 台以上のコンピュータに自動的に適用されるようにします。</p>
@@ -1105,43 +1105,43 @@ Trey シナリオの実装が完了したら、実装を検証して要件を満
 <td style="border:1px solid black;"><p>長いファイル名の作成確認</p></td>
 <td style="border:1px solid black;"><p>8.3 形式よりも長い名前を持つ新しいファイルを作成します。</p></td>
 <td style="border:1px solid black;"><p>8.3 形式の名前のファイルにはアクセスできません。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>自動実行機能の検証</p></td>
 <td style="border:1px solid black;"><p>コンピュータのドライブに自動実行可能なディスクを挿入します。</p></td>
 <td style="border:1px solid black;"><p>コンピュータのドライブに自動実行可能なディスクが挿入されても、自動実行が動作しません。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>OS/2 サブシステムまたは POSIX サブシステムが動作しないことの検証</p></td>
 <td style="border:1px solid black;"><p>ユーザーがプロセスを開始してログオフし、その次にシステムにログオンしたユーザーが、前のユーザーのプロセスにアクセスすることができます。</p></td>
 <td style="border:1px solid black;"><p>OS/2 サブシステムまたは POSIX サブシステムに依存するアプリケーションが使用できません。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>オブジェクトの保護レベルの検証</p></td>
 <td style="border:1px solid black;"><p>さまざまな状況下で、悪意のあるユーザーがカーネル オブジェクトの属性を変更しようとします。</p></td>
 <td style="border:1px solid black;"><p>悪意のある呼び出し元が自分の権限を格上げすることをシステムが許可しません。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ユーザーによるプリンタ ドライバの追加の防止</p></td>
 <td style="border:1px solid black;"><p>悪意のあるユーザーが、プリンタ ドライバを追加して権限を格上げしようとします。</p></td>
 <td style="border:1px solid black;"><p>Printer Operators グループおよび Administrator グループのメンバが、新しいプリンタ ドライバを追加できます。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Administrator の自動ログオンが無効であることの検証</p></td>
 <td style="border:1px solid black;"><p>コンピュータの再起動時に、Administrator として自動ログオンしてみます。</p></td>
 <td style="border:1px solid black;"><p>Administrator の自動ログオンが無効になっています。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>起動時のタイムアウトの検証</p></td>
 <td style="border:1px solid black;"><p>再起動して、起動時のタイムアウトを確認します。</p></td>
 <td style="border:1px solid black;"><p>起動時のタイムアウトは、30 から 0 に変更されています。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>SCM のインストールの検証</p></td>
 <td style="border:1px solid black;"><p>クライアントで、<strong>[スタート]</strong> メニューの <strong>[ファイル名を指定して実行]</strong> をクリックし、「<strong>mmc</strong>」と入力して <strong>Enter</strong> キーを押します。</p></td>
 <td style="border:1px solid black;"><p>SCM の Microsoft 管理コンソールが使用可能になっています。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 [](#mainsection)[ページのトップへ](#mainsection)

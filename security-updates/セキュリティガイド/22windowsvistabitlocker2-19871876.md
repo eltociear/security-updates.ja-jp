@@ -42,28 +42,28 @@ BitLocker はWindows Vista の機能ではありますが、2 つのエディシ
 <td style="border:1px solid black;"><p>Home Basic</p></td>
 <td style="border:1px solid black;"><p>×</p></td>
 <td style="border:1px solid black;"><p>×</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Home Premium</p></td>
 <td style="border:1px solid black;"><p>×</p></td>
 <td style="border:1px solid black;"><p>×</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Business</p></td>
 <td style="border:1px solid black;"><p>×</p></td>
 <td style="border:1px solid black;"><p>○</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Enterprise</p></td>
 <td style="border:1px solid black;"><p>○</p></td>
 <td style="border:1px solid black;"><p>○</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Ultimate</p></td>
 <td style="border:1px solid black;"><p>○</p></td>
 <td style="border:1px solid black;"><p>○</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 ×: 使用不可 ○: 使用可

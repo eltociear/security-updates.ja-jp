@@ -219,16 +219,16 @@ Exchange 2000 には迷惑メールに対する防御機能が組み込まれて
 <tr class="odd">
 <td style="border:1px solid black;"><p>Exchange 管理者 (参照のみ可)</p></td>
 <td style="border:1px solid black;"><p>対象コンテナ以下のすべてのオブジェクト プロパティについて、一覧と読み取りの権限が付与されます。オブジェクト プロパティの修正を行う必要がない管理者には、常にこの役割を割り当てます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Exchange 管理者</p></td>
 <td style="border:1px solid black;"><p>所有権の取得、アクセス権限の変更、またはユーザーのメールボックスのオープンを除いたすべての権限が付与されます。オブジェクトの追加、またはオブジェクト プロパティの変更は必要だが、オブジェクトのアクセス権限の委任は必要ない管理者にこの役割を割り当てます。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Exchange 管理者 (完全)</p></td>
 <td style="border:1px solid black;"><p>対象コンテナ以下のすべてのオブジェクトについて、ユーザーのメールボックスのオープンまたはユーザーのメールボックスの偽装を除き、アクセス権限の変更を含むすべての権限が付与されます。オブジェクトのアクセス権限の委任が必要か、管理グループに新しいサーバーを追加することが必要な管理者だけにこの役割を割り当てます。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 Exchange 管理委任ウィザードだけでは、セキュリティの割り当てが十分に細分化できない場合もあります。この場合、Exchange 内で個別のオブジェクトのセキュリティ タブの内容を変更できます。ただし、セキュリティ タブに既定で表示されるのは次のオブジェクトだけです。
@@ -317,22 +317,22 @@ Exchange 2000 を使用して、メールボックス ストア、パブリッ�
 **表 2.2 Exchange 2000 を使用した混合型管理モデルの例**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>名前</p></th>  
-<th><p>含まれるアイテム</p></th>  
-<th><p>適用されるポリシー</p></th>  
-<th><p>アクセス権限</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>名前</p></th>
+<th><p>含まれるアイテム</p></th>
+<th><p>適用されるポリシー</p></th>
+<th><p>アクセス権限</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Management</p></td>
 <td style="border:1px solid black;"><p>パブリック フォルダ コンテナ</p>

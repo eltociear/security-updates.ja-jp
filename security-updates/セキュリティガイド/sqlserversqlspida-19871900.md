@@ -258,7 +258,7 @@ osql コマンドは、デフォルトでは以下の場所にインストール
 <tr class="odd">
 <td style="border:1px solid black;"><p>-U :</p></td>
 <td style="border:1px solid black;"><p>SQL Server に接続するためのログイン (ユーザー) を指定します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>-P :</p></td>
 <td style="border:1px solid black;"><p>ログイン(ユーザー)のパスワードを指定します。<br />
@@ -267,7 +267,7 @@ osql コマンドは、デフォルトでは以下の場所にインストール
 <tr class="odd">
 <td style="border:1px solid black;"><p>-S :</p></td>
 <td style="border:1px solid black;"><p>SQL Server が動作しているインスタンス (サーバー) を指定します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>-Q :</p></td>
 <td style="border:1px solid black;"><p>SQL Server に対して指定したクエリの実行を要求し、実行後に、このコマンドを終了させるオプションです。<br />

@@ -152,28 +152,28 @@ IT セキュリティ リスク管理における 1 つの重要な側面は、�
 <tr class="odd">
 <td style="border:1px solid black;"><p>脅威</p></td>
 <td style="border:1px solid black;"><p>脅威とは、情報またはシステムに対する潜在的な危険の一切を意味します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>脅威エージェント</p></td>
 <td style="border:1px solid black;"><p>脅威エージェントとは、ファイアウォール上の脆弱なポートを通じてネットワークを攻撃する人物もしくはプロセス、またはセキュリティ ポリシーに違反する方法でデータにアクセスするために使われるプロセスのことです。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>脆弱性</p></td>
 <td style="border:1px solid black;"><p>脆弱性とは、攻撃者または脅威エージェントに、コンピュータまたはネットワークに侵入して環境内のリソースに不正にアクセスする機会を与える可能性のあるソフトウェア、ハードウェア、または手続き上の弱点のことです。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>リスク</p></td>
 <td style="border:1px solid black;"><p>リスクとは、脅威の要因が脆弱性を利用する可能性のことです。損失が発生する可能性、または脅威が脆弱性を利用する確率を意味します。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>起こりうる損害</p></td>
 <td style="border:1px solid black;"><p>起こりうる損害は、脅威エージェントが会社の資産を潜在的な損失の危険にさらす時に発生します。脆弱性によって、組織が損害の危険にさらされる可能性が発生します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>対策</p></td>
 <td style="border:1px solid black;"><p>対策または予防手段はリスクを軽減します。対策には、脆弱性を除去したり、または脅威エージェントによって脆弱性が利用されるリスクを軽減したりするソフトウェアの構成、ハードウェア、または手続きが含まれます。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 脅威、脆弱性、およびリスクの間の関係は、最初は理解しづらいコンセプトかもしれません。組織内で識別されたそれぞれの脅威と脆弱性は、低、中、高などの基準に従って分類およびランク付けする必要があります。ランク付けは組織ごとに異なり、場合によっては、組織内でも異なることがあります。たとえば、大きな断層線の近くにあるオフィスの場合、地震発生の脅威はその他の場所のオフィスよりも格段に大きいと言えます。同様に、設備が物理的な損傷を受ける脆弱性は、非常にデリケートな電子機器を生産する会社では極めて高いと考えられますが、同一レベルの脆弱性であっても、建設会社にとっては低いものである場合があります。
@@ -207,31 +207,31 @@ IT セキュリティ リスク管理における 1 つの重要な側面は、�
 **表 2.2 脅威のタイプ**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>脅威</p></th>  
-<th><p>例</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>脅威</p></th>
+<th><p>例</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>致命的なインシデント</p></td>
 <td style="border:1px solid black;"><p>火災、水害、暴風、地震、停電、テロ攻撃</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>悪意のない人物</p></td>
 <td style="border:1px solid black;"><p>知識のない従業員、知識のないユーザー</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>悪意のある人物</p></td>
 <td style="border:1px solid black;"><p>攻撃者、産業スパイ、政府、贈収賄、ソーシャル エンジニアリング</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **致命的なインシデント**
@@ -309,44 +309,44 @@ ID なりすましによる脅威には、ユーザー名またはパスワー�
 **表 2.3 "攻略手段" のタイプ**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>攻略手段</p></th>  
-<th><p>例</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>攻略手段</p></th>
+<th><p>例</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>テクニカルな脆弱性の悪用</p></td>
 <td style="border:1px solid black;"><p>辞書攻撃<br />
-バッファ オーバーフロー<br />  
-構成の間違い<br />  
+バッファ オーバーフロー<br />
+構成の間違い<br />
 リプレイ攻撃<br />
 セッションのハイジャック</p></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>情報収集</p></td>
 <td style="border:1px solid black;"><p>アドレスの識別</p>
-<p>ドキュメントのグラインディング<br />  
-OS の識別<br />  
-ポートのスキャニング</p>  
-<p>応答の分析<br />  
-ソーシャル エンジニアリング<br />  
-サービスとアプリケーションの調査<br />  
-ユーザーの列挙<br />  
+<p>ドキュメントのグラインディング<br />
+OS の識別<br />
+ポートのスキャニング</p>
+<p>応答の分析<br />
+ソーシャル エンジニアリング<br />
+サービスとアプリケーションの調査<br />
+ユーザーの列挙<br />
 脆弱性のスキャニング<br />
 ワイヤレス リーク</p></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>サービス拒否 (DoS)</p></td>
 <td style="border:1px solid black;"><p>物理的損害<br />
-リソースの削除<br />  
-リソースの改ざん<br />  
+リソースの削除<br />
+リソースの改ざん<br />
 リソースの飽和</p>
 <p>バッファ オーバーフロー</p></td>
 </tr>
@@ -438,28 +438,28 @@ OS の識別<br />
 <tr class="odd">
 <td style="border:1px solid black;"><p>物理的</p></td>
 <td style="border:1px solid black;"><p>施錠されていないドア</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>自然</p></td>
 <td style="border:1px solid black;"><p>断層線上に建てられた社屋</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ハードウェアとソフトウェア</p></td>
 <td style="border:1px solid black;"><p>ウイルス対策ソフトウェアやオペレーティング システムの修正プログラムが古い</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>メディア</p></td>
 <td style="border:1px solid black;"><p>混信</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>通信</p></td>
 <td style="border:1px solid black;"><p>暗号化されていないプロトコル</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>人間</p></td>
 <td style="border:1px solid black;"><p>定義が不十分な手続きや品質の低いアプリケーション</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### リスク

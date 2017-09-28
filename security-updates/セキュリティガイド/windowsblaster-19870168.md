@@ -152,12 +152,12 @@ Q. マイクロソフトはセキュリティ問題について何か告知活�
 はい。マイクロソフトは 7 月に入り、いくつかの緊急対応をご検討いただきたいセキュリティ修正プログラムを公開させていただきました。お客様に緊急レベルの修正プログラムの意味と、適用を行っていただくお願いのために以下の情報を 7 月に公開し、マイクロソフト製品の登録ユーザーおよび各種ニュースレター購読ユーザーに、このことをお知らせするメールを配信いたしました。
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"><ul>
@@ -295,30 +295,30 @@ Q. 修正プログラムを社内のコンピュータに配布する方法を�
 </td>
 <td style="border:1px solid black;" rowspan="2" valign="top" width="98%">
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"><p>セキュリティ修正プログラムは、配布の範囲が社内である場合自由に配布可能です。配布の方法は数多くあります。</p>
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="100%" />  
-</colgroup>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="100%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><ul>
-<li>ファイル共有を利用する方法<br />  
+<li>ファイル共有を利用する方法<br />
 ファイルサーバー上に、修正プログラムを配置し、各ユーザーに実行していただくことで、配布を行います。</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><ul>
-<li>グループポリシー または、ログオンスクリプトを利用する方法<br />  
+<li>グループポリシー または、ログオンスクリプトを利用する方法<br />
 Active Directory 等による、修正プログラムの配布</li>
 </ul></td>
 </tr>
@@ -372,12 +372,12 @@ Q. ISA Server でこのウイルスから保護することはできますか?
 設定方法など詳細については、次のサイトをご参照ください。
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"><ul>

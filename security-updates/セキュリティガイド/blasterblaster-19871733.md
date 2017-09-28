@@ -47,29 +47,29 @@ Blaster ワームおよびその亜種の対策については、ネットワー
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362787.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>[スタート] メニューから [ファイル名を指定して実行] をクリックします。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362787.dbox_rpcpatch(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362787.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p><strong>net stop rpcpatch</strong> と入力し、[OK] ボタンをクリックします。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362787.start_xp(ja-jp,TechNet.10).jpg" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362787.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p>再び、[スタート] メニューから [ファイル名を指定して実行] をクリックします。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362787.dbox_rpctftpd(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"> 
 <p><img src="images/Dd362787.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
 <td style="border:1px solid black;"><p><strong>net stop rpctftpd</strong> と入力し、[OK] ボタンをクリックします。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 [](#mainsection)[ページのトップへ](#mainsection)

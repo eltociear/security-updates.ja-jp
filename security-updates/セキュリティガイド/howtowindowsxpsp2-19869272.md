@@ -219,20 +219,20 @@ DEP が原因でアプリケーション障害が発生した場合は、アプ�
 <td style="border:1px solid black;"><p><strong>OptIn</strong></p>
 <p>(既定の構成)</p></td>
 <td style="border:1px solid black;"><p>Windows システムのコンポーネントおよびサービスにのみ、DEP 保護機能が適用されます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p><strong>OptOut</strong></p></td>
 <td style="border:1px solid black;"><p>DEP はすべてのプロセスに対して有効になります。 管理者は、DEP を適用しないアプリケーションのリストを手動で作成できます。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong>AlwaysOn</strong></p></td>
 <td style="border:1px solid black;"><p>DEP はすべてのプロセスに対して有効になります。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p><strong>AlwaysOff</strong></p></td>
 <td style="border:1px solid black;"><p>DEP はどのプロセスにも適用されません。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **重要** **:** boot.ini ファイルに変更を加えた場合は、コンピュータを再起動する必要があります。

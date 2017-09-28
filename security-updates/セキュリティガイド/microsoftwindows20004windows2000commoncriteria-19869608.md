@@ -36,43 +36,43 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;"><p>CC_Baseline_W2K_Server.inf</p></td>
 <td style="border:1px solid black;"><p>Windows 2000 Server</p></td>
 <td style="border:1px solid black;"><p>スタンドアロンまたはメンバ サーバーとして構成された Windows 2000 Server 用の、Common Criteria (共通基準) 評価された構成に必須のセキュリティの設定です。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>CC_Baseline_W2K_Professional.inf</p></td>
 <td style="border:1px solid black;"><p>Windows 2000 Professional</p></td>
 <td style="border:1px solid black;"><p>スタンドアロンまたはドメイン メンバとして構成された Windows 2000 Professional 用の、Common Criteria (共通基準) 評価された構成に必須のセキュリティの設定です。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CC_Baseline_W2K_Domain.inf</p></td>
 <td style="border:1px solid black;"><p>Windows 2000 ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>Windows 2000 ドメイン メンバ用の、Common Criteria (共通基準) 評価された構成に必須のセキュリティの設定です。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>CC_Baseline_W2K_DC.inf</p></td>
 <td style="border:1px solid black;"><p>Windows 2000 ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>Windows 2000 ドメイン コントローラ用の、Common Criteria (共通基準) 評価された構成に必須のセキュリティの設定です。ドメイン テンプレートと共に使用します。または、ドメイン ポリシーが使用されていない場合に、サーバー テンプレートと共に使用します。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CC_HiSec_W2K_Server.inf</p></td>
 <td style="border:1px solid black;"><p>Windows 2000 Server</p></td>
 <td style="border:1px solid black;"><p>スタンドアロンまたはメンバ サーバーとして構成された Windows 2000 Server 用の、Common Criteria (共通基準) 評価された構成に必須および推奨されるセキュリティの設定です。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>CC_HiSec_W2K_Professional.inf</p></td>
 <td style="border:1px solid black;"><p>Windows 2000 Professional</p></td>
 <td style="border:1px solid black;"><p>スタンドアロンまたはドメイン メンバとして構成された Windows 2000 Professional 用の、Common Criteria (共通基準) 評価された構成に必須および推奨されるセキュリティの設定です。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CC_HiSec_W2K_Domain.inf</p></td>
 <td style="border:1px solid black;"><p>Windows 2000 ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>Windows 2000 ドメイン メンバ用の、Common Criteria (共通基準) 評価された構成に必須および推奨されるセキュリティの設定です。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>CC_HiSec_W2K_DC.inf</p></td>
 <td style="border:1px solid black;"><p>Windows 2000 ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>Windows 2000 ドメイン コントローラ用の、Common Criteria (共通基準) 評価された構成に必須および推奨されるセキュリティの設定です。ドメイン テンプレートと共に使用します。または、ドメイン ポリシーが使用されていない場合に、サーバー テンプレートと共に使用します。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 ### テンプレートの修正と手作業での設定

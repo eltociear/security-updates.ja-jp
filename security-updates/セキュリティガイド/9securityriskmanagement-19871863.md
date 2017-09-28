@@ -43,16 +43,16 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362918(v=TechNet.10)'
 <tr class="odd">
 <td style="border:1px solid black;"><p>1 (最も重要)</p></td>
 <td style="border:1px solid black;"><p>24時間365日停止できない</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>2</p></td>
 <td style="border:1px solid black;"><p>数時間は停止できる</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>3</p></td>
 <td style="border:1px solid black;"><p>停止しても、他の大きな影響はない。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 十分なテスト時間が取れる場合は重要度に関係なく、可能な限り早くセキュリティ更新プログラムを適用することが前提です。

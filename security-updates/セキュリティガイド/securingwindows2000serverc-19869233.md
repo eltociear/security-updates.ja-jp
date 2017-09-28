@@ -36,194 +36,194 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Cc751225(v=TechNet.10)'
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 読み取り、実行</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>C:\ntbootdd.sys</p>
 <p><strong>注意 :</strong> SCSI が利用可能な場合に使用されます。</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>C:\ntdetect.com</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>C:\ntldr</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%ProgramFiles%</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
-<p>CREATOR OWNER: フル コントロール</p>  
-<p>(サブフォルダとファイル)</p>  
+<p>CREATOR OWNER: フル コントロール</p>
+<p>(サブフォルダとファイル)</p>
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 読み取り、実行</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemDirectory%</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
-<p>CREATOR OWNER: フル コントロール</p>  
-<p>(サブフォルダとファイル)</p>  
+<p>CREATOR OWNER: フル コントロール</p>
+<p>(サブフォルダとファイル)</p>
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 読み取り、実行</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemDirectory%\appmgmt</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 読み取り、実行</p></td>
 <td style="border:1px solid black;"><p>継承</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemDirectory%\config</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemDirectory%\dllcache</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>CREATOR OWNER: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemDirectory%\DTCLog</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
-<p>CREATOR OWNER: フル コントロール</p>  
-<p>(サブフォルダとファイル)</p>  
+<p>CREATOR OWNER: フル コントロール</p>
+<p>(サブフォルダとファイル)</p>
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 読み取り、実行</p></td>
 <td style="border:1px solid black;"><p>継承</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemDirectory%\GroupPolicy</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>Authenticated Users: 読み取り、実行</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>継承</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemDirectory%\ias</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>CREATOR OWNER: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemDirectory%\Ntbackup.exe</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemDirectory%\NTMSData</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>継承</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemDirectory%\rcp.exe</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemDirectory%\Regedt32.exe</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemDirectory%\repl</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 読み取り、実行</p></td>
 <td style="border:1px solid black;"><p>継承</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemDirectory%\repl\export</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
-<p>CREATOR OWNER: フル コントロール</p>  
-<p>Replicator: 読み取り、実行</p>  
+<p>CREATOR OWNER: フル コントロール</p>
+<p>Replicator: 読み取り、実行</p>
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 読み取り、実行</p></td>
 <td style="border:1px solid black;"><p>継承</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemDirectory%\repl\import</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
-<p>Replicator: 変更</p>  
+<p>Replicator: 変更</p>
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 読み取り、実行</p></td>
 <td style="border:1px solid black;"><p>継承</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemDirectory%\rexec.exe</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemDirectory%\rsh.exe</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemDirectory%\secedit.exe</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemDirectory%\Setup</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 読み取り、実行</p></td>
 <td style="border:1px solid black;"><p>継承</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemDirectory%\spool\Printers</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
-<p>CREATOR OWNER: フル コントロール</p>  
-<p>(サブフォルダとファイル)</p>  
-<p>SYSTEM: フル コントロール</p>  
+<p>CREATOR OWNER: フル コントロール</p>
+<p>(サブフォルダとファイル)</p>
+<p>SYSTEM: フル コントロール</p>
 <p>Users: フォルダのスキャン、属性の読み取り、拡張属性の読み取り、ファイルの作成、フォルダの作成</p>
 <p>(フォルダとサブフォルダ)</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemDrive%</p>
 <p><strong>注意 :</strong> Windows 2000 オペレーティング システムがインストールされているドライブ。</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
-<p>CREATOR OWNER: フル コントロール</p>  
-<p>(サブフォルダとファイル)</p>  
+<p>CREATOR OWNER: フル コントロール</p>
+<p>(サブフォルダとファイル)</p>
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 読み取り、実行</p></td>
 <td style="border:1px solid black;"><p>継承</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemDrive%\Documents and Settings</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 読み取り、実行</p></td>
 <td style="border:1px solid black;"><p>継承</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemDrive%\Documents and Settings\</p>
 <p>Administrator</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemDrive%\Documents and Settings\</p>
 <p>All Users</p></td>
@@ -231,115 +231,115 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Cc751225(v=TechNet.10)'
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 読み取り、実行</p></td>
 <td style="border:1px solid black;"><p>継承</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemDrive%\Documents and Settings\</p>
 <p>All Users\Documents\DrWatson</p>
 <p><strong>注意 :</strong> ワトソン博士アプリケーションのエラー ログが格納されているフォルダ。</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
-<p>CREATOR OWNER: フル コントロール</p>  
-<p>(サブフォルダとファイル)</p>  
-<p>SYSTEM: フル コントロール</p>  
+<p>CREATOR OWNER: フル コントロール</p>
+<p>(サブフォルダとファイル)</p>
+<p>SYSTEM: フル コントロール</p>
 <p>Users: フォルダのスキャン、ファイルの作成、フォルダの作成</p>
 <p>(フォルダとサブフォルダ)</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemDrive%\Documents and Settings\</p>
-<p>All Users\Documents\DrWatson\</p>  
+<p>All Users\Documents\DrWatson\</p>
 <p>drwtsn32.log</p>
 <p><strong>注意 :</strong> ワトソン博士のエラー ログ ファイル。</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
-<p>CREATOR OWNER: フル コントロール</p>  
+<p>CREATOR OWNER: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 変更</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemDrive%\io.sys</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 読み取り、実行</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemDrive%\msdos.sys</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 読み取り、実行</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemDrive%\Temp</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
-<p>CREATOR OWNER: フル コントロール</p>  
-<p>(サブフォルダとファイル)</p>  
-<p>SYSTEM: フル コントロール</p>  
+<p>CREATOR OWNER: フル コントロール</p>
+<p>(サブフォルダとファイル)</p>
+<p>SYSTEM: フル コントロール</p>
 <p>Users: フォルダのスキャン、ファイルの作成、フォルダの作成</p>
 <p>(フォルダとサブフォルダ)</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemRoot%</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
-<p>CREATOR OWNER: フル コントロール</p>  
-<p>(サブフォルダとファイル)</p>  
+<p>CREATOR OWNER: フル コントロール</p>
+<p>(サブフォルダとファイル)</p>
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 読み取り、実行</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemRoot%\$NtServicePackUninstall$</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemRoot%\debug</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
-<p>CREATOR OWNER: フル コントロール</p>  
-<p>(サブフォルダとファイル)</p>  
+<p>CREATOR OWNER: フル コントロール</p>
+<p>(サブフォルダとファイル)</p>
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 読み取り、実行</p></td>
 <td style="border:1px solid black;"><p>継承</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemRoot%\debug\UserMode</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p>
 <p>Users: (フォルダのみ) - フォルダのスキャン、フォルダの一覧、ファイルの作成。(ファイルのみ) - ファイルの作成、フォルダの作成</p></td>
 <td style="border:1px solid black;"><p>継承</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemRoot%\regedit.exe</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemRoot%\Registration</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p>
 <p>Users: 読み取り</p></td>
 <td style="border:1px solid black;"><p>継承</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemRoot%\repair</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
 <p>SYSTEM: フル コントロール</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%SystemRoot%\ Temp</p></td>
 <td style="border:1px solid black;"><p>Administrators: フル コントロール</p>
-<p>CREATOR OWNER: フル コントロール</p>  
-<p>(サブフォルダとファイル)</p>  
-<p>SYSTEM: フル コントロール</p>  
+<p>CREATOR OWNER: フル コントロール</p>
+<p>(サブフォルダとファイル)</p>
+<p>SYSTEM: フル コントロール</p>
 <p>Users: フォルダのスキャン、ファイルの作成、フォルダの作成</p>
 <p>(フォルダとサブフォルダ)</p></td>
 <td style="border:1px solid black;"><p>上書き</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 [](#mainsection)[ページのトップへ](#mainsection)

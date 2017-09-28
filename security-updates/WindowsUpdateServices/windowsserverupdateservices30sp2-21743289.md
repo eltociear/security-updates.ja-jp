@@ -103,7 +103,7 @@ WSUS 3.0 SP2 サーバー インストールのシステム要件
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;">Windows Server 2008 R2 では WSUS 3.0 SP2 が必要です。Windows Server 2008 R2 をインストールする場合は、WSUS 3.0 SP2 をインストールする必要があります。Windows Server 2008 R2 に WSUS 3.0 SP1 をインストールしないでください。
-<p></p>  
+<p></p>
 リモート SQL 構成のフロントエンド サーバー上のターミナル サービスでの WSUS 3.0 SP2 の使用は、サポートされていません。
 <p></p></td>
 </tr>
@@ -182,7 +182,7 @@ WSUS 3.0 SP2 をインストールするとき、ウイルス対策プログラ�
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;">この回避策によって、コンピュータやネットワークが悪意のあるユーザーや、ウイルスなどの悪意のあるソフトウェアの攻撃を受けやすくなる可能性があります。 したがって、この回避策を推奨できませんが、ユーザーの判断でこの方法を採用できるように情報を提供しています。 この回避策は各自の責任で使用してください。
-<p></p>  
+<p></p>
 ウイルス対策ソフトウェアは、コンピュータをウイルスから保護するのが目的です。 ウイルス対策プログラムが無効のときに、信頼していない発行元からのファイルをダウンロードしたり開いたりしないでください。同様に、信頼していない Web サイトにアクセスしたり、電子メールの添付ファイルを開いたりしないでください。
 <p></p></td>
 </tr>
@@ -334,24 +334,24 @@ WSUS コマンド ライン セットアップ プログラムを使用すると
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong>/q</strong></p></td>
 <td style="border:1px solid black;"><p>サイレント インストールを実行します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p><strong>/u</strong></p></td>
 <td style="border:1px solid black;"><p>アンインストールします。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong>/p</strong></p></td>
 <td style="border:1px solid black;"><p>前提条件チェック。 システムを調査し、前提条件が満たされていない場合は報告します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p><strong>/?, /h</strong></p></td>
 <td style="border:1px solid black;"><p>コマンド ライン パラメータとその説明を表示します。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong>/g</strong></p></td>
 <td style="border:1px solid black;"><p>以前のバージョンの WSUS からアップグレードします (SUS 1.0 からのアップグレードはサポートされていません)。 このオプションで有効なパラメータは /q (サイレント インストール) のみです。 このオプションで有効なプロパティは DEFAULT_WEBSITE のみです。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 次の表に、WSUS 3.0 SP2 のコマンド ライン プロパティを示します。
@@ -359,79 +359,79 @@ WSUS コマンド ライン セットアップ プログラムを使用すると
 ###  
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th>プロパティ</th>  
-<th>説明</th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>プロパティ</th>
+<th>説明</th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CONTENT_LOCAL</p></td>
 <td style="border:1px solid black;"><p>0=コンテンツはローカルにホスト、1=Microsoft Update 上にホスト。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>CONTENT_DIR</p></td>
 <td style="border:1px solid black;"><p>コンテンツ ディレクトリへのパス。 既定値は、<em>WSUSInstallationDrive\WSUS\WSUSContent</em> です。<em>WSUSInstallationDrive</em> は空き領域が最大のローカル ドライブです。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>WYUKON_DATA_DIR</p></td>
 <td style="border:1px solid black;"><p>Windows Internal Database データ ディレクトリへのパス。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>SQLINSTANCE_NAME</p></td>
 <td style="border:1px solid black;"><p>名前は、<em>サーバー名</em>\<em>SQL インスタンス名</em> の形式で表示されます。 データベース インスタンスが、ローカル コンピュータ上にある場合は、%COMPUTERNAME% 環境変数を使用します。 既存のインスタンスがない場合、既定では %COMPUTERNAME%\WSUS になります。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DEFAULT_WEBSITE</p></td>
 <td style="border:1px solid black;"><p>0=ポート 8530、1=ポート 80。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>PREREQ_CHECK_LOG</p></td>
 <td style="border:1px solid black;"><p>ログ ファイルのパスおよびファイル名。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CONSOLE_INSTALL</p></td>
 <td style="border:1px solid black;"><p>0=WSUS サーバーをインストール。1=コンソールのみをインストール。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ENABLE_INVENTORY</p></td>
 <td style="border:1px solid black;"><p>0=一覧機能をインストールしない。1=一覧機能をインストール。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DELETE_DATABASE</p></td>
 <td style="border:1px solid black;"><p>0=データベースを保持、1=データベースを削除。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>DELETE_CONTENT</p></td>
 <td style="border:1px solid black;"><p>0=コンテンツ ファイルを保持、1=コンテンツ ファイルを削除。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DELETE_LOGS</p></td>
 <td style="border:1px solid black;"><p>0=ログ ファイルを保持、1=ログ ファイルを削除 (/u インストール スイッチと共に使用します)。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>CREATE_DATABASE</p></td>
 <td style="border:1px solid black;"><p>0=現在のデータベースを使用、1=データベースを作成</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>PROGRESS_WINDOW_HANDLE</p></td>
 <td style="border:1px solid black;"><p>Windows インストーラの進捗状況メッセージを返すウィンドウ ハンドル。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>MU_ROLLUP</p></td>
 <td style="border:1px solid black;"><p>1=Microsoft Update 向上プログラムに参加、0=Microsoft Update 向上プログラムに参加しない。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>FRONTEND_SETUP</p></td>
 <td style="border:1px solid black;"><p>1=データベースにコンテンツの場所を書き込まない、0=データベースにコンテンツの場所を書き込む (ネットワーク負荷分散のため)</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 ### 使用例
@@ -440,16 +440,16 @@ WSUS コマンド ライン セットアップ プログラムを使用すると
 WSUSSetup.exe /q DEFAULT\_WEBSITE=0 (ポート 8530 を使用して QUIET モードでインストール) WSUSSetup.exe /q /u (WSUS をアンインストール)  
 ```
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="100%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><img src="images/Dd939886.Important(WS.10).gif" />重要</th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><img src="images/Dd939886.Important(WS.10).gif" />重要</th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;">WSUS 3.0 SP2 を QUIET モード (/q) でインストールし、コンピュータがすべての前提条件を満たしていない場合は、インストールによって WSUSPreReqCheck.xml というファイルが生成され、%TEMP% ディレクトリに保存されます。
 <p></p></td>

@@ -43,8 +43,8 @@ Code Red による深刻な問題に対する防護策と対処方法につい�
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Code Red ワームは Microsoft Windows 95/98/Me に対しては<strong>影響を与えませんので、対策の必要はありません</strong>。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **重要**  
@@ -193,11 +193,11 @@ Microsoft Windows NT 4.0 Option Pack のインストールされている Window
     このワームに対する修正モジュールを含め多くのセキュリティ問題を解決するセキュリティ ロールアップ パッケージの適用をお勧めいたします。
 
 <p> </p>
-    <table style="border:1px solid black;">  
-    <colgroup>  
-    <col width="100%" />  
-    </colgroup>  
-    <tbody>  
+    <table style="border:1px solid black;">
+    <colgroup>
+    <col width="100%" />
+    </colgroup>
+    <tbody>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>推奨</strong> : Code Red と異なる脆弱性を利用する亜種 (Code Blue や Code Green) の発生が報告されておりますので、対策としてこれらの脆弱性に関してより包括的な対応となる <strong>SRP</strong> または <strong>MS01-044 の累積的な修正プログラム</strong>の適用をお勧めいたします。</p>
     <p><a href="http://www.microsoft.com/downloads/details.aspx?displaylang=ja&amp;familyid=7dd8f695-fa97-4378-b57b-7bccf3533be3">http://www.microsoft.com/downloads/details.aspx?displaylang=ja&amp;FamilyID=7DD8F695-FA97-4378-B57B-7BCCF3533BE3</a><br />
@@ -236,16 +236,16 @@ Microsoft Windows NT 4.0 Option Pack のインストールされている Window
         <tbody>
         <tr class="odd">
         <td style="border:1px solid black;"><p>8 月 9 日に公開されたこの修正モジュールは、下記の 2 点が修正されています。</p>
-        <ul>  
-        <li><p>SP6a が適用されているコンピュータに対してのみ適用できます。</p></li>  
-        <li><p>SP6a と MS01-033 の適用順に関わらず、双方の修正が有効です。</p></li>  
-        </ul>  
-        <p>この修正に関しましては、<a href="http://www.microsoft.com/japan/technet/security/bulletin/ms01-033.mspx"><strong>こちら</strong></a>でより詳細な情報を提供しております。現在 Microsoft サイトよりダウンロードできるこの修正モジュールはすべて 8 月 9 日に公開された新しい修正モジュールです。</p>  
-        <p>既に 8 月 8 日以前にリリースされた修正モジュールの適用を行っているお客様は、Code Red II ワームへの対策としては十分ですが、今後、一部の修正プログラムを適用する際に、8 月 9 日以降に公開された新しい修正プログラムを適用する必要があります。早い段階での新しい修正プログラムの適用をお勧めします。</p>  
-        <p><strong>8 月 8 日以前の修正モジュールの破棄と新しい修正モジュールの適用方法</strong></p>  
-        <ol>  
-        <li><p>8 月 8 日以前にリリースされた修正モジュールをアンインストールします。</p></li>  
-        <li><p>8 月 9 日にリリースされた修正モジュールをインストールします。</p></li>  
+        <ul>
+        <li><p>SP6a が適用されているコンピュータに対してのみ適用できます。</p></li>
+        <li><p>SP6a と MS01-033 の適用順に関わらず、双方の修正が有効です。</p></li>
+        </ul>
+        <p>この修正に関しましては、<a href="http://www.microsoft.com/japan/technet/security/bulletin/ms01-033.mspx"><strong>こちら</strong></a>でより詳細な情報を提供しております。現在 Microsoft サイトよりダウンロードできるこの修正モジュールはすべて 8 月 9 日に公開された新しい修正モジュールです。</p>
+        <p>既に 8 月 8 日以前にリリースされた修正モジュールの適用を行っているお客様は、Code Red II ワームへの対策としては十分ですが、今後、一部の修正プログラムを適用する際に、8 月 9 日以降に公開された新しい修正プログラムを適用する必要があります。早い段階での新しい修正プログラムの適用をお勧めします。</p>
+        <p><strong>8 月 8 日以前の修正モジュールの破棄と新しい修正モジュールの適用方法</strong></p>
+        <ol>
+        <li><p>8 月 8 日以前にリリースされた修正モジュールをアンインストールします。</p></li>
+        <li><p>8 月 9 日にリリースされた修正モジュールをインストールします。</p></li>
         </ol>
         <p>この修正モジュールのリリース時期の判別につきましては、FAQ の「<a href="https://technet.microsoft.com/ja-jp/library/1ce261cd-67cb-452a-ad50-83018ed6072b(v=TechNet.10)">8 月 8 日以前に公開された Windows NT 用修正プログラムと、8 月 9 日以降に公開された Windows NT 用修正プログラムを見分ける方法はありますか ?</a>」をご覧ください。</p></td>
         </tr>
@@ -344,8 +344,8 @@ Microsoft Windows 2000 Server, Windows 2000 Advanced Server または Microsoft 
     <tbody>
     <tr class="odd">
     <td style="border:1px solid black;"><p><strong>注意</strong> : W2k SP1, SP2 で多数の修正が行われております。 安定した稼動を行うためには、<strong>全てのサーバーで SP1、SP2 のいずれかに統一して</strong>運用していただくことを強く推奨いたします。</p></td>
-    </tr>  
-    </tbody>  
+    </tr>
+    </tbody>
     </table>
   
 2.  **修正モジュールの入手**  
@@ -400,17 +400,17 @@ Microsoft Windows 2000 Server, Windows 2000 Advanced Server または Microsoft 
 しかしながら、以下の方法は根本的な対処ではなく応急的な対処であるため、設定の変更やアプリケーションのインストールにより問題を再発させる危険があります。また、お客様の Web サイトで、Index Server の検索コンポーネント idq.dll を利用している場合には、これらの機能を使用することが不可能となりますので、ご注意ください。
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="100%" />  
-</colgroup>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="100%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong>注</strong> : 以下の製品 および 機能は、.idq, .ida へのアプリケーションマッピングを使用します。そのため以下をご利用のお客様は必ず 対処方法 (Windows 2000) に従った対処が必要となります。</p>
-<ul>  
-<li><p>Microsoft SharePoint Portal Server 2001</p></li>  
-<li><p>Microsoft Exchange 2000 Server の OWA 機能</p></li>  
-<li><p>Microsoft FrontPage Server Extensions</p></li>  
+<ul>
+<li><p>Microsoft SharePoint Portal Server 2001</p></li>
+<li><p>Microsoft Exchange 2000 Server の OWA 機能</p></li>
+<li><p>Microsoft FrontPage Server Extensions</p></li>
 <li><p>Microsoft SharePoint Team Services (Office XP 付属機能)</p></li>
 </ul></td>
 </tr>
@@ -494,8 +494,8 @@ idq および ida に対するリクエストを IIS が処理しない設定に
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Code Red II ワームの既知の影響を排除するツールをリリースしました。本ツールは Code Red II によって受けた影響のみ排除することを目的として提供されていることに注意してください。他の新種のワームの影響は排除しません。ツールの入手方法と作業手順は、<a href="http://technet.microsoft.com/library/dd277360.aspx">こちら</a>を参照してください。ツールの利用を行わず、手作業による駆除を行う場合は、以降の手順に従ってください。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### トロイの木馬の停止、及び再起動の予防方法

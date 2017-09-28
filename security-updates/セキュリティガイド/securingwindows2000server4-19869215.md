@@ -59,15 +59,15 @@ Contoso では会社の管理グループを担当するテクノロジに基づ
 <tr class="even">
 <td style="border:1px solid black;"><p>運用</p></td>
 <td style="border:1px solid black;"><p>WINS</p>
-<p>DHCP</p>  
+<p>DHCP</p>
 <p>ファイル サービス</p>
 <p>プリント サービス</p></td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Web サービス</p></td>
 <td style="border:1px solid black;"><p>IIS 管理</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### インフラストラクチャのレイアウト
@@ -207,71 +207,71 @@ Contoso の資産の一部に適用された資産の重要度の評価を下の
 **表 4.2 Contoso における資産の重要度**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>サーバーの区分</p></th>  
-<th><p>資産の重要度 (AP)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>サーバーの区分</p></th>
+<th><p>資産の重要度 (AP)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ルート ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>8</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>エンタープライズ管理者アカウント</p></td>
 <td style="border:1px solid black;"><p>10</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>子ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>8</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>北米ドメイン管理者アカウント</p></td>
 <td style="border:1px solid black;"><p>10</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>北米ドメイン ユーザー アカウント</p></td>
 <td style="border:1px solid black;"><p>5</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ルート DNS サービス</p></td>
 <td style="border:1px solid black;"><p>4</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>子 DNS サービス</p></td>
 <td style="border:1px solid black;"><p>5</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>WINS サーバー</p></td>
 <td style="border:1px solid black;"><p>3</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DHCP サーバー</p></td>
 <td style="border:1px solid black;"><p>1</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ファイル サーバーとプリント サーバー</p></td>
 <td style="border:1px solid black;"><p>8</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>10</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>部門 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>6</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>人事 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>7</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 それに加えて、次の表に示されるように、各サーバーの資産評価を行いました。
@@ -281,101 +281,101 @@ Contoso の資産の一部に適用された資産の重要度の評価を下の
 **表 4.3 Contoso における資産の評価**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>サーバーの区分</p></th>  
-<th><p>物理的な価値</p></th>  
-<th><p>付加価値</p></th>  
-<th><p>資産価値 (AV)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>サーバーの区分</p></th>
+<th><p>物理的な価値</p></th>
+<th><p>付加価値</p></th>
+<th><p>資産価値 (AV)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>単一のルート ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>18,000 ドル</p></td>
 <td style="border:1px solid black;"><p>10,000 ドル</p></td>
 <td style="border:1px solid black;"><p>28,000 ドル</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>エンタープライズ管理者アカウント</p></td>
 <td style="border:1px solid black;"><p>0 ドル</p></td>
 <td style="border:1px solid black;"><p>8 億 2900 万ドル</p></td>
 <td style="border:1px solid black;"><p>8 億 2900 万ドル</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>単一の子ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>18,000 ドル</p></td>
 <td style="border:1px solid black;"><p>50,000 ドル</p></td>
 <td style="border:1px solid black;"><p>68,000 ドル</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>北米ドメイン管理者アカウント</p></td>
 <td style="border:1px solid black;"><p>0 ドル</p></td>
 <td style="border:1px solid black;"><p>8 億 2900 万ドル</p></td>
 <td style="border:1px solid black;"><p>8 億 2900 万ドル</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>北米ドメイン ユーザー アカウント</p></td>
 <td style="border:1px solid black;"><p>0 ドル</p></td>
 <td style="border:1px solid black;"><p>1,000 ドル</p></td>
 <td style="border:1px solid black;"><p>1,000 ドル</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ルート DNS サービス</p></td>
 <td style="border:1px solid black;"><p>18,000 ドル</p></td>
 <td style="border:1px solid black;"><p>30,000 ドル</p></td>
 <td style="border:1px solid black;"><p>48,000 ドル</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>子 DNS サービス</p></td>
 <td style="border:1px solid black;"><p>18,000 ドル</p></td>
 <td style="border:1px solid black;"><p>30,000 ドル</p></td>
 <td style="border:1px solid black;"><p>48,000 ドル</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>WINS サーバー</p></td>
 <td style="border:1px solid black;"><p>18,000 ドル</p></td>
 <td style="border:1px solid black;"><p>0 ドル</p></td>
 <td style="border:1px solid black;"><p>18,000 ドル</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DHCP サーバー</p></td>
 <td style="border:1px solid black;"><p>18,000 ドル</p></td>
 <td style="border:1px solid black;"><p>0 ドル</p></td>
 <td style="border:1px solid black;"><p>18,000 ドル</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ファイル サーバーとプリント サーバー</p></td>
 <td style="border:1px solid black;"><p>40,000 ドル</p></td>
 <td style="border:1px solid black;"><p>480,000 ドル</p></td>
 <td style="border:1px solid black;"><p>520,000 ドル</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>46,000 ドル</p></td>
 <td style="border:1px solid black;"><p>550,000 ドル</p></td>
 <td style="border:1px solid black;"><p>596,000 ドル</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>部門 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>32,000 ドル</p></td>
 <td style="border:1px solid black;"><p>50,000 ドル</p></td>
 <td style="border:1px solid black;"><p>82,000 ドル</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>人事 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>32,000 ドル</p></td>
 <td style="border:1px solid black;"><p>300,000 ドル</p></td>
 <td style="border:1px solid black;"><p>332,000 ドル</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### 資産の重要度および資産価値とは
@@ -497,67 +497,67 @@ Contoso では脅威確率 (threat probability: TP) を潜在的な脅威が発�
 **表 4.4 Contoso における脅威確率**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>脅威</p></th>  
-<th><p>確率</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>脅威</p></th>
+<th><p>確率</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>火災</p></td>
 <td style="border:1px solid black;"><p>0.05</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>水害</p></td>
 <td style="border:1px solid black;"><p>0.025</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>風害</p></td>
 <td style="border:1px solid black;"><p>0.025</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>地震</p></td>
 <td style="border:1px solid black;"><p>0.001</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>停電</p></td>
 <td style="border:1px solid black;"><p>0.0002</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ハードウェアの障害</p></td>
 <td style="border:1px solid black;"><p>0.1</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ネットワークの障害</p></td>
 <td style="border:1px solid black;"><p>0.3</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>情報を知らないユーザー</p></td>
 <td style="border:1px solid black;"><p>0.2</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>悪質なコード (ウイルス)</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>産業スパイ</p></td>
 <td style="border:1px solid black;"><p>0.1</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>内部からの攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>外部からの攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.4</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 内部からの攻撃者および外部からの攻撃者に設定された可能性のランクは、2002 年の「コンピュータ犯罪とセキュリティ サーベイ」の結果および Contoso の前年の経験に基づいています。
@@ -973,32 +973,32 @@ Contoso には最新のセキュリティ修正プログラムをインストー
   
 **表 4.5 Contoso におけるリスク アセスメントの要約**
   
-<table style="width:100%;">  
-<colgroup>  
-<col width="11%" />  
-<col width="11%" />  
-<col width="11%" />  
-<col width="11%" />  
-<col width="11%" />  
-<col width="11%" />  
-<col width="11%" />  
-<col width="11%" />  
-<col width="11%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>脅威</p></th>  
-<th><p>TP</p></th>  
-<th><p>行為</p></th>  
-<th><p>CF</p></th>  
-<th><p>労力</p></th>  
-<th><p>脆弱性</p></th>  
-<th><p>VF</p></th>  
-<th><p>資産</p></th>  
-<th><p>AP</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="width:100%;">
+<colgroup>
+<col width="11%" />
+<col width="11%" />
+<col width="11%" />
+<col width="11%" />
+<col width="11%" />
+<col width="11%" />
+<col width="11%" />
+<col width="11%" />
+<col width="11%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>脅威</p></th>
+<th><p>TP</p></th>
+<th><p>行為</p></th>
+<th><p>CF</p></th>
+<th><p>労力</p></th>
+<th><p>脆弱性</p></th>
+<th><p>VF</p></th>
+<th><p>資産</p></th>
+<th><p>AP</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>悪質なコード</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1009,7 +1009,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>8</p></td>
 <td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>10</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>悪質なコード</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1020,7 +1020,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>8</p></td>
 <td style="border:1px solid black;"><p>部門 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>6</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>悪質なコード</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1031,7 +1031,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>8</p></td>
 <td style="border:1px solid black;"><p>人事 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>7</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1042,7 +1042,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>10</p></td>
 <td style="border:1px solid black;"><p>ルート ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>8</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1053,7 +1053,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>10</p></td>
 <td style="border:1px solid black;"><p>北米ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>8</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1064,7 +1064,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>10</p></td>
 <td style="border:1px solid black;"><p>ルート ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>8</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1075,7 +1075,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>10</p></td>
 <td style="border:1px solid black;"><p>北米ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>8</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1086,7 +1086,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>7</p></td>
 <td style="border:1px solid black;"><p>ルート DNS</p></td>
 <td style="border:1px solid black;"><p>4</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1097,7 +1097,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>7</p></td>
 <td style="border:1px solid black;"><p>北米 DNS</p></td>
 <td style="border:1px solid black;"><p>5</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1108,7 +1108,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>10</p></td>
 <td style="border:1px solid black;"><p>エンタープライズ管理者アカウント</p></td>
 <td style="border:1px solid black;"><p>10</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1119,7 +1119,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>10</p></td>
 <td style="border:1px solid black;"><p>北米ドメイン管理者アカウント</p></td>
 <td style="border:1px solid black;"><p>10</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1130,7 +1130,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>10</p></td>
 <td style="border:1px solid black;"><p>北米ユーザー アカウント</p></td>
 <td style="border:1px solid black;"><p>5</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1141,7 +1141,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>10</p></td>
 <td style="border:1px solid black;"><p>エンタープライズ管理者アカウント</p></td>
 <td style="border:1px solid black;"><p>10</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1152,7 +1152,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>10</p></td>
 <td style="border:1px solid black;"><p>北米ドメイン管理者アカウント</p></td>
 <td style="border:1px solid black;"><p>10</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1163,7 +1163,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>10</p></td>
 <td style="border:1px solid black;"><p>北米ユーザー アカウント</p></td>
 <td style="border:1px solid black;"><p>5</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1174,7 +1174,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>ルート ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>8</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1185,7 +1185,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>北米ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>8</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1196,7 +1196,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>10</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1207,7 +1207,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>部門 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>6</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1218,7 +1218,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>人事 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>7</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1229,7 +1229,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>ファイル サーバーとプリント サーバー</p></td>
 <td style="border:1px solid black;"><p>8</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1240,7 +1240,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>WINS サーバー</p></td>
 <td style="border:1px solid black;"><p>3</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1251,7 +1251,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>DHCP サーバー</p></td>
 <td style="border:1px solid black;"><p>1</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1262,7 +1262,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>ルート ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>8</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1273,7 +1273,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>北米ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>8</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1284,7 +1284,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>10</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1295,7 +1295,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>部門 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>6</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1306,7 +1306,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>人事 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>7</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1317,7 +1317,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>ファイル サーバーとプリント サーバー</p></td>
 <td style="border:1px solid black;"><p>8</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1328,7 +1328,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>WINS サーバー</p></td>
 <td style="border:1px solid black;"><p>3</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1339,7 +1339,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>DHCP サーバー</p></td>
 <td style="border:1px solid black;"><p>1</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1350,7 +1350,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>10</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1361,7 +1361,7 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>部門 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>6</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>攻撃者</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
@@ -1372,8 +1372,8 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>人事 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>7</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### 脅威の頻度レベル
@@ -1407,96 +1407,96 @@ EF = (((TP x (C / E)) x (VF x AP)) / 1000)
 **表 4.6 Contoso 環境において特定された上位リスク**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>脆弱性</p></th>  
-<th><p>資産</p></th>  
-<th><p>EF</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>脆弱性</p></th>
+<th><p>資産</p></th>
+<th><p>EF</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ブルートフォース攻撃</p></td>
 <td style="border:1px solid black;"><p>エンタープライズ管理者アカウント</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ブルートフォース攻撃</p></td>
 <td style="border:1px solid black;"><p>北米ドメイン管理者アカウント</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DoS 攻撃</p></td>
 <td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>0.432</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Code Red</p></td>
 <td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>0.432</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DoS 攻撃</p></td>
 <td style="border:1px solid black;"><p>ルート ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>0.3456</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>DoS 攻撃</p></td>
 <td style="border:1px solid black;"><p>北米ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>0.3456</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DoS 攻撃</p></td>
 <td style="border:1px solid black;"><p>ファイル サーバーとプリント サーバー</p></td>
 <td style="border:1px solid black;"><p>0.3456</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Code Red</p></td>
 <td style="border:1px solid black;"><p>人事 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>0.3024</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DoS 攻撃</p></td>
 <td style="border:1px solid black;"><p>人事 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>0.3024</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ブルートフォース攻撃</p></td>
 <td style="border:1px solid black;"><p>北米ユーザー アカウント</p></td>
 <td style="border:1px solid black;"><p>0.3</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Code Red</p></td>
 <td style="border:1px solid black;"><p>部門 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>0.2592</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>DoS 攻撃</p></td>
 <td style="border:1px solid black;"><p>部門 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>0.2592</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ダブル デコード攻撃</p></td>
 <td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>0.189</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>NetBIOS 列挙ツール</p></td>
 <td style="border:1px solid black;"><p>ルート ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>0.144</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>NetBIOS 列挙ツール</p></td>
 <td style="border:1px solid black;"><p>北米ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>0.144</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### その他の定量的分析ツール

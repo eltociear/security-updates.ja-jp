@@ -44,18 +44,18 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362917(v=TechNet.10)'
 <td style="border:1px solid black;"><p>強</p></td>
 <td style="border:1px solid black;"><p>Local System</p></td>
 <td style="border:1px solid black;"><p>OS と同等の権限を持つ、もっとも強い権限を持つアカウント</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>中</p></td>
 <td style="border:1px solid black;"><p>Network Service</p></td>
 <td style="border:1px solid black;"><p>ネットワーク接続を行うサービス向けの、権限が制限されたアカウント</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>弱</p></td>
 <td style="border:1px solid black;"><p>Local Service</p></td>
 <td style="border:1px solid black;"><p>各 PC 上でも動作するサービス向けの、権限が制限されたアカウント</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 最も簡単に各サービスの権限を最小にするには、使用するアカウントを権限の弱いものに変更する事ですが、すでに動作済みのサービスのアカウントを変更すると、必要な権限が無いために正常に動作しない場合もあり安易には変更できません。

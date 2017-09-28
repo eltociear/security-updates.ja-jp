@@ -127,16 +127,16 @@ Contoso のメンバ サーバーに適用される基本設定を説明しま�
 <tr class="odd">
 <td style="border:1px solid black;"><p>C:\SCI</p></td>
 <td style="border:1px solid black;"><p>このガイドに含まれている全ファイルのルート フォルダ。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>C:\SCI\Scripts</p></td>
 <td style="border:1px solid black;"><p>修正プログラムと IPSｅc (インターネット プロトコル セキュリティ) の管理タスクの自動化を支援するスクリプトが含まれています。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>C:\SCI\Security Templates</p></td>
 <td style="border:1px solid black;"><p>Contoso シナリオ用のグループ ポリシーにインポートされたセキュリティ テンプレートが含まれています。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **警告** このガイドに添付されているセキュリティ テンプレートは、ご使用の環境のセキュリティを高める目的で設計されたものです。ガイドに添付されているテンプレートをインストールすることで、企業の環境内の一部の機能が失われる可能性があります。ミッション クリティカルなアプリケーションに障害が発生する可能性もあります。
@@ -213,43 +213,43 @@ Contoso の外部との接続および周辺ネットワークのセキュリテ
 このガイドでは、以下のスタイル凡例と用語を使用しています。
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>要素</p></th>  
-<th><p>意味</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>要素</p></th>
+<th><p>意味</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong>太字</strong></p></td>
 <td style="border:1px solid black;"><p>コマンドやスイッチなど、記載されたとおりに入力する文字列。ユーザー インターフェイス要素も太字で表記されます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p><em>斜体字</em></p></td>
 <td style="border:1px solid black;"><p>特定の値に置き換えるべき項目を表します。たとえば、Filename.ext は、当該の状況において有効なファイル名を指しています。初めて使用する新しい用語も斜体で表記されます。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>固定スペース フォント</p></td>
 <td style="border:1px solid black;"><p>サンプル コード。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%SystemRoot%</p></td>
 <td style="border:1px solid black;"><p>Windows 2000 オペレーティング システムがインストールされているフォルダ。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong>注</strong></p></td>
 <td style="border:1px solid black;"><p>補足的な情報を提供します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p><strong>重要</strong></p></td>
 <td style="border:1px solid black;"><p>あるタスクを完了するために不可欠な補足情報を提供します。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 [](#mainsection)[ページのトップへ](#mainsection)

@@ -52,33 +52,33 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362920(v=TechNet.10)'
 <td style="border:1px solid black;"><p>なりすまし<br />
 (Spoofing identity)</p></td>
 <td style="border:1px solid black;"><p>不正にアクセス権を取得して、別のユーザーの認証情報 （ユーザー名とパスワードなど） を使用すること。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>データの改ざん<br />
 (Tampering with data)</p></td>
 <td style="border:1px solid black;"><p>データに悪意のある変更を行うこと。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>否認<br />
 (Repudiation)</p></td>
 <td style="border:1px solid black;"><p>ユーザーがある操作を実行することを拒否されることで、そのことを他人に証明する手段がない状態のこと。&quot;否認防止&quot; は、否認の脅威に対抗するシステムの能力を指します (小包を受け取ったときに署名するようなことで、小包の受け取り手はこれを証拠として使用できます)。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>情報漏洩<br />
 (Information disclosure)</p></td>
 <td style="border:1px solid black;"><p>情報へのアクセス権を持たない個人に情報が公開されること。たとえば、適切な権利なしにファイルにアクセスすること。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>サービス拒否<br />
 (Denial of service)</p></td>
 <td style="border:1px solid black;"><p>正当なユーザーがサービスやシステムを使用できないようにする、意図的な試み。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>特権の昇格<br />
 (Elevation of privilege)</p></td>
 <td style="border:1px solid black;"><p>特権を持たないユーザーがアクセス権を獲得すること。特権の不正取得の一例には、特権のないユーザーを Administrators グループに追加する手段を考案することなどがあります。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 そして、各脅威が発生した場合に、取りうる対処方法や事故対応の方法をまとめることで、脆弱性が発見され、脅威が顕在化してから慌てる必要はなくなります。さらに、脅威モデルを突き詰めて情報単位で脅威の分析が行われる情報資産の管理まで行えれば理想的です。

@@ -62,13 +62,13 @@ RMS サービスとクライアントは、ローカル レジストリからサ
 <td style="border:1px solid black;"><p>SubEnrollmentURL</p></td>
 <td style="border:1px solid black;"><p>String</p></td>
 <td style="border:1px solid black;"><p>http(または https)://<em>サーバー名</em>/_wmcs/certification/subenrollservice.asmx</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>GicURL</p></td>
 <td style="border:1px solid black;"><p>String</p></td>
 <td style="border:1px solid black;"><p>http(または https)://<em>サーバー名</em>/_wmcs/certification/certification.asmx</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 公開用のクライアント側のサービス探索の上書き  
@@ -99,36 +99,36 @@ RMS サービスとクライアントは、ローカル レジストリからサ
 ###  
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th>名前</th>  
-<th>型</th>  
-<th>値</th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>名前</th>
+<th>型</th>
+<th>値</th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Activation</p></td>
 <td style="border:1px solid black;"><p>String</p></td>
 <td style="border:1px solid black;"><p>http(または https)://<em>RMS クラスタ名</em>/_wmcs/Certification (<em>RMS クラスタ名</em>は RMS クラスタの名前)</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>EnterprisePublishing</p></td>
 <td style="border:1px solid black;"><p>String</p></td>
 <td style="border:1px solid black;"><p>http(または https)://<em>RMS クラスタ名</em>/_wmcs/Licensing (<em>RMS クラスタ名</em>は RMS クラスタの名前)</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CloudPublishing</p></td>
 <td style="border:1px solid black;"><p>String</p></td>
 <td style="border:1px solid black;"><p>http(または https)://<em>FQDN クラスタ名</em>/_wmcs/Licensing (<em>FQDN クラスタ名</em>は RMS クラスタの完全修飾ドメイン名)。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 これらのレジストリ キーは、組織のすべてのクライアントが確実に正しい公開サーバーを使用するように、Systems Management Server またはグループ ポリシーを使用して実装することをお勧めします。

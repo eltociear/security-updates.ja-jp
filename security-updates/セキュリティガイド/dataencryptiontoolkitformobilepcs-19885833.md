@@ -94,35 +94,35 @@ Windows 2000、Windows XP Professional、Windows Server® 2003、および W
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong>太字フォント</strong></p></td>
 <td style="border:1px solid black;"><p>コマンド、スイッチ、ファイル名など、そのまま入力する文字を示します。ユーザー インターフェイスも太字で表記されます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p><em>斜体フォント</em></p></td>
 <td style="border:1px solid black;"><p><em>斜体</em></p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p><em>&lt;斜体&gt;</em></p></td>
 <td style="border:1px solid black;"><p>斜体と山かっこで示されるプレースホルダ (<em>&lt;filename&gt;</em> など) は変数を表します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>Monospace フォント</code></pre>
 <br />
 </td>
 <td style="border:1px solid black;"><p>コードとスクリプトのサンプルを示します。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong>注</strong></p></td>
 <td style="border:1px solid black;"><p>読者に補足情報を示します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p><strong>重要</strong></p></td>
 <td style="border:1px solid black;"><p>読者に重要な補足情報を示します。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 [](#mainsection)[ページのトップへ](#mainsection)
   
-<span id="E1G"></span>  
+<span id="E1G"></span>
 サポートとフィードバック  
 ------------------------
   
@@ -132,7 +132,7 @@ Solution Accelerators – Security and Compliance (SA-SC) チームは、今回�
   
 [](#mainsection)[ページのトップへ](#mainsection)
   
-<span id="EIH"></span>  
+<span id="EIH"></span>
 謝辞  
 ----
   

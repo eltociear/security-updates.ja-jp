@@ -490,53 +490,53 @@ Active Directory Client Extensions をインストールしたら、NTLMv2 認�
 <td style="border:1px solid black;"><p>ホットフィックスのインストール状態を検証する</p></td>
 <td style="border:1px solid black;"><p>QFECheck.exe ユーティリティ (Windows のインストール フォルダにあります) を実行します。</p></td>
 <td style="border:1px solid black;"><p>確立したベースラインに一致する最新のホットフィックスの一覧を入手できます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Internet Explorer 6 SP1 のインストール状態を検証する</p></td>
 <td style="border:1px solid black;"><p>Internet Explorer を起動して、<strong>[ヘルプ]</strong> メニューの <strong>[バージョン情報]</strong> をクリックします。</p></td>
 <td style="border:1px solid black;"><p>バージョン情報に &quot;6.0.2800.xxxx&quot; と表示されるはずです。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>DSClient が正しくインストールされていることを検証する</p></td>
 <td style="border:1px solid black;"><p><strong>[スタート]</strong> ボタンをクリックして <strong>[検索]</strong> をポイントし、<strong>[人]</strong> をクリックします。</p></td>
 <td style="border:1px solid black;"><p>Active Directory を検索する機能が備わっていれば、DSClient が正しくインストールされています。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>NTLMv2 認証を検証する</p></td>
 <td style="border:1px solid black;"><p>NTLMv2 認証を要求するようにドメイン コントローラを 設定します。</p></td>
 <td style="border:1px solid black;"><p>クライアントが正常にログオンできます。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>SMB 署名を検証する</p></td>
 <td style="border:1px solid black;"><p>通信に SMB 署名を要求するようにネットワーク リソースを設定します。</p></td>
 <td style="border:1px solid black;"><p>クライアントがネットワークに正常にアクセスできます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>システム ポリシーを検証する</p></td>
 <td style="border:1px solid black;"><p>システム ポリシーで制限されたリソースにアクセスしてみます。</p></td>
 <td style="border:1px solid black;"><p>アクセスが制限されたリソースにはアクセスできません。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>システム BIOS のセキュリティを検証する</p></td>
 <td style="border:1px solid black;"><p>メーカー指定のエスケープ シーケンスでシステム BIOS にアクセスしてみます。</p></td>
 <td style="border:1px solid black;"><p>パスワードの入力を求められます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>起動デバイスを回避してみる</p></td>
 <td style="border:1px solid black;"><p>起動可能なフロッピー ディスクおよび CD を挿入します。</p></td>
 <td style="border:1px solid black;"><p>クライアントは、リムーバブル メディアから起動しません。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>起動シーケンスを回避してみる</p></td>
 <td style="border:1px solid black;"><p>システムの起動時に F5 キーまたは F8 キーを押します。</p></td>
 <td style="border:1px solid black;"><p>クライアントに、起動を変更できるメニューが表示されません。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ネットワーク ログオンを回避してみる</p></td>
 <td style="border:1px solid black;"><p>ログオン画面が表示されたら、ESC キーを押してみます。</p></td>
 <td style="border:1px solid black;"><p>Windows 98 のデスクトップには、ドメインの資格情報が正しく提示されるまでアクセスできません。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 [](#mainsection)[ページのトップへ](#mainsection)

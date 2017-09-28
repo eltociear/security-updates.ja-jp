@@ -42,35 +42,35 @@ Windows プラットフォームの Common Criteria Certification
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><div class="borderRight">
-<div class="LeftCol">  
-<h3 id="ガイド">ガイド</h3>  
-<ul>  
-<li><a href="http://download.microsoft.com/download/e/8/9/e897a1ee-0273-4694-b155-ad02f7b2b4d5/wxp_common_criteria_admin_guide.zip">Windows XP Professional Common Criteria Administrator's Guide (英語情報)</a><br />  
-</li>  
-<li><a href="http://download.microsoft.com/download/5/3/b/53b53a3e-39d5-4d30-86f2-146aa2c7be45/wxp_common_criteria_configuration_guide.zip">Windows XP Professional Common Criteria Configuration Guide (英語情報)</a><br />  
-</li>  
-<li><a href="http://download.microsoft.com/download/d/3/0/d304ab38-567c-4fad-a368-a3661ca1a16d/wxp_common_criteria_user_guide.zip">Windows XP Professional Common Criteria User's Guide (英語情報)</a><br />  
-</li>  
-<li><a href="http://download.microsoft.com/download/0/b/4/0b45ffb0-0fe4-43b1-b71b-fb4c5745d4a2/ws03_common_criteria_admin_guide.zip">Windows Server 2003 Common Criteria Administrator's Guide (英語情報)</a><br />  
-</li>  
-<li><a href="http://download.microsoft.com/download/4/6/4/46402d2a-45ce-4c1e-98d2-51cb7c9a1556/ws03_common_criteria_configuration_guide.zip">Windows Server 2003 Common Criteria Configuration Guide (英語情報)</a><br />  
-</li>  
-<li><a href="http://download.microsoft.com/download/1/7/6/17654a53-4910-486c-996e-731e4af226cf/ws03certserver_common_criteria_admin_guide.zip">Windows Server 2003 Certificate Server Common Criteria Administrator's Guide (英語情報)</a><br />  
-</li>  
-<li><a href="http://download.microsoft.com/download/f/2/0/f206c1fe-b176-4910-a812-68767867ee01/ws03certserver_common_criteria_configuration_guide.zip">Windows Server 2003 Certificate Server Common Criteria Configuration Guide (英語情報)</a><br />  
-</li>  
-<li><a href="http://download.microsoft.com/download/3/8/f/38fea1db-c75a-4487-9bbf-f5047840c555/ws03certserver_common_criteria_user_guide.zip">Windows Server 2003 Certificate Server Common Criteria User's Guide (英語情報)</a><br />  
-</li>  
-</ul>  
+<div class="LeftCol">
+<h3 id="ガイド">ガイド</h3>
+<ul>
+<li><a href="http://download.microsoft.com/download/e/8/9/e897a1ee-0273-4694-b155-ad02f7b2b4d5/wxp_common_criteria_admin_guide.zip">Windows XP Professional Common Criteria Administrator's Guide (英語情報)</a><br />
+</li>
+<li><a href="http://download.microsoft.com/download/5/3/b/53b53a3e-39d5-4d30-86f2-146aa2c7be45/wxp_common_criteria_configuration_guide.zip">Windows XP Professional Common Criteria Configuration Guide (英語情報)</a><br />
+</li>
+<li><a href="http://download.microsoft.com/download/d/3/0/d304ab38-567c-4fad-a368-a3661ca1a16d/wxp_common_criteria_user_guide.zip">Windows XP Professional Common Criteria User's Guide (英語情報)</a><br />
+</li>
+<li><a href="http://download.microsoft.com/download/0/b/4/0b45ffb0-0fe4-43b1-b71b-fb4c5745d4a2/ws03_common_criteria_admin_guide.zip">Windows Server 2003 Common Criteria Administrator's Guide (英語情報)</a><br />
+</li>
+<li><a href="http://download.microsoft.com/download/4/6/4/46402d2a-45ce-4c1e-98d2-51cb7c9a1556/ws03_common_criteria_configuration_guide.zip">Windows Server 2003 Common Criteria Configuration Guide (英語情報)</a><br />
+</li>
+<li><a href="http://download.microsoft.com/download/1/7/6/17654a53-4910-486c-996e-731e4af226cf/ws03certserver_common_criteria_admin_guide.zip">Windows Server 2003 Certificate Server Common Criteria Administrator's Guide (英語情報)</a><br />
+</li>
+<li><a href="http://download.microsoft.com/download/f/2/0/f206c1fe-b176-4910-a812-68767867ee01/ws03certserver_common_criteria_configuration_guide.zip">Windows Server 2003 Certificate Server Common Criteria Configuration Guide (英語情報)</a><br />
+</li>
+<li><a href="http://download.microsoft.com/download/3/8/f/38fea1db-c75a-4487-9bbf-f5047840c555/ws03certserver_common_criteria_user_guide.zip">Windows Server 2003 Certificate Server Common Criteria User's Guide (英語情報)</a><br />
+</li>
+</ul>
 </div>
 </div></td>
 <td style="border:1px solid black;"><div class="RightCol">
-<h3 id="評価の技術的な報告">評価の技術的な報告</h3>  
-<ul>  
-<li><a href="http://www.microsoft.com/downloads/details.aspx?familyid=63cf2a1e-f578-4bb5-9245-d411f0f64265&amp;displaylang=en">Windows XP and Windows Server 2003 Common Criteria Evaluation Technical Report (英語情報)</a><br />  
-</li>  
-<li><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a594e77f-dcbb-4787-9d68-e4689e60a314&amp;displaylang=en">Windows Server 2003 Certificate Server Common Criteria Evaluation Technical Report (英語情報)</a><br />  
-</li>  
+<h3 id="評価の技術的な報告">評価の技術的な報告</h3>
+<ul>
+<li><a href="http://www.microsoft.com/downloads/details.aspx?familyid=63cf2a1e-f578-4bb5-9245-d411f0f64265&amp;displaylang=en">Windows XP and Windows Server 2003 Common Criteria Evaluation Technical Report (英語情報)</a><br />
+</li>
+<li><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a594e77f-dcbb-4787-9d68-e4689e60a314&amp;displaylang=en">Windows Server 2003 Certificate Server Common Criteria Evaluation Technical Report (英語情報)</a><br />
+</li>
 </ul>
 </div></td>
 </tr>

@@ -636,8 +636,8 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 <td style="border:1px solid black;"><p>年間 6 時間、または .000685</p></td>
 <td style="border:1px solid black;"><p>$12,000</p></td>
 <td style="border:1px solid black;"><p>$27,520</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 資産が競争相手にとってどれだけの価値を持つかも検討すべきです。たとえば、こちらのサイトがダウンしている間に、競争相手が以前こちらの Web サイトから取得した顧客情報を使用できた場合、莫大な収入を競争相手に奪われる可能性があります。
@@ -753,65 +753,65 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 **表 3.2 リスクの確率**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>範囲</p></th>  
-<th><p>計算値</p></th>  
-<th><p>表現</p></th>  
-<th><p>スコア</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>範囲</p></th>
+<th><p>計算値</p></th>
+<th><p>表現</p></th>
+<th><p>スコア</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>1% ～ 14%</p></td>
 <td style="border:1px solid black;"><p>7%</p></td>
 <td style="border:1px solid black;"><p>極めて確率が低い</p></td>
 <td style="border:1px solid black;"><p>1</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>15% ～ 28%</p></td>
 <td style="border:1px solid black;"><p>21%</p></td>
 <td style="border:1px solid black;"><p>低い</p></td>
 <td style="border:1px solid black;"><p>2</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>28% ～ 42%</p></td>
 <td style="border:1px solid black;"><p>35%</p></td>
 <td style="border:1px solid black;"><p>ありそうでない</p></td>
 <td style="border:1px solid black;"><p>3</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>43% ～ 57%</p></td>
 <td style="border:1px solid black;"><p>50%</p></td>
 <td style="border:1px solid black;"><p>50 – 50</p></td>
 <td style="border:1px solid black;"><p>4</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>58% ～ 72%</p></td>
 <td style="border:1px solid black;"><p>65%</p></td>
 <td style="border:1px solid black;"><p>おそらく</p></td>
 <td style="border:1px solid black;"><p>5</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>73% ～ 86%</p></td>
 <td style="border:1px solid black;"><p>79%</p></td>
 <td style="border:1px solid black;"><p>可能性が高い</p></td>
 <td style="border:1px solid black;"><p>6</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>87% ～ 99%</p></td>
 <td style="border:1px solid black;"><p>93%</p></td>
 <td style="border:1px solid black;"><p>ほとんど確実</p></td>
 <td style="border:1px solid black;"><p>7</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 計算に使われる確率の値は、範囲の中央値です。これらのマッピング テーブルを用いた、確率を定量化するための別法として、チームが同意を与えた確率範囲または自然言語の表現を数値のスコアにマップする方法があります。セキュリティ リスクを表すために数値のスコアを使う場合、作業を効果的に行うには、優先順位を決定するプロセスで、すべてのセキュリティ リスクに対して同じ数値スコアを使うことが必要です。
@@ -831,59 +831,59 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 **表 3.3 損失資産のスコアリング システムの例**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>スコア</p></th>  
-<th><p>金銭的な損失</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>スコア</p></th>
+<th><p>金銭的な損失</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>1</p></td>
 <td style="border:1px solid black;"><p>$100 未満</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>2</p></td>
 <td style="border:1px solid black;"><p>$100 ～ $1,000</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>3</p></td>
 <td style="border:1px solid black;"><p>$1,000 ～ $1 万</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>4</p></td>
 <td style="border:1px solid black;"><p>$1 万 ～ $10 万</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>5</p></td>
 <td style="border:1px solid black;"><p>$10 万 ～ $100 万</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>6</p></td>
 <td style="border:1px solid black;"><p>$100 万 ～ $1,000 万</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>7</p></td>
 <td style="border:1px solid black;"><p>$1,000 万 ～ $1 億</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>8</p></td>
 <td style="border:1px solid black;"><p>$1 億 ～ $10 億</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>9</p></td>
 <td style="border:1px solid black;"><p>$10 億 ～ $100 億</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>10</p></td>
 <td style="border:1px solid black;"><p>$100 億超</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 影響を見積るためのスコアリング システムは、企業ごとに異なります。また、各企業の価値観やポリシーを反映するものでなければなりません。たとえば、10,000 ドルの金銭的な損失は、あるチームや企業にとっては許容範囲であっても、別の企業にとっては許容範囲を超えている場合があります。致命的な影響に対しては、たとえば 100 などの人為的に高い数値をあてると、確率が非常に低いリスクであっても、確実にリスク リストのトップに上昇し、ここに留まることになります。
@@ -897,41 +897,41 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 **表 3.4 リスクのスコアリング マトリックス**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>確率 影響</p></th>  
-<th><p>低 = 1</p></th>  
-<th><p>中 = 2</p></th>  
-<th><p>高 = 3</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>確率 影響</p></th>
+<th><p>低 = 1</p></th>
+<th><p>中 = 2</p></th>
+<th><p>高 = 3</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>高 = 3</p></td>
 <td style="border:1px solid black;"><p>3</p></td>
 <td style="border:1px solid black;"><p>6</p></td>
 <td style="border:1px solid black;"><p>9</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>中 = 2</p></td>
 <td style="border:1px solid black;"><p>2</p></td>
 <td style="border:1px solid black;"><p>4</p></td>
 <td style="border:1px solid black;"><p>6</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>低 = 1</p></td>
 <td style="border:1px solid black;"><p>1</p></td>
 <td style="border:1px solid black;"><p>2</p></td>
 <td style="border:1px solid black;"><p>3</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 危険性範囲: 低 = 1 ～ 2; 中 = 3 ～ 4; 高 = 6 ～ 9
@@ -958,26 +958,26 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
   
 **表 3.5 マスタ リスク リストと優先順位付けの例**
   
-<table style="width:100%;">  
-<colgroup>  
-<col width="16%" />  
-<col width="16%" />  
-<col width="16%" />  
-<col width="16%" />  
-<col width="16%" />  
-<col width="16%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>優先順位</p></th>  
-<th><p>条件</p></th>  
-<th><p>結果</p></th>  
-<th><p>確率</p></th>  
-<th><p>影響</p></th>  
-<th><p>危険性</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="width:100%;">
+<colgroup>
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>優先順位</p></th>
+<th><p>条件</p></th>
+<th><p>結果</p></th>
+<th><p>確率</p></th>
+<th><p>影響</p></th>
+<th><p>危険性</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>1</p></td>
 <td style="border:1px solid black;"><p>ウイルスが 電子商取引 Web サイトに感染</p></td>
@@ -985,7 +985,7 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 <td style="border:1px solid black;"><p>80%</p></td>
 <td style="border:1px solid black;"><p>3</p></td>
 <td style="border:1px solid black;"><p>2.4</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>2</p></td>
 <td style="border:1px solid black;"><p>新しいプログラミング言語用のコーディング基準がない</p></td>
@@ -993,7 +993,7 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 <td style="border:1px solid black;"><p>45%</p></td>
 <td style="border:1px solid black;"><p>2</p></td>
 <td style="border:1px solid black;"><p>0.9</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>3</p></td>
 <td style="border:1px solid black;"><p>仕様書がない</p></td>
@@ -1001,8 +1001,8 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 <td style="border:1px solid black;"><p>30%</p></td>
 <td style="border:1px solid black;"><p>2</p></td>
 <td style="border:1px solid black;"><p>0.6</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 危険性は、確率ﾗ影響として計算されます。影響は、低 = 1、中 = 2、高 = 3 です。
@@ -1028,81 +1028,81 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 **表 3.6 マスタ セキュリティ リスク リストの内容**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>項目</p></th>  
-<th><p>目的</p></th>  
-<th><p>状態</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>項目</p></th>
+<th><p>目的</p></th>
+<th><p>状態</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>セキュリティ リスクのステートメント</p></td>
 <td style="border:1px solid black;"><p>リスクを明確に示す。</p></td>
 <td style="border:1px solid black;"><p>必須</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>確率</p></td>
 <td style="border:1px solid black;"><p>脅威が発生する可能性を定量化する。</p></td>
 <td style="border:1px solid black;"><p>必須</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>影響</p></td>
 <td style="border:1px solid black;"><p>損失の深刻度または機会コストの大きさを定量化する。</p></td>
 <td style="border:1px solid black;"><p>必須</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ランク付けの基準</p></td>
 <td style="border:1px solid black;"><p>重要な尺度を選ぶ。</p></td>
 <td style="border:1px solid black;"><p>必須</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>優先順位 (ランク)</p></td>
 <td style="border:1px solid black;"><p>アクションに優先順位を付ける。</p></td>
 <td style="border:1px solid black;"><p>必須</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>所有者</p></td>
 <td style="border:1px solid black;"><p>リスク アクション プランに対するフォロースルーを確実に行う。</p></td>
 <td style="border:1px solid black;"><p>必須</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>軽減計画</p></td>
 <td style="border:1px solid black;"><p>予防策を説明する。</p></td>
 <td style="border:1px solid black;"><p>必須</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>危機管理計画とトリガ</p></td>
 <td style="border:1px solid black;"><p>是正策を説明する。</p></td>
 <td style="border:1px solid black;"><p>必須</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>根本原因</p></td>
 <td style="border:1px solid black;"><p>効果的な介入計画を導く。</p></td>
 <td style="border:1px solid black;"><p>必須</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>下流効果</p></td>
 <td style="border:1px solid black;"><p>適切な影響の予測を保証する。</p></td>
 <td style="border:1px solid black;"><p>省略可能</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>コンテキスト</p></td>
 <td style="border:1px solid black;"><p>浮上するリスクにおけるチームの意図を理解するために、背景情報を文書化する。</p></td>
 <td style="border:1px solid black;"><p>省略可能</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>実装のための時間</p></td>
 <td style="border:1px solid black;"><p>リスク制御が一定の時間枠内で実装されることの重要性を理解する。</p></td>
 <td style="border:1px solid black;"><p>省略可能</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### リスク ステートメント フォーム
@@ -1114,55 +1114,55 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 **表 3.7 リスク ステートメント フォーム**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>項目</p></th>  
-<th><p>目的</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>項目</p></th>
+<th><p>目的</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>セキュリティ リスクの識別名</p></td>
 <td style="border:1px solid black;"><p>報告または追跡を目的に、チームがリスクを一意に識別するために使う名前。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>セキュリティ リスクのソース</p></td>
 <td style="border:1px solid black;"><p>セキュリティ リスクの発生元となる基礎領域の広い分類。セキュリティ リスクの反復的な根本原因を求めるべき領域を識別するために使われます。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>セキュリティ リスクの条件 (脅威/弱点の悪用)</p></td>
 <td style="border:1px solid black;"><p>損失につながる可能性のある既存の条件を説明する語句。これは、セキュリティ リスク ステートメントの最初の部分を形成します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>リスクの結果 (脆弱性/資産への影響)</p></td>
 <td style="border:1px solid black;"><p>リスクが結果を生んだ場合に発生するであろう損失を説明する語句。これは、セキュリティ リスク ステートメントの 2 番目の部分を形成します。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>セキュリティ リスクの確率</p></td>
 <td style="border:1px solid black;"><p>リスク条件が実際に発生し、損失が生じる可能性を表す、ゼロよりも大きく 100% よりも小さい確率。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>資産への影響の分類</p></td>
 <td style="border:1px solid black;"><p>リスクが発生する可能性のある影響のタイプの広い分類。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>資産の危険性</p></td>
 <td style="border:1px solid black;"><p>リスクの総合的な脅威。実際に損失が発生する可能性と潜在的損失の大きさのバランスを取ります。チームはリスク 危険性を使ってリスクのランク付けを行います。危険性は、リスクの確率と影響を掛け合わせて算出します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>リスクのコンテキスト</p></td>
 <td style="border:1px solid black;"><p>セキュリティ リスクの状況を明確にするのに役立つ追加の背景情報を含む段落。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>関連するセキュリティ リスク</p></td>
 <td style="border:1px solid black;"><p>相互依存するリスクを追跡するためにチームが使うリスク識別名のリスト。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### トップ セキュリティ リスク リスト

@@ -49,32 +49,32 @@ Microsoft 仮想プライベート ネットワークでの検疫サービスの
 <tr class="odd">
 <td style="border:1px solid black;"><p>Qsamples.cmd</p></td>
 <td style="border:1px solid black;"><p>これは、接続マネージャ プロファイルから接続後のアクションとして呼び出され、他のスクリプトを起動する上位レベルのファイルです。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>AV.Bat</p></td>
 <td style="border:1px solid black;"><p>クライアントのウイルス対策ソフトウェアが最新バージョンであるか、さらにそのウイルス対策ソフトウェアに最新のウイルス シグネチャ ファイルが含まれているかを確認します。このスクリプトは、eTrust ウイルス対策ソフトウェアのみの検証を実行します。他のウイルス対策ソフトウェア パッケージ用に類似スクリプトを作成する場合は、ベンダまでお問い合わせください。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CheckHotFixes.vbs</p></td>
 <td style="border:1px solid black;"><p>クライアント コンピュータ上の重要な更新プログラムをチェックします。管理者は、必須の更新リストを提供する必要があります。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ICS.vbs</p></td>
 <td style="border:1px solid black;"><p>インターネット接続共有を確認し、必要に応じて無効にします。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Passwd.vbs</p></td>
 <td style="border:1px solid black;"><p>企業ポリシーに対するパスワードを確認します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ScrSaver.vbs</p></td>
 <td style="border:1px solid black;"><p>現在のユーザーのスクリーン セーバー設定を確認し、設定が有効で、パスワード保護されていることを保証します。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>WF.vbs</p></td>
 <td style="border:1px solid black;"><p>すべてのネットワーク インターフェイス上の Windows のファイアウォールを確認し、必要に応じて有効にします。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 [](#mainsection)[ページのトップへ](#mainsection)
@@ -104,43 +104,43 @@ RQC の構文は次のとおりです。
 **表 A.2: RQC エージェント パラメータ**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>パラメータ</p></th>  
-<th><p>説明</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>パラメータ</p></th>
+<th><p>説明</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong>ConnName</strong></p></td>
 <td style="border:1px solid black;"><p>ホスト上のリモート アクセス サーバー接続の名前を指定します。このパラメータの値は、接続マネージャ プロファイルの変数 %DialRasEntry% から継承できます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p><strong>TunnelConnName</strong></p></td>
 <td style="border:1px solid black;"><p>ホスト上のリモート アクセス サーバー トンネル接続の名前を指定します。このパラメータの値は、接続マネージャ プロファイルの変数 %TunnelRasEntry% から継承できます。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong>ポート</strong></p></td>
 <td style="border:1px solid black;"><p>検疫文字列の送信先ポートを指定します。リモート アクセス サーバー上のリモート エージェント検疫エージェント (RQS) が使用するデフォルト ポートは、TCP ポート 7250 です。RQS が別のポート番号を使用している場合は、RQC に別のポート番号を指定します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p><strong>ドメイン</strong></p></td>
 <td style="border:1px solid black;"><p>接続ユーザーのドメインを指定します。このパラメータの値は、接続マネージャ プロファイルの変数 %Domain% から継承できます。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong>UserName</strong></p></td>
 <td style="border:1px solid black;"><p>接続ユーザーのユーザー名を指定します。このパラメータの値は、接続マネージャ プロファイルの変数 %UserName% から継承できます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p><strong>String</strong></p></td>
 <td style="border:1px solid black;"><p>管理者が作成したスクリプトのバージョンを含むテキスト文字列を指定します。/0 文字シーケンスを除く、すべての文字が使用可能です。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 [](#mainsection)[ページのトップへ](#mainsection)

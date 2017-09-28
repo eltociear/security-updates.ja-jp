@@ -105,13 +105,13 @@ Windows 2000 環境で動作する Exchange 2000 のセキュリティを向上�
 <td style="border:1px solid black;"><p>OWA サーバー</p></td>
 <td style="border:1px solid black;"><p>Outlook Web Access 専用の OWA フロントエンド サーバー</p></td>
 <td style="border:1px solid black;"><p>Baseline.inf および OWA front-end Incremental.inf</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Exchange 2000 バックエンド サーバー</p></td>
 <td style="border:1px solid black;"><p>メールボックスとパブリック フォルダへのアクセスおよびルーティング用のサーバー</p></td>
 <td style="border:1px solid black;"><p>Baseline.inf および Exchange back-end Incremental.inf</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 上記のテンプレートのほかに、ドメイン コントローラ用の基準グループ ポリシーに追加のセキュリティ テンプレートを適用する必要があります。「Windows 2000 Server セキュリティ運用ガイド」に記載されている設定では、Exchange が環境に含まれているとは想定していないため、Exchange 2000 に対応するための変更が必要になります。
@@ -121,41 +121,41 @@ Exchange の処理をサポートできるようにドメイン コントロー�
 **表 3.2 Exchange 2000 をサポートするドメイン コントローラ上のセキュリティ オプション**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>オプション</p></th>  
-<th><p>Windows 2000 Server のセキュリティ運用</p></th>  
-<th><p>Exchange 2000 Server のセキュリティ運用</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>オプション</p></th>
+<th><p>Windows 2000 Server のセキュリティ運用</p></th>
+<th><p>Exchange 2000 Server のセキュリティ運用</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>匿名接続の追加を制限する</p></td>
 <td style="border:1px solid black;"><p>明示的な匿名アクセス権がない場合アクセスを許可しない</p></td>
 <td style="border:1px solid black;"><p>なし (既定のアクセス権に依存)</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>セキュリティ監査のログを記録できない場合は直ちにシステムをシャットダウンする</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>アカウント ログオン イベントの監査</p></td>
 <td style="border:1px solid black;"><p>成功と失敗</p></td>
 <td style="border:1px solid black;"><p>失敗</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ログオン イベントの監査</p></td>
 <td style="border:1px solid black;"><p>成功と失敗</p></td>
 <td style="border:1px solid black;"><p>失敗</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 Outlook 2000 クライアントおよび Outlook 2002 クライアントはグローバル カタログに匿名でアクセスして情報を照会するので、匿名接続の制限の設定を変更する必要があります。「Windows 2000 Server セキュリティ運用ガイド」に記載されている設定のままでは、Outlook ユーザーが内部メールを送信できず、外部アドレスを使用しなければならなくなります。
@@ -281,106 +281,106 @@ Exchange 2000 バックエンド ポリシーでは、下の表に示すサー�
 **表 3.3 Exchange バックエンド サーバー基準ポリシーによるサービスの構成**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>サービス名</p></th>  
-<th><p>スタートアップ モード</p></th>  
-<th><p>理由</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>サービス名</p></th>
+<th><p>スタートアップ モード</p></th>
+<th><p>理由</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Microsoft Exchange IMAP4</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>サーバーで IMAP4 をサポートしないので不要</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Microsoft Exchange Information Store</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>メールボックス ストアとパブリック フォルダ ストアへのアクセスに必要</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Microsoft Exchange POP3</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>サーバーで POP3 をサポートしないので不要</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Microsoft Search</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>コア機能には不要</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Microsoft Exchange Event Service</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>下位互換性を確保する以外の目的では不要</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Microsoft Exchange Site Replication Service</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>下位互換性を確保する以外の目的では不要</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Microsoft Exchange Management</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>メッセージ追跡に必要</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Windows Management Instrumentation</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>Microsoft Exchange の管理に必要</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Microsoft Exchange MTA Stacks</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>下位互換性または X.400 コネクタとの互換性を確保する以外の目的では不要</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Microsoft Exchange System Attendant</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>Exchange の保守やその他のタスクに必要</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Microsoft Exchange Routing Engine</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>Exchange サーバー間におけるメッセージ転送の調整に必要</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>IPSEC Policy Agent</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>サーバー上に IPSec ポリシーを実装するために必要</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>RPC Locator</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>ドメイン コントローラおよびクライアントとの通信に必要</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>IIS Admin Service</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>Exchange Routing Engine に必要</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>NT LM Security Support Provider</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>System Attendant に必要</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>SMTP</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>Exchange トランスポートに必要</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>World Wide Web Publishing Service</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>OWA フロントエンド サーバーとの通信に必要</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **メモ** : Exchange System Attendant を起動する前に、以下のサービスを開始しておく必要があります。
@@ -433,43 +433,43 @@ Exchange バックエンド サーバー ポリシーでは、いくつかのデ
 **表 3.4 Exchange バックエンド サーバー ポリシーによって構成されるファイル アクセス制御リスト**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>ディレクトリ</p></th>  
-<th><p>変更前の ACL</p></th>  
-<th><p>変更後の ACL</p></th>  
-<th><p>サブディレクトリに適用されるか</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>ディレクトリ</p></th>
+<th><p>変更前の ACL</p></th>
+<th><p>変更後の ACL</p></th>
+<th><p>サブディレクトリに適用されるか</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%systremdrive%\Inetpub\mailroot</p></td>
 <td style="border:1px solid black;"><p>Everyone : フル アクセス</p></td>
 <td style="border:1px solid black;"><p>Domain Admins : フル アクセス</p>
 <p>ローカル システム : フル アクセス</p></td>
 <td style="border:1px solid black;"><p>はい</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>%systremdrive%\Inetpub\nntpfile\</p></td>
 <td style="border:1px solid black;"><p>Everyone : フル アクセス</p></td>
 <td style="border:1px solid black;"><p>Domain Admins : フル アクセス</p>
 <p>ローカル システム : フル アクセス</p></td>
 <td style="border:1px solid black;"><p>はい</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>%systremdrive%\Inetpub\nntpfile\root</p></td>
 <td style="border:1px solid black;"><p>Everyone : フル アクセス</p></td>
 <td style="border:1px solid black;"><p>Everyone : フル アクセス</p></td>
 <td style="border:1px solid black;"><p>はい</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **メモ** : サーバー上で NNTP を使用しないので、nntpfile ディレクトリおよびその下位のサブディレクトリに対する設定は、厳密に言うと定義する必要がありません。しかし、ファイル システムへの制限を強化すると共に、今後 NNTP を使用する場合にも対応できるように、ここでは、これらのディレクトリとサブディレクトリに対しても設定を定義しています。
@@ -485,86 +485,86 @@ OWA フロントエンド ポリシーでは、サービスに関する設定と
 **表 3.5 OWA フロントエンド サーバー ポリシーによるサービスの構成**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>サービス名</p></th>  
-<th><p>スタートアップ モード</p></th>  
-<th><p>理由</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>サービス名</p></th>
+<th><p>スタートアップ モード</p></th>
+<th><p>理由</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Microsoft Exchange IMAP4</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>OWA サーバーで IMAP4 をサポートしないので不要</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Microsoft Exchange Information Store</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>メールボックス ストアおよびパブリック フォルダ ストアがないため不要</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Microsoft Exchange POP3</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>OWA サーバーで POP3 をサポートしないので不要</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Microsoft Search</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>検索するストアがないので不要</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Microsoft Exchange Event</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>下位互換性を確保する以外の目的では不要</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Microsoft Exchange Site Replication Service</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>下位互換性を確保する以外の目的では不要</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Microsoft Exchange Management</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>メッセージの追跡に必要</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Microsoft Exchange MTA</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>下位互換性または X.400 コネクタとの互換性を確保する以外の目的では不要</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Microsoft Exchange Routing Engine</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>Exchange のルーティング機能に必要</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>IPSEC Policy Agent</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>OWA サーバー上に IPSec フィルタを実装するために必要</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>RPC Locator</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>ドメイン コントローラとの通信および System Attendant の起動に必要</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>IIS Admin Service</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>MSExchange Routing Engine に必要</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>World Wide Web Publishing Service</p></td>
 <td style="border:1px solid black;"><p>自動</p></td>
 <td style="border:1px solid black;"><p>OWA フロントエンド サーバーとのクライアント通信に必要</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **OWA フロントエンド サーバー ポリシーによって無効化されるサービス**
@@ -714,51 +714,51 @@ IIS Lockdown ツールには、IIS サーバーに対するすべての要求を
     **表 3.6 IISLockDown を Exchange 2000 テンプレートと共に使用した場合の既定のスクリプト マッピング設定**
 
 <p> </p>
-    <table style="border:1px solid black;">  
-    <colgroup>  
-    <col width="33%" />  
-    <col width="33%" />  
-    <col width="33%" />  
-    </colgroup>  
-    <thead>  
-    <tr class="header">  
-    <th><p>種類</p></th>  
-    <th><p>エントリ</p></th>  
-    <th><p>状態</p></th>  
-    </tr>  
-    </thead>  
-    <tbody>  
+    <table style="border:1px solid black;">
+    <colgroup>
+    <col width="33%" />
+    <col width="33%" />
+    <col width="33%" />
+    </colgroup>
+    <thead>
+    <tr class="header">
+    <th><p>種類</p></th>
+    <th><p>エントリ</p></th>
+    <th><p>状態</p></th>
+    </tr>
+    </thead>
+    <tbody>
     <tr class="odd">
     <td style="border:1px solid black;"><p>Active Server Pages</p></td>
     <td style="border:1px solid black;"><p>.asp</p></td>
     <td style="border:1px solid black;"><p>有効</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p>Index Server の Web インターフェイス</p></td>
     <td style="border:1px solid black;"><p>.htw、.ide、.idq</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p>サーバーサイド インクルード</p></td>
     <td style="border:1px solid black;"><p>.stm、.shtm、.shtml</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p>インターネット データ コネクタ</p></td>
     <td style="border:1px solid black;"><p>.idc</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p>HTR スクリプト</p></td>
     <td style="border:1px solid black;"><p>.htr</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p>インターネット印刷</p></td>
     <td style="border:1px solid black;"><p>.printer</p></td>
     <td style="border:1px solid black;"><p>無効</p></td>
-    </tr>  
-    </tbody>  
+    </tr>
+    </tbody>
     </table>
   
     **メモ** : .htr スクリプト マップのサポートを無効化すると、OWA のパスワード変更機能を使用できなくなります。IIS Lockdown ツールでは、OWA のパスワード変更機能が既定の設定で無効化されます。
@@ -770,46 +770,46 @@ IIS Lockdown ツールには、IIS サーバーに対するすべての要求を
     **表 3.7 IISLockdown によって削除される仮想ディレクトリ**
 
 <p> </p>
-    <table style="border:1px solid black;">  
-    <colgroup>  
-    <col width="33%" />  
-    <col width="33%" />  
-    <col width="33%" />  
-    </colgroup>  
-    <thead>  
-    <tr class="header">  
-    <th><p>名前</p></th>  
-    <th><p>仮想ディレクトリ</p></th>  
-    <th><p>既定の場所</p></th>  
-    </tr>  
-    </thead>  
-    <tbody>  
+    <table style="border:1px solid black;">
+    <colgroup>
+    <col width="33%" />
+    <col width="33%" />
+    <col width="33%" />
+    </colgroup>
+    <thead>
+    <tr class="header">
+    <th><p>名前</p></th>
+    <th><p>仮想ディレクトリ</p></th>
+    <th><p>既定の場所</p></th>
+    </tr>
+    </thead>
+    <tbody>
     <tr class="odd">
     <td style="border:1px solid black;"><p>IIS Samples</p></td>
     <td style="border:1px solid black;"><p>\IISSamples</p></td>
     <td style="border:1px solid black;"><p>c:\inetpub\iissamples</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p>IISHelp</p></td>
     <td style="border:1px solid black;"><p>\IISHelp</p></td>
     <td style="border:1px solid black;"><p>c:\winnt\help\iishelp</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p>MSADC</p></td>
     <td style="border:1px solid black;"><p>\MSADC</p></td>
     <td style="border:1px solid black;"><p>c:\program files\common files\system\msadc</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p>Scripts</p></td>
     <td style="border:1px solid black;"><p>\Scripts</p></td>
     <td style="border:1px solid black;"><p>c:\inetpub\scripts</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p>IISAdmin</p></td>
     <td style="border:1px solid black;"><p>\IISAdmin</p></td>
     <td style="border:1px solid black;"><p>c:\winnt\system32\inetsrv\iisadmin</p></td>
-    </tr>  
-    </tbody>  
+    </tr>
+    </tbody>
     </table>
   
 14. 15. IIS Lockdown ツールは、ファイル システムへのアクセスを制限するために、Web Anonymous Users および Web Applications の 2 つの新しいグループを OWA サーバー上に作成します。この 2 つのグループには、それぞれ匿名ユーザーと匿名アプリケーション アカウントが格納されます。通常は、Web Anonymous Users グループに IUSR\_&lt;computername&gt; が格納され、Web Applications グループに IWAM\_&lt;computername&gt; が格納されます。次に、IIS Lockdown ツールは、これらのグループに対し、以下のディレクトリへの書き込みアクセスを禁止します。

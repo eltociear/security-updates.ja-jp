@@ -62,28 +62,28 @@ Contoso では、ニコラスという勤勉な若手アナリストが家に良
 <tr class="odd">
 <td style="border:1px solid black;"><p>紛失にまつわる人件費 (データの復元およびお客様への通知の費用)</p></td>
 <td style="border:1px solid black;"><p>$45,000</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>追加費用 (一般 および投資家向け広報活動、また追加したコール センターの電話料金など)</p></td>
 <td style="border:1px solid black;"><p>$135,000</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>影響を受けるお客様に関する費用 (影響を受けるお客様のクレジット監視サービス)</p></td>
 <td style="border:1px solid black;"><p>$80,000</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>法的損害費用 (罰金、弁護料および民事訴訟に関連した費用)</p></td>
 <td style="border:1px solid black;"><p>$165,000</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>顧客による収益の損失 (失われた顧客 250 名 ― $700/ひとり)</p></td>
 <td style="border:1px solid black;"><p>$175,000</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>合計</p></td>
 <td style="border:1px solid black;"><p>$600,000</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 残念なことに、ラップトップ コンピュータは容易に盗難の標的となります。 個人および顧客の機密情報を含んだラップトップ コンピュータの偶発的な紛失または盗難が発生した企業について、日常的にメディアでニュースに取り上げられるようになりました。 前述の話はフィクションですが、実際の多くの組織でこのような漏えいが起こった場合、多大な費用がかかるという認識が広まってきましたが、時には、費用はこの場合よりも一桁多い場合もあるのです。

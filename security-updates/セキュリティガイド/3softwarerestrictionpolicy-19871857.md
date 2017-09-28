@@ -78,23 +78,23 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362912(v=TechNet.10)'
 <td style="border:1px solid black;"><p>1 (高)</p></td>
 <td style="border:1px solid black;"><p>ハッシュ</p></td>
 <td style="border:1px solid black;"><p>実行ファイルのハッシュ値を元に、制限または許可を行います。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>2</p></td>
 <td style="border:1px solid black;"><p>証明書</p></td>
 <td style="border:1px solid black;"><p>実行ファイルに施されている証明書による署名を元に、制限または許可を行います。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>3</p></td>
 <td style="border:1px solid black;"><p>パス</p></td>
 <td style="border:1px solid black;"><p>実行ファイルが置かれている場所 (パス) を元に、制限または許可を行います。ワイルドカードを使うこともできます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>4 (低)</p></td>
 <td style="border:1px solid black;"><p>インターネットゾーン</p></td>
 <td style="border:1px solid black;"><p>Internet Explorer で指定できる、各ゾーン毎に、制限または許可を行います。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 これらを、上手く組み合わせることで自由に制限を行うことができますが、優先順位の低い規則は、広範囲に制限が行われる傾向があります。そのため、間違った規則を設定すると、トラブルの元になりますので、十分に注意する必要があります。例えば、パス規則で、%windir% を制限するとどうなるかは、容易に想像できると思います。
@@ -104,35 +104,35 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362912(v=TechNet.10)'
 制限を行った以上、正しく制限されているか、誰が実行しようとしているのかを知りたいのが管理者の性だと思います。制限されたアプリケーションを実行しようとすると、以下のイベントがアプリケーションログに警告として残ります。
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>イベントID</p></th>  
-<th><p>内容</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>イベントID</p></th>
+<th><p>内容</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>865</p></td>
 <td style="border:1px solid black;"><p>規定の制限規則により実行が制限された場合</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>866</p></td>
 <td style="border:1px solid black;"><p>パス規則により実行が制限された場合</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>867</p></td>
 <td style="border:1px solid black;"><p>証明書規則により実行が制限された場合</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>878</p></td>
 <td style="border:1px solid black;"><p>インターネットゾーン規則または、ハッシュ規則により実行が制限された場合</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 ![](images/Dd362912.secpoint0003_03(ja-jp,TechNet.10).gif)

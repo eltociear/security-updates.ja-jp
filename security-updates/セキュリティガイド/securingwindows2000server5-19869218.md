@@ -267,28 +267,28 @@ W32Time サービスは、RFC 1769 で説明されるとおり、簡易ネット
 <td style="border:1px solid black;"><p>Windows 2000 ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>Active Directory ドメイン コントローラを含むグループ。</p></td>
 <td style="border:1px solid black;"><p>MSS DCBaseline.inf</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Windows 2000 メンバ サーバー</p></td>
 <td style="border:1px solid black;"><p>ドメインのメンバであるすべてのサーバーであり、メンバ サーバー OU 内またはその下に常駐。</p></td>
 <td style="border:1px solid black;"><p>MSS Baseline.inf</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Windows 2000 ファイル サーバーとプリント サーバー</p></td>
 <td style="border:1px solid black;"><p>ロックされたファイル サーバーおよびプリント サーバーを含むグループ。</p></td>
 <td style="border:1px solid black;"><p>MSS FilePrint Role.inf</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Windows 2000 インフラストラクチャ サーバー</p></td>
 <td style="border:1px solid black;"><p>ロックされた DNS、WINS、および DHCP の各サーバーを含むグループ。</p></td>
 <td style="border:1px solid black;"><p>MSS Infrastructure Role.inf</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Windows 2000 IIS サーバー</p></td>
 <td style="border:1px solid black;"><p>ロックされた IIS サーバーを含むグループ。</p></td>
 <td style="border:1px solid black;"><p>MSS IIS Role.inf</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 すべての増分テンプレート ファイルは、メンバ サーバー OU の下の OU に適用されることが前提です。そのため、組織内で下位レベルの各 OU が果たす役割を定義するには、MSS Baseline.inf とそれぞれの増分ファイルの両方を適用する必要があります。
@@ -310,39 +310,39 @@ Contoso は 上記の推奨事項を応用して、自社 Windows 2000 サーバ
 **表 5.2 Contoso の OU と管理グループ**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>OU 名</p></th>  
-<th><p>管理グループ</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>OU 名</p></th>
+<th><p>管理グループ</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ドメイン コントローラ</p></td>
 <td style="border:1px solid black;"><p>ドメイン技術</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>メンバ サーバー</p></td>
 <td style="border:1px solid black;"><p>ドメイン技術</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>インフラストラクチャ</p></td>
 <td style="border:1px solid black;"><p>運用</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ファイルとプリント</p></td>
 <td style="border:1px solid black;"><p>運用</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Web</p></td>
 <td style="border:1px solid black;"><p>Web サービス</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 Contoso では、各管理グループは北米子ドメインのグローバル グループとして作成されました。
@@ -427,63 +427,63 @@ Contoso は、制限された各グループに対応する GPO を使用して�
 **表 5.3 Windows 2000 Server コンピュータ ポリシーのセクション**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>UI 内のポリシー セクション名</p></th>  
-<th><p>説明</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>UI 内のポリシー セクション名</p></th>
+<th><p>説明</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>アカウント ポリシー\パスワードのポリシー</p></td>
 <td style="border:1px solid black;"><p>パスワードの期間、長さ、および複雑さを構成します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>アカウント ポリシー\アカウント ロックアウトのポリシー</p></td>
 <td style="border:1px solid black;"><p>ロックアウトの期間、しきい値、およびリセット カウンタを構成します。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>アカウント ポリシー\Kerberos ポリシー</p></td>
 <td style="border:1px solid black;"><p>チケットの有効期間を構成します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ローカル ポリシー\監査ポリシー</p></td>
 <td style="border:1px solid black;"><p>特定のイベントの記録を有効または無効にします。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ローカル ポリシー\ユーザー権利の割り当て</p></td>
 <td style="border:1px solid black;"><p>ローカル ログオンやネットワーク アクセスなど権利を定義します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ローカル ポリシー\セキュリティ オプション</p></td>
 <td style="border:1px solid black;"><p>特定のセキュリティに関するレジストリ値を修正します。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>イベント ログ</p></td>
 <td style="border:1px solid black;"><p>成功および失敗の監視を有効にします。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>制限されたグループ</p></td>
 <td style="border:1px solid black;"><p>誰が特定のグループに所属するかを管理者が制御します。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>システム サービス</p></td>
 <td style="border:1px solid black;"><p>各サービスの起動モードを制御します。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>レジストリ</p></td>
 <td style="border:1px solid black;"><p>レジストリ キーに関するアクセス許可および監査を構成します。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ファイル システム</p></td>
 <td style="border:1px solid black;"><p>フォルダ、サブフォルダ、およびファイルに関するアクセス許可および監査を構成します。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 すべてのコンピュータにあらかじめローカル ポリシーが定義されています。Active Directory ドメインが最初に作成されるときに、既定のドメイン ポリシーおよびドメイン コントローラ ポリシーも作成されます。既定のポリシーを修正する代わりに、新しいポリシーを作成してドメインにリンクさせます。これにより、任意の設定により環境内で原因不明の問題が発生した際に、すばやくロールバックできます。既定の変更を修正する場合は、修正前の内容を記録しておくことが重要です。これにより、問題が発生した場合、以前の状態に容易に戻すことができます。
@@ -698,43 +698,43 @@ Contoso のパスワード ポリシーの設定を要約して下表に示し�
 **表 5.4 Contoso のパスワード ポリシー**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>UI 内でのパスワード ポリシー名</p></th>  
-<th><p>設定</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>UI 内でのパスワード ポリシー名</p></th>
+<th><p>設定</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>パスワードの履歴を記録する</p></td>
 <td style="border:1px solid black;"><p>24 パスワードを記憶</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>パスワードの有効期間</p></td>
 <td style="border:1px solid black;"><p>42 日</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>パスワードの変更禁止期間</p></td>
 <td style="border:1px solid black;"><p>2 日</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>パスワードの長さ</p></td>
 <td style="border:1px solid black;"><p>8 文字</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>パスワードは要求する複雑さを満たす</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>暗号化を元に戻せる状態でドメインのすべてのユーザーのパスワードを保存する</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### アカウント ロックアウトのポリシー
@@ -826,31 +826,31 @@ Contoso のシナリオでは、\[ロックアウト カウントのリセット
 **表 5.5 Contoso におけるアカウント ロックアウト ポリシーの設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>UI 内のアカウント ロックアウト ポリシー名</p></th>  
-<th><p>設定</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>UI 内のアカウント ロックアウト ポリシー名</p></th>
+<th><p>設定</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ロックアウト期間</p></td>
 <td style="border:1px solid black;"><p>30 分</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ロックアウトのしきい値</p></td>
 <td style="border:1px solid black;"><p>50 回の無効なログオンの試行</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ロックアウト カウントのリセット</p></td>
 <td style="border:1px solid black;"><p>30 分</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 Contoso の設定では、30 分間に無効なログオンを 50 回行うと、ユーザーは自分のアカウントからロックアウトされます。30 分経つと、アカウントは自動的にリセットされます。30 分経たないうちにアカウントをリセットする必要がある場合には、アカウントの管理者が手動で処理する必要があります。
@@ -868,39 +868,39 @@ Contoso は、自社の Kerberos バージョン 5 のポリシーの既定の�
 **表 5.6 Kerberos ポリシーの設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>UI 内の Kerberos ポリシー名</p></th>  
-<th><p>設定</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>UI 内の Kerberos ポリシー名</p></th>
+<th><p>設定</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ユーザー ログオンの制限を強制する</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>サービス チケットの最長有効期間</p></td>
 <td style="border:1px solid black;"><p>600 分</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>チケットの最長有効期間</p></td>
 <td style="border:1px solid black;"><p>10 時間</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ユーザー チケットを更新できる最長有効期間</p></td>
 <td style="border:1px solid black;"><p>7 日</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>コンピュータの時計の同期の最長トレランス</p></td>
 <td style="border:1px solid black;"><p>5 分</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 Kerberos ポリシーの設定は既定値のままです。そのため、Contoso の環境または、このソリューションに関連するジョブ エイドに含まれている MSS Domain.inf ファイルでは、Kerberos ポリシーの設定は特に定義されていません。

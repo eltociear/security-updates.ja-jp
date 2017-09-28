@@ -311,21 +311,21 @@ GPO が正常に作成された後、該当する章のガイダンスと設定�
 <tr class="odd">
 <td style="border:1px solid black;"><p>1</p></td>
 <td style="border:1px solid black;"><p>– バグにより、テストの構築または続行が妨げられた。<br />
-– バグにより、ユーザー アクセスが予期しない状態になった。<br />  
-– ドキュメントに記載されている手順が明確でない。<br />  
+– バグにより、ユーザー アクセスが予期しない状態になった。<br />
+– ドキュメントに記載されている手順が明確でない。<br />
 – 機能または手順が予期した結果 (機能仕様の記載) と矛盾する。<br />
 – セキュリティ テンプレート ファイルと機能仕様とに大きな不一致がある。</p></td>
 <td style="border:1px solid black;"><p>– ソリューションが機能しなかった。<br />
-– ユーザーがほとんどのコンピュータまたはネットワークを使用できなかった。<br />  
-– ユーザーに本来許可されないアクセス権限が与えられた。<br />  
-– ユーザーにアクセスが許可されるべき特定のサーバーへのアクセスが拒否された。<br />  
+– ユーザーがほとんどのコンピュータまたはネットワークを使用できなかった。<br />
+– ユーザーに本来許可されないアクセス権限が与えられた。<br />
+– ユーザーにアクセスが許可されるべき特定のサーバーへのアクセスが拒否された。<br />
 – 予期された結果が得られなかった。<br />
 – 介入なしにはテストを続行できなかった。</p></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>2</p></td>
 <td style="border:1px solid black;"><p>– ガイドに定義されている手順が明確でない。<br />
-– 記載されている機能がない (この場合、テストの続行が妨げられる)。<br />  
+– 記載されている機能がない (この場合、テストの続行が妨げられる)。<br />
 – 記載漏れがある。または、不適切な記載がある。<br />
 – セキュリティ テンプレート ファイルとガイドの記載内容とに矛盾があるが、セキュリティ テンプレート ファイルは機能仕様に準拠している。</p></td>
 <td style="border:1px solid black;"><p>– ユーザーが状況を改善するための簡単な回避策がない。<br />
@@ -338,7 +338,7 @@ GPO が正常に作成された後、該当する章のガイダンスと設定�
 – ドキュメントの目立たない間違いや不正確な記述。<br />
 – テキストの誤字、脱字。</p></td>
 <td style="border:1px solid black;"><p>– ユーザーが状況を改善できる簡単な回避策がある。<br />
-– ユーザーが回避策を簡単に見つけることができる。<br />  
+– ユーザーが回避策を簡単に見つけることができる。<br />
 – バグによりユーザーに望ましくない状況が生じない。<br />
 – 主要ビジネス要件は一応満たされている。</p></td>
 </tr>
@@ -347,8 +347,8 @@ GPO が正常に作成された後、該当する章のガイダンスと設定�
 <td style="border:1px solid black;"><p>– 推奨事項である。<br />
 – 今後改善の必要がある機能が存在する。</p></td>
 <td style="border:1px solid black;"><p>– 明らかに現在のバージョンに関係がない。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 [](#mainsection)[ページのトップへ](#mainsection)
@@ -360,32 +360,32 @@ GPO が正常に作成された後、該当する章のガイダンスと設定�
 テスト チームが実行したすべてのテスト ケースは、予測された結果で合格しました。テスト チームは、定義された環境に*『Windows Server 2003 セキュリティ ガイド』*の推奨事項を適用した結果、必須機能が使用可能であることを確認しています。
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="100%" />  
-</colgroup>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="100%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><h5 id="目次">目次</h5>
-<ul>  
-<li><a href="https://technet.microsoft.com/ja-jp/library/9911b568-c474-465f-998f-4f0fa31bebc6(v=TechNet.10)">概要</a></li>  
-<li><a href="https://technet.microsoft.com/ja-jp/library/8a6cda2e-32c2-4945-897f-0353cd6e908a(v=TechNet.10)">第 1 章 :Windows Server 2003 セキュリティ ガイドの概要</a></li>  
-<li><a href="https://technet.microsoft.com/ja-jp/library/7cc50ea6-80d8-4ef6-81de-f47a60ebf8fa(v=TechNet.10)">第 2 章 :Windows Server 2003 のセキュリティ強化メカニズム</a></li>  
-<li><a href="https://technet.microsoft.com/ja-jp/library/833fddab-0361-4209-bef6-ee3b14acd18d(v=TechNet.10)">第 3 章 :ドメイン ポリシー</a></li>  
-<li><a href="https://technet.microsoft.com/ja-jp/library/d28caa21-4ec2-4556-a92a-5aa8410df6da(v=TechNet.10)">第 4 章 :メンバ サーバー ベースライン ポリシー</a></li>  
-<li><a href="https://technet.microsoft.com/ja-jp/library/4247b4ee-4805-4ac4-8962-9f73c91bb80f(v=TechNet.10)">第 5 章 :ドメイン コントローラ ベースライン ポリシー</a></li>  
-<li><a href="https://technet.microsoft.com/ja-jp/library/ed0c9484-c1e8-4399-8da1-488342ca6503(v=TechNet.10)">第 6 章 :インフラストラクチャ サーバーの役割</a></li>  
-<li><a href="https://technet.microsoft.com/ja-jp/library/e4da3b65-69ce-44a2-8c77-dcd42da508b8(v=TechNet.10)">第 7 章 :ファイル サーバーの役割</a></li>  
-<li><a href="https://technet.microsoft.com/ja-jp/library/897b32c2-f09c-4b08-b10c-37f73aa516df(v=TechNet.10)">第 8 章 :プリント サーバーの役割</a></li>  
-<li><a href="https://technet.microsoft.com/ja-jp/library/ae41b3f3-b46f-4818-ae75-3aaf23075b56(v=TechNet.10)">第 9 章 :Web サーバーの役割</a></li>  
-<li><a href="https://technet.microsoft.com/ja-jp/library/edd5e9dd-fda5-41a5-8b71-80ce960bc394(v=TechNet.10)">第 10 章 :IAS サーバーの役割</a></li>  
-<li><a href="https://technet.microsoft.com/ja-jp/library/a4238f44-28fc-4931-b1d5-a37d2a173284(v=TechNet.10)">第 11 章 :証明書サービス サーバーの役割</a></li>  
-<li><a href="https://technet.microsoft.com/ja-jp/library/c663fb69-d017-4f65-b812-01882f39a34b(v=TechNet.10)">第 12 章 :要塞ホストの役割</a></li>  
-<li><a href="https://technet.microsoft.com/ja-jp/library/90522937-7ccc-49fe-943b-a7b95cdcd8e9(v=TechNet.10)">第 13 章 :結論</a></li>  
-<li><a href="https://technet.microsoft.com/ja-jp/library/bb480ff2-c590-4af4-8f5d-b8d09bb272bf(v=TechNet.10)">付録 A:セキュリティ ツールと形式</a></li>  
-<li><a href="https://technet.microsoft.com/ja-jp/library/22b7ca9a-8713-4a2a-8255-3666a82da9ee(v=TechNet.10)">付録 B:検討が必要な重要な設定</a></li>  
-<li><a href="https://technet.microsoft.com/ja-jp/library/80d2b596-9608-4ae0-8095-81238a707002(v=TechNet.10)">付録 C:セキュリティ テンプレートの設定の概要</a></li>  
-<li>付録 D:Windows Server 2003 セキュリティ ガイドのテスト</li>  
+<ul>
+<li><a href="https://technet.microsoft.com/ja-jp/library/9911b568-c474-465f-998f-4f0fa31bebc6(v=TechNet.10)">概要</a></li>
+<li><a href="https://technet.microsoft.com/ja-jp/library/8a6cda2e-32c2-4945-897f-0353cd6e908a(v=TechNet.10)">第 1 章 :Windows Server 2003 セキュリティ ガイドの概要</a></li>
+<li><a href="https://technet.microsoft.com/ja-jp/library/7cc50ea6-80d8-4ef6-81de-f47a60ebf8fa(v=TechNet.10)">第 2 章 :Windows Server 2003 のセキュリティ強化メカニズム</a></li>
+<li><a href="https://technet.microsoft.com/ja-jp/library/833fddab-0361-4209-bef6-ee3b14acd18d(v=TechNet.10)">第 3 章 :ドメイン ポリシー</a></li>
+<li><a href="https://technet.microsoft.com/ja-jp/library/d28caa21-4ec2-4556-a92a-5aa8410df6da(v=TechNet.10)">第 4 章 :メンバ サーバー ベースライン ポリシー</a></li>
+<li><a href="https://technet.microsoft.com/ja-jp/library/4247b4ee-4805-4ac4-8962-9f73c91bb80f(v=TechNet.10)">第 5 章 :ドメイン コントローラ ベースライン ポリシー</a></li>
+<li><a href="https://technet.microsoft.com/ja-jp/library/ed0c9484-c1e8-4399-8da1-488342ca6503(v=TechNet.10)">第 6 章 :インフラストラクチャ サーバーの役割</a></li>
+<li><a href="https://technet.microsoft.com/ja-jp/library/e4da3b65-69ce-44a2-8c77-dcd42da508b8(v=TechNet.10)">第 7 章 :ファイル サーバーの役割</a></li>
+<li><a href="https://technet.microsoft.com/ja-jp/library/897b32c2-f09c-4b08-b10c-37f73aa516df(v=TechNet.10)">第 8 章 :プリント サーバーの役割</a></li>
+<li><a href="https://technet.microsoft.com/ja-jp/library/ae41b3f3-b46f-4818-ae75-3aaf23075b56(v=TechNet.10)">第 9 章 :Web サーバーの役割</a></li>
+<li><a href="https://technet.microsoft.com/ja-jp/library/edd5e9dd-fda5-41a5-8b71-80ce960bc394(v=TechNet.10)">第 10 章 :IAS サーバーの役割</a></li>
+<li><a href="https://technet.microsoft.com/ja-jp/library/a4238f44-28fc-4931-b1d5-a37d2a173284(v=TechNet.10)">第 11 章 :証明書サービス サーバーの役割</a></li>
+<li><a href="https://technet.microsoft.com/ja-jp/library/c663fb69-d017-4f65-b812-01882f39a34b(v=TechNet.10)">第 12 章 :要塞ホストの役割</a></li>
+<li><a href="https://technet.microsoft.com/ja-jp/library/90522937-7ccc-49fe-943b-a7b95cdcd8e9(v=TechNet.10)">第 13 章 :結論</a></li>
+<li><a href="https://technet.microsoft.com/ja-jp/library/bb480ff2-c590-4af4-8f5d-b8d09bb272bf(v=TechNet.10)">付録 A:セキュリティ ツールと形式</a></li>
+<li><a href="https://technet.microsoft.com/ja-jp/library/22b7ca9a-8713-4a2a-8255-3666a82da9ee(v=TechNet.10)">付録 B:検討が必要な重要な設定</a></li>
+<li><a href="https://technet.microsoft.com/ja-jp/library/80d2b596-9608-4ae0-8095-81238a707002(v=TechNet.10)">付録 C:セキュリティ テンプレートの設定の概要</a></li>
+<li>付録 D:Windows Server 2003 セキュリティ ガイドのテスト</li>
 <li><a href="https://technet.microsoft.com/ja-jp/library/d43f2ace-bc5d-46b1-92ff-9468ae0c73ac(v=TechNet.10)">謝辞</a></li>
 </ul></td>
 </tr>

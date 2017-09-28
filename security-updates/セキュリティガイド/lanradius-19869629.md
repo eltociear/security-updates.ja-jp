@@ -140,27 +140,27 @@ IAS を使用したワイヤレス アクセス管理ソリューションの設
 <td style="border:1px solid black;"><p>はい</p></td>
 <td style="border:1px solid black;"><p>はい</p></td>
 <td style="border:1px solid black;"><p>いいえ</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ユーザー プリンシパル名 (UPN)</p></td>
 <td style="border:1px solid black;"><p>はい</p></td>
 <td style="border:1px solid black;"><p>はい</p></td>
 <td style="border:1px solid black;"><p>いいえ</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;">リモート アクセス ポリシー (RAP)<br />
 許可を使用したアクセスの制御がユーザー アカウントで使用可能</td>
 <td style="border:1px solid black;"><p>はい</p></td>
 <td style="border:1px solid black;"><p>はい</p></td>
 <td style="border:1px solid black;"><p>いいえ</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>EAP–TLS のサポート</p></td>
 <td style="border:1px solid black;"><p>はい</p></td>
 <td style="border:1px solid black;"><p>はい</p></td>
 <td style="border:1px solid black;"><p>いいえ</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **注 :** このソリューションの証明書サービスの実装においても、Active Directory 固有の要件があります。 詳細については、「第 4 章 : 公開キー基盤を設計する」を参照してください。
@@ -198,26 +198,26 @@ IAS サーバーは、次の 3 つの概念的な RADIUS の役割のいずれ�
 **表 5.2: IAS RADIUS の役割**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>IAS RADIUS の役割</p></th>  
-<th><p>機能</p></th>  
-<th><p>シナリオ</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>IAS RADIUS の役割</p></th>
+<th><p>機能</p></th>
+<th><p>シナリオ</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>RADIUS サーバー</p></td>
 <td style="border:1px solid black;"><p>– Active Directory またはその他の信頼できるデータ ソースで直接資格情報を確認する。<br />
 – ネットワーク アクセスを決定するために RAP を活用する。</p></td>
 <td style="border:1px solid black;"><p>すべてのネットワーク アクセス管理のシナリオで必要。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>RADIUS プロキシ サーバー</p></td>
 <td style="border:1px solid black;"><p>– 要求プロパティに基づいて要求をルーティングする。<br />
@@ -231,8 +231,8 @@ IAS サーバーは、次の 3 つの概念的な RADIUS の役割のいずれ�
 <td style="border:1px solid black;"><p>RADIUS サーバーとプロキシ サーバー</p></td>
 <td style="border:1px solid black;"><p>上記の 2 つの機能の組み合わせ</p></td>
 <td style="border:1px solid black;"><p>2 つのシナリオの組み合わせ</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 RADIS のすべての役割が、ネットワーク アクセス管理のすべてのシナリオで必要になるわけではありません。 たとえば、多くの組織では、WLAN アクセス管理を行うためには、RADIUS サーバーの役割のみが必要になります。 ただし、ワイヤレス ネットワーク インフラストラクチャを使用した、複数の Active Directory フォレストのユーザーやデバイスへのサービス提供を組織で計画している場合は、各フォレストの独立した RADIUS サーバーに要求をルーティングするために、RADIUS プロキシ サーバーも必要になります。
@@ -252,24 +252,24 @@ RADIUS は、すべての 802.1X ベースの WLAN アクセス管理ソリュ�
 **表 5.3: EAP-RADIUS フェールオーバーと負荷分散オプション**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>フェールオーバーと負荷分散方法</p></th>  
-<th><p>長所</p></th>  
-<th><p>短所</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>フェールオーバーと負荷分散方法</p></th>
+<th><p>長所</p></th>
+<th><p>短所</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>RADIUS サーバー グループによる IAS プロキシ</p></td>
 <td style="border:1px solid black;"><p>– RADIUS サービスはフェールオーバーとフェールバックによる失敗の検出サービスを提供する。<br />
-– トラフィック プロパティに基づくトラフィック負荷分散が行われる。<br />  
+– トラフィック プロパティに基づくトラフィック負荷分散が行われる。<br />
 – 負荷分散時に EAP セッション状態を維持する。<br />
 – 要求のサーバーへの分散が優先順位および重要度の設定に基づいて構成可能である。</p></td>
 <td style="border:1px solid black;"><p>– 追加の IAS サーバーが必要になる。<br />
@@ -382,7 +382,7 @@ RADIUS 要求ログの定期的なクエリ、レポーティング、および�
 <tr class="odd">
 <td style="border:1px solid black;"><p>「<em>Windows Server2003 セキュリティ ガイド</em>」に記載されている IAS グループ ポリシー テンプレートにあるシステム イベント ログのサイズは、IAS イベントを収容するために既定よりも大きくなっている。</p></td>
 <td style="border:1px solid black;"><p>RADIUS 認証要求のログ記録のオプションを有効にしない場合、システム イベント ログは既定で WLAN アクセス セキュリティ イベントの主要な記録となる。 <strong>[必要に応じてイベントを上書きする]</strong> の既定の設定など、設定は慎重に検討する。この設定によっては、ログがいっぱいになると監査データが上書きされることになる。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>RADIUS 認証とアカウンティング要求のテキスト ファイルへのログ記録が有効になっている。</p></td>
 <td style="border:1px solid black;"><p>これにより、IAS サーバー上に CPU 負荷およびディスク領域の要件が発生する。<br />
@@ -391,19 +391,19 @@ RADIUS 要求ログの定期的なクエリ、レポーティング、および�
 <tr class="odd">
 <td style="border:1px solid black;"><p>このガイダンスの IAS サーバーのハードウェア仕様には、独立した物理ディスク上にある独立したログ ファイル ディスク ボリュームが含まれる。</p></td>
 <td style="border:1px solid black;"><p>これにより、RADIUS 要求のログ ファイルへの書き込み能力による RADIUS ネットワーク アクセス管理への影響を最小限に抑えることが保証される。 また、この決定により、ディスク ボリュームをいっぱいにするログ記録の原因となるイベントが、サーバーの回復力に影響しないことも保証される。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>RADIUS 認証およびアカウンティング項目のオプションが有効になっているが、定期的な状態のオプションは有効になっていない。</p></td>
 <td style="border:1px solid black;"><p>これにより、認証状態やセッション時間を決定するのに必要な重要な情報だけを記録することが保証される。 定期的な状態のオプションは、ログ ファイルの要件を削減するために省略されている。 自社の環境でユーザー セッション時間の記録が重要となる場合は、定期的な状態のログを有効にするかどうかを検討する必要がある。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>RADIUS 認証およびアカウンティング ログ ファイルのために ODBC (Open Database Connectivity) 互換のデータベース形式が選択されている。</p></td>
 <td style="border:1px solid black;"><p>これにより、管理者は ODBC 互換データベースに容易にログ ファイルをインポートして、分析を実施できる。通常は、これが最善の方法と考えられている。 また、Windows Server 2003 サポート ツールの IASPARSE.EXE を使用してファイルを参照することもできる。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>新しいログ ファイルの作成間隔は、<strong>毎月</strong>に設定されている。</p></td>
 <td style="border:1px solid black;"><p>生成するログ ファイルの数を減らすように作成間隔を選択すると、SQL Server のログ機能を使用していない場合のデータベースへのログ ファイルのインポートや IASPARSE.EXE を使用してのログ ファイルの参照が容易になる。 このオプションは、1 つのログ ファイルを使用してハードディスクに書き込みを行なうことのリスクとのバランスを考えて設定する必要がある。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>RADIUS 要求のログ記録のオプションは、ディスクがいっぱいになったときには古いログ ファイルを最初に削除するように設定されている。</p></td>
 <td style="border:1px solid black;"><p>この既定の設定によるリスクは、ログ ファイル ディスクがいっぱいになったときにセキュリティ情報が失われる可能性があるということである。 この設定は、ログ ファイルがいっぱいになったときに IAS サーバーが停止しないようにするために選択されている。<br />
@@ -485,8 +485,8 @@ IAS と Active Directory ドメイン コントローラ間の通信は集中的
 <td style="border:1px solid black;"><p>– IAS 管理者とドメイン管理者を切り離すことができる。</p>
 <p>– IAS の負荷や動作が Active Directory サービスに影響しない。</p></td>
 <td style="border:1px solid black;"><p>追加のサーバー ハードウェアが必要となる。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 Active Directory ドメイン コントローラは、慎重な取り扱いが必要な重要な IT インフラストラクチャです。 多くのエンタープライズ組織は、ドメイン コントローラ上のソフトウェアやサービスの追加を抑えて、サービスの信頼性を最大限に高めるという方針を持っています。
@@ -498,36 +498,36 @@ Active Directory ドメイン コントローラは、慎重な取り扱いが�
 **表 5.6: Windows Server 2003 ドメイン コントローラに対して事前に必要な処理**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>検討事項</p></th>  
-<th><p>事前に必要な処理</p></th>  
-<th><p>説明</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>検討事項</p></th>
+<th><p>事前に必要な処理</p></th>
+<th><p>説明</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Windows Server 2003 ドメイン コントローラは既定で、Server Message Block (SMB) の署名と暗号化、またはセキュリティで保護されたチャネルでの通信への署名が必要となる。 この要件のため、以前のバージョンの Windows ベース クライアントの一部で問題が生じる可能性がある。</p></td>
 <td style="border:1px solid black;"><p>自社環境のクライアント コンピュータをすべて、最低でも Active Directory クライアントを持つ Microsoft Windows 95、または Microsoft Windows NT 4.0 Service Pack 4 (SP4) 以降にアップグレードする。</p></td>
 <td style="border:1px solid black;"><p>詳細については、この章の最後の「関連情報」に記載されている「<em>Windows</em> <em>Server</em> <em>2003 ヘルプとサポート センター</em>」を参照してください。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Windows Server 2003 ドメイン コントローラは、既定で、セキュリティで保護されたチャネルへの署名と暗号化が必要となる。 SP4 を適用せずに Windows NT 4.0 を実行しているドメイン内のサーバーでは、この要件がドメイン間信頼に支障を来たす可能性がある。</p></td>
 <td style="border:1px solid black;"><p>レガシー ドメインのすべてのドメイン コントローラを、Windows NT Server 4.0 SP4 以降にアップグレードする。</p></td>
 <td style="border:1px solid black;"><p>詳細については、この章の最後の「関連情報」に記載されている「<em>Windows Server</em> <em>2003 ヘルプとサポート センター</em>」を参照してください。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Windows Server 2003 ドメイン コントローラでは、インストール前に、Active Directory フォレストおよびドメインの準備が必要になる。</p></td>
 <td style="border:1px solid black;"><p>自社環境のドメイン コントローラを Windows Server 2003 にアップグレードする前に、ADPrep ユーティリティを使用して新しいフォレストを準備する。</p></td>
 <td style="border:1px solid black;"><p>これによる部分的な属性セット (PAS) への影響はなく、グローバル カタログ サーバーが再構築されることはない。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 このソリューションは、必要に応じて IAS と Active Directory をドメイン コントローラと同じ場所に配置できるように構成されています。 このソリューションは、ハブ設置内のコントローラから切り離され、支社の Windows Server 2003 ドメイン コントローラと同じ場所に配置された IAS を使用してテストされました。
@@ -557,43 +557,43 @@ IAS サーバーの負荷を見積もるには WLAN アクセスを必要とす�
 **表 5.7: EAP–TLS 認証動作**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>認証の種類</p></th>  
-<th><p>コメント</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>認証の種類</p></th>
+<th><p>コメント</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>最初のコンピュータ認証</p></td>
 <td style="border:1px solid black;"><p>クライアントはIAS との完全認証を実行する。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>最初のユーザー認証</p></td>
 <td style="border:1px solid black;"><p>クライアントはIAS との完全認証を実行する。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ワイヤレス AP 間の移動時のユーザー再認証</p></td>
 <td style="border:1px solid black;"><p>クライアントは、各 IAS サーバーで 1 回完全認証を実行し、追加の認証では高速再接続を使用する。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ワイヤレス AP 間の移動時のデバイス再認証</p></td>
 <td style="border:1px solid black;"><p>クライアントは、各 IAS サーバーで 1 回完全認証を実行し、追加の認証では高速再接続を使用する。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>スケジュールされたコンピュータ再認証</p></td>
 <td style="border:1px solid black;"><p>クライアントは IAS とのキャッシュされた認証を使用する。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>スケジュールされたユーザー再認証</p></td>
 <td style="border:1px solid black;"><p>クライアントは IAS とのキャッシュされた認証を使用する。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 IAS で対応できる認証数の概算値を表わす方法としては、1 秒あたりの認証数が最適です。 IAS は、Intel Pentium 4 2 GHz CPU を搭載し、Active Directory 機能を持つ Windows Server 2003 を実行しているコンピュータで、次の数値を達成することができます。
@@ -603,31 +603,31 @@ IAS で対応できる認証数の概算値を表わす方法としては、1 �
 **表 5.8: 1 秒あたりの認証数**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>認証の種類</p></th>  
-<th><p>1 秒あたりの認証数</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>認証の種類</p></th>
+<th><p>1 秒あたりの認証数</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>新規 EAP–TLS 認証</p></td>
 <td style="border:1px solid black;"><p>36</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>オフロード カード サポートを使用する新しい EAP–TLS 認証</p></td>
 <td style="border:1px solid black;"><p>50</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>高速再接続による認証</p></td>
 <td style="border:1px solid black;"><p>166</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 IAS は、さまざまな量の RADIUS 要求情報を含めたディスクベースのテキスト ログを生成するように構成できます。 RADIUS サーバー上での RADIUS ログ記録のオーバーヘッドを考慮して、RADIUS ログの保存にはパフォーマンスの高いディスクの使用を計画してください。 ディスク サブシステムの処理能力が低いと、IAS RADIUS によるワイヤレス AP への応答が遅くなり、プロトコル タイムアウトやセカンダリ RADIUS サーバーに対するワイヤレス AP の不必要なフェールオーバーが発生する可能性があります。
@@ -658,30 +658,30 @@ IAS サーバーが、Windows Server 2003 の推奨ハードウェア要件に�
 **表 5.9: テスト済みのサーバーのハードウェア**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>リソース</p></th>  
-<th><p>構成</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>リソース</p></th>
+<th><p>構成</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>CPU</p></td>
 <td style="border:1px solid black;"><p>Dual CPU Pentium III 850 MHz</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>RAM</p></td>
 <td style="border:1px solid black;"><p>512 MB</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ネットワーク インターフェイス カード (NIC)</p></td>
 <td style="border:1px solid black;"><p>障害時に備えて 2 枚の NIC</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ハードディスク</p></td>
 <td style="border:1px solid black;"><p>– 9 GB ハード ディスク 2 台で RAID 1 を構成 (ボリューム C)、オペレーティング システム用<br />
@@ -754,7 +754,7 @@ IAS は、Windows Server 2003 オペレーティング システムのオプシ�
 <td style="border:1px solid black;"><p>IAS 管理者 (IAS Administrators)</p></td>
 <td style="border:1px solid black;"><p>IAS サービスおよび IAS 構成の管理などの日常的な IAS 管理タスクを実施する。</p></td>
 <td style="border:1px solid black;"><p>IAS サービスの開始、停止、クエリ、構成を実行して、IAS 構成データベースを変更する。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>IAS セキュリティ監査人 (IAS Security Auditors)</p></td>
 <td style="border:1px solid black;"><p>管理アクセス許可を持たないセキュリティ監査人がセキュリティ情報にアクセスできるようにする。</p></td>
@@ -765,13 +765,13 @@ IAS は、Windows Server 2003 オペレーティング システムのオプシ�
 <td style="border:1px solid black;"><p>IAS バックアップ オペレータ (IAS Backup Operators)</p></td>
 <td style="border:1px solid black;"><p>バックアップ オペレータが IAS サーバーの定期的なバックアップを行なえるようにする。 バックアップには、IAS 構成状態データと履歴データが含まれる。</p></td>
 <td style="border:1px solid black;"><p>IAS サーバーの毎日、毎週、毎月のバックアップを管理する。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>WLAN ヘルプデスク スタッフ (WLAN Helpdesk Staff)</p></td>
 <td style="border:1px solid black;"><p>ユーザーによる WLAN アクセス関連の問題の解決を支援するスタッフ</p></td>
 <td style="border:1px solid black;"><p>ユーザーおよびデバイス認証に関連するシステム イベント ログ内の IAS イベントを確認する。または、イベントが別のシステムに複製されるのを表示する。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 次の表は、さまざまな IAS サーバー タスクを実行するのに必要なリソース アクセス許可の詳細を示したものです。
@@ -779,25 +779,25 @@ IAS は、Windows Server 2003 オペレーティング システムのオプシ�
 **表 5.11: IAS サーバー タスクの実行に必要なアクセス許可**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>タスク</p></th>  
-<th><p>グループ メンバシップ</p></th>  
-<th><p>必要なアクセス許可または権利</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>タスク</p></th>
+<th><p>グループ メンバシップ</p></th>
+<th><p>必要なアクセス許可または権利</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>IAS サービスの停止、開始、クエリ、構成</p></td>
 <td style="border:1px solid black;"><p>IAS Admins ドメイン グローバル グループ。IAS サーバー上のローカル Administrators グループのメンバ</p></td>
 <td style="border:1px solid black;"><p>SC コマンドを使用して、Windows Server 2003 のサービス許可を修正できる。 オペレーティング システム コンポーネントの既定のアクセス許可を変更する場合は、事前にマイクロソフトのサポート担当者に相談すること。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>IAS 構成の変更</p></td>
 <td style="border:1px solid black;"><p>IAS Admins ドメイン グローバル グループ。IAS サーバー上のローカル Administrators グループのメンバ</p></td>
@@ -808,7 +808,7 @@ IAS は、Windows Server 2003 オペレーティング システムのオプシ�
 <td style="border:1px solid black;"><p>IAS サーバーにある RADIUS 要求ログへのアクセス</p></td>
 <td style="border:1px solid black;"><p>IAS Security Auditors ドメイン グローバル グループ</p></td>
 <td style="border:1px solid black;"><p>IAS 監査人は、D:\IASLogs ディレクトリに置かれた RADIUS 要求ログ ファイルの読み込みと削除が可能である必要がある。 このソリューションの構築ガイドでは、このディレクトリの NTFS Change アクセス許可を IAS Security Auditors セキュリティ グループに付与し、IAS Security Auditors セキュリティ グループに付与された Change 共有アクセス許可で IASLogs という名前の共有を作成する。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>システム イベント ログからの IAS セキュリティ イベントの読み取りと保存</p></td>
 <td style="border:1px solid black;"><p>ローカル Administrators<br />
@@ -821,13 +821,13 @@ IAS サーバーの Backup Operators</p></td>
 <td style="border:1px solid black;"><p>IAS サーバーの毎日、毎週、毎月のバックアップの実施</p></td>
 <td style="border:1px solid black;"><p>IAS サーバーの Backup Operators</p></td>
 <td style="border:1px solid black;"><p>IAS 構成状態や RADIUS 要求ログなどの履歴データも含め、IAS サーバーをバックアップする。 Backup Operators セキュリティ グループのメンバは、%systemroot%\system32\ias ディレクトリに置かれた IAS データベース ファイル、<strong>HKLM\System\CurrentControlSet\Services</strong> の下の各種レジストリ キー、および D:\IASConfig にある IAS <strong>NETSH</strong> 構成テキスト ファイルへのアクセスが許可される。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>トラブルシューティングのためのシステム イベント ログの IAS 認証イベントの確認</p></td>
 <td style="border:1px solid black;"><p>システム イベント ログの読み取りアクセス許可を持つグループ メンバシップ</p></td>
 <td style="border:1px solid black;"><p>シニア トラブルシューティング スタッフには、IAS 認証拒否イベントを参照および解釈するための、Windows Server 2003 システム イベント ログの読み取りアクセス許可が付与される必要がある。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### セキュリティの監視と監査
@@ -839,20 +839,20 @@ IAS はセキュリティ インフラストラクチャのコンポーネント
 **表 5.12: IAS サーバー インフラストラクチャの脅威**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>脅威/脆弱性</p></th>  
-<th><p>兆候</p></th>  
-<th><p>監視ツール</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>脅威/脆弱性</p></th>
+<th><p>兆候</p></th>
+<th><p>監視ツール</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>盗まれた資格情報 (たとえば、消失した、または盗まれたポータブル コンピュータ内にあった情報) を使用した認証の試行</p></td>
 <td style="border:1px solid black;"><p>失効された資格情報の使用の試みを示すシステム イベント ログや RADIUS 認証要求ログ内の認証の成功/拒否イベント (ソース: IAS、ID 1 および 2)</p></td>
@@ -863,12 +863,12 @@ IAS はセキュリティ インフラストラクチャのコンポーネント
 <td style="border:1px solid black;"><p>不正なワイヤレス AP を使用して実行された man-in-the-middle 攻撃の試行</p></td>
 <td style="border:1px solid black;"><p>不正な認証 (不正なメッセージ認証属性) または無効な要求 (未知の RADIUS クライアントまたはサーバーから受信した要求) など、過度に発生したインスタンスを示す IAS サーバー上のシステム モニタ カウンタ</p></td>
 <td style="border:1px solid black;"><p>これらのシステム モニタ カウンタを検出して、警告を発生させるカスタム スクリプトを使用した MOM</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>IAS サーバー サービスに対する DoS またはバッファ オーバーフローの試行</p></td>
 <td style="border:1px solid black;"><p>誤った形式のパケット (誤った形式のデータを含むパケット)、未知の種類 (RADIUS 以外のパケットの受信)、または欠落したパケット (不正な MAC、誤った形式、未知以外の欠落したパケット) の過度に発生したインスタンスを示す、IAS サーバー上のシステム モニタ カウンタ</p></td>
 <td style="border:1px solid black;"><p>これらのシステム モニタ カウンタを検出して、警告を発生させるカスタム スクリプトを使用した MOM</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>承認されていない認証の試行</p></td>
 <td style="border:1px solid black;"><p>システム イベント ログ内で繰り返される認証の失敗イベント (ソース: IAS、ID 2)</p></td>
@@ -910,7 +910,7 @@ IAS はセキュリティ インフラストラクチャのコンポーネント
 <td style="border:1px solid black;"><p>IAS 構成および履歴データに対する不十分なアクセス許可</p></td>
 <td style="border:1px solid black;"><p>IAS Admins グループ、IAS Security Auditors、または Local Administrators グループの承認されていないメンバ</p></td>
 <td style="border:1px solid black;"><p>SomarSoft の DumpSec などの Active Directory およびローカル セキュリティ グループ監査ツール</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>成功しなかった認証を隠そうとする試み</p></td>
 <td style="border:1px solid black;"><p>システム イベント ログが予期しないときに消去される</p></td>
@@ -921,8 +921,8 @@ IAS はセキュリティ インフラストラクチャのコンポーネント
 <td style="border:1px solid black;"><p>RADIUS アカウントの監査および認証ログへの承認されていない変更</p></td>
 <td style="border:1px solid black;"><p>予期していないユーザー ID による書き込み成功がフォルダ監査ログに記録される。</p></td>
 <td style="border:1px solid black;"><p>MOM などの Windows ファイル監査および監視ツール 承認されていないファイルの変更を検出するには、ファイルの監査を有効にする必要がある。</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 [](#mainsection)[ページのトップへ](#mainsection)

@@ -212,38 +212,38 @@ Office 2003 の設定を構成する GPO には、Windows XP に付属してい�
 <td style="border:1px solid black;"><p>24 パスワード数</p></td>
 <td style="border:1px solid black;"><p>24 パスワード数</p></td>
 <td style="border:1px solid black;"><p>24 パスワード数</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>パスワードの有効期間</p></td>
 <td style="border:1px solid black;"><p>42 日間</p></td>
 <td style="border:1px solid black;"><p>90 日間</p></td>
 <td style="border:1px solid black;"><p>90 日間</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>パスワードの変更禁止期間</p></td>
 <td style="border:1px solid black;"><p>1 日</p></td>
 <td style="border:1px solid black;"><p>1 日</p></td>
 <td style="border:1px solid black;"><p>1 日</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>最小パスワード長</p></td>
 <td style="border:1px solid black;"><p>7 文字以上</p></td>
 <td style="border:1px solid black;"><p>8 文字以上</p></td>
 <td style="border:1px solid black;"><p>12 文字以上</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>パスワードは、複雑さの要件を満たす必要がある</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>暗号化を元に戻せる状態でパスワードを保存する</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### パスワードの履歴を記録する
@@ -317,41 +317,41 @@ EC 環境では、\[最小パスワード長\] の値を \[8 文字以上\] に�
 **表 2.2 アカウント ロックアウト ポリシーの推奨設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>設定</p></th>  
-<th><p>ドメイン コントローラの既定の設定</p></th>  
-<th><p>EC</p></th>  
-<th><p>SSLF</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>設定</p></th>
+<th><p>ドメイン コントローラの既定の設定</p></th>
+<th><p>EC</p></th>
+<th><p>SSLF</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ロックアウト期間</p></td>
 <td style="border:1px solid black;"><p>未定義</p></td>
 <td style="border:1px solid black;"><p>15 分</p></td>
 <td style="border:1px solid black;"><p>15 分</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>アカウントのロックアウトのしきい値</p></td>
 <td style="border:1px solid black;"><p>0 回ログオンに失敗</p></td>
 <td style="border:1px solid black;"><p>50 回ログオンに失敗</p></td>
 <td style="border:1px solid black;"><p>10 回ログオンに失敗</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ロックアウト カウンタのリセット</p></td>
 <td style="border:1px solid black;"><p>未定義</p></td>
 <td style="border:1px solid black;"><p>15 分</p></td>
 <td style="border:1px solid black;"><p>15 分</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### ロックアウト期間
@@ -401,29 +401,29 @@ EC 環境では、\[最小パスワード長\] の値を \[8 文字以上\] に�
 **表 2.3 ユーザー権利の割り当ての推奨設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>設定</p></th>  
-<th><p>ドメイン コントローラの既定の設定</p></th>  
-<th><p>EC</p></th>  
-<th><p>SSLF</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>設定</p></th>
+<th><p>ドメイン コントローラの既定の設定</p></th>
+<th><p>EC</p></th>
+<th><p>SSLF</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ドメインにワークステーションを追加</p></td>
 <td style="border:1px solid black;"><p>Authenticated Users</p></td>
 <td style="border:1px solid black;"><p>Administrators</p></td>
 <td style="border:1px solid black;"><p>Administrators</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 \[ドメインにワークステーションを追加\] 設定を有効にするには、ドメインのすべてのドメイン コントローラに適用される GPO 内のユーザーにこの権利を割り当てる必要があります。この権利を割り当てられたユーザーは、最大 10 台のワークステーションをドメインに追加できます。OU または Active Directory の Computers コンテナに対する \[コンピュータ オブジェクト作成\] アクセス許可を割り当てられているユーザーは、\[ドメインにワークステーションを追加\] ユーザー権利を割り当てられているかどうかに関係なく、ドメインにコンピュータを追加したり、ドメインにコンピュータを無制限に追加したりできます。
@@ -449,41 +449,41 @@ Active Directory ドメインでは、各コンピュータ アカウントは�
 **表 2.4 セキュリティ オプションの推奨設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>設定</p></th>  
-<th><p>ドメイン コントローラの既定の設定</p></th>  
-<th><p>EC</p></th>  
-<th><p>SSLF</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>設定</p></th>
+<th><p>ドメイン コントローラの既定の設定</p></th>
+<th><p>EC</p></th>
+<th><p>SSLF</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>Microsoft ネットワーク サーバー:ログオン時間の有効期間が切れるとクライアントを切断する</p></td>
 <td style="border:1px solid black;"><p>未定義</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ネットワーク アクセス:匿名の SID と名前の変換を許可する</p></td>
 <td style="border:1px solid black;"><p>未定義</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ネットワーク セキュリティ:ログオン時間を経過した場合はユーザーを強制的にログオフさせる</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 #### Microsoft ネットワーク サーバー:ログオン時間の有効期間が切れるとクライアントを切断する

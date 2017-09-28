@@ -278,66 +278,66 @@ IP トランスポートの場合、一般的にサイト リンクは 2 つの�
 <tr class="odd">
 <td style="border:1px solid black;"><p>低速 (通常、欧州で利用)</p></td>
 <td style="border:1px solid black;"><p>64 Kbps</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ISDN</p></td>
 <td style="border:1px solid black;"><p>64 Kbps または 128 Kbps</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>フレーム リレー</p></td>
 <td style="border:1px solid black;"><p>通常、56 Kbps ～ 1.5 Mbps 間で変化</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>T1</p></td>
 <td style="border:1px solid black;"><p>1.5 Mbps</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>T3</p></td>
 <td style="border:1px solid black;"><p>45 Mbps</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>非同期転送モード (ATM)</p></td>
 <td style="border:1px solid black;"><p>通常、155 Mbps ～ 622 Mbps 間で変化</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>ギガビット イーサネット</p></td>
 <td style="border:1px solid black;"><p>1 Gbps</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 任意のコストを割り当てる前に、WAN のモデルを定義します。コストに加え、それ以外のファクタ (可用性と複製の待ち時間) を基準に、フォレスト全体で実行できる一連のコストを確立します。この場合、コストを割り当てることで、同じコストが割り当てられた別の場所にも同じ内容が常に適用されることになります。下表は、フォレスト内のネットワークごとにコストを分類した一例を示しています。この場合、高速なネットワークが低コストになります。
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>ネットワークの種類</p></th>  
-<th><p>コスト値</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>ネットワークの種類</p></th>
+<th><p>コスト値</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>バックボーン接続の T1</p></td>
 <td style="border:1px solid black;"><p>1</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>56 キロビット リンク</p></td>
 <td style="border:1px solid black;"><p>500</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>支社</p></td>
 <td style="border:1px solid black;"><p>1,000</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>国際的なリンク</p></td>
 <td style="border:1px solid black;"><p>5,000</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 サイト リンクの**コスト**設定によって、リンクに属するすべてのサイト間の通信コストの相対値が提供されます (既定でサイト リンク設定は接続するサイト間で*推移的*です)。たとえば、IP サイト リンクのオブジェクト XYZ を作成し、X、Y、Z のサイトをコスト 5 で接続した場合、サイトのすべてのペア (X から Y、X から Z、Y から X、Y から Z、Z から X、Z から Y) の間で、IP メッセージをコスト 5 で送信できるようなリンクが確立されます。
@@ -453,31 +453,31 @@ IP ネットワークが完全にルートされていない場合、(IP トラ�
 サイト A とサイト B がサイト リンク AB を所有し、サイト B とサイト C がサイト リンク BC を所有する場合について考えます。サイト A のドメイン コントローラを、サイト C のドメイン コントローラに複製するときは、サイト リンク AB とサイト リンク BC に許可された最大の間隔でのみ複製が発生します。下表は、サイト A、サイト B、およびサイト C のドメイン コントローラ間で複製を発生する頻度と期間を決定するサイト リンク設定を示しています。
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="33%" />  
-<col width="33%" />  
-<col width="33%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>サイト リンク</p></th>  
-<th><p>複製間隔</p></th>  
-<th><p>スケジュール</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>サイト リンク</p></th>
+<th><p>複製間隔</p></th>
+<th><p>スケジュール</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>AB</p></td>
 <td style="border:1px solid black;"><p>30 分</p></td>
 <td style="border:1px solid black;"><p>午後 12 時から午前 4 時</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>BC</p></td>
 <td style="border:1px solid black;"><p>60 分</p></td>
 <td style="border:1px solid black;"><p>午前 1 時から 5 時</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 表 6.4 の設定の場合、サイト リンク AB のスケジュールと間隔 (午後 12 時から午前 4 時まで 30 分間隔) に基づいて、ドメイン A のドメイン コントローラをサイト B のドメイン コントローラと複製できます。ただし、サイト リンク AC が存在しないことを前提とした場合、60 分 (2 つの複製間隔のうち値の大きい方) ごとに、午前 1 時から 4 時 (2 つのサイト リンクのスケジュールが交わる期間) まで、サイト A のドメイン コントローラをサイト C のドメイン コントローラに複製できます。

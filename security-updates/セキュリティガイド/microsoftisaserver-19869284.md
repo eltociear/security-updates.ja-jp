@@ -178,7 +178,7 @@ ISA Server のキャパシティ プランニングは、必ず以下のいず�
 <td style="border:1px solid black;"><p>12</p></td>
 <td style="border:1px solid black;"><p>38</p></td>
 <td style="border:1px solid black;"><p>115</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>アウトバウンド ファイアウォール (ファイアウォール クライアント)</p></td>
 <td style="border:1px solid black;"><p>61</p></td>
@@ -186,7 +186,7 @@ ISA Server のキャパシティ プランニングは、必ず以下のいず�
 <td style="border:1px solid black;"><p>6</p></td>
 <td style="border:1px solid black;"><p>19</p></td>
 <td style="border:1px solid black;"><p>56</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>フォワード キャッシュ</p></td>
 <td style="border:1px solid black;"><p>25</p></td>
@@ -194,7 +194,7 @@ ISA Server のキャパシティ プランニングは、必ず以下のいず�
 <td style="border:1px solid black;"><p>13</p></td>
 <td style="border:1px solid black;"><p>45</p></td>
 <td style="border:1px solid black;"><p>134</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>リバース キャッシュ</p></td>
 <td style="border:1px solid black;"><p>71</p></td>
@@ -202,7 +202,7 @@ ISA Server のキャパシティ プランニングは、必ず以下のいず�
 <td style="border:1px solid black;"><p>5</p></td>
 <td style="border:1px solid black;"><p>16</p></td>
 <td style="border:1px solid black;"><p>48</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>統合ファイアウォール/キャッシュ</p></td>
 <td style="border:1px solid black;"><p>32</p></td>
@@ -210,8 +210,8 @@ ISA Server のキャパシティ プランニングは、必ず以下のいず�
 <td style="border:1px solid black;"><p>11</p></td>
 <td style="border:1px solid black;"><p>36</p></td>
 <td style="border:1px solid black;"><p>107</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 "CPU 使用率 75% でのインターネット Mbps" の列は、Pentium III 733 MHz プロセッサがサポート可能なインターネット帯域幅を示します。その後の 4 つの列は、各帯域幅のインターネット接続を 100% 使用した場合の予想 CPU 使用率を示します。この表を見ると、Pentium III 733 MHz プロセッサを使用した場合、ほとんどのインターネット リンクですべてのシナリオに対応できることがわかります。ハイエンド (T3 リンク) では、Pentium 4 を搭載していればどのようなコンピュータでも対応できます。
@@ -307,16 +307,16 @@ ISA Server システムをスケール アウトするには、次のような�
   
 **表 2 ISA Server スケーリング オプション**
   
-<table style="width:100%;">  
-<colgroup>  
-<col width="16%" />  
-<col width="16%" />  
-<col width="16%" />  
-<col width="16%" />  
-<col width="16%" />  
-<col width="16%" />  
-</colgroup>  
-<tbody>  
+<table style="width:100%;">
+<colgroup>
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+<col width="16%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p><strong></strong></p></td>
 <td style="border:1px solid black;"><p>スケール アップ</p></td>
@@ -324,7 +324,7 @@ ISA Server システムをスケール アウトするには、次のような�
 <td style="border:1px solid black;"><p><strong></strong></p></td>
 <td style="border:1px solid black;"><p><strong></strong></p></td>
 <td style="border:1px solid black;"><p><strong></strong></p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p><strong></strong></p></td>
 <td style="border:1px solid black;"><p><strong></strong></p></td>
@@ -332,7 +332,7 @@ ISA Server システムをスケール アウトするには、次のような�
 <td style="border:1px solid black;"><p>DNS</p></td>
 <td style="border:1px solid black;"><p>ネットワーク負荷分散</p></td>
 <td style="border:1px solid black;"><p>CARP</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>パフォーマンス (スケール係数)</p></td>
 <td style="border:1px solid black;"><p>1.6 ～ 1.7。コンピュータ アーキテクチャによって異なります (2 次キャッシュのサイズが大きいほど、スケール係数は大きくなります)。</p></td>
@@ -340,7 +340,7 @@ ISA Server システムをスケール アウトするには、次のような�
 <td style="border:1px solid black;"><p>2</p></td>
 <td style="border:1px solid black;"><p>1.8 (クラスタのコンピュータ数が 1 ～ 8 台の場合)</p></td>
 <td style="border:1px solid black;"><p>1.5 から始まり、漸近的に 2 へ近づいていきます。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>システム コスト</p></td>
 <td style="border:1px solid black;"><p>マルチプロセッサ コンピュータの方がはるかに高コストです (特に 4 プロセッサ以上)。2</p></td>
@@ -348,7 +348,7 @@ ISA Server システムをスケール アウトするには、次のような�
 <td style="border:1px solid black;"><p>なし</p></td>
 <td style="border:1px solid black;"><p>各コンピュータに Windows 2000 Advanced Server が必要です。</p></td>
 <td style="border:1px solid black;"><p>ISA Server Enterprise Edition (EE) が必要です。</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>システム管理</p></td>
 <td style="border:1px solid black;"><p>単一コンピュータの管理</p></td>
@@ -356,7 +356,7 @@ ISA Server システムをスケール アウトするには、次のような�
 <td style="border:1px solid black;"><p>複数のコンピュータと ISA Server 集中化アレイの管理 (EE)</p></td>
 <td style="border:1px solid black;"><p>複数のコンピュータと ISA Server 集中化アレイの管理 (EE)</p></td>
 <td style="border:1px solid black;"><p>複数のコンピュータと ISA Server 集中化アレイの管理 (EE)</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>フォールト トレランス</p></td>
 <td style="border:1px solid black;"><p>ネイティブ ハードウェア</p></td>
@@ -364,7 +364,7 @@ ISA Server システムをスケール アウトするには、次のような�
 <td style="border:1px solid black;"><p>なし</p></td>
 <td style="border:1px solid black;"><p>障害が発生したコンピュータの相互検出</p></td>
 <td style="border:1px solid black;"><p>障害が発生したコンピュータの相互検出</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>システム アップグレード</p></td>
 <td style="border:1px solid black;"><p>プロセッサの増設 - スロットが空いていることが必要です。</p></td>
@@ -372,7 +372,7 @@ ISA Server システムをスケール アウトするには、次のような�
 <td style="border:1px solid black;"><p>コンピュータを追加し、DNS にエントリを登録します。</p></td>
 <td style="border:1px solid black;"><p>コンピュータの追加 - コンピュータが多くなりすぎると、スケール係数が低下することがあります。</p></td>
 <td style="border:1px solid black;"><p>コンピュータの追加 - ほとんど無制限のスケーリングが可能です。</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>シナリオ</p></td>
 <td style="border:1px solid black;"><p>すべて</p></td>
@@ -380,8 +380,8 @@ ISA Server システムをスケール アウトするには、次のような�
 <td style="border:1px solid black;"><p>すべて</p></td>
 <td style="border:1px solid black;"><p>すべて</p></td>
 <td style="border:1px solid black;"><p>フォワード キャッシュのみ</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 [](#mainsection)[ページのトップへ](#mainsection)
@@ -498,17 +498,17 @@ ISA Server ではメモリを以下の目的で使用します。
   
 **表 3 物理メモリ サイズに基づく非ページ プール サイズの最小値および最大値**
   
-<table style="width:100%;">  
-<colgroup>  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-<col width="14%" />  
-</colgroup>  
-<tbody>  
+<table style="width:100%;">
+<colgroup>
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+<col width="14%" />
+</colgroup>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>物理メモリ (MB)</p></td>
 <td style="border:1px solid black;"><p>128</p></td>
@@ -517,7 +517,7 @@ ISA Server ではメモリを以下の目的で使用します。
 <td style="border:1px solid black;"><p>1024</p></td>
 <td style="border:1px solid black;"><p>2048</p></td>
 <td style="border:1px solid black;"><p>4096</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>非ページ プール サイズの最小値</p></td>
 <td style="border:1px solid black;"><p>4</p></td>
@@ -526,7 +526,7 @@ ISA Server ではメモリを以下の目的で使用します。
 <td style="border:1px solid black;"><p>32</p></td>
 <td style="border:1px solid black;"><p>64</p></td>
 <td style="border:1px solid black;"><p>128</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>非ページ プール サイズの最大値</p></td>
 <td style="border:1px solid black;"><p>50</p></td>
@@ -535,8 +535,8 @@ ISA Server ではメモリを以下の目的で使用します。
 <td style="border:1px solid black;"><p>256</p></td>
 <td style="border:1px solid black;"><p>256</p></td>
 <td style="border:1px solid black;"><p>256</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 テストを行った結果、エントリ レベルのコンピュータでは 256 MB、ハイ エンド コンピュータでは 1024 MB で十分であることがわかりました。このサイズであれば、メモリ容量いっぱいの作業セットを格納することもできます。
@@ -710,53 +710,53 @@ ISA Server ポリシーを調整する場合は、以下のパフォーマンス
 **表 5 ISA Server の認証パフォーマンス**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="20%" />  
-<col width="20%" />  
-<col width="20%" />  
-<col width="20%" />  
-<col width="20%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>認証方式</p></th>  
-<th><p>強度</p></th>  
-<th><p>認証のタイミング</p></th>  
-<th><p>要求あたりのオーバーヘッド</p></th>  
-<th><p>バッチあたりのオーバーヘッド</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+<col width="20%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>認証方式</p></th>
+<th><p>強度</p></th>
+<th><p>認証のタイミング</p></th>
+<th><p>要求あたりのオーバーヘッド</p></th>
+<th><p>バッチあたりのオーバーヘッド</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>基本</p></td>
 <td style="border:1px solid black;"><p>低い</p></td>
 <td style="border:1px solid black;"><p>要求ごと</p></td>
 <td style="border:1px solid black;"><p>低い</p></td>
 <td style="border:1px solid black;"><p>なし</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>ダイジェスト</p></td>
 <td style="border:1px solid black;"><p>中程度</p></td>
 <td style="border:1px solid black;"><p>時間/カウンタ値ごと</p></td>
 <td style="border:1px solid black;"><p>なし</p></td>
 <td style="border:1px solid black;"><p>高い</p></td>
-</tr>  
+</tr>
 <tr class="odd">
 <td style="border:1px solid black;"><p>NTLM</p></td>
 <td style="border:1px solid black;"><p>高い</p></td>
 <td style="border:1px solid black;"><p>接続ごと</p></td>
 <td style="border:1px solid black;"><p>なし</p></td>
 <td style="border:1px solid black;"><p>高い</p></td>
-</tr>  
+</tr>
 <tr class="even">
 <td style="border:1px solid black;"><p>Kerberos</p></td>
 <td style="border:1px solid black;"><p>高い</p></td>
 <td style="border:1px solid black;"><p>接続ごと</p></td>
 <td style="border:1px solid black;"><p>なし</p></td>
 <td style="border:1px solid black;"><p>中程度</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 -   キャッシュ認証のパフォーマンスに関して留意しなければならない点がもう 1 つあります。キャッシュ認証は Web プロキシ リスナ レベル (アレイ プロパティの \[着信方向の Web 要求\] タブと \[発信方向の Web 要求\] タブにある \[認証されていないユーザーに識別情報を求める\] をオンにします) とルール レベルのいずれかで設定できることです。すべての Web アクセスについて認証が必要な場合は Web プロキシ リスナ レベルで設定し、そうでない場合 (ルールによって必要となった場合のみ認証を行う場合) はルール レベルで設定します。

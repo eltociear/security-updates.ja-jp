@@ -110,8 +110,8 @@ Windows XP SP 2 の管理用テンプレートは大幅に変更されました�
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **クラッシュの検出を無効にする**ポリシー設定を使用すると、Internet Explorer のアドオン管理のクラッシュ検出機能を管理できます。このポリシー設定を有効にすると、Internet Explorer でクラッシュが発生した場合、Windows XP Professional Service Pack 1 以前のバージョンを実行しているコンピュータの場合と同様に、Windows エラー報告が起動します。無効にすると、アドオン管理のクラッシュ検出機能が動作します。
@@ -123,29 +123,29 @@ Internet Explorer のクラッシュ レポート情報には、コンピュー�
 **表 A.2:アドオンの有効化または無効化の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **ユーザーによるアドオンの有効化および無効化を許可しない**ポリシー設定を使用すると、ユーザーが \[アドオンの管理\] を使用してアドオンを許可または拒否できるかどうかを管理できます。このポリシー設定の値を \[有効\] に設定すると、ユーザーは \[アドオンの管理\] を使用してアドオンを有効または無効にすることはできません。ただし、ユーザーがアドオンを引き続き管理できるように**アドオンの一覧**ポリシー設定にそのアドオンを入力した場合を除きます。この場合は、ユーザーが \[アドオンの管理\] を使用してそのアドオンを管理できます。このポリシー設定の値を \[無効\] に設定すると、ユーザーはアドオンを有効または無効にすることができます。
@@ -177,29 +177,29 @@ SP2 では、環境全体で Internet Explorer ゾーン構成のセキュリテ
 **表 A.3:ソフトウェア実行許可の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 Microsoft ActiveX コントロールとファイル ダウンロードには、多くの場合、ファイルの整合性およびソフトウェア署名者 (作成者) の ID を保証するデジタル署名が添付されています。署名により、ダウンロードしたソフトウェアが改変されていないことを確認でき、また署名者を特定することで、ソフトウェアを安心して実行できるかどうかを判断できます。
@@ -221,29 +221,29 @@ Microsoft ActiveX コントロールとファイル ダウンロードには、�
 **表 A.4:MK プロトコルの設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **MK プロトコル セキュリティの制限**ポリシー設定は、ほとんど使用されることのない MK プロトコルをブロックすることで、攻撃対象を減らします。一部の古い Web アプリケーションでは、MK プロトコルが使用されて、圧縮ファイルから情報が抽出されます。このポリシーの値を \[有効\] に設定すると、エクスプローラと Internet Explorer で MK プロトコルがブロックされるので、このプロトコルを使用するリソースは正常に動作しなくなります。無効にすると、アプリケーションで MK プロトコル API を使用できます。
@@ -263,29 +263,29 @@ MK プロトコルは一般的には使用されていないので、不要な�
 **表 A.5:整合性のある MIME 処理の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 Internet Explorer は、Multipurpose Internet Mail Extensions (MIME) データを使用して、Web サーバー経由で受信したファイルの処理手順を決定します。**整合性のある MIME 処理\\Internet Explorer のプロセス** ポリシー設定では、Web サーバーから提供されるファイルの種類の情報すべてに整合性があることを Internet Explorer で必要条件にするかどうかを指定します。たとえば、ファイルの MIME の種類が text/plain であるのに、MIME データはファイルが実は実行可能ファイルであることを示す場合は、Internet Explorer によってファイルの拡張子が変更され、実行可能のステータスに反映されます。この機能により、実行可能コードを信頼できる他の種類のデータとして見せかけることができなくなります。
@@ -307,29 +307,29 @@ MIME ファイル タイプの偽装は、組織にとって脅威となる可�
 **表 A.6:MIME スニッフィングの設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 MIME スニッフィングとは、MIME ファイルの内容を調べ、それがデータ ファイルであるか、実行可能ファイルであるか、または他の種類のファイルであるかを判別するプロセスです。このポリシー設定では、Internet Explorer の MIME スニッフィング機能を使用して、特定の種類のファイルが危険度の高い別の種類のファイルに変わることを防止するかどうかを指定します。このポリシーの値を \[有効\] に設定すると、特定の種類のファイルが危険度の高い別の種類のファイルに変わることはありません。無効にすると、Internet Explorer のプロセスは、特定の種類のファイルが危険度の高い別の種類のファイルに変わることを許可するように MIME スニッフィングを構成します。たとえば、テキスト ファイルが実行可能ファイルに変更されると、テキスト ファイルの内容がそのままコードとして実行されるので危険です。
@@ -349,29 +349,29 @@ MIME ファイル タイプの偽装は、組織にとって脅威となる可�
 **表 A.7:スクリプト化されたウィンドウ制限の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 Internet Explorer では、スクリプトのプログラムを使用してさまざまな種類のウィンドウを開いたり、ウィンドウのサイズや位置を変更したりすることが許可されています。悪質な Web サイトにアクセスすると、ウィンドウのサイズが変更されて、他のウィンドウが隠されたり、悪質なコードを含むウィンドウの操作するように誘導されたりします。
@@ -391,29 +391,29 @@ Internet Explorer では、スクリプトのプログラムを使用してさ�
 **表 A.8:ゾーン昇格からの保護の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 Internet Explorer では、Web ページの場所 (インターネット ゾーン、イントラネット ゾーン、ローカル コンピュータ ゾーンなど) によって、その Web ページを開くかどうかの制限が適用されます。ローカル コンピュータにある Web ページはローカル コンピュータ ゾーンに存在し、セキュリティの制限が最小限であるため、このゾーンは悪意のある攻撃者の一番の標的となります。
@@ -433,29 +433,29 @@ Internet Explorer では、Web ページの場所 (インターネット ゾー�
 **表 A.9:ActiveX のインストール制限の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **ActiveX のインストールの制限\\Internet Explorer のプロセス** ポリシー設定では、Internet Explorer のプロセスで ActiveX コントロールのインストールを確認するダイアログ ボックスが表示されないように制限できます。
@@ -479,29 +479,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.10:ファイル ダウンロード制限の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 特定の状況では、Web サイトは、ユーザーが操作を行わなくても、ファイルのダウンロードを確認するダイアログ ボックスを表示できます。この手法を採用している Web サイトにアクセスした場合には、ユーザーが誤ってボタンをクリックしてダウンロードした場合に、ユーザーのハード ドライブに不正なファイルが保存される可能性があります。
@@ -521,29 +521,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.11:許可されたものを除きすべてのアドオンを拒否する設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 このポリシー設定を**アドオンの一覧**ポリシーと共に使用して、Internet Explorer のアドオンを制御できます。**アドオンの一覧**ポリシー設定では、既定で、グループ ポリシーを通じて許可または拒否するアドオンの一覧が定義されています。**アドオンの一覧で許可されたものを除き、アドオンはすべて拒否する**ポリシー設定では、**アドオンの一覧**ポリシー設定に指定されていないアドオンはすべて拒否するものと見なされます。
@@ -557,29 +557,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.12:アドオンの一覧の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 このポリシー設定を**アドオンの一覧で許可されたものを除き、アドオンはすべて拒否する**ポリシーと共に使用して、Internet Explorer のアドオンを制御できます。**アドオンの一覧**ポリシー設定では、既定で、グループ ポリシーを通じて許可または拒否するアドオンの一覧が定義されています。**アドオンの一覧で許可されたものを除き、アドオンはすべて拒否する**ポリシー設定では、**アドオンの一覧**ポリシー設定に指定されていないアドオンはすべて拒否するものと見なされます。
@@ -593,31 +593,31 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
     **表 A.13:アドオンの一覧設定の値**
 
 <p> </p>
-    <table style="border:1px solid black;">  
-    <colgroup>  
-    <col width="50%" />  
-    <col width="50%" />  
-    </colgroup>  
-    <thead>  
-    <tr class="header">  
-    <th><p>値</p></th>  
-    <th><p>説明</p></th>  
-    </tr>  
-    </thead>  
-    <tbody>  
+    <table style="border:1px solid black;">
+    <colgroup>
+    <col width="50%" />
+    <col width="50%" />
+    </colgroup>
+    <thead>
+    <tr class="header">
+    <th><p>値</p></th>
+    <th><p>説明</p></th>
+    </tr>
+    </thead>
+    <tbody>
     <tr class="odd">
     <td style="border:1px solid black;"><p>0</p></td>
     <td style="border:1px solid black;"><p>このアドオンを拒否します。</p></td>
-    </tr>  
+    </tr>
     <tr class="even">
     <td style="border:1px solid black;"><p>1</p></td>
     <td style="border:1px solid black;"><p>このアドオンを許可します。</p></td>
-    </tr>  
+    </tr>
     <tr class="odd">
     <td style="border:1px solid black;"><p>2</p></td>
     <td style="border:1px solid black;"><p>このアドオンを許可し、ユーザーが [アドオンの管理] を使用してこのアドオンを管理することを許可します。</p></td>
-    </tr>  
-    </tbody>  
+    </tr>
+    </tbody>
     </table>
   
 このポリシー設定を無効にすると、一覧は削除されます。
@@ -635,29 +635,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.14:パスワードの保存を許可しない設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **パスワードの保存を許可しない**ポリシー設定は、ターミナル サービス クライアントによってパスワードがコンピュータに保存されることを防止します。この設定を有効にすると、ターミナル サービス クライアントのパスワードを保存するためのチェック ボックスが使用できなくなり、ユーザーはパスワードを保存できなくなります。パスワードを保存することが習慣になるとセキュリティ侵害の可能性が高くなるため、このガイドで定義されている環境では、このポリシー設定の値を \[有効\] に設定します。
@@ -675,29 +675,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.15:シャットダウン オプションを表示しない設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **\[Windows シャットダウン\] ダイアログ ボックスで \[更新をインストールしてシャットダウン\] オプションを表示しない**ポリシー設定を使用すると、\[Windows シャットダウン\] ダイアログ ボックスに \[更新をインストールしてシャットダウン\] オプションを表示するかどうかを管理できます。
@@ -709,29 +709,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.16:既定のシャットダウン オプションを調整しない設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 この **\[Windows シャットダウン\] ダイアログ ボックスの既定のオプションを \[更新をインストールしてシャットダウン\] に調整しない**ポリシー設定を使用すると、\[更新をインストールしてシャットダウン\] を \[Windows シャットダウン\] ダイアログ ボックスの既定のオプションにするかどうかを管理できます。このポリシー設定を無効にすると、ユーザーが \[スタート\] メニューの \[シャットダウン\] をクリックしたときに更新が存在する場合に、\[更新をインストールしてシャットダウン\] が \[Windows シャットダウン\] ダイアログ ボックスの既定のオプションになります。
@@ -751,29 +751,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.17:Windows Update でのデバイス ドライバ検索確認の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Windows Update でのデバイス ドライバ検索についての確認をしない**ポリシー設定では、管理者がインターネットを使用して Windows Update でのデバイス ドライバ検索を行うかどうかを確認するダイアログを表示するかどうかを指定します。この設定を有効にすると、Windows Update でのドライバ検索を確認するダイアログ ボックスは管理者に表示されません。この設定を無効または未構成にし、**Windows Update でのデバイス ドライバの検索をオフにする**ポリシー設定を無効または未構成にした場合は、Windows Update でのデバイス ドライバ検索を確認するダイアログ ボックスが管理者に表示されます。
@@ -797,29 +797,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.18:認証されていない RPC クライアントの設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **認証されていない RPC クライアントの制限**ポリシー設定を有効にすると、コンピュータで実行されている RPC サーバーに対する、認証されていない RPC クライアントの接続が制限されるように、RPC サーバーの RPC ランタイムが構成されます。クライアントは、名前付きパイプを使用してサーバーと通信するか、RPC セキュリティを使用している場合に、認証済みと見なされます。このポリシーで選択する値によっては、認証されていないクライアントがアクセスできるよう明示的に要求した RPC インターフェイスは、この制限から除外される場合もあります。この設定を有効にすると、次の値が使用可能になります。
@@ -839,29 +839,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.19:クライアント認証の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **RPC エンド ポイント マッパー クライアント認証**ポリシー設定を有効にすると、このコンピュータと通信するクライアントは、RPC 通信を確立する前に、認証情報を提供することが強制されます。
@@ -879,29 +879,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.20:\[Web に公開する\] タスク削除の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 このポリシー設定では、Windows フォルダのファイルとフォルダのタスクで \[このファイルを Web に公開する\]、\[このフォルダを Web に公開する\]、および \[選択した項目を Web に発行する\] の各タスクを使用可能にするかどうかを指定します。Web 発行ウィザードを使用して、プロバイダの一覧をダウンロードし、コンテンツを Web に公開できます。この設定の値を \[有効\] に設定すると、これらのオプションは Windows フォルダのファイルとフォルダのタスクから削除されます。
@@ -911,29 +911,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.21:インターネット ダウンロード オフの設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Web 発行およびオンライン注文ウィザードのインターネット ダウンロードをオフにする**ポリシー設定では、Web 発行およびオンライン注文ウィザードで、プロバイダの一覧をダウンロードするかどうかを指定します。この設定を有効にすると、プロバイダの一覧はダウンロードされず、ローカル レジストリにキャッシュされたサービス プロバイダのみが表示されます。
@@ -943,29 +943,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.22:Windows Messenger カスタマ プログラム オフの設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Windows Messenger カスタマ エクスペリエンス向上プログラムをオフにする**ポリシー設定では、Windows Messenger ソフトウェアおよびサービスがどのように使用されているかについて、匿名の情報を収集するかどうかを指定します。このポリシー設定の値を \[有効\] に設定すると、Windows Messenger による使用情報の収集は実行されず、使用情報の収集を有効にするユーザー設定は表示されません。
@@ -975,29 +975,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.23:検索コンパニオン更新オフの設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **検索コンパニオンのコンテンツ ファイルの更新をオフにする**ポリシー設定では、ローカル検索およびインターネット検索時に、検索コンパニオンがコンテンツの更新を自動的にダウンロードするかどうかを指定します。このポリシー設定の値を \[有効\] に設定すると、検索中にコンテンツの更新はダウンロードされません。
@@ -1009,29 +1009,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.24:HTTP 経由の印刷オフの設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 この設定を使用すると、このクライアントからの HTTP 経由の印刷を無効にすることができます。HTTP 経由の印刷では、クライアントはイントラネットおよびインターネット上のプリンタで印刷できます。この設定を有効にすると、クライアントは HTTP を経由してインターネット プリンタで印刷できません。
@@ -1045,29 +1045,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.25:プリンタ ドライバの HTTP 経由でのダウンロード オフの設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **プリンタ ドライバの HTTP 経由でのダウンロードをオフにする**ポリシー設定では、コンピュータが HTTP 経由でプリンタ ドライバ パッケージをダウンロードできるかどうかを指定します。HTTP 経由の印刷をセットアップするために、場合によっては、オペレーティング システムの標準インストールには付属していないドライバを HTTP 経由でダウンロードする必要があります。プリンタ ドライバが HTTP 経由でダウンロードされないように、このポリシー設定の値を \[有効\] に設定することをお勧めします。
@@ -1079,29 +1079,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.26:Windows Update でのデバイス ドライバ検索オフの設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Windows Update でのデバイス ドライバの検索をオフにする**ポリシー設定では、デバイス ドライバがローカルにない場合に、Windows Update でデバイス ドライバを検索するかどうかを指定します。
@@ -1125,29 +1125,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.27:ネットワーク接続をすべて保護 (ドメイン プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Windows ファイアウォール: ネットワーク接続をすべて保護する**ポリシー設定では、Windows XP SP2 を実行しているすべてのコンピュータで Widows ファイアウォール (インターネット接続ファイアウォール) を有効にします。すべての環境にあるコンピュータのすべてのネットワーク接続を保護するため、この設定の値を \[有効\] に設定することをお勧めします。
@@ -1161,29 +1161,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.28:例外を許可しない (ドメイン プロファイル) 設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Windows ファイアウォール: 例外を許可しない**ポリシー設定では、Windows ファイアウォールですべての不要な着信メッセージをブロックすることを指定します。このポリシー設定は、不要な着信メッセージを許可する他のすべての Windows ファイアウォールのポリシー設定に優先します。コントロール パネルの Windows ファイアウォールのコンポーネントで、このポリシー設定を有効にすると、\[例外を許可しない\] チェック ボックスがオンになり、管理者がオフにすることはできなくなります。
@@ -1197,29 +1197,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.29:プログラム例外定義 (ドメイン プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 一部のアプリケーションでは、通常は Windows ファイアウォールで許可されないネットワーク ポートを開いて使用する必要があります。**Windows ファイアウォール: プログラムの例外を定義する**ポリシー設定を使用すると、グループ ポリシーで定義されたプログラムの例外一覧を表示および変更できます。
@@ -1235,29 +1235,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.30:ローカル プログラム例外許可 (ドメイン プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Windows ファイアウォール: ローカル プログラムの例外を許可する**ポリシー設定を使用すると、管理者はコントロール パネルの Windows ファイアウォール コンポーネントを使用してローカル プログラムの例外一覧を定義できます。このポリシー設定を無効にすると、管理者はローカル プログラムの例外一覧を定義できないので、プログラムの例外はグループ ポリシーだけで決定します。\[有効\] に設定すると、ローカル管理者はコントロール パネルを使用してプログラムの例外をローカルで定義できます。
@@ -1269,29 +1269,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.31:リモート管理例外許可 (ドメイン プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 多くの組織では、日常の運用でリモート コンピュータ管理を利用します。しかし、リモート管理プログラムに通常使用されるポートが一部の攻撃で悪用されています。Windows ファイアウォールでは、これらのポートをブロックできます。リモート管理を柔軟に行うことができるように、**Windows ファイアウォール: リモート管理の例外を許可する**ポリシー設定が用意されています。
@@ -1309,29 +1309,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.32:ファイルとプリンタの共有例外許可 (ドメイン プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 このポリシー設定を使用すると、Windows ファイアウォールで UDP ポート 137 および 138 と TCP ポート 139 および 445 を開くように構成して、ファイルとプリンタを共有できます。このポリシー設定を有効にすると、Windows ファイアウォールはこれらのポートを開き、コンピュータが印刷ジョブ、および共有ファイルへのアクセス要求を受信できるようになります。この設定を有効にするときは、着信メッセージを許可する IP アドレスまたはサブネットを指定する必要があります。
@@ -1347,29 +1347,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.33:ICMP 例外許可 (ドメイン プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Windows ファイアウォール: ICMP の例外を許可する**ポリシー設定では、Windows ファイアウォールで許可する Internet Control Message Protocol (ICMP) メッセージの種類を定義します。ユーティリティでは、ICMP メッセージを使用して他のコンピュータの状態を判断できます。たとえば、Ping ではエコー要求メッセージが使用されます。
@@ -1385,29 +1385,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.34:リモート デスクトップ例外許可 (ドメイン プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 多くの組織では、通常のトラブルシューティングの手順または操作でリモート デスクトップ接続を使用します。しかし、リモート デスクトップに通常使用されるポートを悪用する攻撃が存在します。リモート管理を柔軟に行うことができるように、**Windows ファイアウォール: リモート デスクトップの例外を許可する**ポリシー設定が用意されています。
@@ -1423,29 +1423,29 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 **表 A.35:UPnP フレームワーク例外許可 (ドメイン プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Windows ファイアウォール: UPnP フレームワークの例外を許可する**ポリシー設定は、ファイアウォールが組み込まれたルーターなどのネットワーク デバイスから送信された、不要なプラグ アンド プレイ メッセージをコンピュータが受信することを許可します。これらのメッセージを受信するため、Windows ファイアウォールは TCP ポート 2869 および UDP ポート 1900 を開きます。
@@ -1459,29 +1459,29 @@ UPnP ネットワーク トラフィックをブロックすると、環境内�
 **表 A.36:通知禁止 (ドメイン プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 Windows ファイアウォールは、プログラムの例外一覧にプログラムを追加する要求を受け取ったときに、ユーザーに対して通知を表示できます。ユーザーに対する通知は、プログラムがポートを開こうとしたときに、Windows ファイアウォールの現在のルールによって開くことができない場合に表示されます。**Windows ファイアウォール: 通知を禁止する**ポリシー設定では、これらの設定をユーザーに対して表示するかどうかを指定します。
@@ -1495,29 +1495,29 @@ Windows ファイアウォールは、プログラムの例外一覧にプログ
 **表 A.37:ユニキャスト応答禁止 (ドメイン プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Windows ファイアウォール: マルチキャストまたはブロードキャスト要求に対するユニキャスト応答を禁止する**ポリシー設定は、コンピュータからのマルチキャスト メッセージおよびブロードキャスト メッセージに対するユニキャスト応答の受信を禁止します。このポリシー設定を有効にすると、コンピュータから他のコンピュータにマルチキャスト メッセージまたはブロードキャスト メッセージが送信されたときに、Windows ファイアウォールは、送信先のコンピュータから送信されるユニキャスト応答をブロックします。このポリシー設定を無効にすると、コンピュータから他のコンピュータにマルチキャスト メッセージまたはブロードキャスト メッセージが送信されたときに、Windows ファイアウォールは、送信先のコンピュータからのユニキャスト応答を最大で 3 秒間待ってから、その後の応答をすべてブロックします。
@@ -1531,29 +1531,29 @@ Windows ファイアウォールは、プログラムの例外一覧にプログ
 **表 A.38:ポート例外定義 (ドメイン プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 Windows ファイアウォールのポートの例外一覧はグループ ポリシーで定義する必要があります。それにより、ポートの例外を一元的に管理および展開し、ローカル管理者が強度の低いセキュリティ設定を行わないようにできます。**Windows ファイアウォール: ポートの例外を定義する**ポリシー設定を使用すると、これらの設定を一元管理できます。
@@ -1571,29 +1571,29 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
 **表 A.39:ローカル ポート例外許可 (ドメイン プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Windows ファイアウォール: ローカル ポートの例外を許可する**ポリシー設定を使用すると、管理者はコントロール パネルの Windows ファイアウォール コンポーネントを使用してローカル ポートの例外一覧を定義できます。Windows ファイアウォールではポートの例外一覧を 2 つ使用できます。もう 1 つは **Windows ファイアウォール: ポートの例外を定義する**ポリシー設定で定義します。
@@ -1619,29 +1619,29 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
 **表 A.40:ネットワーク接続をすべて保護 (標準プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Windows ファイアウォール: ネットワーク接続をすべて保護する**ポリシー設定では、Windows XP SP2 を実行しているすべてのコンピュータで Widows ファイアウォール (インターネット接続ファイアウォール) を有効にします。すべての環境で、すべてのネットワーク接続をファイアウォールで保護する必要があるため、このポリシー設定の値を \[有効\] に設定します。
@@ -1655,29 +1655,29 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
 **表 A.41:例外を許可しない (標準プロファイル) 設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Windows ファイアウォール: 例外を許可しない**ポリシー設定では、Windows ファイアウォールですべての不要な着信メッセージをブロックすることを指定します。このポリシー設定は、不要な着信メッセージを許可する他のすべての Windows ファイアウォールのポリシー設定に優先します。コントロール パネルの Windows ファイアウォールのコンポーネントで、このポリシー設定を有効にすると、\[例外を許可しない\] チェック ボックスがオンになり、管理者がオフにすることはできなくなります。
@@ -1689,29 +1689,29 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
 **表 A.42:プログラム例外定義 (標準プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
 <td style="border:1px solid black;"><p>推奨</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 一部のアプリケーションでは、通常は Windows ファイアウォールで許可されないネットワーク ポートを開いて使用する必要があります。**Windows ファイアウォール: プログラムの例外を定義する**ポリシー設定を使用すると、グループ ポリシーで定義されたプログラムの例外一覧を表示および変更できます。
@@ -1727,29 +1727,29 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
 **表 A.43:ローカル プログラム例外許可 (標準プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Windows ファイアウォール: ローカル プログラムの例外を許可する**ポリシー設定を使用すると、管理者はコントロール パネルの Windows ファイアウォール コンポーネントを使用してローカル プログラムの例外一覧を定義できます。このポリシー設定を無効にすると、管理者はコントロール パネルの Windows ファイアウォール コンポーネントを使用して例外一覧を定義できなくなり、プログラムの例外はグループ ポリシーだけで決定されるようになります。このポリシー設定を有効に設定すると、ローカル管理者はコントロール パネルを使用してプログラムの例外をローカルで定義できるようになります。
@@ -1759,29 +1759,29 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
 **表 A.44:リモート管理例外許可 (標準プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 多くの組織では、日常の運用でリモート コンピュータ管理を利用します。しかし、リモート管理プログラムに通常使用されるポートが一部の攻撃で悪用されています。この問題に対処するために、Windows ファイアウォールでこれらのポートをブロックできます。リモート管理を柔軟に行うことができるように、**Windows ファイアウォール: リモート管理の例外を許可する**ポリシー設定が用意されています。
@@ -1799,29 +1799,29 @@ TCP ポート 135 および 445 を悪用する既知の攻撃を回避するた
 **表 A.45:ファイルとプリンタの共有例外許可 (標準プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 このポリシー設定を使用すると、Windows ファイアウォールで UDP ポート 137 および 138 と TCP ポート 139 および 445 を開くように構成して、ファイルとプリンタを共有できます。このポリシー設定を有効にすると、Windows ファイアウォールはこれらのポートを開き、コンピュータが印刷ジョブ、および共有ファイルへのアクセス要求を受信できまるようになります。この設定を有効にするときは、着信メッセージを許可する IP アドレスまたはサブネットを指定する必要があります。
@@ -1837,29 +1837,29 @@ TCP ポート 135 および 445 を悪用する既知の攻撃を回避するた
 **表 A.46:ICMP 例外許可 (標準プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Windows ファイアウォール: ICMP の例外を許可する**ポリシー設定では、Windows ファイアウォールで許可する Internet Control Message Protocol (ICMP) メッセージの種類を定義します。ユーティリティでは、ICMP メッセージを使用して他のコンピュータの状態を判断できます。たとえば、Ping ユーティリティではエコー要求メッセージが使用されます。
@@ -1875,29 +1875,29 @@ TCP ポート 135 および 445 を悪用する既知の攻撃を回避するた
 **表 A.47:リモート デスクトップ例外許可 (標準プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 多くの組織では、通常のトラブルシューティングの手順または操作でリモート デスクトップ接続を使用します。しかし、リモート デスクトップに通常使用されるポートを悪用する攻撃が存在します。リモート管理を柔軟に行うことができるように、**Windows ファイアウォール: リモート デスクトップの例外を許可する**ポリシー設定が用意されています。
@@ -1913,29 +1913,29 @@ TCP ポート 135 および 445 を悪用する既知の攻撃を回避するた
 **表 A.48:UPnP フレームワーク例外許可 (標準プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Windows ファイアウォール: UPnP フレームワークの例外を許可する**ポリシー設定は、ファイアウォールが組み込まれたルーターなどのネットワーク デバイスから送信された、不要なプラグ アンド プレイ メッセージをコンピュータが受信することを許可します。これらのメッセージを受信するため、Windows ファイアウォールは TCP ポート 2869 および UDP ポート 1900 を開きます。
@@ -1949,29 +1949,29 @@ UPnP ネットワーク トラフィックをブロックすると、コンピ�
 **表 A.49:通知禁止 (標準プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 Windows ファイアウォールは、プログラムの例外一覧にプログラムを追加する要求を受け取ったときに、ユーザーに対して通知を表示できます。ユーザーに対する通知は、プログラムがポートを開こうとしたときに、Windows ファイアウォールの現在のルールによって開くことができない場合に表示されます。**Windows ファイアウォール: 通知を禁止する**ポリシー設定では、これらの設定をユーザーに対して表示するかどうかを指定します。
@@ -1985,29 +1985,29 @@ Windows ファイアウォールは、プログラムの例外一覧にプログ
 **表 A.50:ユニキャスト応答禁止 (標準プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Windows ファイアウォール: マルチキャストまたはブロードキャスト要求に対するユニキャスト応答を禁止する**ポリシー設定は、コンピュータからのマルチキャスト メッセージおよびブロードキャスト メッセージに対するユニキャスト応答の受信を禁止します。このポリシー設定を有効にすると、コンピュータから他のコンピュータにマルチキャスト メッセージまたはブロードキャスト メッセージが送信されたときに、Windows ファイアウォールは、送信先のコンピュータから送信されるユニキャスト応答をブロックします。このポリシー設定を無効にすると、コンピュータから他のコンピュータにマルチキャスト メッセージまたはブロードキャスト メッセージが送信されたときに、Windows ファイアウォールは、送信先のコンピュータからのユニキャスト応答を最大で 3 秒間待ってから、その後の応答をすべてブロックします。
@@ -2021,29 +2021,29 @@ Windows ファイアウォールは、プログラムの例外一覧にプログ
 **表 A.51:ポート例外定義 (標準プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
 <td style="border:1px solid black;"><p>推奨しない</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 Windows ファイアウォールのポートの例外一覧はグループ ポリシーで定義する必要があります。それにより、ポートの例外を一元的に管理および展開し、ローカル管理者が強度の低いセキュリティ設定を行わないようにできます。**Windows ファイアウォール: ポートの例外を定義する**ポリシー設定を使用すると、これらの設定を一元管理できます。
@@ -2061,29 +2061,29 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
 **表 A.52:ローカル ポート例外許可 (標準プロファイル) の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-<col width="25%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>  
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>  
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>  
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+<col width="25%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
+<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
+<th><p>高セキュリティ環境 (デスクトップ)</p></th>
+<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **Windows ファイアウォール: ローカル ポートの例外を許可する**ポリシー設定を使用すると、管理者はコントロール パネルの Windows ファイアウォール コンポーネントを使用してローカル ポートの例外一覧を定義できます。Windows ファイアウォールではポートの例外一覧を 2 つ使用できます。もう 1 つは **Windows ファイアウォール: ポートの例外を定義する**ポリシー設定で定義します。
@@ -2111,23 +2111,23 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
 **表 A.53:ゾーン情報を保存しない設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境</p></th>  
-<th><p>高セキュリティ環境</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境</p></th>
+<th><p>高セキュリティ環境</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>無効</p></td>
 <td style="border:1px solid black;"><p>無効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **ゾーン情報を添付ファイルに保存しない**ポリシー設定を使用すると、Internet Explorer または Outlook Express の添付ファイルに元のゾーン情報 (制限付き、インターネット、イントラネット、ローカルなど) をマークするかどうかを管理できます。この設定が正しく機能するには、ファイルが NTFS ディスク パーティションにダウンロードされる必要があります。ゾーン情報を保存しない場合、Windows は添付ファイルの送信元ゾーンに基づく適切なリスク評価ができなくなります。
@@ -2139,23 +2139,23 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
 **表 A.54:ゾーン情報の削除方法の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境</p></th>  
-<th><p>高セキュリティ環境</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境</p></th>
+<th><p>高セキュリティ環境</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 **ゾーン情報を削除する方法を非表示にする**ポリシー設定を使用すると、ユーザーがファイルのプロパティ シートの \[ブロックの解除\] をクリックするか、\[セキュリティの警告\] ダイアログ ボックスのチェック ボックスをオンにすることで、保存された添付ファイルからゾーン情報を手動で削除できるかどうかを管理できます。ゾーン情報を削除すると、ユーザーは、Windows が開くことを禁止した、危険な可能性のある添付ファイルを開くことができます。
@@ -2169,23 +2169,23 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
 **表 A.55:ウイルス対策プログラムへの通知の設定**
 
 <p> </p>
-<table style="border:1px solid black;">  
-<colgroup>  
-<col width="50%" />  
-<col width="50%" />  
-</colgroup>  
-<thead>  
-<tr class="header">  
-<th><p>エンタープライズ クライアント環境</p></th>  
-<th><p>高セキュリティ環境</p></th>  
-</tr>  
-</thead>  
-<tbody>  
+<table style="border:1px solid black;">
+<colgroup>
+<col width="50%" />
+<col width="50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>エンタープライズ クライアント環境</p></th>
+<th><p>高セキュリティ環境</p></th>
+</tr>
+</thead>
+<tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><p>有効</p></td>
 <td style="border:1px solid black;"><p>有効</p></td>
-</tr>  
-</tbody>  
+</tr>
+</tbody>
 </table>
   
 ウイルス対策プログラムは、ほとんどの環境で使用が義務付けられてきており、最新の攻撃に対する強力な防御になっています。**添付ファイルを開くとき、ウイルス対策プログラムに通知する**ポリシー設定を使用すると、登録されたウイルス対策プログラムに通知する動作を管理できます。
