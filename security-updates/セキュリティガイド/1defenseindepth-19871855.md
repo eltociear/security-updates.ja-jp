@@ -28,7 +28,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362910(v=TechNet.10)'
 さて、マイクロソフトでは、多層防御に関して、7 つの層を組み合わせる事を推奨しています。
 では、各層を外側から紹介します。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -36,38 +36,38 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362910(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>各層</p></th>
-<th><p>説明</p></th>
+<th>各層</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>1. ポリシーと手順</p></td>
-<td style="border:1px solid black;"><p>セキュリティ対策を行う上でポリシーはとても大切です。ポリシーというと、ISMS や ISO-127001 を想像する人も多いと思いますが、多層防御では特定の認定の取得を推奨しているわけではありません。ISMS/ISO を取得できるポリシーの策定はある種の理想形ですが、たとえ簡易的にでも「何を」「どのように」保護するかを決めたルールを定める事が大切です。</p></td>
+<td style="border:1px solid black;">1. ポリシーと手順</td>
+<td style="border:1px solid black;">セキュリティ対策を行う上でポリシーはとても大切です。ポリシーというと、ISMS や ISO-127001 を想像する人も多いと思いますが、多層防御では特定の認定の取得を推奨しているわけではありません。ISMS/ISO を取得できるポリシーの策定はある種の理想形ですが、たとえ簡易的にでも「何を」「どのように」保護するかを決めたルールを定める事が大切です。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>2. 物理防御</p></td>
-<td style="border:1px solid black;"><p>他の層をどれほど完璧に対策しても、サーバー自体が誰もが操作できる場所に置かれていたのでは意味がありません。たとえログオンできなくても、HDD を抜き出せばセキュリティ設定を無視してデータを読み出すのは容易です。入退室管理や盗難防止ワイヤーなどがこの層です。</p></td>
+<td style="border:1px solid black;">2. 物理防御</td>
+<td style="border:1px solid black;">他の層をどれほど完璧に対策しても、サーバー自体が誰もが操作できる場所に置かれていたのでは意味がありません。たとえログオンできなくても、HDD を抜き出せばセキュリティ設定を無視してデータを読み出すのは容易です。入退室管理や盗難防止ワイヤーなどがこの層です。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>3. 境界防御</p></td>
-<td style="border:1px solid black;"><p>境界は、インターネットとイントラネット (LAN) の境目とよく言われますが、厳密には違います。この境界は、自分の管理するネットワークと他者が管理するネットワークの境界 (責任境界) と、要求されるセキュリティレベルが変化する境界 (セキュリティ境界) の両方を指します。いわゆる境界ファイアウォール/ルータはこの層です。</p></td>
+<td style="border:1px solid black;">3. 境界防御</td>
+<td style="border:1px solid black;">境界は、インターネットとイントラネット (LAN) の境目とよく言われますが、厳密には違います。この境界は、自分の管理するネットワークと他者が管理するネットワークの境界 (責任境界) と、要求されるセキュリティレベルが変化する境界 (セキュリティ境界) の両方を指します。いわゆる境界ファイアウォール/ルータはこの層です。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>4. ネットワーク</p></td>
-<td style="border:1px solid black;"><p>境界防御のところで説明した、自分が管理する組織内部のネットワークです。商用 Web サイトでは当たり前に使用されている SSL や、IPSec や 802.1x 認証接続等はこの層です。</p></td>
+<td style="border:1px solid black;">4. ネットワーク</td>
+<td style="border:1px solid black;">境界防御のところで説明した、自分が管理する組織内部のネットワークです。商用 Web サイトでは当たり前に使用されている SSL や、IPSec や 802.1x 認証接続等はこの層です。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>5. アプリケーション</p></td>
-<td style="border:1px solid black;"><p>PC やサーバーの上で動作するアプリケーションやサーバー ソフトウェアです。この層は他の層と違い管理的ではなく、開発時に行われるべきものです。</p></td>
+<td style="border:1px solid black;">5. アプリケーション</td>
+<td style="border:1px solid black;">PC やサーバーの上で動作するアプリケーションやサーバー ソフトウェアです。この層は他の層と違い管理的ではなく、開発時に行われるべきものです。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>6. ホスト</p></td>
-<td style="border:1px solid black;"><p>PC やサーバー自体のセキュリティ更新プログラムの管理や、要塞化（ハーデニング）、ウイルス対策ソフトウェアの導入はこの層です。</p></td>
+<td style="border:1px solid black;">6. ホスト</td>
+<td style="border:1px solid black;">PC やサーバー自体のセキュリティ更新プログラムの管理や、要塞化（ハーデニング）、ウイルス対策ソフトウェアの導入はこの層です。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>7. データ防御</p></td>
-<td style="border:1px solid black;"><p>ホストに納められているデータです。この対策がしっかりしていると、データを持出されても利用・悪用を防止できます。暗号化されていれば、HDD を持ち去られても内容を読み取られる可能性を下げることが可能です。</p></td>
+<td style="border:1px solid black;">7. データ防御</td>
+<td style="border:1px solid black;">ホストに納められているデータです。この対策がしっかりしていると、データを持出されても利用・悪用を防止できます。暗号化されていれば、HDD を持ち去られても内容を読み取られる可能性を下げることが可能です。</td>
 </tr>
 </tbody>
 </table>

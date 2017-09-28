@@ -22,7 +22,7 @@ Microsoft® Windows® Rights Management サービス (RMS) Service Pack 2 (SP2)
 
 ###  
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -36,16 +36,16 @@ Microsoft® Windows® Rights Management サービス (RMS) Service Pack 2 (SP2)
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>1 つの Pentium III プロセッサ (800 MHz 以上) を搭載したコンピュータ</p></td>
-<td style="border:1px solid black;"><p>2 つの Pentium 4 プロセッサ (1500 MHz 以上) を搭載したコンピュータ</p></td>
+<td style="border:1px solid black;">1 つの Pentium III プロセッサ (800 MHz 以上) を搭載したコンピュータ</td>
+<td style="border:1px solid black;">2 つの Pentium 4 プロセッサ (1500 MHz 以上) を搭載したコンピュータ</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>256 MB の RAM</p></td>
-<td style="border:1px solid black;"><p>512 MB の RAM</p></td>
+<td style="border:1px solid black;">256 MB の RAM</td>
+<td style="border:1px solid black;">512 MB の RAM</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>20 GB のハード ディスク空き領域</p></td>
-<td style="border:1px solid black;"><p>40 GB のハード ディスク空き領域</p></td>
+<td style="border:1px solid black;">20 GB のハード ディスク空き領域</td>
+<td style="border:1px solid black;">40 GB のハード ディスク空き領域</td>
 </tr>
 </tbody>
 </table>
@@ -58,7 +58,7 @@ Microsoft® Windows® Rights Management サービス (RMS) Service Pack 2 (SP2)
   
 ###  
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -72,19 +72,19 @@ Microsoft® Windows® Rights Management サービス (RMS) Service Pack 2 (SP2)
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>オペレーティング システム</p></td>
-<td style="border:1px solid black;"><p>RMS SP2 用の Microsoft Windows Server® 2003 (Web Edition を除く)</p></td>
+<td style="border:1px solid black;">オペレーティング システム</td>
+<td style="border:1px solid black;">RMS SP2 用の Microsoft Windows Server® 2003 (Web Edition を除く)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Rights Management サービス SP2</p></td>
-<td style="border:1px solid black;"><p>RMS SP2 にアップグレードする前に、RMS Service Pack 1 (SP1) がインストールされている必要があります。RMS SP2 クライアントには、この要件はありません。</p></td>
+<td style="border:1px solid black;">Rights Management サービス SP2</td>
+<td style="border:1px solid black;">RMS SP2 にアップグレードする前に、RMS Service Pack 1 (SP1) がインストールされている必要があります。RMS SP2 クライアントには、この要件はありません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ファイル システム</p></td>
-<td style="border:1px solid black;"><p>NTFS ファイル システムを推奨します。</p></td>
+<td style="border:1px solid black;">ファイル システム</td>
+<td style="border:1px solid black;">NTFS ファイル システムを推奨します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>必要なコンポーネント</p></td>
+<td style="border:1px solid black;">必要なコンポーネント</td>
 <td style="border:1px solid black;"><ul>
 <li>Active Directory® のディレクトリ サービス統合を有効にしたメッセージ キュー (MSMQ)<br />
 <br />
@@ -99,7 +99,7 @@ Microsoft® Windows® Rights Management サービス (RMS) Service Pack 2 (SP2)
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 | ![](images/Cc747637.note(WS.10).gif)注                                                                                      |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -109,7 +109,7 @@ Microsoft® Windows® Rights Management サービス (RMS) Service Pack 2 (SP2)
 
 ###  
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -123,12 +123,12 @@ Microsoft® Windows® Rights Management サービス (RMS) Service Pack 2 (SP2)
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ディレクトリ サービス</p></td>
-<td style="border:1px solid black;"><p>RMS がインストールされているドメインと同じドメインに存在する Windows Server 2000 (SP3 以降を適用) のドメイン コントローラ上で、Active Directory が動作している必要があります。RMS を使用してライセンスの取得やコンテンツの発行を行うすべてのユーザーおよびグループは、Active Directory に電子メール アドレスが設定されている必要があります。</p></td>
+<td style="border:1px solid black;">ディレクトリ サービス</td>
+<td style="border:1px solid black;">RMS がインストールされているドメインと同じドメインに存在する Windows Server 2000 (SP3 以降を適用) のドメイン コントローラ上で、Active Directory が動作している必要があります。RMS を使用してライセンスの取得やコンテンツの発行を行うすべてのユーザーおよびグループは、Active Directory に電子メール アドレスが設定されている必要があります。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>データベース サーバー</p></td>
-<td style="border:1px solid black;"><p>RMS SP2 では、操作を実行するためにデータベースおよびストアド プロシージャが必要です。Microsoft SQL Server™ 2000 (SP3a 以降を適用)、または Microsoft SQL Server 2005が必要です。テストなど 1 台のコンピュータでの導入の場合には Microsoft SQL Server Desktop Engine (MSDE 2000) Release A または Microsoft SQL Server 2005 Express Edition が必要です。</p></td>
+<td style="border:1px solid black;">データベース サーバー</td>
+<td style="border:1px solid black;">RMS SP2 では、操作を実行するためにデータベースおよびストアド プロシージャが必要です。Microsoft SQL Server™ 2000 (SP3a 以降を適用)、または Microsoft SQL Server 2005が必要です。テストなど 1 台のコンピュータでの導入の場合には Microsoft SQL Server Desktop Engine (MSDE 2000) Release A または Microsoft SQL Server 2005 Express Edition が必要です。</td>
 </tr>
 </tbody>
 </table>
@@ -148,7 +148,7 @@ RMS は Microsoft SQL Server 2000 および Microsoft SQL Server 2005 が動�
   
 ###  
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -162,28 +162,28 @@ RMS は Microsoft SQL Server 2000 および Microsoft SQL Server 2005 が動�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>RMS のインストール</p></td>
-<td style="border:1px solid black;"><p>ローカル コンピュータの管理者の資格情報を持つドメイン ユーザー</p></td>
+<td style="border:1px solid black;">RMS のインストール</td>
+<td style="border:1px solid black;">ローカル コンピュータの管理者の資格情報を持つドメイン ユーザー</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>RMS ルート クラスタの提供</p></td>
-<td style="border:1px solid black;"><p>ローカル コンピュータの管理者の資格情報および Active Directory の参照と書き込み権限を持つドメイン ユーザー</p></td>
+<td style="border:1px solid black;">RMS ルート クラスタの提供</td>
+<td style="border:1px solid black;">ローカル コンピュータの管理者の資格情報および Active Directory の参照と書き込み権限を持つドメイン ユーザー</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>RMS のライセンスのみのクラスタの提供</p></td>
-<td style="border:1px solid black;"><p>ローカル コンピュータの管理者の資格情報と Active Directory の参照権限を持つドメイン ユーザー</p></td>
+<td style="border:1px solid black;">RMS のライセンスのみのクラスタの提供</td>
+<td style="border:1px solid black;">ローカル コンピュータの管理者の資格情報と Active Directory の参照権限を持つドメイン ユーザー</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>新しい構成データベースの使用中の提供</p></td>
-<td style="border:1px solid black;"><p>ローカル コンピュータの管理者の資格情報と、SQL Server を実行しているコンピュータ上での読み取り、書き込みおよび作成権限を持つドメイン ユーザー</p></td>
+<td style="border:1px solid black;">新しい構成データベースの使用中の提供</td>
+<td style="border:1px solid black;">ローカル コンピュータの管理者の資格情報と、SQL Server を実行しているコンピュータ上での読み取り、書き込みおよび作成権限を持つドメイン ユーザー</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>既存の構成データベースの使用中の提供</p></td>
-<td style="border:1px solid black;"><p>ローカル コンピュータの管理者の資格情報と、データベース サーバーを実行しているコンピュータ上での読み取りおよび書き込み権限を持つドメイン ユーザー</p></td>
+<td style="border:1px solid black;">既存の構成データベースの使用中の提供</td>
+<td style="border:1px solid black;">ローカル コンピュータの管理者の資格情報と、データベース サーバーを実行しているコンピュータ上での読み取りおよび書き込み権限を持つドメイン ユーザー</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>RMS の管理</p></td>
-<td style="border:1px solid black;"><p>ローカル コンピュータの管理者の資格情報を持つドメイン ユーザー</p></td>
+<td style="border:1px solid black;">RMS の管理</td>
+<td style="border:1px solid black;">ローカル コンピュータの管理者の資格情報を持つドメイン ユーザー</td>
 </tr>
 </tbody>
 </table>
@@ -196,7 +196,7 @@ RMS をクラスタ導入で使用する場合は、次の表に示された点�
   
 ###  
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -210,16 +210,16 @@ RMS をクラスタ導入で使用する場合は、次の表に示された点�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>多数のデスクトップで RMS を使用する</p></td>
-<td style="border:1px solid black;"><p>Systems Management Server (SMS) またはグループ ポリシーを使用して、RMS SP2 クライアントをインストールします。</p></td>
+<td style="border:1px solid black;">多数のデスクトップで RMS を使用する</td>
+<td style="border:1px solid black;">Systems Management Server (SMS) またはグループ ポリシーを使用して、RMS SP2 クライアントをインストールします。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>多数のクライアント要求が発生する</p></td>
-<td style="border:1px solid black;"><p>負荷分散サーバー、Windows Server オペレーティング システムのネットワーク負荷分散サービス、またはハードウェア負荷分散を使用して、要求をクラスタ内で分散します。</p></td>
+<td style="border:1px solid black;">多数のクライアント要求が発生する</td>
+<td style="border:1px solid black;">負荷分散サーバー、Windows Server オペレーティング システムのネットワーク負荷分散サービス、またはハードウェア負荷分散を使用して、要求をクラスタ内で分散します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>仮想 IP アドレスを使用して 2 つのネットワーク アダプタでエクストラネットとイントラネットの要求を処理している</p></td>
-<td style="border:1px solid black;"><p>エクストラネットに仮想 IP アドレスを公開するドメイン ネーム システム (DNS) 登録が、イントラネットにもアドレスを公開することを確認してください。</p></td>
+<td style="border:1px solid black;">仮想 IP アドレスを使用して 2 つのネットワーク アダプタでエクストラネットとイントラネットの要求を処理している</td>
+<td style="border:1px solid black;">エクストラネットに仮想 IP アドレスを公開するドメイン ネーム システム (DNS) 登録が、イントラネットにもアドレスを公開することを確認してください。</td>
 </tr>
 </tbody>
 </table>

@@ -25,7 +25,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362919(v=TechNet.10)'
 
 まず、脆弱性が悪用された場合にどのような結果をもたらすものかを考えます。それを知るには、セキュリティ情報の \[要点\] - \[深刻度および脆弱性識別番号\] の表を参照し、各脆弱性の \[脆弱性の影響\] を確認します。この影響が、悪用された結果として何が起こるのかを分類しており、以下の様になります。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -33,31 +33,31 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362919(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>危険度</p></th>
-<th><p>脆弱性の影響</p></th>
+<th>危険度</th>
+<th>脆弱性の影響</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>(高)</p>
-<p>(低)</p></td>
+<td style="border:1px solid black;">(高)
+(低)</td>
 <td style="border:1px solid black;"><ul>
-<li><p>リモートでコードが実行される</p></li>
-<li><p>(ローカルで) コードが実行される</p></li>
-<li><p>特権の昇格</p></li>
-<li><p>情報漏えい</p></li>
-<li><p>サービス妨害 (DoS)</p></li>
+<li>リモートでコードが実行される</li>
+<li>(ローカルで) コードが実行される</li>
+<li>特権の昇格</li>
+<li>情報漏えい</li>
+<li>サービス妨害 (DoS)</li>
 </ul></td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 あえて、危険度に差をつけていますが、システムによっては危険度が変化することを頭の片隅に残しておく必要があります。たとえば、個人情報や医療情報を扱うようなシステムの場合、情報漏えいは、コードの実行以上に危険と判断される可能性もあります。一般論としては、攻撃の自由度が高いという意味でコード実行の危険度が高くなります。
 
 次に、どのような経路で脆弱性が悪用され攻撃が成立するのかを考えます。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -65,25 +65,25 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362919(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>危険度</p></th>
-<th><p>経路</p></th>
+<th>危険度</th>
+<th>経路</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>(高)</p>
-<p>(低)</p></td>
+<td style="border:1px solid black;">(高)
+(低)</td>
 <td style="border:1px solid black;"><ul>
-<li><p>インターネット</p></li>
-<li><p>LAN 等のネットワーク</p></li>
-<li><p>ローカル コンソール</p></li>
-<li><p>メール等の添付として</p></li>
-<li><p>物理メディアによる持ち込み</p></li>
+<li>インターネット</li>
+<li>LAN 等のネットワーク</li>
+<li>ローカル コンソール</li>
+<li>メール等の添付として</li>
+<li>物理メディアによる持ち込み</li>
 </ul></td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 これに関して、おのおの見解が分かれるところかもしれませんが、今回はこの順序で考えます。このリストは各組織やシステムに合わせてカスタマイズしてみてください。
 
@@ -91,7 +91,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362919(v=TechNet.10)'
 
 最後に誰が悪用する (攻撃する) のかを考えます。実際に攻撃を行う個人や団体を特定するのではなく、不特定多数 (匿名ユーザー)、認証ユーザーなどが攻撃可能かを考えます。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -99,24 +99,24 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362919(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>危険度</p></th>
-<th><p>誰が？どのような人が？</p></th>
+<th>危険度</th>
+<th>誰が？どのような人が？</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>(高)</p>
-<p>(低)</p></td>
+<td style="border:1px solid black;">(高)
+(低)</td>
 <td style="border:1px solid black;"><ul>
-<li><p>匿名で・・・</p></li>
-<li><p>特定の権限を持った・・・</p></li>
-<li><p>認証された・・・</p></li>
-<li><p>コンソールにログオンした・・・</p></li>
+<li>匿名で・・・</li>
+<li>特定の権限を持った・・・</li>
+<li>認証された・・・</li>
+<li>コンソールにログオンした・・・</li>
 </ul></td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 ここでは、匿名などの「だれでも」悪用できる状況をもっとも危険度 \[高\] にしています。この情報は、セキュリティ情報の \[脆弱性の詳細\] – \[(各脆弱性の) よく寄せられる質問\] の中から、「どのように攻撃者はこの脆弱性を悪用する可能性がありますか?」に注目することで確認可能です。
 

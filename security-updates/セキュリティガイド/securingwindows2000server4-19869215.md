@@ -37,7 +37,7 @@ Contoso では会社の管理グループを担当するテクノロジに基づ
 
 **表 4.1 Contoso の管理グループ**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -45,27 +45,27 @@ Contoso では会社の管理グループを担当するテクノロジに基づ
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>グループ名</p></th>
-<th><p>担当</p></th>
+<th>グループ名</th>
+<th>担当</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ドメイン技術</p></td>
-<td style="border:1px solid black;"><p>ドメイン管理</p>
-<p>ドメイン コントローラ管理</p>
-<p>DNS</p></td>
+<td style="border:1px solid black;">ドメイン技術</td>
+<td style="border:1px solid black;">ドメイン管理
+ドメイン コントローラ管理
+DNS</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>運用</p></td>
-<td style="border:1px solid black;"><p>WINS</p>
-<p>DHCP</p>
-<p>ファイル サービス</p>
-<p>プリント サービス</p></td>
+<td style="border:1px solid black;">運用</td>
+<td style="border:1px solid black;">WINS
+DHCP
+ファイル サービス
+プリント サービス</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Web サービス</p></td>
-<td style="border:1px solid black;"><p>IIS 管理</p></td>
+<td style="border:1px solid black;">Web サービス</td>
+<td style="border:1px solid black;">IIS 管理</td>
 </tr>
 </tbody>
 </table>
@@ -206,7 +206,7 @@ Contoso の資産の一部に適用された資産の重要度の評価を下の
   
 **表 4.2 Contoso における資産の重要度**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -214,62 +214,62 @@ Contoso の資産の一部に適用された資産の重要度の評価を下の
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>サーバーの区分</p></th>
-<th><p>資産の重要度 (AP)</p></th>
+<th>サーバーの区分</th>
+<th>資産の重要度 (AP)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ルート ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
+<td style="border:1px solid black;">ルート ドメイン コントローラ</td>
+<td style="border:1px solid black;">8</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>エンタープライズ管理者アカウント</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
+<td style="border:1px solid black;">エンタープライズ管理者アカウント</td>
+<td style="border:1px solid black;">10</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>子ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
+<td style="border:1px solid black;">子ドメイン コントローラ</td>
+<td style="border:1px solid black;">8</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>北米ドメイン管理者アカウント</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
+<td style="border:1px solid black;">北米ドメイン管理者アカウント</td>
+<td style="border:1px solid black;">10</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>北米ドメイン ユーザー アカウント</p></td>
-<td style="border:1px solid black;"><p>5</p></td>
+<td style="border:1px solid black;">北米ドメイン ユーザー アカウント</td>
+<td style="border:1px solid black;">5</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ルート DNS サービス</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
+<td style="border:1px solid black;">ルート DNS サービス</td>
+<td style="border:1px solid black;">4</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>子 DNS サービス</p></td>
-<td style="border:1px solid black;"><p>5</p></td>
+<td style="border:1px solid black;">子 DNS サービス</td>
+<td style="border:1px solid black;">5</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>WINS サーバー</p></td>
-<td style="border:1px solid black;"><p>3</p></td>
+<td style="border:1px solid black;">WINS サーバー</td>
+<td style="border:1px solid black;">3</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DHCP サーバー</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
+<td style="border:1px solid black;">DHCP サーバー</td>
+<td style="border:1px solid black;">1</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ファイル サーバーとプリント サーバー</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
+<td style="border:1px solid black;">ファイル サーバーとプリント サーバー</td>
+<td style="border:1px solid black;">8</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
+<td style="border:1px solid black;">調査 IIS サーバー</td>
+<td style="border:1px solid black;">10</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>部門 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>6</p></td>
+<td style="border:1px solid black;">部門 IIS サーバー</td>
+<td style="border:1px solid black;">6</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>人事 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>7</p></td>
+<td style="border:1px solid black;">人事 IIS サーバー</td>
+<td style="border:1px solid black;">7</td>
 </tr>
 </tbody>
 </table>
@@ -280,7 +280,7 @@ Contoso の資産の一部に適用された資産の重要度の評価を下の
   
 **表 4.3 Contoso における資産の評価**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -290,90 +290,90 @@ Contoso の資産の一部に適用された資産の重要度の評価を下の
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>サーバーの区分</p></th>
-<th><p>物理的な価値</p></th>
-<th><p>付加価値</p></th>
-<th><p>資産価値 (AV)</p></th>
+<th>サーバーの区分</th>
+<th>物理的な価値</th>
+<th>付加価値</th>
+<th>資産価値 (AV)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>単一のルート ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>18,000 ドル</p></td>
-<td style="border:1px solid black;"><p>10,000 ドル</p></td>
-<td style="border:1px solid black;"><p>28,000 ドル</p></td>
+<td style="border:1px solid black;">単一のルート ドメイン コントローラ</td>
+<td style="border:1px solid black;">18,000 ドル</td>
+<td style="border:1px solid black;">10,000 ドル</td>
+<td style="border:1px solid black;">28,000 ドル</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>エンタープライズ管理者アカウント</p></td>
-<td style="border:1px solid black;"><p>0 ドル</p></td>
-<td style="border:1px solid black;"><p>8 億 2900 万ドル</p></td>
-<td style="border:1px solid black;"><p>8 億 2900 万ドル</p></td>
+<td style="border:1px solid black;">エンタープライズ管理者アカウント</td>
+<td style="border:1px solid black;">0 ドル</td>
+<td style="border:1px solid black;">8 億 2900 万ドル</td>
+<td style="border:1px solid black;">8 億 2900 万ドル</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>単一の子ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>18,000 ドル</p></td>
-<td style="border:1px solid black;"><p>50,000 ドル</p></td>
-<td style="border:1px solid black;"><p>68,000 ドル</p></td>
+<td style="border:1px solid black;">単一の子ドメイン コントローラ</td>
+<td style="border:1px solid black;">18,000 ドル</td>
+<td style="border:1px solid black;">50,000 ドル</td>
+<td style="border:1px solid black;">68,000 ドル</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>北米ドメイン管理者アカウント</p></td>
-<td style="border:1px solid black;"><p>0 ドル</p></td>
-<td style="border:1px solid black;"><p>8 億 2900 万ドル</p></td>
-<td style="border:1px solid black;"><p>8 億 2900 万ドル</p></td>
+<td style="border:1px solid black;">北米ドメイン管理者アカウント</td>
+<td style="border:1px solid black;">0 ドル</td>
+<td style="border:1px solid black;">8 億 2900 万ドル</td>
+<td style="border:1px solid black;">8 億 2900 万ドル</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>北米ドメイン ユーザー アカウント</p></td>
-<td style="border:1px solid black;"><p>0 ドル</p></td>
-<td style="border:1px solid black;"><p>1,000 ドル</p></td>
-<td style="border:1px solid black;"><p>1,000 ドル</p></td>
+<td style="border:1px solid black;">北米ドメイン ユーザー アカウント</td>
+<td style="border:1px solid black;">0 ドル</td>
+<td style="border:1px solid black;">1,000 ドル</td>
+<td style="border:1px solid black;">1,000 ドル</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ルート DNS サービス</p></td>
-<td style="border:1px solid black;"><p>18,000 ドル</p></td>
-<td style="border:1px solid black;"><p>30,000 ドル</p></td>
-<td style="border:1px solid black;"><p>48,000 ドル</p></td>
+<td style="border:1px solid black;">ルート DNS サービス</td>
+<td style="border:1px solid black;">18,000 ドル</td>
+<td style="border:1px solid black;">30,000 ドル</td>
+<td style="border:1px solid black;">48,000 ドル</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>子 DNS サービス</p></td>
-<td style="border:1px solid black;"><p>18,000 ドル</p></td>
-<td style="border:1px solid black;"><p>30,000 ドル</p></td>
-<td style="border:1px solid black;"><p>48,000 ドル</p></td>
+<td style="border:1px solid black;">子 DNS サービス</td>
+<td style="border:1px solid black;">18,000 ドル</td>
+<td style="border:1px solid black;">30,000 ドル</td>
+<td style="border:1px solid black;">48,000 ドル</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>WINS サーバー</p></td>
-<td style="border:1px solid black;"><p>18,000 ドル</p></td>
-<td style="border:1px solid black;"><p>0 ドル</p></td>
-<td style="border:1px solid black;"><p>18,000 ドル</p></td>
+<td style="border:1px solid black;">WINS サーバー</td>
+<td style="border:1px solid black;">18,000 ドル</td>
+<td style="border:1px solid black;">0 ドル</td>
+<td style="border:1px solid black;">18,000 ドル</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DHCP サーバー</p></td>
-<td style="border:1px solid black;"><p>18,000 ドル</p></td>
-<td style="border:1px solid black;"><p>0 ドル</p></td>
-<td style="border:1px solid black;"><p>18,000 ドル</p></td>
+<td style="border:1px solid black;">DHCP サーバー</td>
+<td style="border:1px solid black;">18,000 ドル</td>
+<td style="border:1px solid black;">0 ドル</td>
+<td style="border:1px solid black;">18,000 ドル</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ファイル サーバーとプリント サーバー</p></td>
-<td style="border:1px solid black;"><p>40,000 ドル</p></td>
-<td style="border:1px solid black;"><p>480,000 ドル</p></td>
-<td style="border:1px solid black;"><p>520,000 ドル</p></td>
+<td style="border:1px solid black;">ファイル サーバーとプリント サーバー</td>
+<td style="border:1px solid black;">40,000 ドル</td>
+<td style="border:1px solid black;">480,000 ドル</td>
+<td style="border:1px solid black;">520,000 ドル</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>46,000 ドル</p></td>
-<td style="border:1px solid black;"><p>550,000 ドル</p></td>
-<td style="border:1px solid black;"><p>596,000 ドル</p></td>
+<td style="border:1px solid black;">調査 IIS サーバー</td>
+<td style="border:1px solid black;">46,000 ドル</td>
+<td style="border:1px solid black;">550,000 ドル</td>
+<td style="border:1px solid black;">596,000 ドル</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>部門 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>32,000 ドル</p></td>
-<td style="border:1px solid black;"><p>50,000 ドル</p></td>
-<td style="border:1px solid black;"><p>82,000 ドル</p></td>
+<td style="border:1px solid black;">部門 IIS サーバー</td>
+<td style="border:1px solid black;">32,000 ドル</td>
+<td style="border:1px solid black;">50,000 ドル</td>
+<td style="border:1px solid black;">82,000 ドル</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>人事 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>32,000 ドル</p></td>
-<td style="border:1px solid black;"><p>300,000 ドル</p></td>
-<td style="border:1px solid black;"><p>332,000 ドル</p></td>
+<td style="border:1px solid black;">人事 IIS サーバー</td>
+<td style="border:1px solid black;">32,000 ドル</td>
+<td style="border:1px solid black;">300,000 ドル</td>
+<td style="border:1px solid black;">332,000 ドル</td>
 </tr>
 </tbody>
 </table>
@@ -496,7 +496,7 @@ Contoso では脅威確率 (threat probability: TP) を潜在的な脅威が発�
   
 **表 4.4 Contoso における脅威確率**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -504,58 +504,58 @@ Contoso では脅威確率 (threat probability: TP) を潜在的な脅威が発�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>脅威</p></th>
-<th><p>確率</p></th>
+<th>脅威</th>
+<th>確率</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>火災</p></td>
-<td style="border:1px solid black;"><p>0.05</p></td>
+<td style="border:1px solid black;">火災</td>
+<td style="border:1px solid black;">0.05</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>水害</p></td>
-<td style="border:1px solid black;"><p>0.025</p></td>
+<td style="border:1px solid black;">水害</td>
+<td style="border:1px solid black;">0.025</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>風害</p></td>
-<td style="border:1px solid black;"><p>0.025</p></td>
+<td style="border:1px solid black;">風害</td>
+<td style="border:1px solid black;">0.025</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>地震</p></td>
-<td style="border:1px solid black;"><p>0.001</p></td>
+<td style="border:1px solid black;">地震</td>
+<td style="border:1px solid black;">0.001</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>停電</p></td>
-<td style="border:1px solid black;"><p>0.0002</p></td>
+<td style="border:1px solid black;">停電</td>
+<td style="border:1px solid black;">0.0002</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ハードウェアの障害</p></td>
-<td style="border:1px solid black;"><p>0.1</p></td>
+<td style="border:1px solid black;">ハードウェアの障害</td>
+<td style="border:1px solid black;">0.1</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ネットワークの障害</p></td>
-<td style="border:1px solid black;"><p>0.3</p></td>
+<td style="border:1px solid black;">ネットワークの障害</td>
+<td style="border:1px solid black;">0.3</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>情報を知らないユーザー</p></td>
-<td style="border:1px solid black;"><p>0.2</p></td>
+<td style="border:1px solid black;">情報を知らないユーザー</td>
+<td style="border:1px solid black;">0.2</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>悪質なコード (ウイルス)</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
+<td style="border:1px solid black;">悪質なコード (ウイルス)</td>
+<td style="border:1px solid black;">0.6</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>産業スパイ</p></td>
-<td style="border:1px solid black;"><p>0.1</p></td>
+<td style="border:1px solid black;">産業スパイ</td>
+<td style="border:1px solid black;">0.1</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>内部からの攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
+<td style="border:1px solid black;">内部からの攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>外部からの攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.4</p></td>
+<td style="border:1px solid black;">外部からの攻撃者</td>
+<td style="border:1px solid black;">0.4</td>
 </tr>
 </tbody>
 </table>
@@ -987,391 +987,391 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>脅威</p></th>
-<th><p>TP</p></th>
-<th><p>行為</p></th>
-<th><p>CF</p></th>
-<th><p>労力</p></th>
-<th><p>脆弱性</p></th>
-<th><p>VF</p></th>
-<th><p>資産</p></th>
-<th><p>AP</p></th>
+<th>脅威</th>
+<th>TP</th>
+<th>行為</th>
+<th>CF</th>
+<th>労力</th>
+<th>脆弱性</th>
+<th>VF</th>
+<th>資産</th>
+<th>AP</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>悪質なコード</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>Code Red</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>ida/idq の脆弱性</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
-<td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
+<td style="border:1px solid black;">悪質なコード</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">Code Red</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">ida/idq の脆弱性</td>
+<td style="border:1px solid black;">8</td>
+<td style="border:1px solid black;">調査 IIS サーバー</td>
+<td style="border:1px solid black;">10</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>悪質なコード</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>Code Red</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>ida/idq の脆弱性</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
-<td style="border:1px solid black;"><p>部門 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>6</p></td>
+<td style="border:1px solid black;">悪質なコード</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">Code Red</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">ida/idq の脆弱性</td>
+<td style="border:1px solid black;">8</td>
+<td style="border:1px solid black;">部門 IIS サーバー</td>
+<td style="border:1px solid black;">6</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>悪質なコード</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>Code Red</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>ida/idq の脆弱性</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
-<td style="border:1px solid black;"><p>人事 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>7</p></td>
+<td style="border:1px solid black;">悪質なコード</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">Code Red</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">ida/idq の脆弱性</td>
+<td style="border:1px solid black;">8</td>
+<td style="border:1px solid black;">人事 IIS サーバー</td>
+<td style="border:1px solid black;">7</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>NetBIOS 列挙ツール</p></td>
-<td style="border:1px solid black;"><p>6</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>ヌル セッション</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
-<td style="border:1px solid black;"><p>ルート ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">NetBIOS 列挙ツール</td>
+<td style="border:1px solid black;">6</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">ヌル セッション</td>
+<td style="border:1px solid black;">10</td>
+<td style="border:1px solid black;">ルート ドメイン コントローラ</td>
+<td style="border:1px solid black;">8</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>NetBIOS 列挙ツール</p></td>
-<td style="border:1px solid black;"><p>6</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>ヌル セッション</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
-<td style="border:1px solid black;"><p>北米ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">NetBIOS 列挙ツール</td>
+<td style="border:1px solid black;">6</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">ヌル セッション</td>
+<td style="border:1px solid black;">10</td>
+<td style="border:1px solid black;">北米ドメイン コントローラ</td>
+<td style="border:1px solid black;">8</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>SNMP e列挙ツール</p></td>
-<td style="border:1px solid black;"><p>6</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>public コミュニティ名</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
-<td style="border:1px solid black;"><p>ルート ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">SNMP e列挙ツール</td>
+<td style="border:1px solid black;">6</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">public コミュニティ名</td>
+<td style="border:1px solid black;">10</td>
+<td style="border:1px solid black;">ルート ドメイン コントローラ</td>
+<td style="border:1px solid black;">8</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>SNMP 列挙ツール</p></td>
-<td style="border:1px solid black;"><p>6</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>public コミュニティ名</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
-<td style="border:1px solid black;"><p>北米ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">SNMP 列挙ツール</td>
+<td style="border:1px solid black;">6</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">public コミュニティ名</td>
+<td style="border:1px solid black;">10</td>
+<td style="border:1px solid black;">北米ドメイン コントローラ</td>
+<td style="border:1px solid black;">8</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>Nslookup</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>ロックされていないゾーン転送</p></td>
-<td style="border:1px solid black;"><p>7</p></td>
-<td style="border:1px solid black;"><p>ルート DNS</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">Nslookup</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">ロックされていないゾーン転送</td>
+<td style="border:1px solid black;">7</td>
+<td style="border:1px solid black;">ルート DNS</td>
+<td style="border:1px solid black;">4</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>Nslookup</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>ロックされていないゾーン転送</p></td>
-<td style="border:1px solid black;"><p>7</p></td>
-<td style="border:1px solid black;"><p>北米 DNS</p></td>
-<td style="border:1px solid black;"><p>5</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">Nslookup</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">ロックされていないゾーン転送</td>
+<td style="border:1px solid black;">7</td>
+<td style="border:1px solid black;">北米 DNS</td>
+<td style="border:1px solid black;">5</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>ブルートフォース攻撃</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>パスワード ポリシーの欠如</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
-<td style="border:1px solid black;"><p>エンタープライズ管理者アカウント</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">ブルートフォース攻撃</td>
+<td style="border:1px solid black;">10</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">パスワード ポリシーの欠如</td>
+<td style="border:1px solid black;">10</td>
+<td style="border:1px solid black;">エンタープライズ管理者アカウント</td>
+<td style="border:1px solid black;">10</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>ブルートフォース攻撃</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>パスワード ポリシーの欠如</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
-<td style="border:1px solid black;"><p>北米ドメイン管理者アカウント</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">ブルートフォース攻撃</td>
+<td style="border:1px solid black;">10</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">パスワード ポリシーの欠如</td>
+<td style="border:1px solid black;">10</td>
+<td style="border:1px solid black;">北米ドメイン管理者アカウント</td>
+<td style="border:1px solid black;">10</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>ブルートフォース攻撃</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>パスワード ポリシーの欠如</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
-<td style="border:1px solid black;"><p>北米ユーザー アカウント</p></td>
-<td style="border:1px solid black;"><p>5</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">ブルートフォース攻撃</td>
+<td style="border:1px solid black;">10</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">パスワード ポリシーの欠如</td>
+<td style="border:1px solid black;">10</td>
+<td style="border:1px solid black;">北米ユーザー アカウント</td>
+<td style="border:1px solid black;">5</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>SMB スニファ</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
-<td style="border:1px solid black;"><p>5</p></td>
-<td style="border:1px solid black;"><p>暗号化されていない SMB トラフィック</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
-<td style="border:1px solid black;"><p>エンタープライズ管理者アカウント</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">SMB スニファ</td>
+<td style="border:1px solid black;">10</td>
+<td style="border:1px solid black;">5</td>
+<td style="border:1px solid black;">暗号化されていない SMB トラフィック</td>
+<td style="border:1px solid black;">10</td>
+<td style="border:1px solid black;">エンタープライズ管理者アカウント</td>
+<td style="border:1px solid black;">10</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>SMB スニファ</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
-<td style="border:1px solid black;"><p>5</p></td>
-<td style="border:1px solid black;"><p>暗号化されていない SMB トラフィック</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
-<td style="border:1px solid black;"><p>北米ドメイン管理者アカウント</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">SMB スニファ</td>
+<td style="border:1px solid black;">10</td>
+<td style="border:1px solid black;">5</td>
+<td style="border:1px solid black;">暗号化されていない SMB トラフィック</td>
+<td style="border:1px solid black;">10</td>
+<td style="border:1px solid black;">北米ドメイン管理者アカウント</td>
+<td style="border:1px solid black;">10</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>SMB スニファ</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
-<td style="border:1px solid black;"><p>5</p></td>
-<td style="border:1px solid black;"><p>暗号化されていない SMB トラフィック</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
-<td style="border:1px solid black;"><p>北米ユーザー アカウント</p></td>
-<td style="border:1px solid black;"><p>5</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">SMB スニファ</td>
+<td style="border:1px solid black;">10</td>
+<td style="border:1px solid black;">5</td>
+<td style="border:1px solid black;">暗号化されていない SMB トラフィック</td>
+<td style="border:1px solid black;">10</td>
+<td style="border:1px solid black;">北米ユーザー アカウント</td>
+<td style="border:1px solid black;">5</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>監査を無効にできるツール</p></td>
-<td style="border:1px solid black;"><p>3</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
-<td style="border:1px solid black;"><p>無効な監査</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>ルート ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">監査を無効にできるツール</td>
+<td style="border:1px solid black;">3</td>
+<td style="border:1px solid black;">4</td>
+<td style="border:1px solid black;">無効な監査</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">ルート ドメイン コントローラ</td>
+<td style="border:1px solid black;">8</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>監査を無効にできるツール</p></td>
-<td style="border:1px solid black;"><p>3</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
-<td style="border:1px solid black;"><p>無効な監査</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>北米ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">監査を無効にできるツール</td>
+<td style="border:1px solid black;">3</td>
+<td style="border:1px solid black;">4</td>
+<td style="border:1px solid black;">無効な監査</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">北米ドメイン コントローラ</td>
+<td style="border:1px solid black;">8</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>監査を無効にできるツール</p></td>
-<td style="border:1px solid black;"><p>3</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
-<td style="border:1px solid black;"><p>無効な監査</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">監査を無効にできるツール</td>
+<td style="border:1px solid black;">3</td>
+<td style="border:1px solid black;">4</td>
+<td style="border:1px solid black;">無効な監査</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">調査 IIS サーバー</td>
+<td style="border:1px solid black;">10</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>監査を無効にできるツール</p></td>
-<td style="border:1px solid black;"><p>3</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
-<td style="border:1px solid black;"><p>無効な監査</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>部門 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>6</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">監査を無効にできるツール</td>
+<td style="border:1px solid black;">3</td>
+<td style="border:1px solid black;">4</td>
+<td style="border:1px solid black;">無効な監査</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">部門 IIS サーバー</td>
+<td style="border:1px solid black;">6</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>監査を無効にできるツール</p></td>
-<td style="border:1px solid black;"><p>3</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
-<td style="border:1px solid black;"><p>無効な監査</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>人事 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>7</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">監査を無効にできるツール</td>
+<td style="border:1px solid black;">3</td>
+<td style="border:1px solid black;">4</td>
+<td style="border:1px solid black;">無効な監査</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">人事 IIS サーバー</td>
+<td style="border:1px solid black;">7</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>監査を無効にできるツール</p></td>
-<td style="border:1px solid black;"><p>3</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
-<td style="border:1px solid black;"><p>無効な監査</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>ファイル サーバーとプリント サーバー</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">監査を無効にできるツール</td>
+<td style="border:1px solid black;">3</td>
+<td style="border:1px solid black;">4</td>
+<td style="border:1px solid black;">無効な監査</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">ファイル サーバーとプリント サーバー</td>
+<td style="border:1px solid black;">8</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>監査を無効にできるツール</p></td>
-<td style="border:1px solid black;"><p>3</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
-<td style="border:1px solid black;"><p>無効な監査</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>WINS サーバー</p></td>
-<td style="border:1px solid black;"><p>3</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">監査を無効にできるツール</td>
+<td style="border:1px solid black;">3</td>
+<td style="border:1px solid black;">4</td>
+<td style="border:1px solid black;">無効な監査</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">WINS サーバー</td>
+<td style="border:1px solid black;">3</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>監査を無効にできるツール</p></td>
-<td style="border:1px solid black;"><p>3</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
-<td style="border:1px solid black;"><p>無効な監査</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>DHCP サーバー</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">監査を無効にできるツール</td>
+<td style="border:1px solid black;">3</td>
+<td style="border:1px solid black;">4</td>
+<td style="border:1px solid black;">無効な監査</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">DHCP サーバー</td>
+<td style="border:1px solid black;">1</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>DoS 攻撃</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>TCP/IP DoS の脆弱性</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>ルート ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">DoS 攻撃</td>
+<td style="border:1px solid black;">8</td>
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">TCP/IP DoS の脆弱性</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">ルート ドメイン コントローラ</td>
+<td style="border:1px solid black;">8</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>DoS 攻撃</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>TCP/IP DoS の脆弱性</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>北米ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">DoS 攻撃</td>
+<td style="border:1px solid black;">8</td>
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">TCP/IP DoS の脆弱性</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">北米ドメイン コントローラ</td>
+<td style="border:1px solid black;">8</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>DoS 攻撃</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>TCP/IP DoS の脆弱性</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">DoS 攻撃</td>
+<td style="border:1px solid black;">8</td>
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">TCP/IP DoS の脆弱性</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">調査 IIS サーバー</td>
+<td style="border:1px solid black;">10</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>DoS 攻撃</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>TCP/IP DoS の脆弱性</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>部門 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>6</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">DoS 攻撃</td>
+<td style="border:1px solid black;">8</td>
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">TCP/IP DoS の脆弱性</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">部門 IIS サーバー</td>
+<td style="border:1px solid black;">6</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>DoS 攻撃</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>TCP/IP DoS の脆弱性</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>人事 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>7</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">DoS 攻撃</td>
+<td style="border:1px solid black;">8</td>
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">TCP/IP DoS の脆弱性</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">人事 IIS サーバー</td>
+<td style="border:1px solid black;">7</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>DoS 攻撃</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>TCP/IP DoS の脆弱性</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>ファイル サーバーとプリント サーバー</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">DoS 攻撃</td>
+<td style="border:1px solid black;">8</td>
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">TCP/IP DoS の脆弱性</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">ファイル サーバーとプリント サーバー</td>
+<td style="border:1px solid black;">8</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>DoS 攻撃</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>TCP/IP DoS の脆弱性</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>WINS サーバー</p></td>
-<td style="border:1px solid black;"><p>3</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">DoS 攻撃</td>
+<td style="border:1px solid black;">8</td>
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">TCP/IP DoS の脆弱性</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">WINS サーバー</td>
+<td style="border:1px solid black;">3</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>DoS 攻撃</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>TCP/IP DoS の脆弱性</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>DHCP サーバー</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">DoS 攻撃</td>
+<td style="border:1px solid black;">8</td>
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">TCP/IP DoS の脆弱性</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">DHCP サーバー</td>
+<td style="border:1px solid black;">1</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>ダブル デコード攻撃</p></td>
-<td style="border:1px solid black;"><p>7</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>URL の正規化の問題</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">ダブル デコード攻撃</td>
+<td style="border:1px solid black;">7</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">URL の正規化の問題</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">調査 IIS サーバー</td>
+<td style="border:1px solid black;">10</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>ダブル デコード攻撃</p></td>
-<td style="border:1px solid black;"><p>7</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>URL の正規化の問題</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>部門 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>6</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">ダブル デコード攻撃</td>
+<td style="border:1px solid black;">7</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">URL の正規化の問題</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">部門 IIS サーバー</td>
+<td style="border:1px solid black;">6</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>攻撃者</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
-<td style="border:1px solid black;"><p>ダブル デコード攻撃</p></td>
-<td style="border:1px solid black;"><p>7</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>URL の正規化の問題</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>人事 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>7</p></td>
+<td style="border:1px solid black;">攻撃者</td>
+<td style="border:1px solid black;">0.6</td>
+<td style="border:1px solid black;">ダブル デコード攻撃</td>
+<td style="border:1px solid black;">7</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">URL の正規化の問題</td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">人事 IIS サーバー</td>
+<td style="border:1px solid black;">7</td>
 </tr>
 </tbody>
 </table>
@@ -1406,7 +1406,7 @@ EF = (((TP x (C / E)) x (VF x AP)) / 1000)
   
 **表 4.6 Contoso 環境において特定された上位リスク**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -1415,86 +1415,86 @@ EF = (((TP x (C / E)) x (VF x AP)) / 1000)
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>脆弱性</p></th>
-<th><p>資産</p></th>
-<th><p>EF</p></th>
+<th>脆弱性</th>
+<th>資産</th>
+<th>EF</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ブルートフォース攻撃</p></td>
-<td style="border:1px solid black;"><p>エンタープライズ管理者アカウント</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
+<td style="border:1px solid black;">ブルートフォース攻撃</td>
+<td style="border:1px solid black;">エンタープライズ管理者アカウント</td>
+<td style="border:1px solid black;">0.6</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ブルートフォース攻撃</p></td>
-<td style="border:1px solid black;"><p>北米ドメイン管理者アカウント</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
+<td style="border:1px solid black;">ブルートフォース攻撃</td>
+<td style="border:1px solid black;">北米ドメイン管理者アカウント</td>
+<td style="border:1px solid black;">0.6</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DoS 攻撃</p></td>
-<td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>0.432</p></td>
+<td style="border:1px solid black;">DoS 攻撃</td>
+<td style="border:1px solid black;">調査 IIS サーバー</td>
+<td style="border:1px solid black;">0.432</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Code Red</p></td>
-<td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>0.432</p></td>
+<td style="border:1px solid black;">Code Red</td>
+<td style="border:1px solid black;">調査 IIS サーバー</td>
+<td style="border:1px solid black;">0.432</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DoS 攻撃</p></td>
-<td style="border:1px solid black;"><p>ルート ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>0.3456</p></td>
+<td style="border:1px solid black;">DoS 攻撃</td>
+<td style="border:1px solid black;">ルート ドメイン コントローラ</td>
+<td style="border:1px solid black;">0.3456</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>DoS 攻撃</p></td>
-<td style="border:1px solid black;"><p>北米ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>0.3456</p></td>
+<td style="border:1px solid black;">DoS 攻撃</td>
+<td style="border:1px solid black;">北米ドメイン コントローラ</td>
+<td style="border:1px solid black;">0.3456</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DoS 攻撃</p></td>
-<td style="border:1px solid black;"><p>ファイル サーバーとプリント サーバー</p></td>
-<td style="border:1px solid black;"><p>0.3456</p></td>
+<td style="border:1px solid black;">DoS 攻撃</td>
+<td style="border:1px solid black;">ファイル サーバーとプリント サーバー</td>
+<td style="border:1px solid black;">0.3456</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Code Red</p></td>
-<td style="border:1px solid black;"><p>人事 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>0.3024</p></td>
+<td style="border:1px solid black;">Code Red</td>
+<td style="border:1px solid black;">人事 IIS サーバー</td>
+<td style="border:1px solid black;">0.3024</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DoS 攻撃</p></td>
-<td style="border:1px solid black;"><p>人事 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>0.3024</p></td>
+<td style="border:1px solid black;">DoS 攻撃</td>
+<td style="border:1px solid black;">人事 IIS サーバー</td>
+<td style="border:1px solid black;">0.3024</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ブルートフォース攻撃</p></td>
-<td style="border:1px solid black;"><p>北米ユーザー アカウント</p></td>
-<td style="border:1px solid black;"><p>0.3</p></td>
+<td style="border:1px solid black;">ブルートフォース攻撃</td>
+<td style="border:1px solid black;">北米ユーザー アカウント</td>
+<td style="border:1px solid black;">0.3</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Code Red</p></td>
-<td style="border:1px solid black;"><p>部門 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>0.2592</p></td>
+<td style="border:1px solid black;">Code Red</td>
+<td style="border:1px solid black;">部門 IIS サーバー</td>
+<td style="border:1px solid black;">0.2592</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>DoS 攻撃</p></td>
-<td style="border:1px solid black;"><p>部門 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>0.2592</p></td>
+<td style="border:1px solid black;">DoS 攻撃</td>
+<td style="border:1px solid black;">部門 IIS サーバー</td>
+<td style="border:1px solid black;">0.2592</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ダブル デコード攻撃</p></td>
-<td style="border:1px solid black;"><p>調査 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>0.189</p></td>
+<td style="border:1px solid black;">ダブル デコード攻撃</td>
+<td style="border:1px solid black;">調査 IIS サーバー</td>
+<td style="border:1px solid black;">0.189</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NetBIOS 列挙ツール</p></td>
-<td style="border:1px solid black;"><p>ルート ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>0.144</p></td>
+<td style="border:1px solid black;">NetBIOS 列挙ツール</td>
+<td style="border:1px solid black;">ルート ドメイン コントローラ</td>
+<td style="border:1px solid black;">0.144</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>NetBIOS 列挙ツール</p></td>
-<td style="border:1px solid black;"><p>北米ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>0.144</p></td>
+<td style="border:1px solid black;">NetBIOS 列挙ツール</td>
+<td style="border:1px solid black;">北米ドメイン コントローラ</td>
+<td style="border:1px solid black;">0.144</td>
 </tr>
 </tbody>
 </table>

@@ -95,7 +95,7 @@ Contoso 社の Active Directory 内における GPO の場所は次の図に示�
 
 **表 7.1 ドメイン コントローラ ベースライン ポリシーのユーザー権利設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -104,24 +104,24 @@ Contoso 社の Active Directory 内における GPO の場所は次の図に示�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>UI でユーザー権利設定</p></th>
-<th><p>割り当てグループ</p></th>
-<th><p>推奨</p></th>
+<th>UI でユーザー権利設定</th>
+<th>割り当てグループ</th>
+<th>推奨</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ローカル ログオン</p></td>
-<td style="border:1px solid black;"><p>Administrators<br />
+<td style="border:1px solid black;">ローカル ログオン</td>
+<td style="border:1px solid black;">Administrators<br />
 Backup Operators<br />
-Server Operators</p></td>
-<td style="border:1px solid black;"><p>アカウント管理のみに使用する Account Operators および Print Operators を削除。ドメイン コントローラ上でプリンタ共有を許可するべきではありません。</p></td>
+Server Operators</td>
+<td style="border:1px solid black;">アカウント管理のみに使用する Account Operators および Print Operators を削除。ドメイン コントローラ上でプリンタ共有を許可するべきではありません。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>システムのシャットダウン</p></td>
-<td style="border:1px solid black;"><p>Administrators<br />
-Server Operators</p></td>
-<td style="border:1px solid black;"><p>ドメイン コントローラをシャットダウンする権限を持たない、Account Operators、Backup Operators、および Print Operators を削除。</p></td>
+<td style="border:1px solid black;">システムのシャットダウン</td>
+<td style="border:1px solid black;">Administrators<br />
+Server Operators</td>
+<td style="border:1px solid black;">ドメイン コントローラをシャットダウンする権限を持たない、Account Operators、Backup Operators、および Print Operators を削除。</td>
 </tr>
 </tbody>
 </table>
@@ -180,7 +180,7 @@ Contoso 社のドメイン コントローラでは、Administrators と Server 
   
 **表 7.2 ドメイン コントローラ ベースライン ポリシーのセキュリティ オプション設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -189,46 +189,46 @@ Contoso 社のドメイン コントローラでは、Administrators と Server 
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>UI を使用するセキュリティ オプション設定</p></th>
-<th><p>推奨</p></th>
-<th><p>コメント</p></th>
+<th>UI を使用するセキュリティ オプション設定</th>
+<th>推奨</th>
+<th>コメント</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>匿名接続のための追加制限</p></td>
-<td style="border:1px solid black;"><p>SAM (Security Accounts Manager) アカウントと共有の列挙を許可しません。</p></td>
-<td style="border:1px solid black;"><p>第 6 章の MSBP 推奨に同じ。ドメイン コントローラの場合は特に重要です。</p></td>
+<td style="border:1px solid black;">匿名接続のための追加制限</td>
+<td style="border:1px solid black;">SAM (Security Accounts Manager) アカウントと共有の列挙を許可しません。</td>
+<td style="border:1px solid black;">第 6 章の MSBP 推奨に同じ。ドメイン コントローラの場合は特に重要です。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>サーバー オペレータがタスクをスケジュールすることを許可します (ドメイン コントローラのみ)</p></td>
-<td style="border:1px solid black;"><p>無効。</p></td>
-<td style="border:1px solid black;"><p>サーバー オペレータはドメイン コントローラではこのレベルの特権を必要としません。</p></td>
+<td style="border:1px solid black;">サーバー オペレータがタスクをスケジュールすることを許可します (ドメイン コントローラのみ)</td>
+<td style="border:1px solid black;">無効。</td>
+<td style="border:1px solid black;">サーバー オペレータはドメイン コントローラではこのレベルの特権を必要としません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>常にデジタル署名によるクライアント通信</p></td>
-<td style="border:1px solid black;"><p>無効。</p></td>
-<td style="border:1px solid black;"><p>第 6 章の MSBP と同様、この設定を有効にすることにより、サーバーの性能に明らかな影響があります。</p></td>
+<td style="border:1px solid black;">常にデジタル署名によるクライアント通信</td>
+<td style="border:1px solid black;">無効。</td>
+<td style="border:1px solid black;">第 6 章の MSBP と同様、この設定を有効にすることにより、サーバーの性能に明らかな影響があります。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>常にデジタル署名によるサーバー通信</p></td>
-<td style="border:1px solid black;"><p>無効。</p></td>
-<td style="border:1px solid black;"><p>第 6 章の MSBP と同様、この設定を有効にすることにより、サーバーの性能に明らかな影響があります。</p></td>
+<td style="border:1px solid black;">常にデジタル署名によるサーバー通信</td>
+<td style="border:1px solid black;">無効。</td>
+<td style="border:1px solid black;">第 6 章の MSBP と同様、この設定を有効にすることにより、サーバーの性能に明らかな影響があります。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>LAN マネージャ認証レベル</p></td>
-<td style="border:1px solid black;"><p>NTLMv2 (NTLM version 2) 応答のみを送信。</p></td>
-<td style="border:1px solid black;"><p>第 6 章の MSBP と同様、Windows 98 SE クライアントのサポートに必要です。</p></td>
+<td style="border:1px solid black;">LAN マネージャ認証レベル</td>
+<td style="border:1px solid black;">NTLMv2 (NTLM version 2) 応答のみを送信。</td>
+<td style="border:1px solid black;">第 6 章の MSBP と同様、Windows 98 SE クライアントのサポートに必要です。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>キャッシュするログオン回数 (ドメイン コントローラを利用できない場合)</p></td>
-<td style="border:1px solid black;"><p>値を 0 に設定。</p></td>
-<td style="border:1px solid black;"><p>ドメイン アカウント ログオンのキャッシングをサポートする理由がありません。これらのサーバー<em>こそが</em>ドメイン コントローラだからです。</p></td>
+<td style="border:1px solid black;">キャッシュするログオン回数 (ドメイン コントローラを利用できない場合)</td>
+<td style="border:1px solid black;">値を 0 に設定。</td>
+<td style="border:1px solid black;">ドメイン アカウント ログオンのキャッシングをサポートする理由がありません。これらのサーバー<em>こそが</em>ドメイン コントローラだからです。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>セキュリティ保護されているチャネル : セキュリティ保護されているチャネル データを常にデジタル暗号化またはデジタル署名</p></td>
-<td style="border:1px solid black;"><p>無効。</p></td>
-<td style="border:1px solid black;"><p>第 6 章の MSBP に同じ。ローカル ドメインと信頼関係にあるドメインで Windows 98 SE クライアントおよび SP5 (Service Pack 5) 以下の Microsoftｮ Windows NTｮ Version 4.0 のドメイン コントローラ。</p></td>
+<td style="border:1px solid black;">セキュリティ保護されているチャネル : セキュリティ保護されているチャネル データを常にデジタル暗号化またはデジタル署名</td>
+<td style="border:1px solid black;">無効。</td>
+<td style="border:1px solid black;">第 6 章の MSBP に同じ。ローカル ドメインと信頼関係にあるドメインで Windows 98 SE クライアントおよび SP5 (Service Pack 5) 以下の Microsoftｮ Windows NTｮ Version 4.0 のドメイン コントローラ。</td>
 </tr>
 </tbody>
 </table>
@@ -326,7 +326,7 @@ Windows ドメイン クライアントで、ログオンのキャッシュを�
   
 **表 7.3 ベースライン ポリシーで必須のドメイン コントローラ サービス**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -335,36 +335,36 @@ Windows ドメイン クライアントで、ログオンのキャッシュを�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>UI のサービス名</p></th>
-<th><p>スタートアップの種類</p></th>
-<th><p>コメント</p></th>
+<th>UI のサービス名</th>
+<th>スタートアップの種類</th>
+<th>コメント</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>分散ファイル システム (DFS)</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>Active Directory の Sysvol 共有に必要</p></td>
+<td style="border:1px solid black;">分散ファイル システム (DFS)</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">Active Directory の Sysvol 共有に必要</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ファイル複製サービス</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>ドメイン コントローラ間のファイル複製に必要</p></td>
+<td style="border:1px solid black;">ファイル複製サービス</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">ドメイン コントローラ間のファイル複製に必要</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>サイト間メッセージング</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>Active Directory による複製をサポートするために必要</p></td>
+<td style="border:1px solid black;">サイト間メッセージング</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">Active Directory による複製をサポートするために必要</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Kerberos キー配布センター</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>ユーザーが Kerberos V5 プロトコルを使用してネットワークにログオンできるようにします。</p></td>
+<td style="border:1px solid black;">Kerberos キー配布センター</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">ユーザーが Kerberos V5 プロトコルを使用してネットワークにログオンできるようにします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>リモート プロシージャ コール (RPC) ロケータ</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>ドメイン コントローラが RPC ネーム サービスを提供できるようにします。</p></td>
+<td style="border:1px solid black;">リモート プロシージャ コール (RPC) ロケータ</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">ドメイン コントローラが RPC ネーム サービスを提供できるようにします。</td>
 </tr>
 </tbody>
 </table>
@@ -373,7 +373,7 @@ Windows ドメイン クライアントで、ログオンのキャッシュを�
   
 **表 7.4 ドメイン コントローラ サービスの追加検討項目**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -382,31 +382,31 @@ Windows ドメイン クライアントで、ログオンのキャッシュを�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>UI のサービス名</p></th>
-<th><p>スタートアップの種類</p></th>
-<th><p>コメント</p></th>
+<th>UI のサービス名</th>
+<th>スタートアップの種類</th>
+<th>コメント</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DNS サーバー</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>Contoso 社の環境では、Active Directory 統合 DNS が使用されています。</p></td>
+<td style="border:1px solid black;">DNS サーバー</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">Contoso 社の環境では、Active Directory 統合 DNS が使用されています。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>IIS Admin Service</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>SMTP ベースの Active Directory 複製機能は Contoso 社環境では有効にされていないため、IIS Admin Service は必要ありません。</p></td>
+<td style="border:1px solid black;">IIS Admin Service</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">SMTP ベースの Active Directory 複製機能は Contoso 社環境では有効にされていないため、IIS Admin Service は必要ありません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>NT LM セキュリティ サポート プロバイダ</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>名前付きパイプ以外のトランスポートを使用する RPC プログラムにセキュリティを提供。</p></td>
+<td style="border:1px solid black;">NT LM セキュリティ サポート プロバイダ</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">名前付きパイプ以外のトランスポートを使用する RPC プログラムにセキュリティを提供。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>SMTP (Simple Mail Transport Protocol)</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>SMTP ベースの Active Directory 複製機能は、Contoso 社環境では有効ではありません。</p></td>
+<td style="border:1px solid black;">SMTP (Simple Mail Transport Protocol)</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">SMTP ベースの Active Directory 複製機能は、Contoso 社環境では有効ではありません。</td>
 </tr>
 </tbody>
 </table>
@@ -1146,465 +1146,465 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>サービス</p></th>
-<th><p>プロトコル</p></th>
-<th><p>ソース ポート</p></th>
-<th><p>宛先ポート</p></th>
-<th><p>ソース アドレス</p></th>
-<th><p>宛先アドレス</p></th>
-<th><p>動作</p></th>
+<th>サービス</th>
+<th>プロトコル</th>
+<th>ソース ポート</th>
+<th>宛先ポート</th>
+<th>ソース アドレス</th>
+<th>宛先アドレス</th>
+<th>動作</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DNS クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>53</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">DNS クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">53</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>53</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">53</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>SNMP サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>161</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">SNMP サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">161</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>161</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">161</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>CIFS/SMB クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">CIFS/SMB クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>CIFS/SMB サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">CIFS/SMB サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>RPC クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">RPC クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>RPC サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">RPC サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>FRS/AD 複製ポート アウト</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>57951</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">FRS/AD 複製ポート アウト</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">57951</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>57952</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">57952</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>FRS/AD 複製ポート イン</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>57951</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">FRS/AD 複製ポート イン</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">57951</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>57952</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">57952</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>NetBIOS クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">NetBIOS クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>139</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>138</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>NetBIOS サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">NetBIOS サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>139</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>138</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>NTP クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>123</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">NTP クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">123</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>123</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">123</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>監視クライアント</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>MOM サーバー</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">監視クライアント</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">MOM サーバー</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>LDAP クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>389</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">LDAP クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">389</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>389</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">389</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>636</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">636</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>636</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">636</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Kerberos クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>88</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">Kerberos クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">88</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>88</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">88</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ターミナル サービス</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>3389</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">ターミナル サービス</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">3389</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>グローバル カタログ クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>3268</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">グローバル カタログ クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">3268</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>3269</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">3269</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>グローバル カタログ サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>3268</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">グローバル カタログ サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">3268</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>3269</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">3269</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DNS サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>53</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">DNS サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">53</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>53</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">53</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Kerberos サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>88</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">Kerberos サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">88</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>88</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">88</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>LDAP サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>389</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">LDAP サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">389</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>389</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">389</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>636</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">636</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>636</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">636</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>NTP サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>123</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">NTP サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">123</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>123</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">123</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ICMP</p></td>
-<td style="border:1px solid black;"><p>ICMP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">ICMP</td>
+<td style="border:1px solid black;">ICMP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>全受信トラフィック</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>ブロック</p></td>
+<td style="border:1px solid black;">全受信トラフィック</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">ブロック</td>
 </tr>
 </tbody>
 </table>
@@ -1689,7 +1689,7 @@ Contoso 社シナリオにおけるインフラストラクチャ サーバー�
   
 **表 7.6 インフラストラクチャ サーバーの増分ポリシー サービス設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -1698,26 +1698,26 @@ Contoso 社シナリオにおけるインフラストラクチャ サーバー�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>UI のサービス設定</p></th>
-<th><p>スタートアップの種類</p></th>
-<th><p>コメント</p></th>
+<th>UI のサービス設定</th>
+<th>スタートアップの種類</th>
+<th>コメント</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DHCPServer</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>クライアントに DHCP サービスを提供</p></td>
+<td style="border:1px solid black;">DHCPServer</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">クライアントに DHCP サービスを提供</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NTLMSSP</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>名前付きパイプ以外のトランスポートを使用する RPC プログラムにセキュリティを提供。</p></td>
+<td style="border:1px solid black;">NTLMSSP</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">名前付きパイプ以外のトランスポートを使用する RPC プログラムにセキュリティを提供。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>WINS</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>クライアントに WINS サービスを提供</p></td>
+<td style="border:1px solid black;">WINS</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">クライアントに WINS サービスを提供</td>
 </tr>
 </tbody>
 </table>
@@ -1758,384 +1758,384 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>サービス</p></th>
-<th><p>プロトコル</p></th>
-<th><p>ソース ポート</p></th>
-<th><p>宛先ポート</p></th>
-<th><p>ソース アドレス</p></th>
-<th><p>宛先アドレス</p></th>
-<th><p>動作</p></th>
+<th>サービス</th>
+<th>プロトコル</th>
+<th>ソース ポート</th>
+<th>宛先ポート</th>
+<th>ソース アドレス</th>
+<th>宛先アドレス</th>
+<th>動作</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DNS クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>53</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">DNS クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">53</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>53</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">53</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>SNMP サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>161</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">SNMP サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">161</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>161</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">161</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>CIFS クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">CIFS クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>CIFS サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">CIFS サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>RPC クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">RPC クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>RPC サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">RPC サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>追加 RPC ポート アウト</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>57952</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">追加 RPC ポート アウト</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">57952</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NetBIOS クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">NetBIOS クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>139</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>138</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NetBIOS サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">NetBIOS サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>139</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>138</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NTP クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>123</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">NTP クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">123</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>123</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">123</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>監視クライアント</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>MOM サーバー</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">監視クライアント</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">MOM サーバー</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>LDAP クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>389</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">LDAP クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">389</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>389</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">389</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>636</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">636</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>636</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">636</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Kerberos クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>88</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">Kerberos クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">88</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>88</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">88</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ターミナル サービス</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>3389</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">ターミナル サービス</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">3389</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>グローバル カタログ クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>3268</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">グローバル カタログ クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">3268</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>3269</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">3269</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>WINS 解決サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>1512</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">WINS 解決サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">1512</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>1512</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">1512</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>WINS 複製クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>42</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">WINS 複製クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">42</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>42</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">42</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>WINS 複製サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>42</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">WINS 複製サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">42</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>42</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">42</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ICMP</p></td>
-<td style="border:1px solid black;"><p>ICMP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">ICMP</td>
+<td style="border:1px solid black;">ICMP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>全受信トラフィック</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>ブロック</p></td>
+<td style="border:1px solid black;">全受信トラフィック</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">ブロック</td>
 </tr>
 </tbody>
 </table>
@@ -2286,339 +2286,339 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>サービス</p></th>
-<th><p>プロトコル</p></th>
-<th><p>ソース ポート</p></th>
-<th><p>宛先ポート</p></th>
-<th><p>ソース アドレス</p></th>
-<th><p>宛先アドレス</p></th>
-<th><p>動作</p></th>
+<th>サービス</th>
+<th>プロトコル</th>
+<th>ソース ポート</th>
+<th>宛先ポート</th>
+<th>ソース アドレス</th>
+<th>宛先アドレス</th>
+<th>動作</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DNS クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>53</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">DNS クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">53</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>53</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">53</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>SNMP サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>161</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">SNMP サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">161</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>161</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">161</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>CIFS クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">CIFS クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>CIFS サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">CIFS サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>RPC クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">RPC クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>RPC サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">RPC サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>追加 RPC ポート アウト</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>57952</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">追加 RPC ポート アウト</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">57952</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NetBIOS クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">NetBIOS クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>139</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>138</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NetBIOS サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">NetBIOS サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>139</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>138</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NTP クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>123</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">NTP クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">123</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>123</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">123</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>監視クライアント</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>MOM サーバー</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">監視クライアント</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">MOM サーバー</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>LDAP クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>389</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">LDAP クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">389</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>389</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">389</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>636</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">636</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>636</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">636</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Kerberos クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>88</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">Kerberos クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">88</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>88</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">88</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ターミナル サービス</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>3389</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">ターミナル サービス</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">3389</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>グローバル カタログ クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>3268</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">グローバル カタログ クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">3268</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>3269</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">3269</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>DHCP サーバー</p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>68</p></td>
-<td style="border:1px solid black;"><p>67</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">DHCP サーバー</td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">68</td>
+<td style="border:1px solid black;">67</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ICMP</p></td>
-<td style="border:1px solid black;"><p>ICMP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">ICMP</td>
+<td style="border:1px solid black;">ICMP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>全受信トラフィック</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>ブロック</p></td>
+<td style="border:1px solid black;">全受信トラフィック</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">ブロック</td>
 </tr>
 </tbody>
 </table>
@@ -2798,339 +2798,339 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>サービス</p></th>
-<th><p>プロトコル</p></th>
-<th><p>ソース ポート</p></th>
-<th><p>宛先ポート</p></th>
-<th><p>ソース アドレス</p></th>
-<th><p>宛先アドレス</p></th>
-<th><p>動作</p></th>
+<th>サービス</th>
+<th>プロトコル</th>
+<th>ソース ポート</th>
+<th>宛先ポート</th>
+<th>ソース アドレス</th>
+<th>宛先アドレス</th>
+<th>動作</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DNS クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>53</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">DNS クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">53</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>53</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">53</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>SNMP サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>161</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">SNMP サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">161</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>161</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">161</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>CIFS クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">CIFS クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>CIFS サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">CIFS サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>RPC クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">RPC クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>RPC サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">RPC サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>追加 RPC ポート アウト</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>57952</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">追加 RPC ポート アウト</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">57952</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NetBIOS クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">NetBIOS クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>139</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>138</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NetBIOS サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">NetBIOS サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>139</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>138</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NTP クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>123</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">NTP クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">123</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>123</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">123</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>監視クライアント</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>MOM サーバー</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">監視クライアント</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">MOM サーバー</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>LDAP クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>389</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">LDAP クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">389</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>389</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">389</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>636</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">636</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>636</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">636</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Kerberos クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>88</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">Kerberos クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">88</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>88</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">88</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ターミナル サービス</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>3389</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">ターミナル サービス</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">3389</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>グローバル カタログ クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>3268</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">グローバル カタログ クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">3268</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>3269</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">3269</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>RPC ポート</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>RPC 範囲</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">RPC ポート</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">RPC 範囲</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ICMP</p></td>
-<td style="border:1px solid black;"><p>ICMP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">ICMP</td>
+<td style="border:1px solid black;">ICMP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>全受信トラフィック</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>ブロック</p></td>
+<td style="border:1px solid black;">全受信トラフィック</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">ブロック</td>
 </tr>
 </tbody>
 </table>
@@ -3706,7 +3706,7 @@ IIS サーバー ロールは、ベースライン Windows 2000 サーバー ポ
   
 **表 7.10 増分 IIS ポリシー サービス設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -3715,21 +3715,21 @@ IIS サーバー ロールは、ベースライン Windows 2000 サーバー ポ
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>サービス設定</p></th>
-<th><p>スタートアップの種類</p></th>
-<th><p>ポリシー正当化</p></th>
+<th>サービス設定</th>
+<th>スタートアップの種類</th>
+<th>ポリシー正当化</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>IISAdmin</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>Web サーバー管理</p></td>
+<td style="border:1px solid black;">IISAdmin</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">Web サーバー管理</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>W3SVC</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>Web サーバー機能の提供</p></td>
+<td style="border:1px solid black;">W3SVC</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">Web サーバー機能の提供</td>
 </tr>
 </tbody>
 </table>
@@ -4168,348 +4168,348 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>サービス</p></th>
-<th><p>プロトコル</p></th>
-<th><p>ソース ポート</p></th>
-<th><p>宛先ポート</p></th>
-<th><p>ソース アドレス</p></th>
-<th><p>宛先アドレス</p></th>
-<th><p>動作</p></th>
+<th>サービス</th>
+<th>プロトコル</th>
+<th>ソース ポート</th>
+<th>宛先ポート</th>
+<th>ソース アドレス</th>
+<th>宛先アドレス</th>
+<th>動作</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DNS クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>53</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">DNS クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">53</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>53</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">53</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>SNMP サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>161</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">SNMP サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">161</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>161</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">161</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>CIFS クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">CIFS クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>CIFS サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">CIFS サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>445</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">445</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>RPC クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">RPC クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>RPC サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">RPC サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>135</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">135</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>追加 RPC ポート アウト</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>57952</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">追加 RPC ポート アウト</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">57952</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NetBIOS クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">NetBIOS クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>139</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>138</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NetBIOS サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">NetBIOS サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>137</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">137</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>139</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">139</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>138</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">138</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NTP クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>123</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">NTP クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">123</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>123</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">123</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>監視クライアント</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>MOM サーバー</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">監視クライアント</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">MOM サーバー</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>LDAP クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>389</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">LDAP クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">389</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>389</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">389</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>636</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">636</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>636</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">636</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Kerberos クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>88</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">Kerberos クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">88</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>88</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">88</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ターミナル サービス</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>3389</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">ターミナル サービス</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">3389</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>グローバル カタログ クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>3268</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">グローバル カタログ クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">3268</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>3269</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">3269</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>HTTP サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>80</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">HTTP サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">80</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>HTTPS サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>443</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">HTTPS サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">443</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ICMP</p></td>
-<td style="border:1px solid black;"><p>ICMP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">ICMP</td>
+<td style="border:1px solid black;">ICMP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>全受信トラフィック</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>ブロック</p></td>
+<td style="border:1px solid black;">全受信トラフィック</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">ブロック</td>
 </tr>
 </tbody>
 </table>

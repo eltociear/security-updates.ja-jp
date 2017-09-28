@@ -50,7 +50,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 
 **表 3.1 Windows 2000 インストール準備のチェック リスト**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -58,60 +58,60 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 </colgroup>
 <thead>
 <tr class="header">
-<th><p></p></th>
+<th></th>
 <th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p><strong>ハードウェアの互換性 :</strong> すべてのハードウェアをレビューして、Windows 2000 オペレーティング システムと互換性があることを確認します。望ましい場合は、評価された構成のハードウェア構成をレビューします。ハードウェア コンポーネントに属するものには、マザーボード、ネットワーク アダプタ、ビデオ カード、サウンド カード、CD-ROM ドライブなどがあります。Windows 2000 のハードウェア互換性リスト (HCL) は次のサイトに掲載されています。<a href="http://www.microsoft.com/windows2000/server/howtobuy/upgrading/compat/" class="uri">http://www.microsoft.com/windows2000/server/howtobuy/upgrading/compat/</a></p></td>
+<img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"><strong>ハードウェアの互換性 :</strong> すべてのハードウェアをレビューして、Windows 2000 オペレーティング システムと互換性があることを確認します。望ましい場合は、評価された構成のハードウェア構成をレビューします。ハードウェア コンポーネントに属するものには、マザーボード、ネットワーク アダプタ、ビデオ カード、サウンド カード、CD-ROM ドライブなどがあります。Windows 2000 のハードウェア互換性リスト (HCL) は次のサイトに掲載されています。<a href="http://www.microsoft.com/windows2000/server/howtobuy/upgrading/compat/" class="uri">http://www.microsoft.com/windows2000/server/howtobuy/upgrading/compat/</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p><strong>ディスク領域 :</strong> システムに十分なディスク領域があることを確認します。Windows 2000 をインストールするために推奨される最小のディスク領域は 2 ギガバイト (GB) です。</p></td>
+<img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"><strong>ディスク領域 :</strong> システムに十分なディスク領域があることを確認します。Windows 2000 をインストールするために推奨される最小のディスク領域は 2 ギガバイト (GB) です。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p><strong>ディスク パーティション :</strong> Windows 2000 オペレーティング システムをインストールするために推奨される最小のディスク領域を考慮に入れて、ディスク パーティションの要件を決定します。プライマリ ディスク パーティションに評価された構成のプラットフォーム用オペレーティング システムをインストールすることを推奨します。</p></td>
+<img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"><strong>ディスク パーティション :</strong> Windows 2000 オペレーティング システムをインストールするために推奨される最小のディスク領域を考慮に入れて、ディスク パーティションの要件を決定します。プライマリ ディスク パーティションに評価された構成のプラットフォーム用オペレーティング システムをインストールすることを推奨します。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p><strong>ファイル システム :</strong> 評価されたセキュリティ機構を構成し ST の要件に準拠するためには、ファイル システムを NTFS として構成しなければなりません。</p></td>
+<img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"><strong>ファイル システム :</strong> 評価されたセキュリティ機構を構成し ST の要件に準拠するためには、ファイル システムを NTFS として構成しなければなりません。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p><strong>ライセンス モード :</strong> 望ましいライセンス モードを選択します。同時使用ユーザー数と接続クライアント数の 2 つのモードがあります。インストールした後で同時使用ユーザー数から接続クライアント数にモードを変更することはできますが、逆はできません。「Windows 2000 Server および Advanced Server 用のライセンス モードの選択」に 2 つのライセンス モードの説明が記載されています。</p></td>
+<img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"><strong>ライセンス モード :</strong> 望ましいライセンス モードを選択します。同時使用ユーザー数と接続クライアント数の 2 つのモードがあります。インストールした後で同時使用ユーザー数から接続クライアント数にモードを変更することはできますが、逆はできません。「Windows 2000 Server および Advanced Server 用のライセンス モードの選択」に 2 つのライセンス モードの説明が記載されています。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p><strong>コンピュータ名 :</strong> 新しいコンピュータに適用する名前を決定します。Windows ネットワーク環境のメンバとなるコンピュータの名前は、ネットワーク内で一意でなければなりません。</p></td>
+<img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"><strong>コンピュータ名 :</strong> 新しいコンピュータに適用する名前を決定します。Windows ネットワーク環境のメンバとなるコンピュータの名前は、ネットワーク内で一意でなければなりません。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p><strong>ネットワーク メンバシップ :</strong> ネットワークに組み入れるコンピュータに関しては、コンピュータが属するネットワーク グループのタイプを決定します。コンピュータはドメインまたはワークグループのどちらかに属することができます。ドメインに含める場合は、ドメイン名が必要であり、ドメイン内に新しいコンピュータ用のアカウントを作成する必要があります。コンピュータ アカウントはインストールの前に作成しておくこともできますし、インストールの最中に作成することもできます。コンピュータ アカウントを作成するには、適切なドメイン管理者のアカウントとパスワードが必要です。「ドメインまたはワークグループへの組み込み」にドメインとワークグループの説明があります。</p></td>
+<img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"><strong>ネットワーク メンバシップ :</strong> ネットワークに組み入れるコンピュータに関しては、コンピュータが属するネットワーク グループのタイプを決定します。コンピュータはドメインまたはワークグループのどちらかに属することができます。ドメインに含める場合は、ドメイン名が必要であり、ドメイン内に新しいコンピュータ用のアカウントを作成する必要があります。コンピュータ アカウントはインストールの前に作成しておくこともできますし、インストールの最中に作成することもできます。コンピュータ アカウントを作成するには、適切なドメイン管理者のアカウントとパスワードが必要です。「ドメインまたはワークグループへの組み込み」にドメインとワークグループの説明があります。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p><strong>インストール方法 :</strong> セットアップ ブート ディスク、CD-ROM、ネットワーク経由のどの方法で Windows 2000 オペレーティング システムをインストールするかを決定します。このドキュメントでは、ブート ディスクおよび CD-ROM からのインストールを取り上げます。</p></td>
+<img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"><strong>インストール方法 :</strong> セットアップ ブート ディスク、CD-ROM、ネットワーク経由のどの方法で Windows 2000 オペレーティング システムをインストールするかを決定します。このドキュメントでは、ブート ディスクおよび CD-ROM からのインストールを取り上げます。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p><strong>サービス コンポーネント :</strong></p>
-<p>インストールの前に、インストールしたオペレーティング システムに必要となるサービスを決定します。サーバーをインストールする場合は、Active Directory、DNS、WINS、または DHCP を考慮に入れます。評価された構成において使用される可能性のある評価されたサービスの一覧が「評価された構成のシステム サービス」に記載されています。</p></td>
+<img src="images/Dd277454.box(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"><strong>サービス コンポーネント :</strong>
+インストールの前に、インストールしたオペレーティング システムに必要となるサービスを決定します。サーバーをインストールする場合は、Active Directory、DNS、WINS、または DHCP を考慮に入れます。評価された構成において使用される可能性のある評価されたサービスの一覧が「評価された構成のシステム サービス」に記載されています。</td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 [](#mainsection)[ページのトップへ](#mainsection)
 
@@ -474,7 +474,7 @@ Windows 2000 の セットアップ プログラムはコンピュータ上に A
 
 **表 3.2 サーバー サービスの構成オプション**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -482,70 +482,70 @@ Windows 2000 の セットアップ プログラムはコンピュータ上に A
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>アイコン</p></th>
-<th><p>要素</p></th>
+<th>アイコン</th>
+<th>要素</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277454.w2ksc234(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277454.w2ksc234(ja-jp,TechNet.10).gif" />
 <br />
 </td>
-<td style="border:1px solid black;"><p><strong>Active Directory</strong></p>
-<p>ユーザー アカウント、ドメイン、サーバーの役割、アクセス許可をはじめとするセキュリティ機能。</p></td>
+<td style="border:1px solid black;"><strong>Active Directory</strong>
+ユーザー アカウント、ドメイン、サーバーの役割、アクセス許可をはじめとするセキュリティ機能。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277454.w2ksc235(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277454.w2ksc235(ja-jp,TechNet.10).gif" />
 <br />
 </td>
-<td style="border:1px solid black;"><p><strong>ファイル サーバー</strong></p>
-<p>共有フォルダをはじめとする共有ネットワーク リソース。</p></td>
+<td style="border:1px solid black;"><strong>ファイル サーバー</strong>
+共有フォルダをはじめとする共有ネットワーク リソース。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277454.w2ksc236(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277454.w2ksc236(ja-jp,TechNet.10).gif" />
 <br />
 </td>
-<td style="border:1px solid black;"><p><strong>プリント サーバー</strong></p>
-<p>プリンタおよび印刷キューをはじめとする、印刷に関連する要素。</p></td>
+<td style="border:1px solid black;"><strong>プリント サーバー</strong>
+プリンタおよび印刷キューをはじめとする、印刷に関連する要素。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277454.w2ksc237(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277454.w2ksc237(ja-jp,TechNet.10).gif" />
 <br />
 </td>
-<td style="border:1px solid black;"><p><strong>Web サーバー/メディア サーバー</strong></p>
-<p>Web サイト、マルチメディア サイト、FTP サイトなどの機能。これらのサービスを使用するには、Windows 2000 Server に適切なコンポーネントをインストールする必要があります。</p></td>
+<td style="border:1px solid black;"><strong>Web サーバー/メディア サーバー</strong>
+Web サイト、マルチメディア サイト、FTP サイトなどの機能。これらのサービスを使用するには、Windows 2000 Server に適切なコンポーネントをインストールする必要があります。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277454.w2ksc238(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277454.w2ksc238(ja-jp,TechNet.10).gif" />
 <br />
 </td>
-<td style="border:1px solid black;"><p><strong>ネットワーク</strong></p>
-<p>プロトコル、リモート アクセス、およびルーティング。</p></td>
+<td style="border:1px solid black;"><strong>ネットワーク</strong>
+プロトコル、リモート アクセス、およびルーティング。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277454.w2ksc239(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277454.w2ksc239(ja-jp,TechNet.10).gif" />
 <br />
 </td>
-<td style="border:1px solid black;"><p><strong>アプリケーション サーバー</strong></p>
-<p>ネットワーク内に分散されているアプリケーションのための、コンポーネント サービスおよび関連サポート。ターミナル サービスも含みます。</p></td>
+<td style="border:1px solid black;"><strong>アプリケーション サーバー</strong>
+ネットワーク内に分散されているアプリケーションのための、コンポーネント サービスおよび関連サポート。ターミナル サービスも含みます。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277454.w2ksc240(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277454.w2ksc240(ja-jp,TechNet.10).gif" />
 <br />
 </td>
-<td style="border:1px solid black;"><p><strong>詳細</strong></p>
-<p>Windows 2000 リソース キット サポート ツール、およびリモート インストールのようなオプションのコンポーネント。</p></td>
+<td style="border:1px solid black;"><strong>詳細</strong>
+Windows 2000 リソース キット サポート ツール、およびリモート インストールのようなオプションのコンポーネント。</td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 [](#mainsection)[ページのトップへ](#mainsection)
 
@@ -631,7 +631,7 @@ Service Pack または修正プログラムをインストールする前に、�
 
     -   ERD が作成されると、下の表に示すファイルが %systemroot%\\Repair フォルダからフロッピー ディスクにコピーされます。
 
-<p> </p>
+ 
         <table style="border:1px solid black;">
         <colgroup>
         <col width="50%" />
@@ -639,22 +639,22 @@ Service Pack または修正プログラムをインストールする前に、�
         </colgroup>
         <thead>
         <tr class="header">
-        <th><p>ファイル名</p></th>
-        <th><p>内容</p></th>
+        <th>ファイル名</th>
+        <th>内容</th>
         </tr>
         </thead>
         <tbody>
         <tr class="odd">
-        <td style="border:1px solid black;"><p>Autoexec.nt</p></td>
-        <td style="border:1px solid black;"><p>%systemroot%\System32\Autoexec.nt のコピー。MS-DOS 環境を初期化するために使います。</p></td>
+        <td style="border:1px solid black;">Autoexec.nt</td>
+        <td style="border:1px solid black;">%systemroot%\System32\Autoexec.nt のコピー。MS-DOS 環境を初期化するために使います。</td>
         </tr>
         <tr class="even">
-        <td style="border:1px solid black;"><p>Config.nt</p></td>
-        <td style="border:1px solid black;"><p>%systemroot%\System32\Config.nt のコピー。MS-DOS 環境を初期化するために使います。</p></td>
+        <td style="border:1px solid black;">Config.nt</td>
+        <td style="border:1px solid black;">%systemroot%\System32\Config.nt のコピー。MS-DOS 環境を初期化するために使います。</td>
         </tr>
         <tr class="odd">
-        <td style="border:1px solid black;"><p>セットアップ.log</p></td>
-        <td style="border:1px solid black;"><p>インストールされたファイルおよびシステム修復ディスクの作成中に使用された巡回冗長検査 (CRC) 情報のログ。このファイルは読み取り専用で非表示のシステム ファイルであり、すべてのファイルを表示するようにコンピュータが構成されていない限り表示することはできません。</p></td>
+        <td style="border:1px solid black;">セットアップ.log</td>
+        <td style="border:1px solid black;">インストールされたファイルおよびシステム修復ディスクの作成中に使用された巡回冗長検査 (CRC) 情報のログ。このファイルは読み取り専用で非表示のシステム ファイルであり、すべてのファイルを表示するようにコンピュータが構成されていない限り表示することはできません。</td>
         </tr>
         </tbody>
         </table>

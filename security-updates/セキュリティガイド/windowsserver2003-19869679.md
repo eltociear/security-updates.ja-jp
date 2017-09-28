@@ -172,7 +172,7 @@ Microsoft Solutions for Security and Compliance (MSSC) チームは、このガ�
 
 [](#mainsection)[ページのトップへ](#mainsection)
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -204,6 +204,6 @@ Microsoft Solutions for Security and Compliance (MSSC) チームは、このガ�
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 [](#mainsection)[ページのトップへ](#mainsection)

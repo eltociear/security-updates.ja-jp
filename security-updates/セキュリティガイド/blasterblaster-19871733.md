@@ -33,7 +33,7 @@ Blaster ワームおよびその亜種の対策については、ネットワー
 
 サービスの停止方法は、次のとおりです。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -43,31 +43,31 @@ Blaster ワームおよびその亜種の対策については、ネットワー
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd362787.start_xp(ja-jp,TechNet.10).jpg" /></p></td>
+<img src="images/Dd362787.start_xp(ja-jp,TechNet.10).jpg" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd362787.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p>[スタート] メニューから [ファイル名を指定して実行] をクリックします。</p></td>
+<img src="images/Dd362787.green_arrow_sml(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">[スタート] メニューから [ファイル名を指定して実行] をクリックします。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd362787.dbox_rpcpatch(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd362787.dbox_rpcpatch(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd362787.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p><strong>net stop rpcpatch</strong> と入力し、[OK] ボタンをクリックします。</p></td>
+<img src="images/Dd362787.green_arrow_sml(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"><strong>net stop rpcpatch</strong> と入力し、[OK] ボタンをクリックします。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd362787.start_xp(ja-jp,TechNet.10).jpg" /></p></td>
+<img src="images/Dd362787.start_xp(ja-jp,TechNet.10).jpg" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd362787.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p>再び、[スタート] メニューから [ファイル名を指定して実行] をクリックします。</p></td>
+<img src="images/Dd362787.green_arrow_sml(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">再び、[スタート] メニューから [ファイル名を指定して実行] をクリックします。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd362787.dbox_rpctftpd(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd362787.dbox_rpctftpd(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd362787.green_arrow_sml(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p><strong>net stop rpctftpd</strong> と入力し、[OK] ボタンをクリックします。</p></td>
+<img src="images/Dd362787.green_arrow_sml(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"><strong>net stop rpctftpd</strong> と入力し、[OK] ボタンをクリックします。</td>
 </tr>
 </tbody>
 </table>

@@ -293,7 +293,7 @@ GPO が正常に作成された後、該当する章のガイダンスと設定�
 
 **表 D.1 バグの深刻度の分類**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -302,51 +302,51 @@ GPO が正常に作成された後、該当する章のガイダンスと設定�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>深刻度</p></th>
-<th><p>最も一般的な種類</p></th>
-<th><p>必要な条件</p></th>
+<th>深刻度</th>
+<th>最も一般的な種類</th>
+<th>必要な条件</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>– バグにより、テストの構築または続行が妨げられた。<br />
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">– バグにより、テストの構築または続行が妨げられた。<br />
 – バグにより、ユーザー アクセスが予期しない状態になった。<br />
 – ドキュメントに記載されている手順が明確でない。<br />
 – 機能または手順が予期した結果 (機能仕様の記載) と矛盾する。<br />
-– セキュリティ テンプレート ファイルと機能仕様とに大きな不一致がある。</p></td>
-<td style="border:1px solid black;"><p>– ソリューションが機能しなかった。<br />
+– セキュリティ テンプレート ファイルと機能仕様とに大きな不一致がある。</td>
+<td style="border:1px solid black;">– ソリューションが機能しなかった。<br />
 – ユーザーがほとんどのコンピュータまたはネットワークを使用できなかった。<br />
 – ユーザーに本来許可されないアクセス権限が与えられた。<br />
 – ユーザーにアクセスが許可されるべき特定のサーバーへのアクセスが拒否された。<br />
 – 予期された結果が得られなかった。<br />
-– 介入なしにはテストを続行できなかった。</p></td>
+– 介入なしにはテストを続行できなかった。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>– ガイドに定義されている手順が明確でない。<br />
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">– ガイドに定義されている手順が明確でない。<br />
 – 記載されている機能がない (この場合、テストの続行が妨げられる)。<br />
 – 記載漏れがある。または、不適切な記載がある。<br />
-– セキュリティ テンプレート ファイルとガイドの記載内容とに矛盾があるが、セキュリティ テンプレート ファイルは機能仕様に準拠している。</p></td>
-<td style="border:1px solid black;"><p>– ユーザーが状況を改善するための簡単な回避策がない。<br />
+– セキュリティ テンプレート ファイルとガイドの記載内容とに矛盾があるが、セキュリティ テンプレート ファイルは機能仕様に準拠している。</td>
+<td style="border:1px solid black;">– ユーザーが状況を改善するための簡単な回避策がない。<br />
 – ユーザーが回避策を見つけるのが容易でない。<br />
-– コンピュータまたはネットワークが主要なビジネス要件を満たしていない。</p></td>
+– コンピュータまたはネットワークが主要なビジネス要件を満たしていない。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>3</p></td>
-<td style="border:1px solid black;"><p>– ドキュメントの書式に問題がある。<br />
+<td style="border:1px solid black;">3</td>
+<td style="border:1px solid black;">– ドキュメントの書式に問題がある。<br />
 – ドキュメントの目立たない間違いや不正確な記述。<br />
-– テキストの誤字、脱字。</p></td>
-<td style="border:1px solid black;"><p>– ユーザーが状況を改善できる簡単な回避策がある。<br />
+– テキストの誤字、脱字。</td>
+<td style="border:1px solid black;">– ユーザーが状況を改善できる簡単な回避策がある。<br />
 – ユーザーが回避策を簡単に見つけることができる。<br />
 – バグによりユーザーに望ましくない状況が生じない。<br />
-– 主要ビジネス要件は一応満たされている。</p></td>
+– 主要ビジネス要件は一応満たされている。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>4</p></td>
-<td style="border:1px solid black;"><p>– 推奨事項である。<br />
-– 今後改善の必要がある機能が存在する。</p></td>
-<td style="border:1px solid black;"><p>– 明らかに現在のバージョンに関係がない。</p></td>
+<td style="border:1px solid black;">4</td>
+<td style="border:1px solid black;">– 推奨事項である。<br />
+– 今後改善の必要がある機能が存在する。</td>
+<td style="border:1px solid black;">– 明らかに現在のバージョンに関係がない。</td>
 </tr>
 </tbody>
 </table>
@@ -359,7 +359,7 @@ GPO が正常に作成された後、該当する章のガイダンスと設定�
   
 テスト チームが実行したすべてのテスト ケースは、予測された結果で合格しました。テスト チームは、定義された環境に*『Windows Server 2003 セキュリティ ガイド』*の推奨事項を適用した結果、必須機能が使用可能であることを確認しています。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -391,6 +391,6 @@ GPO が正常に作成された後、該当する章のガイダンスと設定�
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 [](#mainsection)[ページのトップへ](#mainsection)

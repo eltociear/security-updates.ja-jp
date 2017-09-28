@@ -125,7 +125,7 @@ CSIRT チームの中核以外に、特定の問題の処理や対応を行う�
 
 **表 10.1 CSIRT 準メンバ**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -133,35 +133,35 @@ CSIRT チームの中核以外に、特定の問題の処理や対応を行う�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>準メンバ</p></th>
-<th><p>役割の説明</p></th>
+<th>準メンバ</th>
+<th>役割の説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>IT 責任者</p></td>
-<td style="border:1px solid black;"><p>主に、CSIRT 問題担当リーダーと IT グループの他のメンバとのコミュニケーションの調整を担当します。IT 責任者は、問題に対応するための特定の技術的な知識を持っていない場合もありますが、IT グループ内で特定のセキュリティ問題を処理できる人物を見つけることに責任を持ちます。</p></td>
+<td style="border:1px solid black;">IT 責任者</td>
+<td style="border:1px solid black;">主に、CSIRT 問題担当リーダーと IT グループの他のメンバとのコミュニケーションの調整を担当します。IT 責任者は、問題に対応するための特定の技術的な知識を持っていない場合もありますが、IT グループ内で特定のセキュリティ問題を処理できる人物を見つけることに責任を持ちます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>法務担当者</p></td>
-<td style="border:1px solid black;"><p>通常、社内の法務部門のメンバで、確立された問題の対応ポリシーに詳しい人です。法務担当者は、問題の発生時に、法的責任を最小限にし、違反者を最大限に追及できるようにする処理方法を決定します。</p>
-<p>問題が発生する前に法務担当者は監視および対応のポリシーに関する情報を入手し、クリーンアップやコンテインメントの操作によって、組織が法的責任を問われることがないようにしておく必要があります。システムをシャットダウンすることによって潜在的に顧客とのサービス レベル保証やメンバシップの契約に違反する場合や、攻撃されたシステムをシャットダウンしないことによってそのシステムから行われた攻撃による損害の責任を負う場合の法的な意味を検討しておくことは不可欠です。</p>
-<p>外部の司法当局や社外の調査機関への連絡も、法務担当者が調整する必要があります。</p></td>
+<td style="border:1px solid black;">法務担当者</td>
+<td style="border:1px solid black;">通常、社内の法務部門のメンバで、確立された問題の対応ポリシーに詳しい人です。法務担当者は、問題の発生時に、法的責任を最小限にし、違反者を最大限に追及できるようにする処理方法を決定します。
+問題が発生する前に法務担当者は監視および対応のポリシーに関する情報を入手し、クリーンアップやコンテインメントの操作によって、組織が法的責任を問われることがないようにしておく必要があります。システムをシャットダウンすることによって潜在的に顧客とのサービス レベル保証やメンバシップの契約に違反する場合や、攻撃されたシステムをシャットダウンしないことによってそのシステムから行われた攻撃による損害の責任を負う場合の法的な意味を検討しておくことは不可欠です。
+外部の司法当局や社外の調査機関への連絡も、法務担当者が調整する必要があります。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>広報責任者</p></td>
-<td style="border:1px solid black;"><p>一般的には、広報部門のメンバである広報責任者は、組織のイメージの保護と向上を担当します。</p>
-<p>この担当者はメディアや顧客に直接対応するわけではありませんが、メッセージの作成を担当します。メッセージの内容と目的は、一般的に経営陣が決定します。メディアからのすべての問い合わせは、広報責任者が管理する必要があります。</p></td>
+<td style="border:1px solid black;">広報責任者</td>
+<td style="border:1px solid black;">一般的には、広報部門のメンバである広報責任者は、組織のイメージの保護と向上を担当します。
+この担当者はメディアや顧客に直接対応するわけではありませんが、メッセージの作成を担当します。メッセージの内容と目的は、一般的に経営陣が決定します。メディアからのすべての問い合わせは、広報責任者が管理する必要があります。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>経営陣</p></td>
-<td style="border:1px solid black;"><p>経営陣の関与は、特定の部門を対象とするものから組織全体に及ぶものまであります。適切な経営陣の責任者は、問題の影響、場所、重大性、および種類によって異なります。</p>
-<p>経営陣の連絡先がある場合は、特定の状況に最適な責任者をすばやく見つけることができます。経営陣は、セキュリティ ポリシーの承認と指示を行います。</p>
-<p>経営陣は、問題の組織に対する総合的な影響 (財務的およびその他の両方) の決定も行います。経営陣は、メディアに公開する情報を広報責任者に指示し、法務担当者と司法当局とのやり取りのレベルを決定します。</p></td>
+<td style="border:1px solid black;">経営陣</td>
+<td style="border:1px solid black;">経営陣の関与は、特定の部門を対象とするものから組織全体に及ぶものまであります。適切な経営陣の責任者は、問題の影響、場所、重大性、および種類によって異なります。
+経営陣の連絡先がある場合は、特定の状況に最適な責任者をすばやく見つけることができます。経営陣は、セキュリティ ポリシーの承認と指示を行います。
+経営陣は、問題の組織に対する総合的な影響 (財務的およびその他の両方) の決定も行います。経営陣は、メディアに公開する情報を広報責任者に指示し、法務担当者と司法当局とのやり取りのレベルを決定します。</td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 #### CSIRT によるインシデントの対応方法
 
@@ -180,8 +180,8 @@ CSIRT チームの中核以外に、特定の問題の処理や対応を行う�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>活動</p></th>
-<th><p>役割</p></th>
+<th>活動</th>
+<th>役割</th>
 <th><br />
 </th>
 <th><br />
@@ -196,75 +196,75 @@ CSIRT チームの中核以外に、特定の問題の処理や対応を行う�
 <tr class="odd">
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p><strong>CSIRT 問題担当リーダー</strong></p></td>
-<td style="border:1px solid black;"><p><strong>IT 責任者</strong></p></td>
-<td style="border:1px solid black;"><p><strong>法務担当者</strong></p></td>
-<td style="border:1px solid black;"><p><strong>広報責任者</strong></p></td>
-<td style="border:1px solid black;"><p><strong>経営陣</strong></p></td>
+<td style="border:1px solid black;"><strong>CSIRT 問題担当リーダー</strong></td>
+<td style="border:1px solid black;"><strong>IT 責任者</strong></td>
+<td style="border:1px solid black;"><strong>法務担当者</strong></td>
+<td style="border:1px solid black;"><strong>広報責任者</strong></td>
+<td style="border:1px solid black;"><strong>経営陣</strong></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>初期調査</p></td>
-<td style="border:1px solid black;"><p>責任者</p></td>
-<td style="border:1px solid black;"><p>アドバイス</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;">初期調査</td>
+<td style="border:1px solid black;">責任者</td>
+<td style="border:1px solid black;">アドバイス</td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">なし</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>初期の対応</p></td>
-<td style="border:1px solid black;"><p>責任者</p></td>
-<td style="border:1px solid black;"><p>実施</p></td>
-<td style="border:1px solid black;"><p>更新</p></td>
-<td style="border:1px solid black;"><p>更新</p></td>
-<td style="border:1px solid black;"><p>更新</p></td>
+<td style="border:1px solid black;">初期の対応</td>
+<td style="border:1px solid black;">責任者</td>
+<td style="border:1px solid black;">実施</td>
+<td style="border:1px solid black;">更新</td>
+<td style="border:1px solid black;">更新</td>
+<td style="border:1px solid black;">更新</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>法的証拠の収集</p></td>
-<td style="border:1px solid black;"><p>実施</p></td>
-<td style="border:1px solid black;"><p>アドバイス</p></td>
-<td style="border:1px solid black;"><p>責任者</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;">法的証拠の収集</td>
+<td style="border:1px solid black;">実施</td>
+<td style="border:1px solid black;">アドバイス</td>
+<td style="border:1px solid black;">責任者</td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">なし</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>一時的な解決策の実施</p></td>
-<td style="border:1px solid black;"><p>責任者</p></td>
-<td style="border:1px solid black;"><p>実施</p></td>
-<td style="border:1px solid black;"><p>更新</p></td>
-<td style="border:1px solid black;"><p>更新</p></td>
-<td style="border:1px solid black;"><p>アドバイス</p></td>
+<td style="border:1px solid black;">一時的な解決策の実施</td>
+<td style="border:1px solid black;">責任者</td>
+<td style="border:1px solid black;">実施</td>
+<td style="border:1px solid black;">更新</td>
+<td style="border:1px solid black;">更新</td>
+<td style="border:1px solid black;">アドバイス</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>連絡</p></td>
-<td style="border:1px solid black;"><p>アドバイス</p></td>
-<td style="border:1px solid black;"><p>アドバイス</p></td>
-<td style="border:1px solid black;"><p>アドバイス</p></td>
-<td style="border:1px solid black;"><p>実施</p></td>
-<td style="border:1px solid black;"><p>責任者</p></td>
+<td style="border:1px solid black;">連絡</td>
+<td style="border:1px solid black;">アドバイス</td>
+<td style="border:1px solid black;">アドバイス</td>
+<td style="border:1px solid black;">アドバイス</td>
+<td style="border:1px solid black;">実施</td>
+<td style="border:1px solid black;">責任者</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>地方の司法当局との確認</p></td>
-<td style="border:1px solid black;"><p>更新</p></td>
-<td style="border:1px solid black;"><p>更新</p></td>
-<td style="border:1px solid black;"><p>実施</p></td>
-<td style="border:1px solid black;"><p>更新</p></td>
-<td style="border:1px solid black;"><p>責任者</p></td>
+<td style="border:1px solid black;">地方の司法当局との確認</td>
+<td style="border:1px solid black;">更新</td>
+<td style="border:1px solid black;">更新</td>
+<td style="border:1px solid black;">実施</td>
+<td style="border:1px solid black;">更新</td>
+<td style="border:1px solid black;">責任者</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>永続的な解決策の実施</p></td>
-<td style="border:1px solid black;"><p>責任者</p></td>
-<td style="border:1px solid black;"><p>実施</p></td>
-<td style="border:1px solid black;"><p>更新</p></td>
-<td style="border:1px solid black;"><p>更新</p></td>
-<td style="border:1px solid black;"><p>更新</p></td>
+<td style="border:1px solid black;">永続的な解決策の実施</td>
+<td style="border:1px solid black;">責任者</td>
+<td style="border:1px solid black;">実施</td>
+<td style="border:1px solid black;">更新</td>
+<td style="border:1px solid black;">更新</td>
+<td style="border:1px solid black;">更新</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ビジネスに対する財務的な影響の決定</p></td>
-<td style="border:1px solid black;"><p>更新</p></td>
-<td style="border:1px solid black;"><p>更新</p></td>
-<td style="border:1px solid black;"><p>アドバイス</p></td>
-<td style="border:1px solid black;"><p>更新</p></td>
-<td style="border:1px solid black;"><p>責任者</p></td>
+<td style="border:1px solid black;">ビジネスに対する財務的な影響の決定</td>
+<td style="border:1px solid black;">更新</td>
+<td style="border:1px solid black;">更新</td>
+<td style="border:1px solid black;">アドバイス</td>
+<td style="border:1px solid black;">更新</td>
+<td style="border:1px solid black;">責任者</td>
 </tr>
 </tbody>
 </table>
@@ -524,7 +524,7 @@ CSIRT は問題を処理する場合、すべてのプロセスを完全にド�
   
 **表 10.3 Contoso のケース スタディ**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -532,76 +532,76 @@ CSIRT は問題を処理する場合、すべてのプロセスを完全にド�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>問題対応の手順</p></th>
-<th><p>対処</p></th>
+<th>問題対応の手順</th>
+<th>対処</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>初期調査の実施</p></td>
-<td style="border:1px solid black;"><p>当直の CSIRT メンバである Samantha Smith が呼び出され、Contoso の侵入検出システムのログに記録されたイベントの簡単な説明を受けました。この侵入検出システムは、Web サーバー WEB2 上で Code Red II の問題が発生している可能性を示しています。Samantha は WEB2 サーバーのインターネット インフォメーション サービス (IIS) のログ ファイルで署名の文字列を調べて、c:\inetpub\scripts に root.exe が存在するかどうかをチェックします。この調査の結果は、誤検知ではないことを強く示唆しています。</p></td>
+<td style="border:1px solid black;">初期調査の実施</td>
+<td style="border:1px solid black;">当直の CSIRT メンバである Samantha Smith が呼び出され、Contoso の侵入検出システムのログに記録されたイベントの簡単な説明を受けました。この侵入検出システムは、Web サーバー WEB2 上で Code Red II の問題が発生している可能性を示しています。Samantha は WEB2 サーバーのインターネット インフォメーション サービス (IIS) のログ ファイルで署名の文字列を調べて、c:\inetpub\scripts に root.exe が存在するかどうかをチェックします。この調査の結果は、誤検知ではないことを強く示唆しています。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>問題の連絡</p></td>
-<td style="border:1px solid black;"><p>Samantha は、CSIRT の他のメンバに電話で問題の発見を伝え、わかりしだい、追加の詳細情報を伝えることに同意します。</p></td>
+<td style="border:1px solid black;">問題の連絡</td>
+<td style="border:1px solid black;">Samantha は、CSIRT の他のメンバに電話で問題の発見を伝え、わかりしだい、追加の詳細情報を伝えることに同意します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>被害の拡大防止とリスクの最小化</p></td>
-<td style="border:1px solid black;"><p>Contoso の問題対応ポリシーでは、ワームの存在が確認されたら、そのシステムをネットワークから切り離すことになっています。Samantha はネットワーク ケーブルを取り外します。幸いなことに、WEB2 は負荷分散サーバーの一部なので、この切断によって顧客に対する停止時間は発生しません。</p></td>
+<td style="border:1px solid black;">被害の拡大防止とリスクの最小化</td>
+<td style="border:1px solid black;">Contoso の問題対応ポリシーでは、ワームの存在が確認されたら、そのシステムをネットワークから切り離すことになっています。Samantha はネットワーク ケーブルを取り外します。幸いなことに、WEB2 は負荷分散サーバーの一部なので、この切断によって顧客に対する停止時間は発生しません。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>問題の連絡</p></td>
-<td style="border:1px solid black;"><p>Samantha は、発見の内容を電子メールで CSIRT の他のメンバに連絡し、CSIRT リーダーには直接連絡します。CSIRT リーダーは、情報セキュリティ マネージャである Taylor Maxwell を問題担当リーダーに任命します。Taylor は、すべての活動を調整し、CSIRT の中核の連絡の窓口になります。</p>
-<p>Taylor は、技術部門の役員と当直の情報技術チームの担当者に、Web サーバーがネットワークから切り離されたことと、サーバーは少なくともワームを除去した後に再接続されることを伝えます。</p>
-<p>Taylor は、経営陣、広報責任者、法務担当者にも連絡します。法務担当者は、告訴は不可能かもしれないが、証拠収集の手順に従って欲しいことを Taylor に連絡します。</p></td>
+<td style="border:1px solid black;">問題の連絡</td>
+<td style="border:1px solid black;">Samantha は、発見の内容を電子メールで CSIRT の他のメンバに連絡し、CSIRT リーダーには直接連絡します。CSIRT リーダーは、情報セキュリティ マネージャである Taylor Maxwell を問題担当リーダーに任命します。Taylor は、すべての活動を調整し、CSIRT の中核の連絡の窓口になります。
+Taylor は、技術部門の役員と当直の情報技術チームの担当者に、Web サーバーがネットワークから切り離されたことと、サーバーは少なくともワームを除去した後に再接続されることを伝えます。
+Taylor は、経営陣、広報責任者、法務担当者にも連絡します。法務担当者は、告訴は不可能かもしれないが、証拠収集の手順に従って欲しいことを Taylor に連絡します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>被害の重大性の特定</p></td>
-<td style="border:1px solid black;"><p>Samantha は、他のサーバーのログ ファイルを調べて、ワームが感染していないかどうかを確認します。ワームの感染は拡大していないことが確認されました。</p></td>
+<td style="border:1px solid black;">被害の重大性の特定</td>
+<td style="border:1px solid black;">Samantha は、他のサーバーのログ ファイルを調べて、ワームが感染していないかどうかを確認します。ワームの感染は拡大していないことが確認されました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>被害の拡大防止とリスクの最小化</p></td>
-<td style="border:1px solid black;"><p>別の CSIRT メンバである Robert Brown は、Microsoft Baseline Security Analyzer (MBSA) を実行して、他のサーバーに Code Red II に対応した修正プログラムが適用されているかどうかをリアルタイムに確認します。MBSA は、ネットワーク上の Microsoftｮ Windows NTｮ Version 4.0、Windows 2000、および Microsoftｮ Windowsｮ XP を実行するすべてのコンピュータの修正プログラムの状況を管理者が集中的にチェックできるようにする マイクロソフトのツールです。Robert は、他の 2 台のサーバーがアップデートされていないことを発見し、直ちに修正プログラムを適用します。</p></td>
+<td style="border:1px solid black;">被害の拡大防止とリスクの最小化</td>
+<td style="border:1px solid black;">別の CSIRT メンバである Robert Brown は、Microsoft Baseline Security Analyzer (MBSA) を実行して、他のサーバーに Code Red II に対応した修正プログラムが適用されているかどうかをリアルタイムに確認します。MBSA は、ネットワーク上の Microsoftｮ Windows NTｮ Version 4.0、Windows 2000、および Microsoftｮ Windowsｮ XP を実行するすべてのコンピュータの修正プログラムの状況を管理者が集中的にチェックできるようにする マイクロソフトのツールです。Robert は、他の 2 台のサーバーがアップデートされていないことを発見し、直ちに修正プログラムを適用します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>被害の重大性の特定</p></td>
-<td style="border:1px solid black;"><p>Robert は、他のすべての IIS サーバーのログ ファイルを調べて、この時点で Code Red II のインスタンスが他に存在しないことを確認します。</p></td>
+<td style="border:1px solid black;">被害の重大性の特定</td>
+<td style="border:1px solid black;">Robert は、他のすべての IIS サーバーのログ ファイルを調べて、この時点で Code Red II のインスタンスが他に存在しないことを確認します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>証拠の保全</p></td>
-<td style="border:1px solid black;"><p>あらゆる情報が、被害が WEB2 に留まっていることを示しています。損害の拡大が正しく防止されており、法務部門から証拠を収集するように指示があったので、Taylor は証拠の混乱や破棄の原因となる可能性がある、立ち入ったシステム分析を行う前に、証拠を収集することにしました。チームの他のメンバは、他の Web サーバーやログで疑わしい活動がないか監視を続けています。</p>
-<p>法科学的な証拠収集の訓練を受けた CSIRT のメンバが、被害を受けたシステムのスナップショット (つまり、完全な物理的バックアップ) を 2 つ作成します。スナップショットの 1 つは、後で法科学的な調査を行うために注意して保管します。もう 1 つのスナップショットは、回復プロセスにおいて、問題が発生する前の、安全なクリーン バックアップと組み合わせて使用されます。法科学的なバックアップは、セキュリティ ポリシーに従って、未使用の追記型メディアに保存し、詳しいドキュメントを付け、サーバーのハードディスクとともに密封して安全な場所に保管します。</p></td>
+<td style="border:1px solid black;">証拠の保全</td>
+<td style="border:1px solid black;">あらゆる情報が、被害が WEB2 に留まっていることを示しています。損害の拡大が正しく防止されており、法務部門から証拠を収集するように指示があったので、Taylor は証拠の混乱や破棄の原因となる可能性がある、立ち入ったシステム分析を行う前に、証拠を収集することにしました。チームの他のメンバは、他の Web サーバーやログで疑わしい活動がないか監視を続けています。
+法科学的な証拠収集の訓練を受けた CSIRT のメンバが、被害を受けたシステムのスナップショット (つまり、完全な物理的バックアップ) を 2 つ作成します。スナップショットの 1 つは、後で法科学的な調査を行うために注意して保管します。もう 1 つのスナップショットは、回復プロセスにおいて、問題が発生する前の、安全なクリーン バックアップと組み合わせて使用されます。法科学的なバックアップは、セキュリティ ポリシーに従って、未使用の追記型メディアに保存し、詳しいドキュメントを付け、サーバーのハードディスクとともに密封して安全な場所に保管します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>攻撃の種類と重大性の特定</p></td>
-<td style="border:1px solid black;"><p>組織のセキュリティ ツールキットであるポータブル コンピュータには、数多くの調査ツールが用意されており、このコンピュータを使って回復用のバックアップに他の被害がないかどうかを調べます。レジストリ エントリやフォルダで、起動時にソフトウェアを実行するような場所に項目が追加されていないか確認します。たとえば、profile/startup ディレクトリや <strong>Run</strong> および <strong>RunOnce</strong> レジストリ キーです。ユーザー アカウントやグループ アカウント、およびユーザー権利やセキュリティ ポリシーも変更されていないか確認します。セキュリティ ログで、他に疑わしい活動が記録されていないか調べます。</p></td>
+<td style="border:1px solid black;">攻撃の種類と重大性の特定</td>
+<td style="border:1px solid black;">組織のセキュリティ ツールキットであるポータブル コンピュータには、数多くの調査ツールが用意されており、このコンピュータを使って回復用のバックアップに他の被害がないかどうかを調べます。レジストリ エントリやフォルダで、起動時にソフトウェアを実行するような場所に項目が追加されていないか確認します。たとえば、profile/startup ディレクトリや <strong>Run</strong> および <strong>RunOnce</strong> レジストリ キーです。ユーザー アカウントやグループ アカウント、およびユーザー権利やセキュリティ ポリシーも変更されていないか確認します。セキュリティ ログで、他に疑わしい活動が記録されていないか調べます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>外部機関への通知</p></td>
-<td style="border:1px solid black;"><p>Contoso は米国政府の大規模なプロジェクトにも数多く参加しているので、Taylor は米国連邦捜査局 (FBI) の National Infrastructure Protection Center に問題について報告します。</p>
-<p>顧客情報もシステムへのアクセスも被害を受けていないと判断されるので、顧客には通知しません。</p></td>
+<td style="border:1px solid black;">外部機関への通知</td>
+<td style="border:1px solid black;">Contoso は米国政府の大規模なプロジェクトにも数多く参加しているので、Taylor は米国連邦捜査局 (FBI) の National Infrastructure Protection Center に問題について報告します。
+顧客情報もシステムへのアクセスも被害を受けていないと判断されるので、顧客には通知しません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>システムの回復</p></td>
-<td style="border:1px solid black;"><p>WEB2 から Code Red II を除去するツールもありますが、CSIRT と WEB2 サポート チームは、新しいメディアにオペレーティング システムを再インストールすることを選択しました。オリジナルの配布メディアから新しいディスク メディアにオペレーティング システムを再インストールするとともに、Microsoft Security Toolkit を使用することによって、ハッカーのバックドアが仕掛けられたり、ファイルが壊れたりしていないクリーンなシステムであることが保証されます。</p>
-<p>Windows 2000 を再インストールした後、このガイドの第 5 章から第 7 章に示されているガイドラインに従って、セキュリティ ロックダウンをより厳格に適用します。</p>
-<p>感染していないバックアップを探して、ドキュメント化されている手順に従って、データを復元します。データが被害を受けたバックアップにしか存在しない場合は、別のオフライン システムに復元し、他のオペレーティング システムに対して再感染の危険性がないことが明らかになった後で WEB2 に戻します。</p>
-<p>CSIRT チームは、システム全体の脆弱性の調査を実施し、そのプロセスで判明した情報をすべてドキュメント化します。</p>
-<p>WEB2 をネットワークに再接続し、新しい侵害や既知の侵害の兆候がないか綿密に監視します。</p></td>
+<td style="border:1px solid black;">システムの回復</td>
+<td style="border:1px solid black;">WEB2 から Code Red II を除去するツールもありますが、CSIRT と WEB2 サポート チームは、新しいメディアにオペレーティング システムを再インストールすることを選択しました。オリジナルの配布メディアから新しいディスク メディアにオペレーティング システムを再インストールするとともに、Microsoft Security Toolkit を使用することによって、ハッカーのバックドアが仕掛けられたり、ファイルが壊れたりしていないクリーンなシステムであることが保証されます。
+Windows 2000 を再インストールした後、このガイドの第 5 章から第 7 章に示されているガイドラインに従って、セキュリティ ロックダウンをより厳格に適用します。
+感染していないバックアップを探して、ドキュメント化されている手順に従って、データを復元します。データが被害を受けたバックアップにしか存在しない場合は、別のオフライン システムに復元し、他のオペレーティング システムに対して再感染の危険性がないことが明らかになった後で WEB2 に戻します。
+CSIRT チームは、システム全体の脆弱性の調査を実施し、そのプロセスで判明した情報をすべてドキュメント化します。
+WEB2 をネットワークに再接続し、新しい侵害や既知の侵害の兆候がないか綿密に監視します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>問題に関するドキュメントの収集と整理</p></td>
-<td style="border:1px solid black;"><p>Taylor および CSIRT は脆弱性の根本的な原因を調査し、問題のあったシステムが最近再インストールされ、修正プログラムが適用されていなかったことが判明しました。これは、明らかに既に定義されているポリシーに反しています。</p>
-<p>この問題を細分化すると 3 つの場所で発生しています。サポート チームのメンバが修正プログラムを再適用しなかったこと、情報セキュリティ部門が遅滞なく、適用された修正プログラムを監査しなかったこと、および構成管理グループが修正プログラムの適用の必要性を認識し、情報セキュリティ部門にシステムを稼動状態に戻す前に見直しを要請しなかったことです。これらのプロセスのいずれかが実施されていれば、この問題は回避できたはずです。</p>
-<p>チームは、この問題の再発を回避するために新しい手順を実施することを決定します。情報セキュリティ部門が社内ネットワークへのシステムの再接続を承認する前に、変更管理、Web サーバー サポート、および情報セキュリティの各部門が実行しなければならないチェックリストを作成しました。チェックリストの手順は、情報セキュリティ部門が、外部からこのシステムへのアクセスおよびこのシステムから外部へのアクセスを許可するようにファイアウォールを再構成する前に実行する必要があります。また、監査部門は、チェックリストが正確かつ完全に実行されているかどうかを定期的に検討します。</p>
-<p>Taylor および CSIRT は、問題に対応するために実行された作業、各作業が行われた時刻、および作業を行った人物を特定するすべてのドキュメントを収集します。この情報は、コンピュータの損害に関する一般に公正妥当と認められた会計原則に従ってコストを計算するために財務担当者に送られます。</p>
-<p>CSIRT チーム リーダーは、経営陣が問題の総コスト、問題の発生原因、将来的な問題の回避方法を理解していることを確認します。経営陣が、手順が存在しない場合や手順に従わなかった場合、および CSIRT などのリソースがない場合の意味を理解していることは重要です。</p>
-<p>該当するチームのメンバが全体的な問題のドキュメント、問題から学んだ教訓、および実施されたポリシーと実施されなかったポリシーを再検討します。</p>
-<p>訴訟に関連するドキュメントおよび手順を、法務担当者、CSIRT チーム リーダー、問題担当リーダー、および経営陣で再検討します。</p></td>
+<td style="border:1px solid black;">問題に関するドキュメントの収集と整理</td>
+<td style="border:1px solid black;">Taylor および CSIRT は脆弱性の根本的な原因を調査し、問題のあったシステムが最近再インストールされ、修正プログラムが適用されていなかったことが判明しました。これは、明らかに既に定義されているポリシーに反しています。
+この問題を細分化すると 3 つの場所で発生しています。サポート チームのメンバが修正プログラムを再適用しなかったこと、情報セキュリティ部門が遅滞なく、適用された修正プログラムを監査しなかったこと、および構成管理グループが修正プログラムの適用の必要性を認識し、情報セキュリティ部門にシステムを稼動状態に戻す前に見直しを要請しなかったことです。これらのプロセスのいずれかが実施されていれば、この問題は回避できたはずです。
+チームは、この問題の再発を回避するために新しい手順を実施することを決定します。情報セキュリティ部門が社内ネットワークへのシステムの再接続を承認する前に、変更管理、Web サーバー サポート、および情報セキュリティの各部門が実行しなければならないチェックリストを作成しました。チェックリストの手順は、情報セキュリティ部門が、外部からこのシステムへのアクセスおよびこのシステムから外部へのアクセスを許可するようにファイアウォールを再構成する前に実行する必要があります。また、監査部門は、チェックリストが正確かつ完全に実行されているかどうかを定期的に検討します。
+Taylor および CSIRT は、問題に対応するために実行された作業、各作業が行われた時刻、および作業を行った人物を特定するすべてのドキュメントを収集します。この情報は、コンピュータの損害に関する一般に公正妥当と認められた会計原則に従ってコストを計算するために財務担当者に送られます。
+CSIRT チーム リーダーは、経営陣が問題の総コスト、問題の発生原因、将来的な問題の回避方法を理解していることを確認します。経営陣が、手順が存在しない場合や手順に従わなかった場合、および CSIRT などのリソースがない場合の意味を理解していることは重要です。
+該当するチームのメンバが全体的な問題のドキュメント、問題から学んだ教訓、および実施されたポリシーと実施されなかったポリシーを再検討します。
+訴訟に関連するドキュメントおよび手順を、法務担当者、CSIRT チーム リーダー、問題担当リーダー、および経営陣で再検討します。</td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 [](#mainsection)[ページのトップへ](#mainsection)
 

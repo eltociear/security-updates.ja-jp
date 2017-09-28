@@ -471,7 +471,7 @@ Active Directory Client Extensions をインストールしたら、NTLMv2 認�
 
 **表 5.1: 検証テスト**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -480,61 +480,61 @@ Active Directory Client Extensions をインストールしたら、NTLMv2 認�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>説明</p></th>
-<th><p>テストの手順</p></th>
-<th><p>予測される結果</p></th>
+<th>説明</th>
+<th>テストの手順</th>
+<th>予測される結果</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ホットフィックスのインストール状態を検証する</p></td>
-<td style="border:1px solid black;"><p>QFECheck.exe ユーティリティ (Windows のインストール フォルダにあります) を実行します。</p></td>
-<td style="border:1px solid black;"><p>確立したベースラインに一致する最新のホットフィックスの一覧を入手できます。</p></td>
+<td style="border:1px solid black;">ホットフィックスのインストール状態を検証する</td>
+<td style="border:1px solid black;">QFECheck.exe ユーティリティ (Windows のインストール フォルダにあります) を実行します。</td>
+<td style="border:1px solid black;">確立したベースラインに一致する最新のホットフィックスの一覧を入手できます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Internet Explorer 6 SP1 のインストール状態を検証する</p></td>
-<td style="border:1px solid black;"><p>Internet Explorer を起動して、<strong>[ヘルプ]</strong> メニューの <strong>[バージョン情報]</strong> をクリックします。</p></td>
-<td style="border:1px solid black;"><p>バージョン情報に &quot;6.0.2800.xxxx&quot; と表示されるはずです。</p></td>
+<td style="border:1px solid black;">Internet Explorer 6 SP1 のインストール状態を検証する</td>
+<td style="border:1px solid black;">Internet Explorer を起動して、<strong>[ヘルプ]</strong> メニューの <strong>[バージョン情報]</strong> をクリックします。</td>
+<td style="border:1px solid black;">バージョン情報に &quot;6.0.2800.xxxx&quot; と表示されるはずです。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DSClient が正しくインストールされていることを検証する</p></td>
-<td style="border:1px solid black;"><p><strong>[スタート]</strong> ボタンをクリックして <strong>[検索]</strong> をポイントし、<strong>[人]</strong> をクリックします。</p></td>
-<td style="border:1px solid black;"><p>Active Directory を検索する機能が備わっていれば、DSClient が正しくインストールされています。</p></td>
+<td style="border:1px solid black;">DSClient が正しくインストールされていることを検証する</td>
+<td style="border:1px solid black;"><strong>[スタート]</strong> ボタンをクリックして <strong>[検索]</strong> をポイントし、<strong>[人]</strong> をクリックします。</td>
+<td style="border:1px solid black;">Active Directory を検索する機能が備わっていれば、DSClient が正しくインストールされています。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NTLMv2 認証を検証する</p></td>
-<td style="border:1px solid black;"><p>NTLMv2 認証を要求するようにドメイン コントローラを 設定します。</p></td>
-<td style="border:1px solid black;"><p>クライアントが正常にログオンできます。</p></td>
+<td style="border:1px solid black;">NTLMv2 認証を検証する</td>
+<td style="border:1px solid black;">NTLMv2 認証を要求するようにドメイン コントローラを 設定します。</td>
+<td style="border:1px solid black;">クライアントが正常にログオンできます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>SMB 署名を検証する</p></td>
-<td style="border:1px solid black;"><p>通信に SMB 署名を要求するようにネットワーク リソースを設定します。</p></td>
-<td style="border:1px solid black;"><p>クライアントがネットワークに正常にアクセスできます。</p></td>
+<td style="border:1px solid black;">SMB 署名を検証する</td>
+<td style="border:1px solid black;">通信に SMB 署名を要求するようにネットワーク リソースを設定します。</td>
+<td style="border:1px solid black;">クライアントがネットワークに正常にアクセスできます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>システム ポリシーを検証する</p></td>
-<td style="border:1px solid black;"><p>システム ポリシーで制限されたリソースにアクセスしてみます。</p></td>
-<td style="border:1px solid black;"><p>アクセスが制限されたリソースにはアクセスできません。</p></td>
+<td style="border:1px solid black;">システム ポリシーを検証する</td>
+<td style="border:1px solid black;">システム ポリシーで制限されたリソースにアクセスしてみます。</td>
+<td style="border:1px solid black;">アクセスが制限されたリソースにはアクセスできません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>システム BIOS のセキュリティを検証する</p></td>
-<td style="border:1px solid black;"><p>メーカー指定のエスケープ シーケンスでシステム BIOS にアクセスしてみます。</p></td>
-<td style="border:1px solid black;"><p>パスワードの入力を求められます。</p></td>
+<td style="border:1px solid black;">システム BIOS のセキュリティを検証する</td>
+<td style="border:1px solid black;">メーカー指定のエスケープ シーケンスでシステム BIOS にアクセスしてみます。</td>
+<td style="border:1px solid black;">パスワードの入力を求められます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>起動デバイスを回避してみる</p></td>
-<td style="border:1px solid black;"><p>起動可能なフロッピー ディスクおよび CD を挿入します。</p></td>
-<td style="border:1px solid black;"><p>クライアントは、リムーバブル メディアから起動しません。</p></td>
+<td style="border:1px solid black;">起動デバイスを回避してみる</td>
+<td style="border:1px solid black;">起動可能なフロッピー ディスクおよび CD を挿入します。</td>
+<td style="border:1px solid black;">クライアントは、リムーバブル メディアから起動しません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>起動シーケンスを回避してみる</p></td>
-<td style="border:1px solid black;"><p>システムの起動時に F5 キーまたは F8 キーを押します。</p></td>
-<td style="border:1px solid black;"><p>クライアントに、起動を変更できるメニューが表示されません。</p></td>
+<td style="border:1px solid black;">起動シーケンスを回避してみる</td>
+<td style="border:1px solid black;">システムの起動時に F5 キーまたは F8 キーを押します。</td>
+<td style="border:1px solid black;">クライアントに、起動を変更できるメニューが表示されません。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ネットワーク ログオンを回避してみる</p></td>
-<td style="border:1px solid black;"><p>ログオン画面が表示されたら、ESC キーを押してみます。</p></td>
-<td style="border:1px solid black;"><p>Windows 98 のデスクトップには、ドメインの資格情報が正しく提示されるまでアクセスできません。</p></td>
+<td style="border:1px solid black;">ネットワーク ログオンを回避してみる</td>
+<td style="border:1px solid black;">ログオン画面が表示されたら、ESC キーを押してみます。</td>
+<td style="border:1px solid black;">Windows 98 のデスクトップには、ドメインの資格情報が正しく提示されるまでアクセスできません。</td>
 </tr>
 </tbody>
 </table>

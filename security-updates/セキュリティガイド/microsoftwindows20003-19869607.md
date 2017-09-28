@@ -193,141 +193,141 @@ Microsoft セキュリティ構成ツール セットの使い方に関する詳
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>パスワード ポリシー</p></th>
-<th><p>Professional</p></th>
-<th><p>Server</p></th>
-<th><p>DC</p></th>
-<th><p>必須</p></th>
-<th><p>推奨</p></th>
+<th>パスワード ポリシー</th>
+<th>Professional</th>
+<th>Server</th>
+<th>DC</th>
+<th>必須</th>
+<th>推奨</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>パスワード履歴要件を設定する</em></strong></p>
-<p><strong>セキュリティの目的</strong>: パスワード再利用の頻度の制限を設定します。</p></td>
+<td style="border:1px solid black;"><strong><em>パスワード履歴要件を設定する</em></strong>
+<strong>セキュリティの目的</strong>: パスワード再利用の頻度の制限を設定します。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>パスワードの有効期間を設定する</em></strong></p>
-<p><strong>セキュリティの目的</strong>: ユーザーがパスワードを変更せずに使い続けられる期間を設定します。</p></td>
+<td style="border:1px solid black;"><strong><em>パスワードの有効期間を設定する</em></strong>
+<strong>セキュリティの目的</strong>: ユーザーがパスワードを変更せずに使い続けられる期間を設定します。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>パスワードの変更禁止期間を設定する</em></strong></p>
-<p><strong>セキュリティの目的</strong>: ユーザーがパスワードを変更せずに使い続けなければならない期間を設定します。</p></td>
+<td style="border:1px solid black;"><strong><em>パスワードの変更禁止期間を設定する</em></strong>
+<strong>セキュリティの目的</strong>: ユーザーがパスワードを変更せずに使い続けなければならない期間を設定します。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>パスワードの長さを設定する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> ユーザーのパスワードに必要な長さを設定します。</p></td>
+<td style="border:1px solid black;"><strong><em>パスワードの長さを設定する</em></strong>
+<strong>セキュリティの目的:</strong> ユーザーのパスワードに必要な長さを設定します。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>パスワードの複雑性要件を設定する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> 複雑 (強力) なパスワードを使用することを求めます。このポリシーを設定した場合、パスワード内で英数字、特殊文字、大文字、小文字を組み合わせて使用しなければなりません。</p></td>
+<td style="border:1px solid black;"><strong><em>パスワードの複雑性要件を設定する</em></strong>
+<strong>セキュリティの目的:</strong> 複雑 (強力) なパスワードを使用することを求めます。このポリシーを設定した場合、パスワード内で英数字、特殊文字、大文字、小文字を組み合わせて使用しなければなりません。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>元に戻せるパスワードの暗号化を有効にしない</em></strong></p>
-<p><strong>セキュリティの目的:</strong> 推奨しません。</p>
-<p><strong>手順:</strong> 既定の設定が無効になっていることを確認します。</p></td>
+<td style="border:1px solid black;"><strong><em>元に戻せるパスワードの暗号化を有効にしない</em></strong>
+<strong>セキュリティの目的:</strong> 推奨しません。
+<strong>手順:</strong> 既定の設定が無効になっていることを確認します。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" />
 <br />
 </td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 </tbody>
 </table>
@@ -361,61 +361,61 @@ Microsoft セキュリティ構成ツール セットの使い方に関する詳
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>アカウント ロックアウトのポリシー</p></th>
-<th><p>Professional</p></th>
-<th><p>Server</p></th>
-<th><p>DC</p></th>
-<th><p>必須</p></th>
-<th><p>推奨</p></th>
+<th>アカウント ロックアウトのポリシー</th>
+<th>Professional</th>
+<th>Server</th>
+<th>DC</th>
+<th>必須</th>
+<th>推奨</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>ロックアウト期間の設定</em></strong></p>
-<p><strong>セキュリティの目的:</strong> 無効なパスワードの使用が試みられたためにいったんアカウントがロックされると、この指定期間が経過 (または管理者がアカウントのロックを解除) してからでないと、リセットすることはできません。</p>
-<p><strong>手順:</strong></p>
+<td style="border:1px solid black;"><strong><em>ロックアウト期間の設定</em></strong>
+<strong>セキュリティの目的:</strong> 無効なパスワードの使用が試みられたためにいったんアカウントがロックされると、この指定期間が経過 (または管理者がアカウントのロックを解除) してからでないと、リセットすることはできません。
+<strong>手順:</strong>
 <ol>
-<li><p>右側の詳細ペイン内の <strong>[ロックアウト期間]</strong> ポリシー オブジェクトをダブルクリックして、対応する [セキュリティ ポリシーの設定] ダイアログ ウィンドウを開きます。</p></li>
-<li><p>ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</p></li>
-<li><p><strong>[分]</strong> フィールドの数値をゼロ (0) に変更して、該当のアカウントを無期限にロックするように、このポリシーを設定することを推奨します。そうした場合、管理者がアカウントのロックを解除する必要があります。</p></li>
+<li>右側の詳細ペイン内の <strong>[ロックアウト期間]</strong> ポリシー オブジェクトをダブルクリックして、対応する [セキュリティ ポリシーの設定] ダイアログ ウィンドウを開きます。</li>
+<li>ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</li>
+<li><strong>[分]</strong> フィールドの数値をゼロ (0) に変更して、該当のアカウントを無期限にロックするように、このポリシーを設定することを推奨します。そうした場合、管理者がアカウントのロックを解除する必要があります。</li>
 </ol>
-<p><strong>注意</strong> : ST ではロックアウトの期間を設定する必要があります。この機能を発揮させるためには、1 以上の値を設定する必要があります。値を 0 に設定することもできます。その場合は、管理者がアカウントのロックを解除する必要があります。</p>
-<p>ロックアウト期間ポリシーは [ロックアウト カウントのリセット] ポリシーとリンクしています。ロックアウト期間ポリシーに 0 を設定した場合は、[ロックアウト カウントのリセット] ポリシーには任意の値を指定することができます。ロックアウト期間ポリシーに 0 以外の値を設定した場合は、既定では [ロックアウト カウントのリセット] ポリシーに同じ値が自動的に設定されます。</p></td>
+<strong>注意</strong> : ST ではロックアウトの期間を設定する必要があります。この機能を発揮させるためには、1 以上の値を設定する必要があります。値を 0 に設定することもできます。その場合は、管理者がアカウントのロックを解除する必要があります。
+ロックアウト期間ポリシーは [ロックアウト カウントのリセット] ポリシーとリンクしています。ロックアウト期間ポリシーに 0 を設定した場合は、[ロックアウト カウントのリセット] ポリシーには任意の値を指定することができます。ロックアウト期間ポリシーに 0 以外の値を設定した場合は、既定では [ロックアウト カウントのリセット] ポリシーに同じ値が自動的に設定されます。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>アカウントのロックアウトのしきい値を設定する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> 無効なログインの試みが何回行われたら、アカウントをロックするかを設定します。</p></td>
+<td style="border:1px solid black;"><strong><em>アカウントのロックアウトのしきい値を設定する</em></strong>
+<strong>セキュリティの目的:</strong> 無効なログインの試みが何回行われたら、アカウントをロックするかを設定します。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>アカウントのロックアウト リセット カウンタを設定する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> ログオンの試みが失敗するたびに、不正なログオンの回数を記録するしきい値が繰り上げられます。このポリシーはロックアウトしきい値を何分間維持した後にリセットするかを決定します。</p></td>
+<td style="border:1px solid black;"><strong><em>アカウントのロックアウト リセット カウンタを設定する</em></strong>
+<strong>セキュリティの目的:</strong> ログオンの試みが失敗するたびに、不正なログオンの回数を記録するしきい値が繰り上げられます。このポリシーはロックアウトしきい値を何分間維持した後にリセットするかを決定します。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 </tbody>
 </table>
@@ -451,80 +451,80 @@ Microsoft セキュリティ構成ツール セットの使い方に関する詳
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>Kerberos ポリシー</p></th>
-<th><p>Professional</p></th>
-<th><p>Server</p></th>
-<th><p>DC</p></th>
-<th><p>必須</p></th>
-<th><p>推奨</p></th>
+<th>Kerberos ポリシー</th>
+<th>Professional</th>
+<th>Server</th>
+<th>DC</th>
+<th>必須</th>
+<th>推奨</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>ユーザー ログオンの制限を強制する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> すべてのログオン要求をユーザー権利のポリシーに照らしてチェックし、ユーザーがローカルにログオンまたはネットワークを通じてコンピュータにアクセスする許可を有しているかどうか判定します。</p>
-<p><strong>手順:</strong> 既定の設定が適切です。設定が「有効」であることを確認します。</p></td>
+<td style="border:1px solid black;"><strong><em>ユーザー ログオンの制限を強制する</em></strong>
+<strong>セキュリティの目的:</strong> すべてのログオン要求をユーザー権利のポリシーに照らしてチェックし、ユーザーがローカルにログオンまたはネットワークを通じてコンピュータにアクセスする許可を有しているかどうか判定します。
+<strong>手順:</strong> 既定の設定が適切です。設定が「有効」であることを確認します。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>サービス チケットの最長有効期間を設定する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> サービス チケットが有効な最長の期間を設定します。</p>
-<p><strong>手順:</strong> 既定の設定が適切です。サービス チケットの有効期限が「600 分」に設定されていることを確認します。</p></td>
+<td style="border:1px solid black;"><strong><em>サービス チケットの最長有効期間を設定する</em></strong>
+<strong>セキュリティの目的:</strong> サービス チケットが有効な最長の期間を設定します。
+<strong>手順:</strong> 既定の設定が適切です。サービス チケットの有効期限が「600 分」に設定されていることを確認します。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>チケットの最長有効期間を設定する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> ユーザー チケットが有効な最長の期間を設定します。</p>
-<p><strong>手順:</strong> 既定の設定が適切です。ユーザー チケットの有効期限が「10 時間」に設定されていることを確認します。</p></td>
+<td style="border:1px solid black;"><strong><em>チケットの最長有効期間を設定する</em></strong>
+<strong>セキュリティの目的:</strong> ユーザー チケットが有効な最長の期間を設定します。
+<strong>手順:</strong> 既定の設定が適切です。ユーザー チケットの有効期限が「10 時間」に設定されていることを確認します。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>ユーザー チケットを更新できる最長有効期間を設定する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> 有効期限が切れたユーザー チケットを更新できる期間を設定します。</p>
-<p><strong>手順:</strong> 既定の設定が適切です。ユーザー チケットを更新できる期間が「7 日」であることを確認します。</p></td>
+<td style="border:1px solid black;"><strong><em>ユーザー チケットを更新できる最長有効期間を設定する</em></strong>
+<strong>セキュリティの目的:</strong> 有効期限が切れたユーザー チケットを更新できる期間を設定します。
+<strong>手順:</strong> 既定の設定が適切です。ユーザー チケットを更新できる期間が「7 日」であることを確認します。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>コンピュータの時計の同期の最長トレランスを設定する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> ドメイン内のコンピュータ間の同期の最長のトレランスを設定します。</p>
-<p><strong>手順:</strong> 既定の設定が適切です。最長トレランスが「5 分」に設定されていることを確認します。</p></td>
+<td style="border:1px solid black;"><strong><em>コンピュータの時計の同期の最長トレランスを設定する</em></strong>
+<strong>セキュリティの目的:</strong> ドメイン内のコンピュータ間の同期の最長のトレランスを設定します。
+<strong>手順:</strong> 既定の設定が適切です。最長トレランスが「5 分」に設定されていることを確認します。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 </tbody>
 </table>
@@ -568,7 +568,7 @@ Microsoft セキュリティ構成ツール セットの使い方に関する詳
   
 **表 3.4 監査ポリシーの設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="12%" />
@@ -582,172 +582,172 @@ Microsoft セキュリティ構成ツール セットの使い方に関する詳
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>監査ポリシー</p></th>
-<th><p>Professional</p></th>
-<th><p>Server</p></th>
-<th><p>DC</p></th>
-<th><p>必須</p></th>
-<th><p>推奨</p></th>
-<th><p> </p></th>
-<th><p> </p></th>
+<th>監査ポリシー</th>
+<th>Professional</th>
+<th>Server</th>
+<th>DC</th>
+<th>必須</th>
+<th>推奨</th>
+<th> </th>
+<th> </th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>監査イベントのカテゴリ</p></td>
-<td style="border:1px solid black;"><p>成功</p></td>
-<td style="border:1px solid black;"><p>失敗</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">監査イベントのカテゴリ</td>
+<td style="border:1px solid black;">成功</td>
+<td style="border:1px solid black;">失敗</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>アカウント ログオン イベントの監査</em></p></td>
+<td style="border:1px solid black;"><em>アカウント ログオン イベントの監査</em></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>アカウント管理の監査</em></p></td>
+<td style="border:1px solid black;"><em>アカウント管理の監査</em></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>ディレクトリ サービスのアクセスの監査</em></p></td>
+<td style="border:1px solid black;"><em>ディレクトリ サービスのアクセスの監査</em></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>ログオン イベントの監査</em></p></td>
+<td style="border:1px solid black;"><em>ログオン イベントの監査</em></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>オブジェクト アクセスの監査</em></p></td>
+<td style="border:1px solid black;"><em>オブジェクト アクセスの監査</em></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>ポリシーの変更の監査</em></p></td>
+<td style="border:1px solid black;"><em>ポリシーの変更の監査</em></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>特権使用の監査</em></p></td>
+<td style="border:1px solid black;"><em>特権使用の監査</em></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>プロセス追跡の監査</em></p></td>
+<td style="border:1px solid black;"><em>プロセス追跡の監査</em></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>システム イベントの監査</em></p></td>
+<td style="border:1px solid black;"><em>システム イベントの監査</em></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 **注意** :
 
@@ -788,7 +788,7 @@ Microsoft セキュリティ構成ツール セットの使い方に関する詳
 
 **表 3.5 ユーザー権利と特権**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="12%" />
@@ -802,253 +802,253 @@ Microsoft セキュリティ構成ツール セットの使い方に関する詳
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>ユーザー権利と特権の割り当て</p></th>
-<th><p>Professional</p></th>
-<th><p>Server</p></th>
-<th><p>DC</p></th>
-<th><p>必須</p></th>
-<th><p>推奨</p></th>
-<th><p> </p></th>
-<th><p> </p></th>
+<th>ユーザー権利と特権の割り当て</th>
+<th>Professional</th>
+<th>Server</th>
+<th>DC</th>
+<th>必須</th>
+<th>推奨</th>
+<th> </th>
+<th> </th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ログオン権利</p></td>
-<td style="border:1px solid black;"><p>既定値</p></td>
-<td style="border:1px solid black;"><p>修正後</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">ログオン権利</td>
+<td style="border:1px solid black;">既定値</td>
+<td style="border:1px solid black;">修正後</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>ネットワーク経由でコンピュータへアクセス</em></strong></p>
-<p><strong><em>(Professional/Server)</em></strong></p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p>
-<p>Power Users</p>
-<p>Users</p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p>
-<p>Power Users</p>
-<p>Users</p></td>
+<td style="border:1px solid black;"><strong><em>ネットワーク経由でコンピュータへアクセス</em></strong>
+<strong><em>(Professional/Server)</em></strong></td>
+<td style="border:1px solid black;">Administrators
+Backup Operators
+Power Users
+Users</td>
+<td style="border:1px solid black;">Administrators
+Backup Operators
+Power Users
+Users</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>ネットワーク経由でコンピュータへアクセス</em></strong></p>
-<p><strong><em>(ドメイン コントローラ)</em></strong></p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Authenticated Users</p></td>
-<td style="border:1px solid black;"><p>AdministratorsAuthenticated Users</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>ネットワーク経由でコンピュータへアクセス</em></strong>
+<strong><em>(ドメイン コントローラ)</em></strong></td>
+<td style="border:1px solid black;">Administrators
+Authenticated Users</td>
+<td style="border:1px solid black;">AdministratorsAuthenticated Users</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>ローカル ログオン</em></strong></p>
-<p><strong><em>(Professional)</em></strong></p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p>
-<p>Power Users</p>
-<p>Users</p>
-<p>コンピュータ名\Guest</p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p>
-<p>Power Users</p></td>
+<td style="border:1px solid black;"><strong><em>ローカル ログオン</em></strong>
+<strong><em>(Professional)</em></strong></td>
+<td style="border:1px solid black;">Administrators
+Backup Operators
+Power Users
+Users
+コンピュータ名\Guest</td>
+<td style="border:1px solid black;">Administrators
+Backup Operators
+Power Users</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>ローカル ログオン</em></strong></p>
-<p><strong><em>(Server)</em></strong></p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p>
-<p>Power Users</p>
-<p>Users</p>
-<p>コンピュータ名\Guest</p>
-<p>コンピュータ名\TsInternetUser</p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p>
-<p>Power Users</p>
-<p>Users</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>ローカル ログオン</em></strong>
+<strong><em>(Server)</em></strong></td>
+<td style="border:1px solid black;">Administrators
+Backup Operators
+Power Users
+Users
+コンピュータ名\Guest
+コンピュータ名\TsInternetUser</td>
+<td style="border:1px solid black;">Administrators
+Backup Operators
+Power Users
+Users</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>ローカル ログオン</em></strong></p>
-<p><strong><em>(ドメイン コントローラ)</em></strong></p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Account Operators</p>
-<p>Backup Operators</p>
-<p>Print Operators</p>
-<p>Server Operators</p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Account Operators</p>
-<p>Backup Operators</p>
-<p>Print Operators</p>
-<p>Server Operators</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>ローカル ログオン</em></strong>
+<strong><em>(ドメイン コントローラ)</em></strong></td>
+<td style="border:1px solid black;">Administrators
+Account Operators
+Backup Operators
+Print Operators
+Server Operators</td>
+<td style="border:1px solid black;">Administrators
+Account Operators
+Backup Operators
+Print Operators
+Server Operators</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>特権</p></td>
-<td style="border:1px solid black;"><p>既定値</p></td>
-<td style="border:1px solid black;"><p>修正後</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">特権</td>
+<td style="border:1px solid black;">既定値</td>
+<td style="border:1px solid black;">修正後</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>ドメインにワークステーションを追加</em></strong></p>
-<p><strong><em>(ドメイン コントローラ)</em></strong></p></td>
-<td style="border:1px solid black;"><p>　</p></td>
-<td style="border:1px solid black;"><p>Authenticated Users のアカウントを削除します。この特権を他のユーザーに与えてはなりません。</p>
-<p><strong>注意</strong> Domain Administrators は既定でこの特権を保持しています。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>ドメインにワークステーションを追加</em></strong>
+<strong><em>(ドメイン コントローラ)</em></strong></td>
+<td style="border:1px solid black;">　</td>
+<td style="border:1px solid black;">Authenticated Users のアカウントを削除します。この特権を他のユーザーに与えてはなりません。
+<strong>注意</strong> Domain Administrators は既定でこの特権を保持しています。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>クォータの増加</em></strong></p>
-<p><strong><em>(ドメイン コントローラ – ドメイン セキュリティ ポリシー内)</em></strong></p></td>
-<td style="border:1px solid black;"><p>(未定義)</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>クォータの増加</em></strong>
+<strong><em>(ドメイン コントローラ – ドメイン セキュリティ ポリシー内)</em></strong></td>
+<td style="border:1px solid black;">(未定義)</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>スケジューリング優先順位の繰り上げ</em></strong></p>
-<p><strong><em>(ドメイン コントローラ – ドメイン セキュリティ ポリシー内)</em></strong></p></td>
-<td style="border:1px solid black;"><p>(未定義)</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>スケジューリング優先順位の繰り上げ</em></strong>
+<strong><em>(ドメイン コントローラ – ドメイン セキュリティ ポリシー内)</em></strong></td>
+<td style="border:1px solid black;">(未定義)</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>デバイス ドライバのロードとアンロード</em></strong></p>
-<p><strong><em>(ドメイン コントローラ – ドメイン セキュリティ ポリシー内)</em></strong></p></td>
-<td style="border:1px solid black;"><p>(未定義)</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>デバイス ドライバのロードとアンロード</em></strong>
+<strong><em>(ドメイン コントローラ – ドメイン セキュリティ ポリシー内)</em></strong></td>
+<td style="border:1px solid black;">(未定義)</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>監査とセキュリティ ログの管理</em></strong></p>
-<p><strong><em>(ドメイン コントローラ – ドメイン セキュリティ ポリシー内)</em></strong></p></td>
-<td style="border:1px solid black;"><p>(未定義)</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>監査とセキュリティ ログの管理</em></strong>
+<strong><em>(ドメイン コントローラ – ドメイン セキュリティ ポリシー内)</em></strong></td>
+<td style="border:1px solid black;">(未定義)</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>ファームウェア環境値の修正</em></strong></p>
-<p><strong><em>(ドメイン コントローラ – ドメイン セキュリティ ポリシー内)</em></strong></p></td>
-<td style="border:1px solid black;"><p>(未定義)</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>ファームウェア環境値の修正</em></strong>
+<strong><em>(ドメイン コントローラ – ドメイン セキュリティ ポリシー内)</em></strong></td>
+<td style="border:1px solid black;">(未定義)</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>システム パフォーマンスのプロファイル</em></strong></p>
-<p><strong><em>(ドメイン コントローラ – ドメイン セキュリティ ポリシー内)</em></strong></p></td>
-<td style="border:1px solid black;"><p>(未定義)</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>システム パフォーマンスのプロファイル</em></strong>
+<strong><em>(ドメイン コントローラ – ドメイン セキュリティ ポリシー内)</em></strong></td>
+<td style="border:1px solid black;">(未定義)</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>システムのシャットダウン</em></strong></p>
-<p><strong><em>(Professional)</em></strong></p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p>
-<p>Power Users</p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p>
-<p>Power Users</p></td>
+<td style="border:1px solid black;"><strong><em>システムのシャットダウン</em></strong>
+<strong><em>(Professional)</em></strong></td>
+<td style="border:1px solid black;">Administrators
+Backup Operators
+Power Users</td>
+<td style="border:1px solid black;">Administrators
+Backup Operators
+Power Users</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>ファイルとその他のオブジェクトの所有権の取得</em></strong></p>
-<p><strong><em>(ドメイン コントローラ – ドメイン セキュリティ ポリシー内)</em></strong></p></td>
-<td style="border:1px solid black;"><p>(未定義)</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>ファイルとその他のオブジェクトの所有権の取得</em></strong>
+<strong><em>(ドメイン コントローラ – ドメイン セキュリティ ポリシー内)</em></strong></td>
+<td style="border:1px solid black;">(未定義)</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 </tbody>
 </table>
@@ -1095,531 +1095,531 @@ Microsoft セキュリティ構成ツール セットの使い方に関する詳
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>セキュリティ オプション</p></th>
-<th><p>Professional</p></th>
-<th><p>Server</p></th>
-<th><p>DC</p></th>
-<th><p>必須</p></th>
-<th><p>推奨</p></th>
+<th>セキュリティ オプション</th>
+<th>Professional</th>
+<th>Server</th>
+<th>DC</th>
+<th>必須</th>
+<th>推奨</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>匿名接続の追加を制限する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> 匿名ユーザーが SAM アカウントおよび共有を列挙できないようにします。</p></td>
+<td style="border:1px solid black;"><strong><em>匿名接続の追加を制限する</em></strong>
+<strong>セキュリティの目的:</strong> 匿名ユーザーが SAM アカウントおよび共有を列挙できないようにします。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>サーバー オペレータがタスクのスケジュールを割り当てるのを許可する (ドメイン コントローラのみ)</em></strong></p>
-<p><strong>セキュリティの目的:</strong> Server Operators が AT スケジュール機能を用いてジョブを作成することを許すかどうかを決定します。既定では、AT スケジュール機能を用いてジョブを作成することができるのは、管理者だけです。このセキュリティ ポリシーの設定を有効にすると、Administrators としてのアクセス許可を与えずに、Server Operators グループのメンバが AT スケジュール機能を用いてドメイン コントローラ上のジョブを作成できるようになります。</p>
-<p><strong>手順:</strong> この機能を有効にしてはいけません。AT スケジュール機能は評価された構成の一部ではありません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>サーバー オペレータがタスクのスケジュールを割り当てるのを許可する (ドメイン コントローラのみ)</em></strong>
+<strong>セキュリティの目的:</strong> Server Operators が AT スケジュール機能を用いてジョブを作成することを許すかどうかを決定します。既定では、AT スケジュール機能を用いてジョブを作成することができるのは、管理者だけです。このセキュリティ ポリシーの設定を有効にすると、Administrators としてのアクセス許可を与えずに、Server Operators グループのメンバが AT スケジュール機能を用いてドメイン コントローラ上のジョブを作成できるようになります。
+<strong>手順:</strong> この機能を有効にしてはいけません。AT スケジュール機能は評価された構成の一部ではありません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>ログオン抜きのシャットダウンを無効にする</em></strong></p>
-<p><strong>セキュリティの目的:</strong> 先にシステムの認証を受けないでコンピュータをシャットダウンできないようにします。</p></td>
+<td style="border:1px solid black;"><strong><em>ログオン抜きのシャットダウンを無効にする</em></strong>
+<strong>セキュリティの目的:</strong> 先にシステムの認証を受けないでコンピュータをシャットダウンできないようにします。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>リムーバブル NTFS メディアの取り出しを制限する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> 権限のある管理者にのみ、コンピュータからメディアを取り出すことを許可することにより、リムーバブル メディアに収められているデータに関する ACL 設定の整合性を保証します。</p></td>
+<td style="border:1px solid black;"><strong><em>リムーバブル NTFS メディアの取り出しを制限する</em></strong>
+<strong>セキュリティの目的:</strong> 権限のある管理者にのみ、コンピュータからメディアを取り出すことを許可することにより、リムーバブル メディアに収められているデータに関する ACL 設定の整合性を保証します。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>セッションを切断する前に、ある一定のアイドル時間を必要とする</em></strong></p>
-<p><strong>セキュリティの目的:</strong> サーバー メッセージ ブロック (SMB) セッションにおいて、アイドル状態が何分間続いたらセッションを切断するかを決定します。管理者はこのポリシーを使用して、非アクティブな SMB セッションをいつ切断するかを制御することができます。クライアントのアクティビティが再開された場合には、セッションは自動的に再確立されます。ローカル コンピュータ ポリシーには、サーバーに関するこのポリシーの既定値は 15 分と定義されています。ワークステーションにはこのポリシーは定義されていません。このポリシーの値が 0 に設定されている場合、アイドルなセッションを、合理的に可能な限り、早急に切断することを意味します。</p>
-<p><strong>手順:</strong> 既定の設定のままにしておきます。</p></td>
+<td style="border:1px solid black;"><strong><em>セッションを切断する前に、ある一定のアイドル時間を必要とする</em></strong>
+<strong>セキュリティの目的:</strong> サーバー メッセージ ブロック (SMB) セッションにおいて、アイドル状態が何分間続いたらセッションを切断するかを決定します。管理者はこのポリシーを使用して、非アクティブな SMB セッションをいつ切断するかを制御することができます。クライアントのアクティビティが再開された場合には、セッションは自動的に再確立されます。ローカル コンピュータ ポリシーには、サーバーに関するこのポリシーの既定値は 15 分と定義されています。ワークステーションにはこのポリシーは定義されていません。このポリシーの値が 0 に設定されている場合、アイドルなセッションを、合理的に可能な限り、早急に切断することを意味します。
+<strong>手順:</strong> 既定の設定のままにしておきます。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>グローバル システム オブジェクトへのアクセスを監査する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> グローバル システム オブジェクトへのアクセスを監査できるようにします。このポリシーを有効にすると、ミューテックス、イベント、セマフォ、および DOS デバイスのようなシステム オブジェクトが既定のシステム アクセス制御リスト (SACL) と共に作成されます。オブジェクト アクセスの監査に関する監査ポリシーも有効に設定されていると、これらのシステム オブジェクトへのアクセスが監査されます。</p></td>
+<td style="border:1px solid black;"><strong><em>グローバル システム オブジェクトへのアクセスを監査する</em></strong>
+<strong>セキュリティの目的:</strong> グローバル システム オブジェクトへのアクセスを監査できるようにします。このポリシーを有効にすると、ミューテックス、イベント、セマフォ、および DOS デバイスのようなシステム オブジェクトが既定のシステム アクセス制御リスト (SACL) と共に作成されます。オブジェクト アクセスの監査に関する監査ポリシーも有効に設定されていると、これらのシステム オブジェクトへのアクセスが監査されます。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>バックアップと復元の特権の使用を監査する</em>セキュリティの目的: [ファイルとディレクトリのバックアップ]</strong>または <strong>[ファイルとディレクトリの復元]</strong> の特権が使用されるたびに、監査イベントを記録できるようにします。既定では、バックアップと復元の特権の使用は監査の対象外です。<strong>[特権使用の監査]</strong>に関する監査ポリシーが有効であり、このセキュリティ オプションも設定されている場合に、バックアップと復元の特権の使用が監査されます。<strong>手順:</strong></p>
+<td style="border:1px solid black;"><strong><em>バックアップと復元の特権の使用を監査する</em>セキュリティの目的: [ファイルとディレクトリのバックアップ]</strong>または <strong>[ファイルとディレクトリの復元]</strong> の特権が使用されるたびに、監査イベントを記録できるようにします。既定では、バックアップと復元の特権の使用は監査の対象外です。<strong>[特権使用の監査]</strong>に関する監査ポリシーが有効であり、このセキュリティ オプションも設定されている場合に、バックアップと復元の特権の使用が監査されます。<strong>手順:</strong>
 <ol>
-<li><p>右側の詳細ペイン内の <strong>[バックアップと復元の特権の使用を監査する]</strong> をダブルクリックします。</p></li>
-<li><p>ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</p></li>
-<li><p><strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。</p></li>
+<li>右側の詳細ペイン内の <strong>[バックアップと復元の特権の使用を監査する]</strong> をダブルクリックします。</li>
+<li>ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</li>
+<li><strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。</li>
 </ol>
-<p><strong>注意</strong> : 評価された構成においては、これらのオブジェクトは監査可能でなければなりません。しかし、監査を実施することを強制はされません。これらのオブジェクトを監査するためには、管理者がこのオプションを設定する必要があります。この設定を行うと、大量の監査情報が生成されます。したがって、監査ログを定期的にレビュー、アーカイブ、およびクリアする厳格な監査管理プロセスが用意されている場合にのみ、このオプションを有効にすべきです。ログに記録するイベント数の増大に備えて、最大ログ サイズも編集すべきです。</p></td>
+<strong>注意</strong> : 評価された構成においては、これらのオブジェクトは監査可能でなければなりません。しかし、監査を実施することを強制はされません。これらのオブジェクトを監査するためには、管理者がこのオプションを設定する必要があります。この設定を行うと、大量の監査情報が生成されます。したがって、監査ログを定期的にレビュー、アーカイブ、およびクリアする厳格な監査管理プロセスが用意されている場合にのみ、このオプションを有効にすべきです。ログに記録するイベント数の増大に備えて、最大ログ サイズも編集すべきです。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>ログオン時間を経過した場合は自動的にユーザーをログオフする</em></strong></p>
-<p><strong>セキュリティの目的:</strong> ユーザーが許可されている時間以上にログオンしたままでいるときに、そのユーザーをネットワークから強制的にログオフさせます。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>ログオン時間を経過した場合は自動的にユーザーをログオフする</em></strong>
+<strong>セキュリティの目的:</strong> ユーザーが許可されている時間以上にログオンしたままでいるときに、そのユーザーをネットワークから強制的にログオフさせます。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>ログオン時間が時間切れになった場合、自動的にユーザーをログオフする (ローカル)</em></strong></p>
-<p><strong>セキュリティの目的:</strong> ユーザーが許されている時間以上にログオンしたままでいるときに、そのユーザーをローカル コンピュータから強制的にログオフさせます。</p>
-<p><strong>手順:</strong></p>
-<p>右側の詳細ペイン内の <strong>[</strong><em>ログオン時間が時間切れになった場合、自動的にユーザーをログオフする (ローカル)</em>] をダブルクリックします。</p>
-<p>ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</p>
-<p><strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。</p></td>
+<td style="border:1px solid black;"><strong><em>ログオン時間が時間切れになった場合、自動的にユーザーをログオフする (ローカル)</em></strong>
+<strong>セキュリティの目的:</strong> ユーザーが許されている時間以上にログオンしたままでいるときに、そのユーザーをローカル コンピュータから強制的にログオフさせます。
+<strong>手順:</strong>
+右側の詳細ペイン内の <strong>[</strong><em>ログオン時間が時間切れになった場合、自動的にユーザーをログオフする (ローカル)</em>] をダブルクリックします。
+ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。
+<strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>システムのシャットダウン時に仮想メモリのページ ファイルをクリアする</em></strong></p>
-<p><strong>セキュリティの目的:</strong> システムがシャットダウンされたときに、仮想メモリのページ ファイルを削除します。ユーザーが次回にログインするときに、ページファイルは再初期化されます。この目的は、ページファイル内に残っている情報が、次のユーザーがコンピュータにログオンしたときに利用できないようにすることです。</p></td>
+<td style="border:1px solid black;"><strong><em>システムのシャットダウン時に仮想メモリのページ ファイルをクリアする</em></strong>
+<strong>セキュリティの目的:</strong> システムがシャットダウンされたときに、仮想メモリのページ ファイルを削除します。ユーザーが次回にログインするときに、ページファイルは再初期化されます。この目的は、ページファイル内に残っている情報が、次のユーザーがコンピュータにログオンしたときに利用できないようにすることです。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>常にクライアント側の通信にデジタル署名を行う</em></strong></p>
-<p><strong>セキュリティの目的:</strong> クライアント側の通信に常にデジタル署名を行うかどうかを決定します。Windows 2000 のサーバー メッセージ ブロック (SMB) 認証プロトコルでは、相互認証およびメッセージ認証をサポートしています。前者は「man-in-the-middle」攻撃を排除し、後者はアクティブ メッセージ攻撃を防止する働きをします。各 SMB にデジタル署名を付し、それをクライアントとサーバーの両方で検証することにより、この認証が行われます。</p>
-<p>このオプションを有効にすると、Windows 2000 SMB クライアントは SMB パケットに署名する必要があります。このオプションを無効にした場合は、SMB クライアントがパケットに署名する必要はありません。このポリシーは既定では無効にされています。評価された構成に関しては、このポリシー オプションを無効にし、次のセキュリティ オプションの <strong>[可能な場合、クライアントの通信にデジタル署名を行う]</strong> を有効にすることができます。評価された構成の運用環境は同じ要件に合わせてすべてのコンピュータが構成されている閉じたネットワークです。したがって、通信には SMB 署名が用いられます (下の注意を参照してください)。</p></td>
+<td style="border:1px solid black;"><strong><em>常にクライアント側の通信にデジタル署名を行う</em></strong>
+<strong>セキュリティの目的:</strong> クライアント側の通信に常にデジタル署名を行うかどうかを決定します。Windows 2000 のサーバー メッセージ ブロック (SMB) 認証プロトコルでは、相互認証およびメッセージ認証をサポートしています。前者は「man-in-the-middle」攻撃を排除し、後者はアクティブ メッセージ攻撃を防止する働きをします。各 SMB にデジタル署名を付し、それをクライアントとサーバーの両方で検証することにより、この認証が行われます。
+このオプションを有効にすると、Windows 2000 SMB クライアントは SMB パケットに署名する必要があります。このオプションを無効にした場合は、SMB クライアントがパケットに署名する必要はありません。このポリシーは既定では無効にされています。評価された構成に関しては、このポリシー オプションを無効にし、次のセキュリティ オプションの <strong>[可能な場合、クライアントの通信にデジタル署名を行う]</strong> を有効にすることができます。評価された構成の運用環境は同じ要件に合わせてすべてのコンピュータが構成されている閉じたネットワークです。したがって、通信には SMB 署名が用いられます (下の注意を参照してください)。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>可能な場合、クライアントの通信にデジタル署名を行う</em></strong></p>
-<p><strong>セキュリティの目的:</strong> このポリシーを有効にすると、SMB パケット署名を行うことが有効または必要となっている SMB サーバーと通信するときに、Windows 2000 のサーバー メッセージ ブロック (SMB) クライアントは SMB パケット署名を行います。詳細については、「常にクライアント側の通信にデジタル署名を行う」を参照してください。</p></td>
+<td style="border:1px solid black;"><strong><em>可能な場合、クライアントの通信にデジタル署名を行う</em></strong>
+<strong>セキュリティの目的:</strong> このポリシーを有効にすると、SMB パケット署名を行うことが有効または必要となっている SMB サーバーと通信するときに、Windows 2000 のサーバー メッセージ ブロック (SMB) クライアントは SMB パケット署名を行います。詳細については、「常にクライアント側の通信にデジタル署名を行う」を参照してください。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>常にサーバーの通信にデジタル署名を行う</em></strong></p>
-<p><strong>セキュリティの目的:</strong> このポリシーを有効にすると、Windows 2000 のサーバー メッセージ ブロック (SMB) サーバーは SMB パケットに署名する必要があります。このポリシーは既定では無効にされています。詳細については、「常にクライアント側の通信にデジタル署名を行う」を参照してください。</p></td>
+<td style="border:1px solid black;"><strong><em>常にサーバーの通信にデジタル署名を行う</em></strong>
+<strong>セキュリティの目的:</strong> このポリシーを有効にすると、Windows 2000 のサーバー メッセージ ブロック (SMB) サーバーは SMB パケットに署名する必要があります。このポリシーは既定では無効にされています。詳細については、「常にクライアント側の通信にデジタル署名を行う」を参照してください。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>可能な場合、サーバーの通信にデジタル署名を行う</em></strong></p>
-<p><strong>セキュリティの目的:</strong> このポリシーを有効にすると、Windows 2000 のサーバー メッセージ ブロック (SMB) サーバーは SMB パケットに署名する必要があります。ローカル コンピュータ ポリシーにおいては、ワークステーションおよびサーバー プラットフォームに関しては、このポリシーは既定では無効にされています。ドメイン コントローラに関しては、このポリシーは既定では有効にされています。詳細については、「常にクライアント側の通信にデジタル署名を行う」を参照してください。</p></td>
+<td style="border:1px solid black;"><strong><em>可能な場合、サーバーの通信にデジタル署名を行う</em></strong>
+<strong>セキュリティの目的:</strong> このポリシーを有効にすると、Windows 2000 のサーバー メッセージ ブロック (SMB) サーバーは SMB パケットに署名する必要があります。ローカル コンピュータ ポリシーにおいては、ワークステーションおよびサーバー プラットフォームに関しては、このポリシーは既定では無効にされています。ドメイン コントローラに関しては、このポリシーは既定では有効にされています。詳細については、「常にクライアント側の通信にデジタル署名を行う」を参照してください。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>ログオンに Ctrl+Alt+Del を必要としない</em></strong></p>
-<p><strong>セキュリティの目的: このオプションを有効にしてはいけません。</strong>このオプションを有効にすると、信頼されたパスの仕組みが無効になります。信頼されたパスの仕組みの目的は、ユーザーのログイン セッションがスプーフィングされることを防止することにあります。Windows 2000 コンピュータ上ではこのオプションは既定では無効に設定されています。ただし、ポリシー ツールの中には未定義と表示するもがあります。</p>
-<p><strong>手順:</strong> 右側の詳細ペイン内の <strong>[ログオンに Ctrl+Alt+Del を必要としない]</strong>オプションが<strong>未定義または無効に設定</strong>されていることを確認します。</p></td>
+<td style="border:1px solid black;"><strong><em>ログオンに Ctrl+Alt+Del を必要としない</em></strong>
+<strong>セキュリティの目的: このオプションを有効にしてはいけません。</strong>このオプションを有効にすると、信頼されたパスの仕組みが無効になります。信頼されたパスの仕組みの目的は、ユーザーのログイン セッションがスプーフィングされることを防止することにあります。Windows 2000 コンピュータ上ではこのオプションは既定では無効に設定されています。ただし、ポリシー ツールの中には未定義と表示するもがあります。
+<strong>手順:</strong> 右側の詳細ペイン内の <strong>[ログオンに Ctrl+Alt+Del を必要としない]</strong>オプションが<strong>未定義または無効に設定</strong>されていることを確認します。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>ログオン画面に最後のユーザー名を表示しない</em></strong></p>
-<p><strong>セキュリティの目的:</strong> 既定では、コンピュータに前回ログオンしたユーザーのユーザー ID が Windows 2000 のログイン インターフェイス画面に表示されます。このオプションを有効にすると、ログイン セッションにおいて、前回ログインしたユーザーの名前が削除されます。その結果、ローカルでコンピュータに入りこもうとする侵入者は、パスワードだけではなく正しいユーザー ID も推測しなければならなくなります。</p></td>
+<td style="border:1px solid black;"><strong><em>ログオン画面に最後のユーザー名を表示しない</em></strong>
+<strong>セキュリティの目的:</strong> 既定では、コンピュータに前回ログオンしたユーザーのユーザー ID が Windows 2000 のログイン インターフェイス画面に表示されます。このオプションを有効にすると、ログイン セッションにおいて、前回ログインしたユーザーの名前が削除されます。その結果、ローカルでコンピュータに入りこもうとする侵入者は、パスワードだけではなく正しいユーザー ID も推測しなければならなくなります。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>LAN Manager 認証レベル</em></strong></p>
-<p><strong>セキュリティの目的:</strong> このセキュリティ オプションはWindows のチャレンジ/レスポンス認証レベルを設定するために使用します。このセキュリティ オプションにより、ネットワーク ログオンに使用するチャレンジ/レスポンス認証プロトコルが決まります。この選択により、クライアントによって使用される認証プロトコルのレベル、ネゴシエートされるセッションのセキュリティのレベル、および以下の各選択オプションで受け入れられる認証のレベルが影響を受けます。</p>
+<td style="border:1px solid black;"><strong><em>LAN Manager 認証レベル</em></strong>
+<strong>セキュリティの目的:</strong> このセキュリティ オプションはWindows のチャレンジ/レスポンス認証レベルを設定するために使用します。このセキュリティ オプションにより、ネットワーク ログオンに使用するチャレンジ/レスポンス認証プロトコルが決まります。この選択により、クライアントによって使用される認証プロトコルのレベル、ネゴシエートされるセッションのセキュリティのレベル、および以下の各選択オプションで受け入れられる認証のレベルが影響を受けます。
 <ul>
-<li><p><strong>LM NTLM 応答の送信</strong>: クライアントは LM および NTLM 認証を使用します。NTLMv2 セッション セキュリティを使用することはありません。DC は LM、NTLM、および NTLMv2 認証を受け付けます。</p></li>
-<li><p><strong>ネゴシエートされた場合 LM NTLM を送信 - NTLMv2 セッション セキュリティを使用する</strong>: クライアントは LM および NTLM 認証を使用し、サーバーでサポートされている場合に NTLMv2 セッション セキュリティを使用します。DC は LM、NTLM、および NTLMv2 認証を受け付けます。</p></li>
-<li><p><strong>NTLM 応答のみ送信する</strong>: クライアントは NTLM 認証のみを使用し、サーバーでサポートされている場合に NTLMv2 セッション セキュリティを使用します。DC は LM、NTLM、および NTLMv2 認証を受け付けます。</p></li>
-<li><p><strong>NTLMv2 応答のみ送信する</strong>: クライアントは NTLMv2 認証のみを使用し、サーバーでサポートされている場合に NTLMv2 セッション セキュリティを使用します。DC は LM、NTLM、および NTLMv2 認証を受け付けます。</p></li>
-<li><p><strong>NTLMv2 応答のみ送信\\LM を拒否する</strong>: クライアントは NTLMv2 認証のみを使用し、サーバーでサポートされている場合に NTLMv2 セッション セキュリティを使用します。DC は LM を拒否します (NTLM および NTLMv2 認証のみを受け付けます)。</p></li>
-<li><p><strong>NTLMv2 応答のみ送信\\LM と NTLM を拒否する</strong>: クライアントは NTLMv2 認証のみを使用し、サーバーでサポートされている場合に NTLMv2 セッション セキュリティを使用します。DC は LM および NTLM を拒否します (NTLMv2 認証のみを受け付けます)。</p></li>
+<li><strong>LM NTLM 応答の送信</strong>: クライアントは LM および NTLM 認証を使用します。NTLMv2 セッション セキュリティを使用することはありません。DC は LM、NTLM、および NTLMv2 認証を受け付けます。</li>
+<li><strong>ネゴシエートされた場合 LM NTLM を送信 - NTLMv2 セッション セキュリティを使用する</strong>: クライアントは LM および NTLM 認証を使用し、サーバーでサポートされている場合に NTLMv2 セッション セキュリティを使用します。DC は LM、NTLM、および NTLMv2 認証を受け付けます。</li>
+<li><strong>NTLM 応答のみ送信する</strong>: クライアントは NTLM 認証のみを使用し、サーバーでサポートされている場合に NTLMv2 セッション セキュリティを使用します。DC は LM、NTLM、および NTLMv2 認証を受け付けます。</li>
+<li><strong>NTLMv2 応答のみ送信する</strong>: クライアントは NTLMv2 認証のみを使用し、サーバーでサポートされている場合に NTLMv2 セッション セキュリティを使用します。DC は LM、NTLM、および NTLMv2 認証を受け付けます。</li>
+<li><strong>NTLMv2 応答のみ送信\\LM を拒否する</strong>: クライアントは NTLMv2 認証のみを使用し、サーバーでサポートされている場合に NTLMv2 セッション セキュリティを使用します。DC は LM を拒否します (NTLM および NTLMv2 認証のみを受け付けます)。</li>
+<li><strong>NTLMv2 応答のみ送信\\LM と NTLM を拒否する</strong>: クライアントは NTLMv2 認証のみを使用し、サーバーでサポートされている場合に NTLMv2 セッション セキュリティを使用します。DC は LM および NTLM を拒否します (NTLMv2 認証のみを受け付けます)。</li>
 </ul>
-<p>サーバーの既定の設定は <strong>LM NTLM 応答の送信</strong>です。</p></td>
+サーバーの既定の設定は <strong>LM NTLM 応答の送信</strong>です。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>ログオン画面に警告を表示する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> タイトルと警告の付いたログオン見出しを表示するように、対話型のログオン画面を構成します。</p></td>
+<td style="border:1px solid black;"><strong><em>ログオン画面に警告を表示する</em></strong>
+<strong>セキュリティの目的:</strong> タイトルと警告の付いたログオン見出しを表示するように、対話型のログオン画面を構成します。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>ログオン情報をキャッシュ化しない</em></strong></p>
-<p><strong>セキュリティの目的:</strong> Windows 2000 にはログオン情報をキャッシュ化する機能が備わっています。ログオン時にドメイン コントローラが見つからず、ユーザーが過去にシステムにログオンしたことがある場合、それらの資格情報を使用してログオンすることができます。CachedLogonsCount レジストリ値は、Windows 2000 によって何件のユーザー アカウント エントリがローカル コンピュータのログオン キャッシュに保存されるかを示します。このエントリの値が 0 である場合、ユーザー アカウントに関するデータはログオン キャッシュに保存されません。その場合、ドメイン コントローラが利用できず、ユーザーのアカウント情報が保存されていないコンピュータにユーザーがログオンしようとすると、次のメッセージが表示されます。</p>
-<p><strong>ログオンできません。ログオン先ドメイン ＜ドメイン名＞ は利用できません。</strong></p>
-<p>Administrator がユーザーのドメイン アカウントを無効にしても、ネット ケーブルを外すことにより、ユーザーは依然としてキャッシュを使用してログオンすることができます。これを防止するために、管理者はログオン情報のキャッシュ化を無効にすべきです。そうすると、ログオンにかかる時間が少し長くなりますが、ハッカーがキャッシュ メモリからログオン情報を盗用することを防止することができます。</p></td>
+<td style="border:1px solid black;"><strong><em>ログオン情報をキャッシュ化しない</em></strong>
+<strong>セキュリティの目的:</strong> Windows 2000 にはログオン情報をキャッシュ化する機能が備わっています。ログオン時にドメイン コントローラが見つからず、ユーザーが過去にシステムにログオンしたことがある場合、それらの資格情報を使用してログオンすることができます。CachedLogonsCount レジストリ値は、Windows 2000 によって何件のユーザー アカウント エントリがローカル コンピュータのログオン キャッシュに保存されるかを示します。このエントリの値が 0 である場合、ユーザー アカウントに関するデータはログオン キャッシュに保存されません。その場合、ドメイン コントローラが利用できず、ユーザーのアカウント情報が保存されていないコンピュータにユーザーがログオンしようとすると、次のメッセージが表示されます。
+<strong>ログオンできません。ログオン先ドメイン ＜ドメイン名＞ は利用できません。</strong>
+Administrator がユーザーのドメイン アカウントを無効にしても、ネット ケーブルを外すことにより、ユーザーは依然としてキャッシュを使用してログオンすることができます。これを防止するために、管理者はログオン情報のキャッシュ化を無効にすべきです。そうすると、ログオンにかかる時間が少し長くなりますが、ハッカーがキャッシュ メモリからログオン情報を盗用することを防止することができます。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>コンピュータ アカウント パスワードのシステム保守をしない</em></strong></p>
-<p><strong>セキュリティの目的:</strong> コンピュータ アカウント パスワードを毎週リセットするか否かを決定します。Windows 2000 のセキュリティの一環として、<strong><em>コンピュータ アカウント</em></strong> パスワードは 7 日ごとに自動的に変更されます。このポリシーを有効にすると、パスワードが毎週変更されることはなくなります。このポリシーを無効にすると、コンピュータ アカウントの新しいパスワードが毎週生成されます。既定ではこのポリシーは無効に設定されています。</p>
-<p><strong>手順:</strong> このポリシーを有効にしてはなりません。ローカルポリシーは<strong>無効</strong>、ドメイン ポリシーは<strong>無効</strong>に設定されているかまたは<strong>未定義</strong>であることを確認します。</p></td>
+<td style="border:1px solid black;"><strong><em>コンピュータ アカウント パスワードのシステム保守をしない</em></strong>
+<strong>セキュリティの目的:</strong> コンピュータ アカウント パスワードを毎週リセットするか否かを決定します。Windows 2000 のセキュリティの一環として、<strong><em>コンピュータ アカウント</em></strong> パスワードは 7 日ごとに自動的に変更されます。このポリシーを有効にすると、パスワードが毎週変更されることはなくなります。このポリシーを無効にすると、コンピュータ アカウントの新しいパスワードが毎週生成されます。既定ではこのポリシーは無効に設定されています。
+<strong>手順:</strong> このポリシーを有効にしてはなりません。ローカルポリシーは<strong>無効</strong>、ドメイン ポリシーは<strong>無効</strong>に設定されているかまたは<strong>未定義</strong>であることを確認します。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>ユーザーがプリンタ ドライバをインストールできないようにする</em></strong></p>
-<p><strong>セキュリティの目的:</strong> Users グループのメンバがプリンタ ドライバをインストールできないようにするどうかを決定します。このポリシーを有効にすると、ユーザーがローカル コンピュータにプリンタ ドライバをインストールすることはできなくなります。したがって、ローカル コンピュータ上にデバイス ドライバが存在しないときに、ユーザーが「プリンタを追加」することはできません。このポリシーを無効にすると、Users グループのメンバがコンピュータ上にプリンタ ドライバをインストールすることができます。既定では、この設定はサーバー上では有効に、ワークステーション上では無効になっています。</p></td>
+<td style="border:1px solid black;"><strong><em>ユーザーがプリンタ ドライバをインストールできないようにする</em></strong>
+<strong>セキュリティの目的:</strong> Users グループのメンバがプリンタ ドライバをインストールできないようにするどうかを決定します。このポリシーを有効にすると、ユーザーがローカル コンピュータにプリンタ ドライバをインストールすることはできなくなります。したがって、ローカル コンピュータ上にデバイス ドライバが存在しないときに、ユーザーが「プリンタを追加」することはできません。このポリシーを無効にすると、Users グループのメンバがコンピュータ上にプリンタ ドライバをインストールすることができます。既定では、この設定はサーバー上では有効に、ワークステーション上では無効になっています。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>パスワードが無効になる前にユーザーに変更を促す</em></strong></p>
-<p><strong>セキュリティの目的:</strong> ユーザーのパスワードの有効期限が切れる何日前にユーザーに警告するかを決定します。ユーザーに予告することにより、ユーザーは余裕を持って十分強力なパスワードを考案することができます。既定では、この値は 14 日に設定されています。</p>
-<p><strong>手順:</strong> なし。既定の設定は適切です。</p></td>
+<td style="border:1px solid black;"><strong><em>パスワードが無効になる前にユーザーに変更を促す</em></strong>
+<strong>セキュリティの目的:</strong> ユーザーのパスワードの有効期限が切れる何日前にユーザーに警告するかを決定します。ユーザーに予告することにより、ユーザーは余裕を持って十分強力なパスワードを考案することができます。既定では、この値は 14 日に設定されています。
+<strong>手順:</strong> なし。既定の設定は適切です。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>回復コンソール:</em></strong> <strong><em>自動管理ログオンを許可する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> 回復コンソールの既定の設定では、システムにアクセスするためには、Administrator アカウントのパスワードを入力する必要があります。このオプションを有効にすると、回復コンソールはパスワードを必要とせずに、自動的にシステムにログオンします。既定では、このオプションは無効に設定されています。ただし、ポリシー ツールの中にはこのオプションを未定義と表示するもがあります。</p>
-<p><strong>手順:</strong> このオプションを有効にしてはいけません。</p></td>
+<td style="border:1px solid black;"><strong><em>回復コンソール:</em></strong> <strong><em>自動管理ログオンを許可する</em></strong>
+<strong>セキュリティの目的:</strong> 回復コンソールの既定の設定では、システムにアクセスするためには、Administrator アカウントのパスワードを入力する必要があります。このオプションを有効にすると、回復コンソールはパスワードを必要とせずに、自動的にシステムにログオンします。既定では、このオプションは無効に設定されています。ただし、ポリシー ツールの中にはこのオプションを未定義と表示するもがあります。
+<strong>手順:</strong> このオプションを有効にしてはいけません。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>回復コンソール:</em></strong> <strong><em>すべてのドライブとフォルダに、フロッピーのコピーとアクセスを許可する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> このオプションを有効にすると、回復コンソールの SET コマンドを使用できるようになります。すると、回復コンソールの以下の環境変数を設定することが可能になります。</p>
+<td style="border:1px solid black;"><strong><em>回復コンソール:</em></strong> <strong><em>すべてのドライブとフォルダに、フロッピーのコピーとアクセスを許可する</em></strong>
+<strong>セキュリティの目的:</strong> このオプションを有効にすると、回復コンソールの SET コマンドを使用できるようになります。すると、回復コンソールの以下の環境変数を設定することが可能になります。
 <ul>
-<li><p><strong>AllowWildCards</strong> - 一部のコマンド (たとえば、DEL コマンド) にワイルドカードを使用できるようになります。</p></li>
-<li><p><strong>AllowAllPaths</strong> - コンピュータ上のすべてのファイルおよびフォルダにアクセスできるようになります。</p></li>
-<li><p><strong>AllowRemovableMedia</strong> - フロッピー ディスクのようなリムーバブル メディアにファイルをコピーできるようになります。</p></li>
-<li><p><strong>NoCopyPrompt</strong> - 既存のファイルに上書きするときに、確認のメッセージが表示されなくなります。</p></li>
+<li><strong>AllowWildCards</strong> - 一部のコマンド (たとえば、DEL コマンド) にワイルドカードを使用できるようになります。</li>
+<li><strong>AllowAllPaths</strong> - コンピュータ上のすべてのファイルおよびフォルダにアクセスできるようになります。</li>
+<li><strong>AllowRemovableMedia</strong> - フロッピー ディスクのようなリムーバブル メディアにファイルをコピーできるようになります。</li>
+<li><strong>NoCopyPrompt</strong> - 既存のファイルに上書きするときに、確認のメッセージが表示されなくなります。</li>
 </ul>
-<p>既定の設定では SET コマンドは無効であり、上記の環境変数はすべて無効になっています。ただし、ポリシー ツールの中にはこのオプションを未定義と表示するもがあります。</p>
-<p><strong>手順:</strong> このオプションを有効にしてはいけません。</p></td>
+既定の設定では SET コマンドは無効であり、上記の環境変数はすべて無効になっています。ただし、ポリシー ツールの中にはこのオプションを未定義と表示するもがあります。
+<strong>手順:</strong> このオプションを有効にしてはいけません。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>Administrator アカウント名の変更</em></strong></p>
-<p><strong>セキュリティの目的:</strong> Administrator アカウントのセキュリティ識別子 (SID) に関連する名前を変更するために使用します。この変更を行うと、ハッカーにパスワードだけではなく Administrator アカウントに関連したユーザー ID も推測させることになり、 Administrator アカウントが盗用される機会を減らすことができます。</p>
-<p><strong>手順:</strong></p>
-<p>右側の詳細ペイン内の <strong>[Administrator アカウント名の変更]</strong> をダブルクリックします。</p>
-<p>ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</p>
-<p>テキスト ボックスに Administrator アカウントの新しい名前を入力し、それから <strong>[OK]</strong> ボタンをクリックします。</p></td>
+<td style="border:1px solid black;"><strong><em>Administrator アカウント名の変更</em></strong>
+<strong>セキュリティの目的:</strong> Administrator アカウントのセキュリティ識別子 (SID) に関連する名前を変更するために使用します。この変更を行うと、ハッカーにパスワードだけではなく Administrator アカウントに関連したユーザー ID も推測させることになり、 Administrator アカウントが盗用される機会を減らすことができます。
+<strong>手順:</strong>
+右側の詳細ペイン内の <strong>[Administrator アカウント名の変更]</strong> をダブルクリックします。
+ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。
+テキスト ボックスに Administrator アカウントの新しい名前を入力し、それから <strong>[OK]</strong> ボタンをクリックします。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>Guest アカウント名の変更</em></strong></p>
-<p><strong>セキュリティの目的:</strong> Guest アカウントのセキュリティ識別子 (SID) に関連する名前を変更するために使用します。この変更を行うと、ハッカーにパスワードだけではなく Guest アカウントに関連したユーザー ID も推測させることになり、匿名で Guest アカウントが盗用される機会を減らすことができます。</p>
-<p><strong>手順:</strong></p>
-<p>右側の詳細ペイン内の <strong>[Guest アカウント名の変更]</strong> をダブルクリックします。</p>
-<p>ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</p>
-<p>テキスト ボックスに Guest アカウントの新しい名前を入力し、それから <strong>[OK]</strong> ボタンをクリックします。</p></td>
+<td style="border:1px solid black;"><strong><em>Guest アカウント名の変更</em></strong>
+<strong>セキュリティの目的:</strong> Guest アカウントのセキュリティ識別子 (SID) に関連する名前を変更するために使用します。この変更を行うと、ハッカーにパスワードだけではなく Guest アカウントに関連したユーザー ID も推測させることになり、匿名で Guest アカウントが盗用される機会を減らすことができます。
+<strong>手順:</strong>
+右側の詳細ペイン内の <strong>[Guest アカウント名の変更]</strong> をダブルクリックします。
+ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。
+テキスト ボックスに Guest アカウントの新しい名前を入力し、それから <strong>[OK]</strong> ボタンをクリックします。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>CD-ROM へのアクセスを、ローカル ログオン ユーザーだけに制限する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> ローカル ユーザーとリモート ユーザーの両方に同時に CD-ROM へのアクセスを許可するかどうかを決定します。このポリシーを有効にすると、対話型でログオンしたユーザーだけがリムーバブル CD-ROM メディアにアクセスできるようになります。このポリシーを無効にすると、ローカル ユーザーとリモート ユーザーが同時に CD-ROM にアクセスできるようになります。</p>
-<p><strong>手順:</strong></p>
-<p>右側の詳細ペイン内の <strong>[CD-ROM へのアクセスを、ローカル ログオン ユーザーだけに制限する]</strong> をダブルクリックします</p>
-<p>ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします</p>
-<p><strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。</p></td>
+<td style="border:1px solid black;"><strong><em>CD-ROM へのアクセスを、ローカル ログオン ユーザーだけに制限する</em></strong>
+<strong>セキュリティの目的:</strong> ローカル ユーザーとリモート ユーザーの両方に同時に CD-ROM へのアクセスを許可するかどうかを決定します。このポリシーを有効にすると、対話型でログオンしたユーザーだけがリムーバブル CD-ROM メディアにアクセスできるようになります。このポリシーを無効にすると、ローカル ユーザーとリモート ユーザーが同時に CD-ROM にアクセスできるようになります。
+<strong>手順:</strong>
+右側の詳細ペイン内の <strong>[CD-ROM へのアクセスを、ローカル ログオン ユーザーだけに制限する]</strong> をダブルクリックします
+ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします
+<strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>フロッピーへのアクセスを、ローカル ログオン ユーザーだけに制限する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> ローカル ユーザーとリモート ユーザーの両方に同時にリムーバブル フロッピー メディアへのアクセスを許すかどうかを決定します。このオプションを有効にすると、対話型でログオンしたユーザーだけがリムーバブル フロッピー メディアにアクセスできるようになります。対話型でログオンしたユーザーがだれもいない場合は、ネットワークを通じてフロッピー メディアを共有することができます。このオプションを無効にすると、ローカル ユーザーとリモート ユーザーが同時にフロッピー メディアにアクセスできるようになります。</p>
-<p><strong>手順:</strong></p>
-<p>右側の詳細ペイン内の <strong>[フロッピーへのアクセスを、ローカル ログオン ユーザーだけに制限する]</strong> をダブルクリックします</p>
-<p>ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</p>
-<p><strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。</p></td>
+<td style="border:1px solid black;"><strong><em>フロッピーへのアクセスを、ローカル ログオン ユーザーだけに制限する</em></strong>
+<strong>セキュリティの目的:</strong> ローカル ユーザーとリモート ユーザーの両方に同時にリムーバブル フロッピー メディアへのアクセスを許すかどうかを決定します。このオプションを有効にすると、対話型でログオンしたユーザーだけがリムーバブル フロッピー メディアにアクセスできるようになります。対話型でログオンしたユーザーがだれもいない場合は、ネットワークを通じてフロッピー メディアを共有することができます。このオプションを無効にすると、ローカル ユーザーとリモート ユーザーが同時にフロッピー メディアにアクセスできるようになります。
+<strong>手順:</strong>
+右側の詳細ペイン内の <strong>[フロッピーへのアクセスを、ローカル ログオン ユーザーだけに制限する]</strong> をダブルクリックします
+ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。
+<strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>セキュリティで保護されたチャネル: 常にセキュリティ チャネルのデータをデジタル的に暗号化または署名する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> セキュリティで保護されたチャネル データを常にデジタル的に暗号化または署名するかどうかを決定します。Windows 2000 システムをドメインに加えたときに、コンピュータ アカウントが作成されます。その後で、Windows 2000 システムを起動すると、コンピュータ アカウントのパスワードを使用して、属するドメインのドメイン コントローラとの間にセキュリティで保護されたチャネルが作成されます。セキュリティで保護されたチャネルを通じて送られる要求は認証され、パスワードのような機密情報は暗号化されます。しかし、チャネルの整合性はチェックされず、すべての情報が暗号化されるとは限りません。このポリシーを有効にすると、セキュリティで保護されたチャネルを通じ発信されるすべてのトラフィックは署名または暗号化されなければなりません。このポリシーを無効にすると、署名および暗号化についてドメイン コントローラとネゴシエートされます。既定では、このポリシーは無効に設定されています。</p>
-<p><strong>手順:</strong> 既定の設定を変更してはいけません。</p></td>
+<td style="border:1px solid black;"><strong><em>セキュリティで保護されたチャネル: 常にセキュリティ チャネルのデータをデジタル的に暗号化または署名する</em></strong>
+<strong>セキュリティの目的:</strong> セキュリティで保護されたチャネル データを常にデジタル的に暗号化または署名するかどうかを決定します。Windows 2000 システムをドメインに加えたときに、コンピュータ アカウントが作成されます。その後で、Windows 2000 システムを起動すると、コンピュータ アカウントのパスワードを使用して、属するドメインのドメイン コントローラとの間にセキュリティで保護されたチャネルが作成されます。セキュリティで保護されたチャネルを通じて送られる要求は認証され、パスワードのような機密情報は暗号化されます。しかし、チャネルの整合性はチェックされず、すべての情報が暗号化されるとは限りません。このポリシーを有効にすると、セキュリティで保護されたチャネルを通じ発信されるすべてのトラフィックは署名または暗号化されなければなりません。このポリシーを無効にすると、署名および暗号化についてドメイン コントローラとネゴシエートされます。既定では、このポリシーは無効に設定されています。
+<strong>手順:</strong> 既定の設定を変更してはいけません。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-</tr>
-<tr class="even">
-<td style="border:1px solid black;"><p><strong><em>セキュリティで保護されたチャネル: 可能な場合、セキュリティ チャネルのデータをデジタル的に暗号化または署名する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> セキュリティで保護されたチャネル データを常にデジタル的に暗号化または署名するかどうかを決定します。Windows 2000 システムをドメインに加えたときに、コンピュータ アカウントが作成されます。その後で、Windows 2000 システムを起動すると、コンピュータ アカウントのパスワードを使用して、属するドメインのドメイン コントローラとの間にセキュリティで保護されたチャネルが作成されます。セキュリティで保護されたチャネルを通じて送られる要求は認証され、パスワードのような機密情報は暗号化されます。しかし、チャネルの整合性はチェックされず、すべての情報が暗号化されるとは限りません。このポリシーを有効にすると、セキュリティで保護されたチャネルを通じて発信されるすべてのトラフィックは暗号化されなければなりません。このポリシーを無効にすると、セキュリティで保護されたチャネルを通じて発信されるトラフィックは暗号化されません。既定では、このオプションは有効に設定されています。</p>
-<p><strong>手順:</strong> 既定の設定を変更してはいけません。</p></td>
-<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-</tr>
-<tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>セキュリティで保護されたチャネル: 可能な場合、セキュリティ チャネルのデータをデジタル的に署名する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> セキュリティで保護されたチャネル データを常にデジタル的に暗号化または署名するかどうかを決定します。Windows 2000 システムをドメインに加えたときに、コンピュータ アカウントが作成されます。その後で、Windows 2000 システムを起動すると、コンピュータ アカウントのパスワードを使用して、属するドメインのドメイン コントローラとの間にセキュリティで保護されたチャネルが作成されます。セキュリティで保護されたチャネルを通じて送られる要求は認証され、パスワードのような機密情報は暗号化されます。しかし、チャネルの整合性はチェックされず、すべての情報が暗号化されるとは限りません。このポリシーを有効にすると、セキュリティで保護されたチャネルを通じて発信されるすべてのトラフィックは署名されなければなりません。このポリシーを無効にすると、セキュリティで保護されたチャネルを通じて発信されるトラフィックは署名されません。既定では、このオプションは有効に設定されています。</p>
-<p><strong>手順:</strong> 既定の設定を変更してはいけません。</p></td>
-<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>セキュリティで保護されたチャネル: 強力な (Windows 2000 かそれ以降のバージョン) セッション キーを必要とする</em></strong></p>
-<p><strong>セキュリティの目的:</strong> このポリシーを有効にすると、セキュリティで保護されたチャネルを通じて発信されるすべてのトラフィックは強力な (Windows 2000 かそれ以降のバージョン) 暗号化キーを必要とします。このポリシーを無効にすると、キーの強度についてドメイン コントローラとネゴシエートされます。このオプションを有効にするのは、信頼される側のすべてのドメイン内のすべてのドメイン コントローラで強力なキーがサポートされている場合のみとすべきです。既定では、このポリシーは無効に設定されています。</p>
-<p><strong>手順:</strong> 既定の設定を変更してはいけません。</p></td>
+<td style="border:1px solid black;"><strong><em>セキュリティで保護されたチャネル: 可能な場合、セキュリティ チャネルのデータをデジタル的に暗号化または署名する</em></strong>
+<strong>セキュリティの目的:</strong> セキュリティで保護されたチャネル データを常にデジタル的に暗号化または署名するかどうかを決定します。Windows 2000 システムをドメインに加えたときに、コンピュータ アカウントが作成されます。その後で、Windows 2000 システムを起動すると、コンピュータ アカウントのパスワードを使用して、属するドメインのドメイン コントローラとの間にセキュリティで保護されたチャネルが作成されます。セキュリティで保護されたチャネルを通じて送られる要求は認証され、パスワードのような機密情報は暗号化されます。しかし、チャネルの整合性はチェックされず、すべての情報が暗号化されるとは限りません。このポリシーを有効にすると、セキュリティで保護されたチャネルを通じて発信されるすべてのトラフィックは暗号化されなければなりません。このポリシーを無効にすると、セキュリティで保護されたチャネルを通じて発信されるトラフィックは暗号化されません。既定では、このオプションは有効に設定されています。
+<strong>手順:</strong> 既定の設定を変更してはいけません。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>サード パーティ製の SMB サーバーへ接続するためのパスワードを、暗号化しないで送信する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> このポリシーを有効にすると、サーバー メッセージ ブロック (SMB) リダイレクタは、認証中にパスワードを暗号化することがサポートされていない非マイクロソフト SMB サーバーにクリアテキストのパスワードを送信できるようになります。既定では、このポリシーは無効に設定されています。</p>
-<p><strong>手順:</strong> 既定の設定を変更してはいけません。</p></td>
+<td style="border:1px solid black;"><strong><em>セキュリティで保護されたチャネル: 可能な場合、セキュリティ チャネルのデータをデジタル的に署名する</em></strong>
+<strong>セキュリティの目的:</strong> セキュリティで保護されたチャネル データを常にデジタル的に暗号化または署名するかどうかを決定します。Windows 2000 システムをドメインに加えたときに、コンピュータ アカウントが作成されます。その後で、Windows 2000 システムを起動すると、コンピュータ アカウントのパスワードを使用して、属するドメインのドメイン コントローラとの間にセキュリティで保護されたチャネルが作成されます。セキュリティで保護されたチャネルを通じて送られる要求は認証され、パスワードのような機密情報は暗号化されます。しかし、チャネルの整合性はチェックされず、すべての情報が暗号化されるとは限りません。このポリシーを有効にすると、セキュリティで保護されたチャネルを通じて発信されるすべてのトラフィックは署名されなければなりません。このポリシーを無効にすると、セキュリティで保護されたチャネルを通じて発信されるトラフィックは署名されません。既定では、このオプションは有効に設定されています。
+<strong>手順:</strong> 既定の設定を変更してはいけません。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>セキュリティ監査のログを記録できない場合は直ちにシステムをシャットダウンする</em></strong></p>
-<p><strong>セキュリティの目的:</strong> セキュリティ イベントのログを記録できない場合に、システムを直ちにシャットダウンするかどうかを決定します。このポリシーを有効にすると、何らかの理由でセキュリティ監査のログを記録できない場合、システムは停止されます。通常、イベントのログを記録できないのは、セキュリティ監査ログがいっぱいになり、指定されているセキュリティ ログの保存方法が <strong>[イベントを上書きしない]</strong> または <strong>[指定した日数を過ぎたら上書きする]</strong> のどちらかである場合です。セキュリティ ログがいっぱいになり、既存のエントリを上書きすることができず、このセキュリティ オプションが有効であると、次のブルー スクリーンのエラーが表示されます。</p>
-<p><strong>STOP: C0000244 {Audit Failed}</strong></p>
-<p><strong>An attempt to generate a security audit failed.</strong></p>
-<p>回復するためには、管理者がログオンし、必要があればログのアーカイブを取り、ログをクリアし、このオプションを適切にリセットする必要があります。既定では、このポリシーは無効に設定されています。</p>
-<p><strong>手順:</strong></p>
-<p>右側の詳細ペイン内の <strong>[セキュリティ監査のログを記録できない場合は直ちにシステムをシャットダウンする]</strong> をダブルクリックします。</p>
-<p>ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</p>
-<p><strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。</p></td>
+<td style="border:1px solid black;"><strong><em>セキュリティで保護されたチャネル: 強力な (Windows 2000 かそれ以降のバージョン) セッション キーを必要とする</em></strong>
+<strong>セキュリティの目的:</strong> このポリシーを有効にすると、セキュリティで保護されたチャネルを通じて発信されるすべてのトラフィックは強力な (Windows 2000 かそれ以降のバージョン) 暗号化キーを必要とします。このポリシーを無効にすると、キーの強度についてドメイン コントローラとネゴシエートされます。このオプションを有効にするのは、信頼される側のすべてのドメイン内のすべてのドメイン コントローラで強力なキーがサポートされている場合のみとすべきです。既定では、このポリシーは無効に設定されています。
+<strong>手順:</strong> 既定の設定を変更してはいけません。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>スマート カード取り出し時の動作</em></strong></p>
-<p><strong>セキュリティの目的:</strong> ログオンしたユーザーのスマート カードがスマート カード読み取り装置から取り出されたときの措置を決定します。以下のオプションがあります。</p>
+<td style="border:1px solid black;"><strong><em>サード パーティ製の SMB サーバーへ接続するためのパスワードを、暗号化しないで送信する</em></strong>
+<strong>セキュリティの目的:</strong> このポリシーを有効にすると、サーバー メッセージ ブロック (SMB) リダイレクタは、認証中にパスワードを暗号化することがサポートされていない非マイクロソフト SMB サーバーにクリアテキストのパスワードを送信できるようになります。既定では、このポリシーは無効に設定されています。
+<strong>手順:</strong> 既定の設定を変更してはいけません。</td>
+<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong><em>セキュリティ監査のログを記録できない場合は直ちにシステムをシャットダウンする</em></strong>
+<strong>セキュリティの目的:</strong> セキュリティ イベントのログを記録できない場合に、システムを直ちにシャットダウンするかどうかを決定します。このポリシーを有効にすると、何らかの理由でセキュリティ監査のログを記録できない場合、システムは停止されます。通常、イベントのログを記録できないのは、セキュリティ監査ログがいっぱいになり、指定されているセキュリティ ログの保存方法が <strong>[イベントを上書きしない]</strong> または <strong>[指定した日数を過ぎたら上書きする]</strong> のどちらかである場合です。セキュリティ ログがいっぱいになり、既存のエントリを上書きすることができず、このセキュリティ オプションが有効であると、次のブルー スクリーンのエラーが表示されます。
+<strong>STOP: C0000244 {Audit Failed}</strong>
+<strong>An attempt to generate a security audit failed.</strong>
+回復するためには、管理者がログオンし、必要があればログのアーカイブを取り、ログをクリアし、このオプションを適切にリセットする必要があります。既定では、このポリシーは無効に設定されています。
+<strong>手順:</strong>
+右側の詳細ペイン内の <strong>[セキュリティ監査のログを記録できない場合は直ちにシステムをシャットダウンする]</strong> をダブルクリックします。
+ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。
+<strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。</td>
+<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><strong><em>スマート カード取り出し時の動作</em></strong>
+<strong>セキュリティの目的:</strong> ログオンしたユーザーのスマート カードがスマート カード読み取り装置から取り出されたときの措置を決定します。以下のオプションがあります。
 <ul>
-<li><p>何もしない</p></li>
-<li><p>ワークステーションをロックする</p></li>
-<li><p>ログオフを強制する</p></li>
+<li>何もしない</li>
+<li>ワークステーションをロックする</li>
+<li>ログオフを強制する</li>
 </ul>
-<p>既定では、<strong>[何もしない]</strong> が指定されています。<strong>[ワークステーションをロックする]</strong> を指定した場合、スマート カードを取り外すと、ワークステーションがロックされます。それにより、ユーザーはスマート カードを持って席を離れながら、保護状態でセッションを続行することができます。[ログオフを強制する] を指定した場合、スマート カードを取り外すと、ユーザーは自動的にログオフされます。</p>
-<p><strong>手順:</strong></p>
-<p>右側の詳細ペイン内の <strong>[スマート カード取り出し時の動作]</strong>をダブルクリックします。</p>
-<p>ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</p>
-<p>ドロップダウン メニューから <strong>[ワークステーションをロックする]</strong> を選択し、それから <strong>[OK]</strong> ボタンをクリックします。</p></td>
+既定では、<strong>[何もしない]</strong> が指定されています。<strong>[ワークステーションをロックする]</strong> を指定した場合、スマート カードを取り外すと、ワークステーションがロックされます。それにより、ユーザーはスマート カードを持って席を離れながら、保護状態でセッションを続行することができます。[ログオフを強制する] を指定した場合、スマート カードを取り外すと、ユーザーは自動的にログオフされます。
+<strong>手順:</strong>
+右側の詳細ペイン内の <strong>[スマート カード取り出し時の動作]</strong>をダブルクリックします。
+ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。
+ドロップダウン メニューから <strong>[ワークステーションをロックする]</strong> を選択し、それから <strong>[OK]</strong> ボタンをクリックします。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>グローバル システム オブジェクトの既定のアクセス許可を強化する (例: シンボリック リンク)</em></strong></p>
-<p><strong>セキュリティの目的:</strong> オブジェクトに関する既定の随意アクセス制御リスト (DACL) の強度を決定します。Windows 2000 は、DOS デバイス名、ミューテックス、およびセマフォのような共有システム リソースのグローバル リストを保持しています。それにより、プロセスの間でオブジェクトの所在を突き止めて共有することができます。作成される各オブジェクト タイプには既定の DACL が付けられます。その中に、オブジェクトに対してだれがどのようなアクセス許可を有しているかが指定されています。このポリシーを有効にすると、既定の DACL が強化されます。それにより、管理者でないユーザーが共有オブジェクトを読むことができるようになりますが、自分が作成したのではない共有オブジェクトを修正することはできません。既定では、Windows 2000 Professional と Server 上でこのオプションはローカルに有効に設定されていますが、ドメイン セキュリティ ポリシーには定義されていません。</p>
-<p><strong>手順:</strong></p>
-<p>右側の詳細ペイン内の <strong>[グローバル システム オブジェクトの既定のアクセス許可を強化する (例: シンボリック リンク)]</strong> をダブルクリックします。</p>
-<p>ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</p>
-<p><strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。</p>
-<p>スタンドアロン コンピュータ/ドメイン メンバに関して、ローカル ポリシー内でこのセキュリティ オプションが有効に設定されていることを確認します。</p></td>
+<td style="border:1px solid black;"><strong><em>グローバル システム オブジェクトの既定のアクセス許可を強化する (例: シンボリック リンク)</em></strong>
+<strong>セキュリティの目的:</strong> オブジェクトに関する既定の随意アクセス制御リスト (DACL) の強度を決定します。Windows 2000 は、DOS デバイス名、ミューテックス、およびセマフォのような共有システム リソースのグローバル リストを保持しています。それにより、プロセスの間でオブジェクトの所在を突き止めて共有することができます。作成される各オブジェクト タイプには既定の DACL が付けられます。その中に、オブジェクトに対してだれがどのようなアクセス許可を有しているかが指定されています。このポリシーを有効にすると、既定の DACL が強化されます。それにより、管理者でないユーザーが共有オブジェクトを読むことができるようになりますが、自分が作成したのではない共有オブジェクトを修正することはできません。既定では、Windows 2000 Professional と Server 上でこのオプションはローカルに有効に設定されていますが、ドメイン セキュリティ ポリシーには定義されていません。
+<strong>手順:</strong>
+右側の詳細ペイン内の <strong>[グローバル システム オブジェクトの既定のアクセス許可を強化する (例: シンボリック リンク)]</strong> をダブルクリックします。
+ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。
+<strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。
+スタンドアロン コンピュータ/ドメイン メンバに関して、ローカル ポリシー内でこのセキュリティ オプションが有効に設定されていることを確認します。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>署名されていないドライバのインストール時の動作</em></strong></p>
-<p><strong>セキュリティの目的:</strong> Windows ハードウェア品質研究所 (WHQL) によって検証されていないデバイス ドライバを (Windows 2000 デバイス インストーラを用いて) インストールする試みがなされたときに、どのように対処するかを決定します。以下のオプションがあります。</p>
+<td style="border:1px solid black;"><strong><em>署名されていないドライバのインストール時の動作</em></strong>
+<strong>セキュリティの目的:</strong> Windows ハードウェア品質研究所 (WHQL) によって検証されていないデバイス ドライバを (Windows 2000 デバイス インストーラを用いて) インストールする試みがなされたときに、どのように対処するかを決定します。以下のオプションがあります。
 <ul>
-<li><p><strong>警告なしで許可する</strong></p></li>
-<li><p><strong>警告するがインストールは許可する</strong></p></li>
-<li><p><strong>インストールを許可しない</strong></p></li>
+<li><strong>警告なしで許可する</strong></li>
+<li><strong>警告するがインストールは許可する</strong></li>
+<li><strong>インストールを許可しない</strong></li>
 </ul>
-<p>既定の設定は <strong>[警告するがインストールは許可する]</strong> です。</p>
-<p><strong>手順:</strong></p>
-<p>右側の詳細ペイン内の <strong>[署名されていないドライバのインストール時の動作]</strong> をダブルクリックします。</p>
-<p>ローカル ポリシーに関しては、<strong>[警告するがインストールは許可する]</strong>に設定されていることを確認します。</p>
-<p>ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</p>
-<p>ドロップダウン メニューから <strong>[警告するがインストールは許可する]</strong> を選択し、それから <strong>[OK]</strong> ボタンをクリックします。</p></td>
+既定の設定は <strong>[警告するがインストールは許可する]</strong> です。
+<strong>手順:</strong>
+右側の詳細ペイン内の <strong>[署名されていないドライバのインストール時の動作]</strong> をダブルクリックします。
+ローカル ポリシーに関しては、<strong>[警告するがインストールは許可する]</strong>に設定されていることを確認します。
+ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。
+ドロップダウン メニューから <strong>[警告するがインストールは許可する]</strong> を選択し、それから <strong>[OK]</strong> ボタンをクリックします。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>署名されていないドライバ以外のインストール時の動作</em></strong></p>
-<p><strong>セキュリティの目的:</strong> デバイス ドライバ以外の未検証のソフトウェアをインストールする試みがなされたときに、どのように対処するかを決定します。以下のオプションがあります。</p>
+<td style="border:1px solid black;"><strong><em>署名されていないドライバ以外のインストール時の動作</em></strong>
+<strong>セキュリティの目的:</strong> デバイス ドライバ以外の未検証のソフトウェアをインストールする試みがなされたときに、どのように対処するかを決定します。以下のオプションがあります。
 <ul>
-<li><p><strong>警告なしで許可する</strong></p></li>
-<li><p><strong>警告するがインストールは許可する</strong></p></li>
-<li><p><strong>インストールを許可しない</strong></p></li>
+<li><strong>警告なしで許可する</strong></li>
+<li><strong>警告するがインストールは許可する</strong></li>
+<li><strong>インストールを許可しない</strong></li>
 </ul>
-<p>既定の設定は <strong>[警告なしで許可する]</strong> です。</p>
-<p><strong>手順:</strong></p>
-<p>右側の詳細ペイン内の <strong>[署名されていないドライバ以外のインストール時の動作]</strong> をダブルクリックします</p>
-<p>ローカル ポリシーに関しては、<strong>[警告するがインストールは許可する]</strong>に設定されていることを確認します。</p>
-<p>ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</p>
-<p>ドロップダウン メニューから <strong>[警告するがインストールは許可する]</strong> を選択し、それから <strong>[OK]</strong> ボタンをクリックします。</p></td>
+既定の設定は <strong>[警告なしで許可する]</strong> です。
+<strong>手順:</strong>
+右側の詳細ペイン内の <strong>[署名されていないドライバ以外のインストール時の動作]</strong> をダブルクリックします
+ローカル ポリシーに関しては、<strong>[警告するがインストールは許可する]</strong>に設定されていることを確認します。
+ドメインレベルのポリシーに関して、<strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。
+ドロップダウン メニューから <strong>[警告するがインストールは許可する]</strong> を選択し、それから <strong>[OK]</strong> ボタンをクリックします。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 </tbody>
@@ -1653,7 +1653,7 @@ DirectDraw 機能はパフォーマンスの高いマルチメディア アプ�
   
 DirectDraw 機能は無効にするには、レジストリを編集して、Timeout 値を下に示すように 0 に変更します。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -1662,16 +1662,16 @@ DirectDraw 機能は無効にするには、レジストリを編集して、Tim
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>キーのパス : HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers</p></th>
-<th><p>フォーマット</p></th>
-<th><p>値</p></th>
+<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers</th>
+<th>フォーマット</th>
+<th>値</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> DCI   <strong>値の名前:</strong> Timeout</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>0</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> DCI   <strong>値の名前:</strong> Timeout</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">0</td>
 </tr>
 </tbody>
 </table>
@@ -1680,7 +1680,7 @@ DirectDraw 機能は無効にするには、レジストリを編集して、Tim
   
 サブシステムの OS/2 と POSIX は評価された構成には含まれていません。したがって、削除すべきです。Windows 2000 から OS/2 および POSIX のサポートを削除するには、レジストリを編集して、下に示すように値を削除します。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -1689,16 +1689,16 @@ DirectDraw 機能は無効にするには、レジストリを編集して、Tim
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>キーのパス : HKLM\SYSTEM\CurrentControlSet\Control\Session Manager</p></th>
-<th><p>フォーマット</p></th>
-<th><p>値</p></th>
+<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Control\Session Manager</th>
+<th>フォーマット</th>
+<th>値</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> SubSystems   <strong>値の名前:</strong> 任意</p></td>
-<td style="border:1px solid black;"><p>REG_MULTI_SZ</p></td>
-<td style="border:1px solid black;"><p>値を削除</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> SubSystems   <strong>値の名前:</strong> 任意</td>
+<td style="border:1px solid black;">REG_MULTI_SZ</td>
+<td style="border:1px solid black;">値を削除</td>
 </tr>
 </tbody>
 </table>
@@ -1707,7 +1707,7 @@ DirectDraw 機能は無効にするには、レジストリを編集して、Tim
   
 評価された構成では、下に列挙するすべてのデバイスを無効にする必要があります。そのためには、レジストリを編集して、下に示すように **Start** の値を 4 に変更します。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -1716,71 +1716,71 @@ DirectDraw 機能は無効にするには、レジストリを編集して、Tim
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services</p></th>
-<th><p>フォーマット</p></th>
-<th><p>値</p></th>
+<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services</th>
+<th>フォーマット</th>
+<th>値</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> audstub   <strong>値の名前:</strong> Start</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> audstub   <strong>値の名前:</strong> Start</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">4</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>キー:</strong> mnmdd   <strong>値の名前:</strong> Start</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> mnmdd   <strong>値の名前:</strong> Start</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">4</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> ndistap   <strong>値の名前:</strong> Start</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> ndistap   <strong>値の名前:</strong> Start</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">4</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>キー:</strong> ndiswan   <strong>値の名前:</strong> Start</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> ndiswan   <strong>値の名前:</strong> Start</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">4</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> ndproxy   <strong>値の名前:</strong> Start</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> ndproxy   <strong>値の名前:</strong> Start</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">4</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>キー:</strong> parvdm   <strong>値の名前:</strong> Start</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> parvdm   <strong>値の名前:</strong> Start</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">4</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> pptpminiport   <strong>値の名前:</strong> Start</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> pptpminiport   <strong>値の名前:</strong> Start</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">4</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>キー:</strong> ptilink   <strong>値の名前:</strong> Start</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> ptilink   <strong>値の名前:</strong> Start</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">4</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> rasacd   <strong>値の名前:</strong> Start</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> rasacd   <strong>値の名前:</strong> Start</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">4</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>キー:</strong> rasl2tp   <strong>値の名前:</strong> Start</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> rasl2tp   <strong>値の名前:</strong> Start</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">4</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> raspti   <strong>値の名前:</strong> Start</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> raspti   <strong>値の名前:</strong> Start</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">4</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>キー:</strong> wanarp   <strong>値の名前:</strong> Start</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> wanarp   <strong>値の名前:</strong> Start</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">4</td>
 </tr>
 </tbody>
 </table>
@@ -1789,7 +1789,7 @@ DirectDraw 機能は無効にするには、レジストリを編集して、Tim
   
 呼び出し元の前のモードがカーネル モードであった場合に限って、オブジェクト マネージャが現在のプロセス用のオブジェクト表内のカーネル オブジェクトの属性を変更できることを保証するために、このステップが必要です。この機能を有効にするには、レジストリを編集して、下に示すようにレジストリ エントリを作成して値を設定します。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -1798,16 +1798,16 @@ DirectDraw 機能は無効にするには、レジストリを編集して、Tim
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>キーのパス : HKLM\SYSTEM\CurrentControlSet\Control</p></th>
-<th><p>フォーマット</p></th>
-<th><p>値</p></th>
+<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Control</th>
+<th>フォーマット</th>
+<th>値</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Session Manager   <strong>値の名前:</strong> EnhancedSecurityLevel</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Session Manager   <strong>値の名前:</strong> EnhancedSecurityLevel</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">1</td>
 </tr>
 </tbody>
 </table>
@@ -1816,7 +1816,7 @@ DirectDraw 機能は無効にするには、レジストリを編集して、Tim
   
 ヌル セッションはコンピュータ上のさまざまな共有リソースを通じて利用される可能性のある弱点です。コンピュータ上の共有リソースへのヌル セッション アクセスを修正するには、レジストリ値の **RestrictNullSessAccess** を追加します。このレジストリ値はヌル セッションのさまざまな共有リソースをオンまたはオフに切り替えて、ユーザー名およびパスワードの認証を受けずにシステム アカウントにログオンしたユーザーへのアクセスを Server サービスに制限させるかどうかを決定します。この値を 1 に設定すると、認証されていないユーザーに対してヌル セッション アクセスをすべてのサーバー パイプおよび共有リソースだけに制限することになります。ただし、**NullSessionPipes** エントリおよび **NullSessionShares** エントリに列挙されているものは除きます。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -1825,16 +1825,16 @@ DirectDraw 機能は無効にするには、レジストリを編集して、Tim
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>キーのパス : HKLM\SYSTEM\ CurrentControlSet\Services\LanmanServer</p></th>
-<th><p>フォーマット</p></th>
-<th><p>値</p></th>
+<th>キーのパス : HKLM\SYSTEM\ CurrentControlSet\Services\LanmanServer</th>
+<th>フォーマット</th>
+<th>値</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> parameters   <strong>値の名前:</strong> RestrictNullSessAccess</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> parameters   <strong>値の名前:</strong> RestrictNullSessAccess</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">1</td>
 </tr>
 </tbody>
 </table>
@@ -1843,7 +1843,7 @@ DirectDraw 機能は無効にするには、レジストリを編集して、Tim
   
 そのようなアクセスを制限すると、ネットワーク上で許可されていないアクセスを防止する役に立ちます。名前付きパイプおよび共有ディレクトリ上でのヌル セッション アクセスを制限するには、レジストリを編集して、下に示すように値を削除します。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -1852,17 +1852,17 @@ DirectDraw 機能は無効にするには、レジストリを編集して、Tim
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer</p></th>
-<th><p>フォーマット</p></th>
-<th><p>値</p></th>
+<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer</th>
+<th>フォーマット</th>
+<th>値</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> parameters   <strong>値の名前:</strong> NullSessionPipes</p>
-<p>NullSessionShares</p></td>
-<td style="border:1px solid black;"><p>REG_MULTI_SZ</p></td>
-<td style="border:1px solid black;"><p>すべての値を削除</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> parameters   <strong>値の名前:</strong> NullSessionPipes
+NullSessionShares</td>
+<td style="border:1px solid black;">REG_MULTI_SZ</td>
+<td style="border:1px solid black;">すべての値を削除</td>
 </tr>
 </tbody>
 </table>
@@ -1891,7 +1891,7 @@ HKCU\\Control Panel\\Desktop (ユーザー)
   
 この機能を有効にするには、下の表に示すように、レジストリ キーの値を編集します。**HKCU\\Software\\Policies\\Microsoft** キーの下に、必要な値と共に、キーのパスを作成する必要があります。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -1900,16 +1900,16 @@ HKCU\\Control Panel\\Desktop (ユーザー)
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>キーのパス : HKCU\Software\Policies\Microsoft\Windows\Control Panel</p></th>
-<th><p>フォーマット</p></th>
-<th><p>値</p></th>
+<th>キーのパス : HKCU\Software\Policies\Microsoft\Windows\Control Panel</th>
+<th>フォーマット</th>
+<th>値</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Desktop   <strong>値の名前:</strong> BlockSendInputResets</p></td>
-<td style="border:1px solid black;"><p>REG_SZ</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Desktop   <strong>値の名前:</strong> BlockSendInputResets</td>
+<td style="border:1px solid black;">REG_SZ</td>
+<td style="border:1px solid black;">1</td>
 </tr>
 </tbody>
 </table>
@@ -1928,7 +1928,7 @@ HKCU\\Control Panel\\Desktop (ユーザー)
   
 Service Pack 3 には、セキュリティ ログが構成可能なしきい値に達したときに、セキュリティ イベント ログのセキュリティ監査を生成する機能があります。この機能を有効にするには、下の表に示すようにキー値を作成し、セキュリティ ログにイベントを記録する引き金となる、パーセント値を指定します。下の表に示した値は推奨値です。ローカルの運用上のニーズに応じて、適切な値に設定することができます。たとえば、下の表に示したように設定した場合、セキュリティ ログのサイズが指定値 (90) に達すると、セキュリティ ログにイベント ID 523 のイベント エントリが 1 件記録されます。そのテキストは「The security event log is 90 percent full.」となっています。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -1937,16 +1937,16 @@ Service Pack 3 には、セキュリティ ログが構成可能なしきい値�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\Eventlog</p></th>
-<th><p>フォーマット</p></th>
-<th><p>値</p></th>
+<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\Eventlog</th>
+<th>フォーマット</th>
+<th>値</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Security   <strong>値の名前:</strong> WarningLevel</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>90</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Security   <strong>値の名前:</strong> WarningLevel</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">90</td>
 </tr>
 </tbody>
 </table>
@@ -1959,7 +1959,7 @@ Service Pack 3 には、セキュリティ ログが構成可能なしきい値�
   
 サービス拒否攻撃は、コンピュータまたはコンピュータ上の特定のサービスをネットワーク ユーザーが使えないようにすることを狙ったネットワーク攻撃です。サービス拒否ネットワーク攻撃に対して Windows 2000 内の Windows 2000 TCP/IP スタックの抵抗力を高めるためには、TCP/IP 関連の以下のレジストリ値が役に立ちます。下に列挙したキーの中には、指定のレジストリ キーを追加する必要があるものがあります。詳細については、マイクロソフトのサポート技術情報 (KB) の記事 [315669](http://support.microsoft.com/kb/315669) 「\[HOW TO\] Windows 2000 でサービス拒否攻撃に対する TCP/IP スタックを強化する方法」を参照してください。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -1968,71 +1968,71 @@ Service Pack 3 には、セキュリティ ログが構成可能なしきい値�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\Tcpip</p></th>
-<th><p>フォーマット</p></th>
-<th><p>値</p></th>
+<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\Tcpip</th>
+<th>フォーマット</th>
+<th>値</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Parameters   <strong>値の名前:</strong> DisableIPSourceRouting</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Parameters   <strong>値の名前:</strong> DisableIPSourceRouting</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">2</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Parameters   <strong>値の名前:</strong> EnableDeadGWDetect</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>0</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Parameters   <strong>値の名前:</strong> EnableDeadGWDetect</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">0</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Parameters   <strong>値の名前:</strong> EnableICMPRedirect</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>0</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Parameters   <strong>値の名前:</strong> EnableICMPRedirect</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">0</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Parameters   <strong>値の名前:</strong> EnablePMTUDiscovery</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>0</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Parameters   <strong>値の名前:</strong> EnablePMTUDiscovery</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">0</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Parameters   <strong>値の名前:</strong> EnableSecurityFilters</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Parameters   <strong>値の名前:</strong> EnableSecurityFilters</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">1</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Parameters   <strong>値の名前:</strong> KeepAliveTime</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>300,000</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Parameters   <strong>値の名前:</strong> KeepAliveTime</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">300,000</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Parameters   <strong>値の名前:</strong> NoNameReleaseOnDemand</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Parameters   <strong>値の名前:</strong> NoNameReleaseOnDemand</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">1</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Parameters   <strong>値の名前:</strong> PerformRouterDiscovery</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>0</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Parameters   <strong>値の名前:</strong> PerformRouterDiscovery</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">0</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Parameters   <strong>値の名前:</strong> SynAttackProtect</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Parameters   <strong>値の名前:</strong> SynAttackProtect</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">2</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Parameters   <strong>値の名前:</strong> TcpMaxConnectResponseRetransmissions</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Parameters   <strong>値の名前:</strong> TcpMaxConnectResponseRetransmissions</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">2</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Parameters   <strong>値の名前:</strong> TcpMaxConnectRetransmissions</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>3</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Parameters   <strong>値の名前:</strong> TcpMaxConnectRetransmissions</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">3</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Parameters   <strong>値の名前:</strong> TCPMaxPortsExhausted</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>5</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Parameters   <strong>値の名前:</strong> TCPMaxPortsExhausted</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">5</td>
 </tr>
 </tbody>
 </table>
@@ -2041,7 +2041,7 @@ Service Pack 3 には、セキュリティ ログが構成可能なしきい値�
   
 スクリーンセーバーがロックされるまでにユーザーが動作を行える猶予時間は既定の 5 秒に設定されているものとみなされます。レジストリにエントリを追加することにより、この長さを調整することができます。パスワードによって直ちに保護させるために、このエントリの値を 0 に設定するよう推奨します。そのためには、下に表に示すようにレジストリ キーを編集して、ScreenSaverGracePeriod という名前の値を作成し、その値を 0 に設定します。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -2050,16 +2050,16 @@ Service Pack 3 には、セキュリティ ログが構成可能なしきい値�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>キーのパス : HKLM\Software\Microsoft\Windows NT\CurrentVersion</p></th>
-<th><p>フォーマット</p></th>
-<th><p>値</p></th>
+<th>キーのパス : HKLM\Software\Microsoft\Windows NT\CurrentVersion</th>
+<th>フォーマット</th>
+<th>値</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Winlogon   <strong>値の名前:</strong> ScreenSaverGracePeriod</p></td>
-<td style="border:1px solid black;"><p>REG_SZ</p></td>
-<td style="border:1px solid black;"><p>0</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Winlogon   <strong>値の名前:</strong> ScreenSaverGracePeriod</td>
+<td style="border:1px solid black;">REG_SZ</td>
+<td style="border:1px solid black;">0</td>
 </tr>
 </tbody>
 </table>
@@ -2068,7 +2068,7 @@ Service Pack 3 には、セキュリティ ログが構成可能なしきい値�
   
 下の表に示したキーをレビューして、"type" の値が NT5DS に設定されていることを確認します。それにより、評価された構成に認証済みのタイム サービスが適用されることが保証されます。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -2077,16 +2077,16 @@ Service Pack 3 には、セキュリティ ログが構成可能なしきい値�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\W32Time</p></th>
-<th><p>フォーマット</p></th>
-<th><p>値</p></th>
+<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\W32Time</th>
+<th>フォーマット</th>
+<th>値</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Parameters   <strong>値の名前:</strong> type</p></td>
-<td style="border:1px solid black;"><p>REG_SZ</p></td>
-<td style="border:1px solid black;"><p>Nt5DS</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Parameters   <strong>値の名前:</strong> type</td>
+<td style="border:1px solid black;">REG_SZ</td>
+<td style="border:1px solid black;">Nt5DS</td>
 </tr>
 </tbody>
 </table>
@@ -2095,7 +2095,7 @@ Service Pack 3 には、セキュリティ ログが構成可能なしきい値�
   
 Windows 2000 ベースのサーバーは以前のすべての Windows バージョンを稼働させているコンピュータを認証することができます。しかし、以前のバージョンの Windows では認証に Kerberos が使用されていません。そのために、Windows 2000 では LAN Manager (LM)、Windows NT (NTLM)、および NTLM バージョン 2 (NTLMv2) をサポートしています。LM ハッシュは NTLM ハッシュと比べて弱いので、強引な攻撃に早く屈しやすいです。評価された構成には LM の認証は必要ありません。したがって、それを無効にして、セキュリティを高めることができます。Windows 2000 のService Pack 2 以降には、LM ハッシュの格納を無効にするレジストリの設定が用意されています。詳細については、マイクロソフトのサポート技術情報 (KB) の記事 [299656](http://support.microsoft.com/kb/299656) 「New Registry Key to Remove LM Hashes from Active Directory and Security Account Manager」を参照してください。この値を設定するには、下に表に示すようにレジストリ キーを編集して、NoLMHash という名前のキーを作成します。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -2104,16 +2104,16 @@ Windows 2000 ベースのサーバーは以前のすべての Windows バージ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>キーのパス : HKLM\SYSTEM\CurrentControlSet\Control\Lsa</p></th>
-<th><p>フォーマット</p></th>
-<th><p>値</p></th>
+<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Control\Lsa</th>
+<th>フォーマット</th>
+<th>値</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> NoLMHash   <strong>値の名前:</strong> 値の名前は不要</p></td>
-<td style="border:1px solid black;"><p>指定不要</p></td>
-<td style="border:1px solid black;"><p>指定不要</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> NoLMHash   <strong>値の名前:</strong> 値の名前は不要</td>
+<td style="border:1px solid black;">指定不要</td>
+<td style="border:1px solid black;">指定不要</td>
 </tr>
 </tbody>
 </table>
@@ -2122,7 +2122,7 @@ Windows 2000 ベースのサーバーは以前のすべての Windows バージ�
   
 自動実行機能が有効であると、メディアをドライブに挿入すると、直ちにその読み取りが開始されます。したがって、プログラムのセットアップ ファイルやオーディオ メディアのサウンドがすぐに実行開始されます。メディアを挿入したとたんに悪意のあるプログラムが実行される可能性をなくすために、以下のレジストリ値を作成して、すべてのドライブでの自動実行を無効にします。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -2131,16 +2131,16 @@ Windows 2000 ベースのサーバーは以前のすべての Windows バージ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>キーのパス : HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies</p></th>
-<th><p>フォーマット</p></th>
-<th><p>値</p></th>
+<th>キーのパス : HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies</th>
+<th>フォーマット</th>
+<th>値</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Explorer   <strong>値の名前:</strong> NoDriveTypeAutoRun</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>255</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Explorer   <strong>値の名前:</strong> NoDriveTypeAutoRun</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">255</td>
 </tr>
 </tbody>
 </table>
@@ -2159,7 +2159,7 @@ Service Pack 3 には、オペレーティング システムのセキュリテ�
   
 この値を設定するには、下に表に示すようにレジストリ キーを編集して、LdapServerIntegrity という名前の値を作成し、その値に 2 を設定します。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -2168,16 +2168,16 @@ Service Pack 3 には、オペレーティング システムのセキュリテ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>キーのパス : HKLM\System\CurrentControlSet\Services\NTDS</p></th>
-<th><p>フォーマット</p></th>
-<th><p>値</p></th>
+<th>キーのパス : HKLM\System\CurrentControlSet\Services\NTDS</th>
+<th>フォーマット</th>
+<th>値</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Parameters   <strong>値の名前:</strong> LdapServerIntegrity</p></td>
-<td style="border:1px solid black;"><p>REG_DWORD</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Parameters   <strong>値の名前:</strong> LdapServerIntegrity</td>
+<td style="border:1px solid black;">REG_DWORD</td>
+<td style="border:1px solid black;">2</td>
 </tr>
 </tbody>
 </table>
@@ -2186,7 +2186,7 @@ Service Pack 3 には、オペレーティング システムのセキュリテ�
   
 Windows 2000 ベースのコンピュータに関するAlerter サービスの受信者を追加するには、(Regedt32.exe を使用して) 下の表に示すようにレジストリを編集します。値のエントリは管理上の警告の宛先の各受信者名 (ユーザー名またはコンピュータ名) です。各受信者を **\[データ\]** ダイアログ ボックス内で別々の行に指定します。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -2195,16 +2195,16 @@ Windows 2000 ベースのコンピュータに関するAlerter サービスの�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\Alerter</p></th>
-<th><p>フォーマット</p></th>
-<th><p>値</p></th>
+<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\Alerter</th>
+<th>フォーマット</th>
+<th>値</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>キー:</strong> Parameters   <strong>値の名前:</strong> AlertNames</p></td>
-<td style="border:1px solid black;"><p>REG_MULTI_SZ</p></td>
-<td style="border:1px solid black;"><p>上に説明</p></td>
+<td style="border:1px solid black;"><strong>キー:</strong> Parameters   <strong>値の名前:</strong> AlertNames</td>
+<td style="border:1px solid black;">REG_MULTI_SZ</td>
+<td style="border:1px solid black;">上に説明</td>
 </tr>
 </tbody>
 </table>
@@ -2261,255 +2261,255 @@ Windows 2000 ベースのコンピュータに関するAlerter サービスの�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>監査ポリシーと構成</p></th>
-<th><p>Professional</p></th>
-<th><p>Server</p></th>
-<th><p>DC</p></th>
-<th><p>必須</p></th>
-<th><p>推奨</p></th>
+<th>監査ポリシーと構成</th>
+<th>Professional</th>
+<th>Server</th>
+<th>DC</th>
+<th>必須</th>
+<th>推奨</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>アプリケーション ログの最大サイズを設定する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> アプリケーション イベント ログの最大サイズを指定します。既定値は 512 KB であり、最大サイズは 4 GB (4,194,240 KB) です。アプリケーション ログ サイズの要件は、プラットフォームの機能およびアプリケーション関連のイベントの履歴レコードの必要性に応じて異なります。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>アプリケーション ログの最大サイズを設定する</em></strong>
+<strong>セキュリティの目的:</strong> アプリケーション イベント ログの最大サイズを指定します。既定値は 512 KB であり、最大サイズは 4 GB (4,194,240 KB) です。アプリケーション ログ サイズの要件は、プラットフォームの機能およびアプリケーション関連のイベントの履歴レコードの必要性に応じて異なります。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順:</strong></p>
+<td style="border:1px solid black;"><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順:</strong>
 <ol>
-<li><p><strong>[アプリケーション ログのプロパティ]</strong> ウィンドウの <strong>[全般]</strong> タブの下の <strong>[最大ログ サイズ]</strong> テキスト ボックスに希望するアプリケーション ログ サイズの値を入力します。ほとんどの環境では、既定の設定が適切です。しかし、ログ保存方法にイベントを上書きしないように設定した場合は、ログ サイズを大きく設定する必要があります。その際、予想される処理量、ログを手作業でレビュー、アーカイブ、クリアする頻度、利用可能なディスク スペースなどを考慮に入れます。</p></li>
-<li><p><strong>[OK]</strong> ボタンをクリックします。</p></li>
+<li><strong>[アプリケーション ログのプロパティ]</strong> ウィンドウの <strong>[全般]</strong> タブの下の <strong>[最大ログ サイズ]</strong> テキスト ボックスに希望するアプリケーション ログ サイズの値を入力します。ほとんどの環境では、既定の設定が適切です。しかし、ログ保存方法にイベントを上書きしないように設定した場合は、ログ サイズを大きく設定する必要があります。その際、予想される処理量、ログを手作業でレビュー、アーカイブ、クリアする頻度、利用可能なディスク スペースなどを考慮に入れます。</li>
+<li><strong>[OK]</strong> ボタンをクリックします。</li>
 </ol></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>セキュリティ ログの最大サイズを設定する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> セキュリティ イベント ログの最大サイズを指定します。既定値は 512 KB であり、最大サイズは 4 GB です。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>セキュリティ ログの最大サイズを設定する</em></strong>
+<strong>セキュリティの目的:</strong> セキュリティ イベント ログの最大サイズを指定します。既定値は 512 KB であり、最大サイズは 4 GB です。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順:</strong></p>
+<td style="border:1px solid black;"><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順:</strong>
 <ol>
-<li><p><strong>[セキュリティ ログのプロパティ]</strong> ウィンドウの <strong>[全般]</strong> タブの下の <strong>[最大ログ サイズ]</strong> テキスト ボックスに希望するセキュリティ ログ サイズの値を入力します。セキュリティ ログのログ保存方法にはイベントを上書きしないように設定すべきです。したがって、ログ サイズを大きく設定する必要があります。その際、予想される処理量、ログを手作業でレビュー、アーカイブ、クリアする頻度、利用可能なディスク スペースなどを考慮に入れます。</p></li>
-<li><p><strong>[OK]</strong> ボタンをクリックします。</p></li>
+<li><strong>[セキュリティ ログのプロパティ]</strong> ウィンドウの <strong>[全般]</strong> タブの下の <strong>[最大ログ サイズ]</strong> テキスト ボックスに希望するセキュリティ ログ サイズの値を入力します。セキュリティ ログのログ保存方法にはイベントを上書きしないように設定すべきです。したがって、ログ サイズを大きく設定する必要があります。その際、予想される処理量、ログを手作業でレビュー、アーカイブ、クリアする頻度、利用可能なディスク スペースなどを考慮に入れます。</li>
+<li><strong>[OK]</strong> ボタンをクリックします。</li>
 </ol></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>システム ログの最大サイズを設定する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> システム イベント ログの最大サイズを指定します。既定値は 512 KB であり、最大サイズは 4 GB です。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>システム ログの最大サイズを設定する</em></strong>
+<strong>セキュリティの目的:</strong> システム イベント ログの最大サイズを指定します。既定値は 512 KB であり、最大サイズは 4 GB です。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順:</strong></p>
+<td style="border:1px solid black;"><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順:</strong>
 <ol>
-<li><p><strong>[システム ログのプロパティ]</strong> ウィンドウの <strong>[全般]</strong> タブの下の <strong>[最大ログ サイズ]</strong> テキスト ボックスに希望するシステム ログ サイズの値を入力します。ほとんどの環境では、既定の設定が適切です。しかし、ログ保存方法にイベントを上書きしないように設定した場合は、ログ サイズを大きく設定する必要があります。その際、予想される処理量、ログを手作業でレビュー、アーカイブ、クリアする頻度、利用可能なディスク スペースなどを考慮に入れます。</p></li>
-<li><p><strong>[OK]</strong> ボタンをクリックします。</p></li>
+<li><strong>[システム ログのプロパティ]</strong> ウィンドウの <strong>[全般]</strong> タブの下の <strong>[最大ログ サイズ]</strong> テキスト ボックスに希望するシステム ログ サイズの値を入力します。ほとんどの環境では、既定の設定が適切です。しかし、ログ保存方法にイベントを上書きしないように設定した場合は、ログ サイズを大きく設定する必要があります。その際、予想される処理量、ログを手作業でレビュー、アーカイブ、クリアする頻度、利用可能なディスク スペースなどを考慮に入れます。</li>
+<li><strong>[OK]</strong> ボタンをクリックします。</li>
 </ol></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>アプリケーション ログのゲスト アクセスの制限</em></strong></p>
-<p><strong>セキュリティの目的</strong>: アプリケーション イベント ログへの匿名アクセスを防止します。このポリシーを有効にすると、ゲストはアプリケーション イベント ログにアクセスできなくなります。既定では、すべての Windows 2000 オペレーティング システムにおいて、このポリシーはローカルで無効に設定されています。</p>
-<p><strong>ドメイン ポリシーおよびドメイン コントローラ ポリシーの場合の手順</strong>:</p>
+<td style="border:1px solid black;"><strong><em>アプリケーション ログのゲスト アクセスの制限</em></strong>
+<strong>セキュリティの目的</strong>: アプリケーション イベント ログへの匿名アクセスを防止します。このポリシーを有効にすると、ゲストはアプリケーション イベント ログにアクセスできなくなります。既定では、すべての Windows 2000 オペレーティング システムにおいて、このポリシーはローカルで無効に設定されています。
+<strong>ドメイン ポリシーおよびドメイン コントローラ ポリシーの場合の手順</strong>:
 <ol>
-<li><p>右側の詳細ペイン内の <strong>[アプリケーション ログのゲスト アクセスの制限]</strong> をダブルクリックます。</p></li>
-<li><p><strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</p></li>
-<li><p><strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。</p></li>
+<li>右側の詳細ペイン内の <strong>[アプリケーション ログのゲスト アクセスの制限]</strong> をダブルクリックます。</li>
+<li><strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</li>
+<li><strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。</li>
 </ol>
-<p><strong>スタンドアロンのワークステーションおよび Server の場合の手順:</strong> スタンドアロンのワークステーションと Server ではこの機能は利用できません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<strong>スタンドアロンのワークステーションおよび Server の場合の手順:</strong> スタンドアロンのワークステーションと Server ではこの機能は利用できません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>セキュリティ ログのゲスト アクセスの制限</em></strong></p>
-<p><strong>セキュリティの目的:</strong> セキュリティ イベント ログへの匿名アクセスを防止します。このポリシーを有効にすると、ゲストはセキュリティ イベント ログにアクセスできなくなります。既定では、すべての Windows 2000 オペレーティング システムにおいてこのポリシーはローカルで無効に設定されています。セキュリティ ログにアクセスするためには、ユーザーは <strong>[監査とセキュリティ ログの管理]</strong> のユーザー権利を有している必要があります。</p>
-<p><strong>ドメイン ポリシーおよびドメイン コントローラ ポリシーの場合の手順:</strong></p>
+<td style="border:1px solid black;"><strong><em>セキュリティ ログのゲスト アクセスの制限</em></strong>
+<strong>セキュリティの目的:</strong> セキュリティ イベント ログへの匿名アクセスを防止します。このポリシーを有効にすると、ゲストはセキュリティ イベント ログにアクセスできなくなります。既定では、すべての Windows 2000 オペレーティング システムにおいてこのポリシーはローカルで無効に設定されています。セキュリティ ログにアクセスするためには、ユーザーは <strong>[監査とセキュリティ ログの管理]</strong> のユーザー権利を有している必要があります。
+<strong>ドメイン ポリシーおよびドメイン コントローラ ポリシーの場合の手順:</strong>
 <ol>
-<li><p>右側の詳細ペイン内の <strong>[セキュリティ ログのゲスト アクセスの制限]</strong> をダブルクリックします。</p></li>
-<li><p><strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</p></li>
-<li><p><strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。</p></li>
+<li>右側の詳細ペイン内の <strong>[セキュリティ ログのゲスト アクセスの制限]</strong> をダブルクリックします。</li>
+<li><strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</li>
+<li><strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。</li>
 </ol>
-<p><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順:</strong> スタンドアロンのワークステーションと Server ではこの機能は利用できません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順:</strong> スタンドアロンのワークステーションと Server ではこの機能は利用できません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>システム ログへのゲスト アクセスを制限する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> システム イベント ログへの匿名アクセスを防止します。このポリシーを有効にすると、ゲストはシステム イベント ログにアクセスできなくなります。既定では、すべての Windows 2000 オペレーティング システムにおいてこのポリシーはローカルで無効に設定されています。</p>
-<p><strong>ドメイン ポリシーおよびドメイン コントローラ ポリシーの場合の手順:</strong></p>
+<td style="border:1px solid black;"><strong><em>システム ログへのゲスト アクセスを制限する</em></strong>
+<strong>セキュリティの目的:</strong> システム イベント ログへの匿名アクセスを防止します。このポリシーを有効にすると、ゲストはシステム イベント ログにアクセスできなくなります。既定では、すべての Windows 2000 オペレーティング システムにおいてこのポリシーはローカルで無効に設定されています。
+<strong>ドメイン ポリシーおよびドメイン コントローラ ポリシーの場合の手順:</strong>
 <ol>
-<li><p>右側の詳細ペイン内の <strong>[システム ログのゲスト アクセスの制限]</strong> をダブルクリックします。</p></li>
-<li><p><strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</p></li>
-<li><p><strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。</p></li>
+<li>右側の詳細ペイン内の <strong>[システム ログのゲスト アクセスの制限]</strong> をダブルクリックします。</li>
+<li><strong>[このポリシーの設定を定義する]</strong> チェック ボックスをオンにします。</li>
+<li><strong>[有効]</strong> ラジオ ボタンを選択し、それから <strong>[OK]</strong> ボタンをクリックします。</li>
 </ol>
-<p><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順:</strong> スタンドアロンのワークステーションと Server ではこの機能は利用できません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順:</strong> スタンドアロンのワークステーションと Server ではこの機能は利用できません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-</tr>
-<tr class="even">
-<td style="border:1px solid black;"><p><strong><em>アプリケーション ログの保存</em></strong></p>
-<p><strong>セキュリティの目的:</strong> アプリケーション ログを保存すべき日数を決定します。この指定が必要なのは、ドメイン ポリシー内でアプリケーション ログの保存方法を <strong>[指定した日数を過ぎたら上書きする]</strong> に設定した場合、またはスタンドアロンのワークステーションまたは Server の <strong>[アプリケーション ログのプロパティ]</strong> ウィンドウ内で <strong>[イベントを上書きする]</strong> オプションを選択した場合です。スケジュールに従って定期的にアプリケーション ログをアーカイブしている<strong>場合にのみ</strong>、この値を設定します。また、アーカイブの間隔に対応して、アプリケーション ログの最大サイズを十分大きく取るようにします。</p>
-<p><strong>ドメイン ポリシーおよびドメイン コントローラ ポリシーの場合の手順:「未定義」</strong>となっている既定の設定を変更してはいけません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-</tr>
-<tr class="odd">
-<td style="border:1px solid black;"><p><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順: [アプリケーション ログのプロパティ]</strong> ウィンドウの <strong>[イベントを上書きする]</strong> オプションに設定されている既定の日数 (7) を変更してはなりません。</p></td>
-<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>セキュリティ ログを保存する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> セキュリティ ログを保存すべき日数を決定します。この指定が必要なのは、ドメイン ポリシー内でセキュリティ ログの保存方法を <strong>[指定した日数を過ぎたら上書きする]</strong> に設定した場合、またはスタンドアロンのワークステーションまたは Server の<strong>[セキュリティ ログのプロパティ]</strong> ウィンドウ内で <strong>[イベントを上書きする]</strong> オプションを選択した場合です。スケジュールに従って定期的にセキュリティ ログをアーカイブしている<strong>場合にのみ</strong>、この値を設定します。また、アーカイブの間隔に対応して、セキュリティ ログの最大サイズを十分大きく取るようにします。</p>
-<p><strong>ドメイン ポリシーおよびドメイン コントローラ ポリシーの場合の手順:「未定義」</strong>となっている既定の設定を変更してはなりません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>アプリケーション ログの保存</em></strong>
+<strong>セキュリティの目的:</strong> アプリケーション ログを保存すべき日数を決定します。この指定が必要なのは、ドメイン ポリシー内でアプリケーション ログの保存方法を <strong>[指定した日数を過ぎたら上書きする]</strong> に設定した場合、またはスタンドアロンのワークステーションまたは Server の <strong>[アプリケーション ログのプロパティ]</strong> ウィンドウ内で <strong>[イベントを上書きする]</strong> オプションを選択した場合です。スケジュールに従って定期的にアプリケーション ログをアーカイブしている<strong>場合にのみ</strong>、この値を設定します。また、アーカイブの間隔に対応して、アプリケーション ログの最大サイズを十分大きく取るようにします。
+<strong>ドメイン ポリシーおよびドメイン コントローラ ポリシーの場合の手順:「未定義」</strong>となっている既定の設定を変更してはいけません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順: [セキュリティ ログのプロパティ]</strong> ウィンドウの <strong>[イベントを上書きする]</strong> オプションに設定されている既定の日数 (7) を変更してはなりません。</p></td>
+<td style="border:1px solid black;"><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順: [アプリケーション ログのプロパティ]</strong> ウィンドウの <strong>[イベントを上書きする]</strong> オプションに設定されている既定の日数 (7) を変更してはなりません。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>システム ログを保存する</em></strong></p>
-<p><strong>セキュリティの目的:</strong> システム ログを保存すべき日数を決定します。この指定が必要なのは、ドメイン ポリシー内でシステム ログの保存方法を <strong>[指定した日数を過ぎたら上書きする]</strong> に設定した場合、またはスタンドアロンのワークステーションまたは Server の <strong>[システム ログのプロパティ]</strong> ウィンドウ内で <strong>[イベントを上書きする]</strong> オプションを選択した場合です。スケジュールに従って定期的にシステム ログをアーカイブしている<strong>場合にのみ</strong>、この値を設定します。また、アーカイブの間隔に対応して、システム ログの最大サイズを十分大きく取るようにします。</p>
-<p><strong>ドメイン ポリシーおよびドメイン コントローラ ポリシーの場合の手順:「未定義」</strong>となっている既定の設定を変更してはなりません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>セキュリティ ログを保存する</em></strong>
+<strong>セキュリティの目的:</strong> セキュリティ ログを保存すべき日数を決定します。この指定が必要なのは、ドメイン ポリシー内でセキュリティ ログの保存方法を <strong>[指定した日数を過ぎたら上書きする]</strong> に設定した場合、またはスタンドアロンのワークステーションまたは Server の<strong>[セキュリティ ログのプロパティ]</strong> ウィンドウ内で <strong>[イベントを上書きする]</strong> オプションを選択した場合です。スケジュールに従って定期的にセキュリティ ログをアーカイブしている<strong>場合にのみ</strong>、この値を設定します。また、アーカイブの間隔に対応して、セキュリティ ログの最大サイズを十分大きく取るようにします。
+<strong>ドメイン ポリシーおよびドメイン コントローラ ポリシーの場合の手順:「未定義」</strong>となっている既定の設定を変更してはなりません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順: [システム ログのプロパティ]</strong>ウィンドウの <strong>[イベントを上書きする]</strong> オプションに設定されている既定の日数 (7) を変更してはなりません。</p></td>
+<td style="border:1px solid black;"><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順: [セキュリティ ログのプロパティ]</strong> ウィンドウの <strong>[イベントを上書きする]</strong> オプションに設定されている既定の日数 (7) を変更してはなりません。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>アプリケーション ログの保存方法</em></strong></p>
-<p><strong>セキュリティの目的:</strong> アプリケーション ログが最大サイズに達したときの措置を決定します。</p>
-<p><strong>ドメイン ポリシーおよびドメイン コントローラ ポリシーの場合の手順:「未定義」</strong>となっている既定の設定を変更してはなりません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>システム ログを保存する</em></strong>
+<strong>セキュリティの目的:</strong> システム ログを保存すべき日数を決定します。この指定が必要なのは、ドメイン ポリシー内でシステム ログの保存方法を <strong>[指定した日数を過ぎたら上書きする]</strong> に設定した場合、またはスタンドアロンのワークステーションまたは Server の <strong>[システム ログのプロパティ]</strong> ウィンドウ内で <strong>[イベントを上書きする]</strong> オプションを選択した場合です。スケジュールに従って定期的にシステム ログをアーカイブしている<strong>場合にのみ</strong>、この値を設定します。また、アーカイブの間隔に対応して、システム ログの最大サイズを十分大きく取るようにします。
+<strong>ドメイン ポリシーおよびドメイン コントローラ ポリシーの場合の手順:「未定義」</strong>となっている既定の設定を変更してはなりません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順: [アプリケーション ログのプロパティ]</strong> ウィンドウの <strong>[イベントを上書きする]</strong> オプションに設定されている既定の日数 (7) を変更してはなりません。</p></td>
+<td style="border:1px solid black;"><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順: [システム ログのプロパティ]</strong>ウィンドウの <strong>[イベントを上書きする]</strong> オプションに設定されている既定の日数 (7) を変更してはなりません。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>セキュリティ ログの保存方法</em></strong></p>
-<p><strong>セキュリティの目的:</strong> セキュリティ ログが最大サイズに達したときの措置を決定します。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>アプリケーション ログの保存方法</em></strong>
+<strong>セキュリティの目的:</strong> アプリケーション ログが最大サイズに達したときの措置を決定します。
+<strong>ドメイン ポリシーおよびドメイン コントローラ ポリシーの場合の手順:「未定義」</strong>となっている既定の設定を変更してはなりません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順:</strong></p>
+<td style="border:1px solid black;"><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順: [アプリケーション ログのプロパティ]</strong> ウィンドウの <strong>[イベントを上書きする]</strong> オプションに設定されている既定の日数 (7) を変更してはなりません。</td>
+<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong><em>セキュリティ ログの保存方法</em></strong>
+<strong>セキュリティの目的:</strong> セキュリティ ログが最大サイズに達したときの措置を決定します。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順:</strong>
 <ol>
-<li><p><strong>[セキュリティ ログのプロパティ]</strong> ウィンドウの <strong>[全般]</strong> タブの下の <strong>[イベントを上書きしない (手動でログを消去)]</strong> ラジオ ボタンを選択します。</p></li>
-<li><p><strong>[OK]</strong> ボタンをクリックします。</p></li>
+<li><strong>[セキュリティ ログのプロパティ]</strong> ウィンドウの <strong>[全般]</strong> タブの下の <strong>[イベントを上書きしない (手動でログを消去)]</strong> ラジオ ボタンを選択します。</li>
+<li><strong>[OK]</strong> ボタンをクリックします。</li>
 </ol></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>システム ログの保存方法</em></strong></p>
-<p><strong>セキュリティの目的:</strong> システム ログが最大サイズに達したときの措置を決定します。</p>
-<p><strong>ドメイン ポリシーおよびドメイン コントローラ ポリシーの場合の手順:「未定義」</strong>となっている既定の設定を変更してはなりません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>システム ログの保存方法</em></strong>
+<strong>セキュリティの目的:</strong> システム ログが最大サイズに達したときの措置を決定します。
+<strong>ドメイン ポリシーおよびドメイン コントローラ ポリシーの場合の手順:「未定義」</strong>となっている既定の設定を変更してはなりません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順: [システム ログのプロパティ]</strong>ウィンドウの <strong>[イベントを上書きする]</strong> オプションに設定されている既定の日数 (7) を変更してはなりません。</p></td>
+<td style="border:1px solid black;"><strong>スタンドアロンの Windows 2000 Professional および Server の場合の手順: [システム ログのプロパティ]</strong>ウィンドウの <strong>[イベントを上書きする]</strong> オプションに設定されている既定の日数 (7) を変更してはなりません。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>セキュリティの監査ログがいっぱいになったら、コンピュータをシャットダウンする</em></strong></p>
-<p><strong>セキュリティの目的:</strong> セキュリティ イベントをログに記録できないときに、システムをシャットダウンするかどうかを決定します。このポリシーが有効であると、何らかの理由でセキュリティ監査のログを取れない場合、システムは停止されます。通常、イベントをログに記録できなくなるのは、セキュリティ監査ログがいっぱいになったときに、セキュリティ ログの保存方法に <strong>[イベントを上書きしない]</strong> または <strong>[指定した日数を過ぎたら上書きする]</strong> のどちらかが指定されている場合です。</p>
-<p><strong>手順</strong>: 上記のポリシーの設定に代えて、[セキュリティ監査のログを記録できない場合は直ちにシステムをシャットダウンする] を使用します。このポリシーの設定はスタンドアロンのワークステーションおよび Server で利用することはできません。</p></td>
+<td style="border:1px solid black;"><strong><em>セキュリティの監査ログがいっぱいになったら、コンピュータをシャットダウンする</em></strong>
+<strong>セキュリティの目的:</strong> セキュリティ イベントをログに記録できないときに、システムをシャットダウンするかどうかを決定します。このポリシーが有効であると、何らかの理由でセキュリティ監査のログを取れない場合、システムは停止されます。通常、イベントをログに記録できなくなるのは、セキュリティ監査ログがいっぱいになったときに、セキュリティ ログの保存方法に <strong>[イベントを上書きしない]</strong> または <strong>[指定した日数を過ぎたら上書きする]</strong> のどちらかが指定されている場合です。
+<strong>手順</strong>: 上記のポリシーの設定に代えて、[セキュリティ監査のログを記録できない場合は直ちにシステムをシャットダウンする] を使用します。このポリシーの設定はスタンドアロンのワークステーションおよび Server で利用することはできません。</td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">  <img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 </tbody>
@@ -2587,7 +2587,7 @@ Windows 2000 ベースのコンピュータに関するAlerter サービスの�
   
 **表 3.9 グループ メンバシップ**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="12%" />
@@ -2601,436 +2601,436 @@ Windows 2000 ベースのコンピュータに関するAlerter サービスの�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>グループ アカウントの修正</p></th>
-<th><p> </p></th>
-<th><p> </p></th>
-<th><p>Professional</p></th>
-<th><p>Server</p></th>
-<th><p>DC</p></th>
-<th><p>必須</p></th>
-<th><p>推奨</p></th>
+<th>グループ アカウントの修正</th>
+<th> </th>
+<th> </th>
+<th>Professional</th>
+<th>Server</th>
+<th>DC</th>
+<th>必須</th>
+<th>推奨</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>グローバル グループ</strong></p></td>
-<td style="border:1px solid black;"><p><strong>既定のメンバ</strong></p></td>
-<td style="border:1px solid black;"><p><strong>修正 / 検証</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>グローバル グループ</strong></td>
+<td style="border:1px solid black;"><strong>既定のメンバ</strong></td>
+<td style="border:1px solid black;"><strong>修正 / 検証</strong></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>DnsUpdateProxy</em></strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>このグループにアカウントを追加してはいけません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>DnsUpdateProxy</em></strong></td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">このグループにアカウントを追加してはいけません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>Domain Admins</em></strong></p></td>
-<td style="border:1px solid black;"><p>Administrator</p></td>
-<td style="border:1px solid black;"><p>このグループに管理者以外のアカウントを追加してはいけません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>Domain Admins</em></strong></td>
+<td style="border:1px solid black;">Administrator</td>
+<td style="border:1px solid black;">このグループに管理者以外のアカウントを追加してはいけません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>Domain Guests</em></strong></p></td>
-<td style="border:1px solid black;"><p>Guest</p></td>
-<td style="border:1px solid black;"><p>このグループにアカウントを追加してはいけません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>Domain Guests</em></strong></td>
+<td style="border:1px solid black;">Guest</td>
+<td style="border:1px solid black;">このグループにアカウントを追加してはいけません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>Domain Users</em></strong></p></td>
-<td style="border:1px solid black;"><p>Administrator</p>
-<p>Guest</p>
-<p>Krbtgt</p>
-<p>TsInternetUser</p>
-<p>(既定ではすべての新しいユーザーが追加されます)</p></td>
-<td style="border:1px solid black;"><p>Guest アカウントを削除し、TsInternetUser アカウントが無効になっていることを確認します。</p>
-<p><strong>注意</strong> : Guest アカウントを削除する前に、そのアカウントのプライマリ グループを Domain Guests に変更します。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>Domain Users</em></strong></td>
+<td style="border:1px solid black;">Administrator
+Guest
+Krbtgt
+TsInternetUser
+(既定ではすべての新しいユーザーが追加されます)</td>
+<td style="border:1px solid black;">Guest アカウントを削除し、TsInternetUser アカウントが無効になっていることを確認します。
+<strong>注意</strong> : Guest アカウントを削除する前に、そのアカウントのプライマリ グループを Domain Guests に変更します。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>Enterprise Admins</em></strong></p></td>
-<td style="border:1px solid black;"><p>Administrator (ドメイン コントローラの Administrator)</p></td>
-<td style="border:1px solid black;"><p>このグループに管理者以外のアカウントを追加してはいけません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>Enterprise Admins</em></strong></td>
+<td style="border:1px solid black;">Administrator (ドメイン コントローラの Administrator)</td>
+<td style="border:1px solid black;">このグループに管理者以外のアカウントを追加してはいけません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>Group Policy Creator Owner</em></strong></p></td>
-<td style="border:1px solid black;"><p>Administrator</p></td>
-<td style="border:1px solid black;"><p>このグループに管理者以外のアカウントを追加してはいけません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>Group Policy Creator Owner</em></strong></td>
+<td style="border:1px solid black;">Administrator</td>
+<td style="border:1px solid black;">このグループに管理者以外のアカウントを追加してはいけません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>Schema Admins</em></strong></p></td>
-<td style="border:1px solid black;"><p>Administrator</p></td>
-<td style="border:1px solid black;"><p>このグループに管理者以外のアカウントを追加してはいけません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>Schema Admins</em></strong></td>
+<td style="border:1px solid black;">Administrator</td>
+<td style="border:1px solid black;">このグループに管理者以外のアカウントを追加してはいけません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>ドメイン ローカル グループ</strong></p></td>
-<td style="border:1px solid black;"><p><strong>既定のメンバ</strong></p></td>
-<td style="border:1px solid black;"><p><strong>修正 / 検証</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>ドメイン ローカル グループ</strong></td>
+<td style="border:1px solid black;"><strong>既定のメンバ</strong></td>
+<td style="border:1px solid black;"><strong>修正 / 検証</strong></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>Account Operators</em></strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>このグループに管理者以外のアカウントを追加してはいけません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>Account Operators</em></strong></td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">このグループに管理者以外のアカウントを追加してはいけません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>Administrators</em></strong></p></td>
-<td style="border:1px solid black;"><p>Administrator</p>
-<p>Domain Admins</p></td>
-<td style="border:1px solid black;"><p>このグループに管理者以外のアカウントを追加してはいけません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>Administrators</em></strong></td>
+<td style="border:1px solid black;">Administrator
+Domain Admins</td>
+<td style="border:1px solid black;">このグループに管理者以外のアカウントを追加してはいけません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>Backup Operators</em></strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>このグループに管理者以外のアカウントを追加してはいけません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>Backup Operators</em></strong></td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">このグループに管理者以外のアカウントを追加してはいけません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>DnsAdmins</em></strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>このグループに管理者以外のアカウントを追加してはいけません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>DnsAdmins</em></strong></td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">このグループに管理者以外のアカウントを追加してはいけません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>Guests</em></strong></p></td>
-<td style="border:1px solid black;"><p>Guest (ローカル)</p>
-<p>Domain Guests</p>
-<p>TsInternetUser</p></td>
-<td style="border:1px solid black;"><p>このグループは使用しません。Guest も含めて、すべてのアカウントをこのグループから削除します。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>Guests</em></strong></td>
+<td style="border:1px solid black;">Guest (ローカル)
+Domain Guests
+TsInternetUser</td>
+<td style="border:1px solid black;">このグループは使用しません。Guest も含めて、すべてのアカウントをこのグループから削除します。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>Pre-Windows 2000 Compatible Access</em></strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>Windows 2000 よりも前のオペレーティング システムとの下位互換性を持たせるためのものです。TOE の目的を満たさないので、このグループを使用しないでください。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>Pre-Windows 2000 Compatible Access</em></strong></td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">Windows 2000 よりも前のオペレーティング システムとの下位互換性を持たせるためのものです。TOE の目的を満たさないので、このグループを使用しないでください。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>Print Operators</em></strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>このグループに管理者以外のアカウントを追加してはいけません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>Print Operators</em></strong></td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">このグループに管理者以外のアカウントを追加してはいけません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>Replicator</em></strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>このグループに管理者以外のアカウントを追加してはいけません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>Replicator</em></strong></td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">このグループに管理者以外のアカウントを追加してはいけません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>Server Operators</em></strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>このグループに管理者以外のアカウントを追加してはいけません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>Server Operators</em></strong></td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">このグループに管理者以外のアカウントを追加してはいけません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>Users</em></strong></p></td>
-<td style="border:1px solid black;"><p>Authenticated Users</p>
-<p>Domain Users</p>
-<p>INTERACTIVE</p>
-<p>(既定ではすべての新しいユーザーが追加されます)</p></td>
-<td style="border:1px solid black;"><p>認証を受けずにアクセスする潜在的な可能性のあるアカウント (Guest など) をこのグループに追加してはいけません。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong><em>Users</em></strong></td>
+<td style="border:1px solid black;">Authenticated Users
+Domain Users
+INTERACTIVE
+(既定ではすべての新しいユーザーが追加されます)</td>
+<td style="border:1px solid black;">認証を受けずにアクセスする潜在的な可能性のあるアカウント (Guest など) をこのグループに追加してはいけません。</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>ローカル グループ</strong></p></td>
-<td style="border:1px solid black;"><p><strong>既定のメンバ</strong></p></td>
-<td style="border:1px solid black;"><p><strong>修正 / 検証</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>ローカル グループ</strong></td>
+<td style="border:1px solid black;"><strong>既定のメンバ</strong></td>
+<td style="border:1px solid black;"><strong>修正 / 検証</strong></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>Administrators</em></strong></p></td>
-<td style="border:1px solid black;"><p>スタンドアロン:</p>
-<p>Administrator</p>
-<p>ドメイン メンバ:</p>
-<p>Administrator</p></td>
-<td style="border:1px solid black;"><p>このグループに管理者以外のアカウントを追加してはいけません。</p></td>
+<td style="border:1px solid black;"><strong><em>Administrators</em></strong></td>
+<td style="border:1px solid black;">スタンドアロン:
+Administrator
+ドメイン メンバ:
+Administrator</td>
+<td style="border:1px solid black;">このグループに管理者以外のアカウントを追加してはいけません。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>Backup Operators</em></strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>このグループに管理者以外のアカウントを追加してはいけません。</p></td>
+<td style="border:1px solid black;"><strong><em>Backup Operators</em></strong></td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">このグループに管理者以外のアカウントを追加してはいけません。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>Guests</em></strong></p></td>
-<td style="border:1px solid black;"><p>スタンドアロン Professional:</p>
-<p>Guest</p>
-<p>スタンドアロン Server:</p>
-<p>Guest</p>
-<p>TsInternetUser</p>
-<p>ドメイン メンバ:</p>
-<p>上記に Domain Guests を追加します。</p></td>
-<td style="border:1px solid black;"><p>このグループは使用しません。Guest も含めて、すべてのアカウントをこのグループから削除します。</p></td>
+<td style="border:1px solid black;"><strong><em>Guests</em></strong></td>
+<td style="border:1px solid black;">スタンドアロン Professional:
+Guest
+スタンドアロン Server:
+Guest
+TsInternetUser
+ドメイン メンバ:
+上記に Domain Guests を追加します。</td>
+<td style="border:1px solid black;">このグループは使用しません。Guest も含めて、すべてのアカウントをこのグループから削除します。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>Power Users</em></strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>このグループに管理者以外のアカウントを追加してはいけません。</p></td>
+<td style="border:1px solid black;"><strong><em>Power Users</em></strong></td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">このグループに管理者以外のアカウントを追加してはいけません。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>Replicator</em></strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>このグループに管理者以外のアカウントを追加してはいけません。</p></td>
+<td style="border:1px solid black;"><strong><em>Replicator</em></strong></td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">このグループに管理者以外のアカウントを追加してはいけません。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>Users</em></strong></p></td>
-<td style="border:1px solid black;"><p>スタンドアロン:</p>
-<p>Authenticated Users</p>
-<p>INTERACTIVE</p>
-<p>(既定ではすべての新しいユーザーが追加されます)</p>
-<p>ドメインメンバ:</p>
-<p>Authenticated Users</p>
-<p>Domain Users</p>
-<p>INTERACTIVE</p>
-<p>(既定ではすべての新しいユーザーが追加されます)</p></td>
-<td style="border:1px solid black;"><p>認証を受けずにアクセスする潜在的な可能性のあるアカウント (Guest など) をこのグループに追加してはいけません。</p></td>
+<td style="border:1px solid black;"><strong><em>Users</em></strong></td>
+<td style="border:1px solid black;">スタンドアロン:
+Authenticated Users
+INTERACTIVE
+(既定ではすべての新しいユーザーが追加されます)
+ドメインメンバ:
+Authenticated Users
+Domain Users
+INTERACTIVE
+(既定ではすべての新しいユーザーが追加されます)</td>
+<td style="border:1px solid black;">認証を受けずにアクセスする潜在的な可能性のあるアカウント (Guest など) をこのグループに追加してはいけません。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>システム グループ</strong></p></td>
-<td style="border:1px solid black;"><p><strong>既定のメンバ</strong></p></td>
-<td style="border:1px solid black;"><p><strong>修正 / 検証</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>システム グループ</strong></td>
+<td style="border:1px solid black;"><strong>既定のメンバ</strong></td>
+<td style="border:1px solid black;"><strong>修正 / 検証</strong></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>Anonymous Logon</em></strong></p></td>
-<td style="border:1px solid black;"><p>認証されていないすべてのユーザー</p></td>
-<td style="border:1px solid black;"><p>このグループは使用しません。このグループにはリソースへのアクセス許可またはユーザー権限を与えてはいけません。</p></td>
+<td style="border:1px solid black;"><strong><em>Anonymous Logon</em></strong></td>
+<td style="border:1px solid black;">認証されていないすべてのユーザー</td>
+<td style="border:1px solid black;">このグループは使用しません。このグループにはリソースへのアクセス許可またはユーザー権限を与えてはいけません。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>Authenticated Users</em></strong></p></td>
-<td style="border:1px solid black;"><p>認証されているすべてのユーザー</p></td>
-<td style="border:1px solid black;"><p>リソースへの潜在的な匿名アクセスを防止するために、Everyone の代りに、Authenticated Users グループを使用します。</p></td>
+<td style="border:1px solid black;"><strong><em>Authenticated Users</em></strong></td>
+<td style="border:1px solid black;">認証されているすべてのユーザー</td>
+<td style="border:1px solid black;">リソースへの潜在的な匿名アクセスを防止するために、Everyone の代りに、Authenticated Users グループを使用します。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>DIALUP</em></strong></p></td>
-<td style="border:1px solid black;"><p>すべてのダイアルイン ユーザー</p></td>
-<td style="border:1px solid black;"><p>ダイアルアップ サービスをサポートすることは TOE の目的ではありません。したがって、このグループにはリソースへのアクセス許可またはユーザー権限を与えてはいけません。</p></td>
+<td style="border:1px solid black;"><strong><em>DIALUP</em></strong></td>
+<td style="border:1px solid black;">すべてのダイアルイン ユーザー</td>
+<td style="border:1px solid black;">ダイアルアップ サービスをサポートすることは TOE の目的ではありません。したがって、このグループにはリソースへのアクセス許可またはユーザー権限を与えてはいけません。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong><em>Everyone</em></strong></p></td>
-<td style="border:1px solid black;"><p>ローカル、ネットワークまたは RAS を通じてコンピュータにアクセスする、すべてのユーザー。その中には、認証されているユーザーも認証されていないユーザーも、すべて含まれます。</p></td>
-<td style="border:1px solid black;"><p>このグループにはリソースへのアクセス許可またはユーザー権限を与えてはいけません。必要に応じて、Authenticated Users または特定のユーザー アカウントおよびユーザー グループを使用します。</p></td>
+<td style="border:1px solid black;"><strong><em>Everyone</em></strong></td>
+<td style="border:1px solid black;">ローカル、ネットワークまたは RAS を通じてコンピュータにアクセスする、すべてのユーザー。その中には、認証されているユーザーも認証されていないユーザーも、すべて含まれます。</td>
+<td style="border:1px solid black;">このグループにはリソースへのアクセス許可またはユーザー権限を与えてはいけません。必要に応じて、Authenticated Users または特定のユーザー アカウントおよびユーザー グループを使用します。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>TERMINAL SERVER USER</em></strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>Terminal Service をサポートすることは TOE の目的ではありません。したがって、このアカウントにはリソースへのアクセス許可またはユーザー権限を与えてはいけません。</p></td>
+<td style="border:1px solid black;"><strong><em>TERMINAL SERVER USER</em></strong></td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">Terminal Service をサポートすることは TOE の目的ではありません。したがって、このアカウントにはリソースへのアクセス許可またはユーザー権限を与えてはいけません。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 </tbody>
 </table>
@@ -3073,7 +3073,7 @@ Windows 2000 ベースのコンピュータに関するAlerter サービスの�
   
 **表 3.10 既定のユーザー アカウント**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="12%" />
@@ -3087,67 +3087,67 @@ Windows 2000 ベースのコンピュータに関するAlerter サービスの�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>ユーザー アカウントの修正</p></th>
-<th><p> </p></th>
-<th><p> </p></th>
-<th><p>Professional</p></th>
-<th><p>Server</p></th>
-<th><p>DC</p></th>
-<th><p>必須</p></th>
-<th><p>推奨</p></th>
+<th>ユーザー アカウントの修正</th>
+<th> </th>
+<th> </th>
+<th>Professional</th>
+<th>Server</th>
+<th>DC</th>
+<th>必須</th>
+<th>推奨</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>ローカル ユーザー アカウント</strong></p></td>
-<td style="border:1px solid black;"><p><strong>説明</strong></p></td>
-<td style="border:1px solid black;"><p><strong>修正 / 検証</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>ローカル ユーザー アカウント</strong></td>
+<td style="border:1px solid black;"><strong>説明</strong></td>
+<td style="border:1px solid black;"><strong>修正 / 検証</strong></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong><em>Administrator</em></strong></p></td>
-<td style="border:1px solid black;"><p>コンピュータ/ドメインを管理するために組み込まれているアカウントです。</p></td>
-<td style="border:1px solid black;"><p>日常の管理にはこのアカウントを使用しません。権限を与えられた管理者のユーザー アカウントを責任のレベルに適する管理グループに含めることにより、その管理者に役割を割り当てます。Administrator アカウントの名前を変更し、パスワードで保護して、緊急時にのみ使用するようにします。</p></td>
+<td style="border:1px solid black;"><strong><em>Administrator</em></strong></td>
+<td style="border:1px solid black;">コンピュータ/ドメインを管理するために組み込まれているアカウントです。</td>
+<td style="border:1px solid black;">日常の管理にはこのアカウントを使用しません。権限を与えられた管理者のユーザー アカウントを責任のレベルに適する管理グループに含めることにより、その管理者に役割を割り当てます。Administrator アカウントの名前を変更し、パスワードで保護して、緊急時にのみ使用するようにします。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>Guest</strong></p></td>
-<td style="border:1px solid black;"><p>コンピュータ/ドメインへのゲスト アクセス用に組み込まれているアカウントです。</p></td>
-<td style="border:1px solid black;"><p>このアカウントは無効にしておかなければなりません。</p></td>
+<td style="border:1px solid black;"><strong>Guest</strong></td>
+<td style="border:1px solid black;">コンピュータ/ドメインへのゲスト アクセス用に組み込まれているアカウントです。</td>
+<td style="border:1px solid black;">このアカウントは無効にしておかなければなりません。</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>TsInternetUser</strong></p></td>
-<td style="border:1px solid black;"><p>Terminal Service によって使用されるユーザー アカウントです。Windows 2000 Server 上で Terminal Service のインターネット コネクタ ライセンスによって使用されます。インターネット コネクタ ライセンスが有効に設定されていると、Windows 2000 ベースのサーバーは匿名の接続を 200 件だけ受け付けます。Terminal Service のクライアントにログオン ダイアログ ボックスが提示されることはありません。Terminal Service のクライアントは TsInternetUser アカウントを用いて自動的にログオンされます。</p></td>
-<td style="border:1px solid black;"><p>Terminal Service は評価された構成の目的ではありません。また、匿名アクセスをサポートするアカウントは許可されるべきではありません。したがって、このアカウントを無効にします。</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>TsInternetUser</strong></td>
+<td style="border:1px solid black;">Terminal Service によって使用されるユーザー アカウントです。Windows 2000 Server 上で Terminal Service のインターネット コネクタ ライセンスによって使用されます。インターネット コネクタ ライセンスが有効に設定されていると、Windows 2000 ベースのサーバーは匿名の接続を 200 件だけ受け付けます。Terminal Service のクライアントにログオン ダイアログ ボックスが提示されることはありません。Terminal Service のクライアントは TsInternetUser アカウントを用いて自動的にログオンされます。</td>
+<td style="border:1px solid black;">Terminal Service は評価された構成の目的ではありません。また、匿名アクセスをサポートするアカウントは許可されるべきではありません。したがって、このアカウントを無効にします。</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 </tbody>
 </table>
@@ -3202,7 +3202,7 @@ Windows 2000 Server または Professional オペレーティング システム
   
 **表 3.11 評価された構成に受け入れられるサービス**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -3211,49 +3211,49 @@ Windows 2000 Server または Professional オペレーティング システム
 <thead>
 <tr class="header">
 <th>評価されたサービスの一覧</th>
-<th><p></p></th>
+<th></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Alerter サービス</p>
-<p>COM+ イベント システム</p>
-<p>コンピュータ ブラウザ</p>
-<p>DHCP クライアント</p>
-<p>DHCP サーバー</p>
-<p>分散ファイル システム (DFS)</p>
-<p>DNS クライアント</p>
-<p>DNS サーバー</p>
-<p>イベント ログ</p>
-<p>ファイル複製サービス</p>
-<p>サイト間メッセージング</p>
-<p>IPSec ポリシー エージェント</p>
-<p>Kerberos キー配布センター</p>
-<p>論理ディスク マネージャ</p>
-<p>論理ディスク マネージャ管理サービス</p>
-<p>メッセンジャ</p>
-<p>ネット ログオン</p></td>
-<td style="border:1px solid black;"><p>ネットワーク接続</p>
-<p>NTLM セキュリティ サポート プロバイダ</p>
-<p>プラグ アンド プレイ</p>
-<p>印刷スプーラ</p>
-<p>保護された記憶域</p>
-<p>リモート プロシージャ コール (RPC)</p>
-<p>リモート プロシージャ コール (RPC) ロケータ</p>
-<p>リモート レジストリ サービス</p>
-<p>セキュリティ アカウント マネージャ</p>
-<p>サーバー</p>
-<p>システム イベント通知</p>
-<p>TCP/IP NetBIOS ヘルパ サービス</p>
-<p>Windows インターネット ネーム サービス (WINS)</p>
-<p>Windows Management Instrumentation</p>
-<p>Windows Management Instrumentation のドライバ拡張</p>
-<p>Windows Time</p>
-<p>ワークステーション</p></td>
+<td style="border:1px solid black;">Alerter サービス
+COM+ イベント システム
+コンピュータ ブラウザ
+DHCP クライアント
+DHCP サーバー
+分散ファイル システム (DFS)
+DNS クライアント
+DNS サーバー
+イベント ログ
+ファイル複製サービス
+サイト間メッセージング
+IPSec ポリシー エージェント
+Kerberos キー配布センター
+論理ディスク マネージャ
+論理ディスク マネージャ管理サービス
+メッセンジャ
+ネット ログオン</td>
+<td style="border:1px solid black;">ネットワーク接続
+NTLM セキュリティ サポート プロバイダ
+プラグ アンド プレイ
+印刷スプーラ
+保護された記憶域
+リモート プロシージャ コール (RPC)
+リモート プロシージャ コール (RPC) ロケータ
+リモート レジストリ サービス
+セキュリティ アカウント マネージャ
+サーバー
+システム イベント通知
+TCP/IP NetBIOS ヘルパ サービス
+Windows インターネット ネーム サービス (WINS)
+Windows Management Instrumentation
+Windows Management Instrumentation のドライバ拡張
+Windows Time
+ワークステーション</td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 [](#mainsection)[ページのトップへ](#mainsection)
 
@@ -3307,7 +3307,7 @@ Windows 2000 Server または Professional オペレーティング システム
 
 **表 3.12 ファイルおよびフォルダへのアクセス許可の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -3318,462 +3318,462 @@ Windows 2000 Server または Professional オペレーティング システム
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>ファイルおよびフォルダ</p></th>
-<th><p>ACL の設定</p></th>
-<th><p>継承メソッド (セキュリティ ポリシー ツールを通じて使用)</p></th>
-<th><p>必須</p></th>
-<th><p>推奨</p></th>
+<th>ファイルおよびフォルダ</th>
+<th>ACL の設定</th>
+<th>継承メソッド (セキュリティ ポリシー ツールを通じて使用)</th>
+<th>必須</th>
+<th>推奨</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>C:\autoexec.bat</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り、実行</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
+<td style="border:1px solid black;">C:\autoexec.bat</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り、実行</td>
+<td style="border:1px solid black;">上書き</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>C:\boot.ini</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
+<td style="border:1px solid black;">C:\boot.ini</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">上書き</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>C:\config.sys</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り、実行</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
+<td style="border:1px solid black;">C:\config.sys</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り、実行</td>
+<td style="border:1px solid black;">上書き</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>C:\ntbootdd.sys</p>
-<p><strong>注意</strong> : SCSI が利用可能なときに使用します。</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">C:\ntbootdd.sys
+<strong>注意</strong> : SCSI が利用可能なときに使用します。</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>C:\ntdetect.com</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">C:\ntdetect.com</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>C:\ntldr</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">C:\ntldr</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%ProgramFiles%</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール</p>
-<p>(サブフォルダおよびファイル)</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り、実行</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%ProgramFiles%</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>CREATOR OWNER:</strong> フル コントロール
+(サブフォルダおよびファイル)
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り、実行</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemDirectory%</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール</p>
-<p>(サブフォルダおよびファイル)</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り、実行</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>CREATOR OWNER:</strong> フル コントロール
+(サブフォルダおよびファイル)
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り、実行</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemDirectory%\appmgmt</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り、実行</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\appmgmt</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り、実行</td>
+<td style="border:1px solid black;">継承</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemDirectory%\config</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\config</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemDirectory%\dllcache</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\dllcache</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>CREATOR OWNER:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemDirectory%\DTCLog</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール</p>
-<p>(サブフォルダおよびファイル)</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り、実行</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\DTCLog</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>CREATOR OWNER:</strong> フル コントロール
+(サブフォルダおよびファイル)
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り、実行</td>
+<td style="border:1px solid black;">継承</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemDirectory%\GroupPolicy</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>Authenticated Users:</strong> 読み取り、実行</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\GroupPolicy</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>Authenticated Users:</strong> 読み取り、実行
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">継承</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemDirectory%\ias</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\ias</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>CREATOR OWNER:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemDirectory%\Ntbackup.exe</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\Ntbackup.exe</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemDirectory%\NTMSData</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\NTMSData</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">継承</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemDirectory%\rcp.exe</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\rcp.exe</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemDirectory%\Regedt32.exe</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\Regedt32.exe</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemDirectory%\repl</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り、実行</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\repl</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り、実行</td>
+<td style="border:1px solid black;">継承</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemDirectory%\repl\export</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール</p>
-<p><strong>Replicator:</strong> 読み取り、実行</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り、実行</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\repl\export</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>CREATOR OWNER:</strong> フル コントロール
+<strong>Replicator:</strong> 読み取り、実行
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り、実行</td>
+<td style="border:1px solid black;">継承</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemDirectory%\repl\import</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>Replicator:</strong> Modify</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り、実行</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\repl\import</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>Replicator:</strong> Modify
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り、実行</td>
+<td style="border:1px solid black;">継承</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemDirectory%\rexec.exe</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\rexec.exe</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemDirectory%\rsh.exe</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\rsh.exe</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemDirectory%\secedit.exe</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\secedit.exe</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemDirectory%\Setup</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り、実行</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\Setup</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り、実行</td>
+<td style="border:1px solid black;">継承</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemDirectory%\spool\Printers</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール</p>
-<p>(サブフォルダおよびファイル)</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> フォルダのスキャン、属性の読み取り、拡張属性の読み取り、ファイルの作成、フォルダの作成</p>
-<p>(フォルダおよびサブフォルダ)</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDirectory%\spool\Printers</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>CREATOR OWNER:</strong> フル コントロール
+(サブフォルダおよびファイル)
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> フォルダのスキャン、属性の読み取り、拡張属性の読み取り、ファイルの作成、フォルダの作成
+(フォルダおよびサブフォルダ)</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemDrive%</p>
-<p><strong>注意</strong> : Windows 2000 オペレーティング システムがインストールされているドライブ</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール</p>
-<p>(サブフォルダおよびファイル)</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り、実行</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDrive%
+<strong>注意</strong> : Windows 2000 オペレーティング システムがインストールされているドライブ</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>CREATOR OWNER:</strong> フル コントロール
+(サブフォルダおよびファイル)
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り、実行</td>
+<td style="border:1px solid black;">継承</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemDrive%\Documents and Settings</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り、実行</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDrive%\Documents and Settings</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り、実行</td>
+<td style="border:1px solid black;">継承</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemDrive%\Documents and Settings\</p>
-<p>Administrator</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDrive%\Documents and Settings\
+Administrator</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemDrive%\Documents and Settings\</p>
-<p>All Users</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り、実行</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDrive%\Documents and Settings\
+All Users</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り、実行</td>
+<td style="border:1px solid black;">継承</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemDrive%\Documents and Settings\</p>
-<p>All Users\Documents\DrWatson</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール</p>
-<p>(サブフォルダおよびファイル)</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> フォルダのスキャン、ファイルの作成、フォルダの作成</p>
-<p>(フォルダおよびサブフォルダ)</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
+<td style="border:1px solid black;">%SystemDrive%\Documents and Settings\
+All Users\Documents\DrWatson</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>CREATOR OWNER:</strong> フル コントロール
+(サブフォルダおよびファイル)
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> フォルダのスキャン、ファイルの作成、フォルダの作成
+(フォルダおよびサブフォルダ)</td>
+<td style="border:1px solid black;">上書き</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemDrive%\Documents and Settings\</p>
-<p>All Users\Documents\DrWatson\</p>
-<p>drwtsn32.log</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 修正</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
+<td style="border:1px solid black;">%SystemDrive%\Documents and Settings\
+All Users\Documents\DrWatson\
+drwtsn32.log</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>CREATOR OWNER:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 修正</td>
+<td style="border:1px solid black;">上書き</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemDrive%\io.sys</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り、実行</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDrive%\io.sys</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り、実行</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemDrive%\msdos.sys</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り、実行</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemDrive%\msdos.sys</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り、実行</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemDrive%\Temp</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール</p>
-<p>(サブフォルダおよびファイル)</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> フォルダのスキャン、ファイルの作成、フォルダの作成</p>
-<p>(フォルダおよびサブフォルダ)</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
+<td style="border:1px solid black;">%SystemDrive%\Temp</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>CREATOR OWNER:</strong> フル コントロール
+(サブフォルダおよびファイル)
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> フォルダのスキャン、ファイルの作成、フォルダの作成
+(フォルダおよびサブフォルダ)</td>
+<td style="border:1px solid black;">上書き</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemRoot%</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール</p>
-<p>(サブフォルダおよびファイル)</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り、実行</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemRoot%</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>CREATOR OWNER:</strong> フル コントロール
+(サブフォルダおよびファイル)
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り、実行</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemRoot%\$NtServicePackUninstall$</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemRoot%\$NtServicePackUninstall$</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemRoot%\debug</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール</p>
-<p>(サブフォルダおよびファイル)</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り、実行</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemRoot%\debug</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>CREATOR OWNER:</strong> フル コントロール
+(サブフォルダおよびファイル)
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り、実行</td>
+<td style="border:1px solid black;">継承</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemRoot%\debug\UserMode</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> (フォルダのみ) - フォルダのスキャン、フォルダの一覧、ファイルの作成。 (ファイルのみ) – ファイルの作成、フォルダの作成</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemRoot%\debug\UserMode</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> (フォルダのみ) - フォルダのスキャン、フォルダの一覧、ファイルの作成。 (ファイルのみ) – ファイルの作成、フォルダの作成</td>
+<td style="border:1px solid black;">継承</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemRoot%\regedit.exe</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemRoot%\regedit.exe</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemRoot%\Registration</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemRoot%\Registration</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り</td>
+<td style="border:1px solid black;">継承</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemRoot%\repair</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">%SystemRoot%\repair</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">上書き</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>%SystemRoot%\ Temp</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール</p>
-<p>(サブフォルダおよびファイル)</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> フォルダのスキャン、ファイルの作成、フォルダの作成</p>
-<p>(フォルダおよびサブフォルダ)</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
+<td style="border:1px solid black;">%SystemRoot%\ Temp</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>CREATOR OWNER:</strong> フル コントロール
+(サブフォルダおよびファイル)
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> フォルダのスキャン、ファイルの作成、フォルダの作成
+(フォルダおよびサブフォルダ)</td>
+<td style="border:1px solid black;">上書き</td>
 <td style="border:1px solid black;"> 
-<p><img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<img src="images/Dd277455.check(ja-jp,TechNet.10).gif" /></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 </tbody>
 </table>
@@ -3844,7 +3844,7 @@ Windows 2000 Server または Professional オペレーティング システム
   
 **表 3.13 レジストリへのアクセス許可に関して必須の変更**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -3853,136 +3853,136 @@ Windows 2000 Server または Professional オペレーティング システム
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>レジストリ キー</p></th>
-<th><p>サブキー ACL の設定     特殊 (読み取り、書き込み、削除) = 値の照会、値の設定、サブキーの作成、サブキーの列挙、通知、削除、読み取り制御     読み取り = 値の照会、サブキーの列挙、通知、読み取り制御     別に注記しない限り、[このキーとサブキー] に適用します。</p></th>
-<th><p>継承メソッド (セキュリティ ポリシー ツールを通じて使用)</p></th>
+<th>レジストリ キー</th>
+<th>サブキー ACL の設定     特殊 (読み取り、書き込み、削除) = 値の照会、値の設定、サブキーの作成、サブキーの列挙、通知、削除、読み取り制御     読み取り = 値の照会、サブキーの列挙、通知、読み取り制御     別に注記しない限り、[このキーとサブキー] に適用します。</th>
+<th>継承メソッド (セキュリティ ポリシー ツールを通じて使用)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKEY_LOCAL_MACHINE</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>HKEY_LOCAL_MACHINE</strong></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>\SOFTWARE</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール (サブキーのみ)</p>
-<p><strong>Power Users</strong>: 特殊 (読み取り、書き込み、削除)</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
+<td style="border:1px solid black;">\SOFTWARE</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>CREATOR OWNER:</strong> フル コントロール (サブキーのみ)
+<strong>Power Users</strong>: 特殊 (読み取り、書き込み、削除)
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り</td>
+<td style="border:1px solid black;">継承</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>\SOFTWARE\classes</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>Authenticated Users:</strong> 読み取り</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール (サブキーのみ)</p>
-<p><strong>Power Users:</strong> 特殊 (読み取り、書き込み、削除)</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
+<td style="border:1px solid black;">\SOFTWARE\classes</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>Authenticated Users:</strong> 読み取り
+<strong>CREATOR OWNER:</strong> フル コントロール (サブキーのみ)
+<strong>Power Users:</strong> 特殊 (読み取り、書き込み、削除)
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り</td>
+<td style="border:1px solid black;">継承</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>\SOFTWARE\classes\.hlp</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>Authenticated Users:</strong> 読み取り</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール (サブキーのみ)</p>
-<p><strong>Power Users:</strong> 特殊 (読み取り、書き込み、削除)</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
+<td style="border:1px solid black;">\SOFTWARE\classes\.hlp</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>Authenticated Users:</strong> 読み取り
+<strong>CREATOR OWNER:</strong> フル コントロール (サブキーのみ)
+<strong>Power Users:</strong> 特殊 (読み取り、書き込み、削除)
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り</td>
+<td style="border:1px solid black;">継承</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>\SOFTWARE\classes\helpfile</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>Authenticated Users:</strong> 読み取り</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール (サブキーのみ)</p>
-<p><strong>Power Users:</strong> 特殊 (読み取り、書き込み、削除)</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
+<td style="border:1px solid black;">\SOFTWARE\classes\helpfile</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>Authenticated Users:</strong> 読み取り
+<strong>CREATOR OWNER:</strong> フル コントロール (サブキーのみ)
+<strong>Power Users:</strong> 特殊 (読み取り、書き込み、削除)
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り</td>
+<td style="border:1px solid black;">継承</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>\SOFTWARE\Microsoft\OS/2 Subsystem for NT</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール (サブキーのみ)</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
+<td style="border:1px solid black;">\SOFTWARE\Microsoft\OS/2 Subsystem for NT</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>CREATOR OWNER:</strong> フル コントロール (サブキーのみ)
+<strong>SYSTEM:</strong> フル コントロール</td>
+<td style="border:1px solid black;">継承</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>\SOFTWARE\Microsoft\Windows NT\CurrentVersion</p></td>
-<td style="border:1px solid black;"><p><strong>Authenticated Users:</strong> 読み取り</p>
-<p><strong>注意</strong> : Everyone を Authenticated Users で置き換えます。継承した ACL はすべて残ります。</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
+<td style="border:1px solid black;">\SOFTWARE\Microsoft\Windows NT\CurrentVersion</td>
+<td style="border:1px solid black;"><strong>Authenticated Users:</strong> 読み取り
+<strong>注意</strong> : Everyone を Authenticated Users で置き換えます。継承した ACL はすべて残ります。</td>
+<td style="border:1px solid black;">継承</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>\SYSTEM\CurrentControlSet\ Control\ComputerName</p></td>
-<td style="border:1px solid black;"><p><strong>Authenticated Users:</strong> 読み取り</p>
-<p><strong>注意</strong> Everyone を Authenticated Users で置き換えます。継承した ACL はすべて残ります。</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
+<td style="border:1px solid black;">\SYSTEM\CurrentControlSet\ Control\ComputerName</td>
+<td style="border:1px solid black;"><strong>Authenticated Users:</strong> 読み取り
+<strong>注意</strong> Everyone を Authenticated Users で置き換えます。継承した ACL はすべて残ります。</td>
+<td style="border:1px solid black;">継承</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>\SYSTEM\currentcontrolset\control \ContentIndex</p></td>
-<td style="border:1px solid black;"><p><strong>Authenticated Users:</strong> 読み取り</p>
-<p><strong>注意</strong> : Everyone を Authenticated Users で置き換えます。継承した ACL はすべて残ります。</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
+<td style="border:1px solid black;">\SYSTEM\currentcontrolset\control \ContentIndex</td>
+<td style="border:1px solid black;"><strong>Authenticated Users:</strong> 読み取り
+<strong>注意</strong> : Everyone を Authenticated Users で置き換えます。継承した ACL はすべて残ります。</td>
+<td style="border:1px solid black;">継承</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>\SYSTEM\CurrentControlSet\ Control\Keyboard Layout</p></td>
-<td style="border:1px solid black;"><p><strong>Authenticated Users:</strong> 読み取り</p>
-<p><strong>注意</strong> : Everyone を Authenticated Users で置き換えます。継承した ACL はすべて残ります。</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
+<td style="border:1px solid black;">\SYSTEM\CurrentControlSet\ Control\Keyboard Layout</td>
+<td style="border:1px solid black;"><strong>Authenticated Users:</strong> 読み取り
+<strong>注意</strong> : Everyone を Authenticated Users で置き換えます。継承した ACL はすべて残ります。</td>
+<td style="border:1px solid black;">継承</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>\SYSTEM\CurrentControlSet\ Control\Keyboard Layouts</p></td>
-<td style="border:1px solid black;"><p><strong>Authenticated Users:</strong> 読み取り</p>
-<p><strong>注意</strong> : Everyone を Authenticated Users で置き換えます。継承した ACL はすべて残ります。</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
+<td style="border:1px solid black;">\SYSTEM\CurrentControlSet\ Control\Keyboard Layouts</td>
+<td style="border:1px solid black;"><strong>Authenticated Users:</strong> 読み取り
+<strong>注意</strong> : Everyone を Authenticated Users で置き換えます。継承した ACL はすべて残ります。</td>
+<td style="border:1px solid black;">継承</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>\SYSTEM\CurrentControlSet\ Control\Print\Printers</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>Authenticated Users:</strong> 読み取り</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール (サブキーのみ)</p>
-<p><strong>Power Users:</strong> 特殊 (読み取り、書き込み、削除)</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り</p></td>
-<td style="border:1px solid black;"><p>上書き</p></td>
+<td style="border:1px solid black;">\SYSTEM\CurrentControlSet\ Control\Print\Printers</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>Authenticated Users:</strong> 読み取り
+<strong>CREATOR OWNER:</strong> フル コントロール (サブキーのみ)
+<strong>Power Users:</strong> 特殊 (読み取り、書き込み、削除)
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り</td>
+<td style="border:1px solid black;">上書き</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>\SYSTEM\CurrentControlSet\ Control\ProductOptions</p></td>
-<td style="border:1px solid black;"><p><strong>Authenticated Users:</strong> 読み取り</p>
-<p><strong>注意</strong> : Everyone を Authenticated Users で置き換えます。継承した ACL はすべて残ります。</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
+<td style="border:1px solid black;">\SYSTEM\CurrentControlSet\ Control\ProductOptions</td>
+<td style="border:1px solid black;"><strong>Authenticated Users:</strong> 読み取り
+<strong>注意</strong> : Everyone を Authenticated Users で置き換えます。継承した ACL はすべて残ります。</td>
+<td style="border:1px solid black;">継承</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>\SYSTEM\CurrentControlSet\ Services\Eventlog</p></td>
-<td style="border:1px solid black;"><p><strong>Authenticated Users:</strong> 読み取り</p>
-<p><strong>注意</strong> : Everyone を Authenticated Users で置き換えます。継承した ACL はすべて残ります。</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
+<td style="border:1px solid black;">\SYSTEM\CurrentControlSet\ Services\Eventlog</td>
+<td style="border:1px solid black;"><strong>Authenticated Users:</strong> 読み取り
+<strong>注意</strong> : Everyone を Authenticated Users で置き換えます。継承した ACL はすべて残ります。</td>
+<td style="border:1px solid black;">継承</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>\SYSTEM\CurrentControlSet\ Services\Tcpip</p></td>
-<td style="border:1px solid black;"><p><strong>Authenticated Users:</strong> 読み取り</p>
-<p><strong>注意</strong> : Everyone を Authenticated Users で置き換えます。継承した ACL はすべて残ります。</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
+<td style="border:1px solid black;">\SYSTEM\CurrentControlSet\ Services\Tcpip</td>
+<td style="border:1px solid black;"><strong>Authenticated Users:</strong> 読み取り
+<strong>注意</strong> : Everyone を Authenticated Users で置き換えます。継承した ACL はすべて残ります。</td>
+<td style="border:1px solid black;">継承</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKEY_CLASSES_ROOT</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>HKEY_CLASSES_ROOT</strong></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>\HKEY_CLASSES_ROOT</p>
-<p><strong>注意</strong> : このキーは HKEY_LOCAL_MACHINE \SOFTWARE\Classes のエイリアスです。</p></td>
-<td style="border:1px solid black;"><p><strong>Administrators:</strong> フル コントロール</p>
-<p><strong>Authenticated Users:</strong> 読み取り</p>
-<p><strong>CREATOR OWNER:</strong> フル コントロール (サブキーのみ)</p>
-<p><strong>Power Users:</strong> 特殊 (読み取り、書き込み、削除)</p>
-<p><strong>SYSTEM:</strong> フル コントロール</p>
-<p><strong>Users:</strong> 読み取り</p></td>
-<td style="border:1px solid black;"><p>継承</p></td>
+<td style="border:1px solid black;">\HKEY_CLASSES_ROOT
+<strong>注意</strong> : このキーは HKEY_LOCAL_MACHINE \SOFTWARE\Classes のエイリアスです。</td>
+<td style="border:1px solid black;"><strong>Administrators:</strong> フル コントロール
+<strong>Authenticated Users:</strong> 読み取り
+<strong>CREATOR OWNER:</strong> フル コントロール (サブキーのみ)
+<strong>Power Users:</strong> 特殊 (読み取り、書き込み、削除)
+<strong>SYSTEM:</strong> フル コントロール
+<strong>Users:</strong> 読み取り</td>
+<td style="border:1px solid black;">継承</td>
 </tr>
 </tbody>
 </table>

@@ -6,7 +6,7 @@ ms:contentKeyID: 19870063
 ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362367(v=MSDN.10)'
 ---
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -23,7 +23,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362367(v=MSDN.10)'
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 ツールやセキュリティ強化ガイド、その他こちらで紹介しているリソースを使って、Web サーバーと Web アプリケーションのセキュリティをいかに向上させていくかについて説明します。
 

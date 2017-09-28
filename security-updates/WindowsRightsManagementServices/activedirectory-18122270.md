@@ -43,7 +43,7 @@ RMS サービスとクライアントは、ローカル レジストリからサ
 
 ###  
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -59,14 +59,14 @@ RMS サービスとクライアントは、ローカル レジストリからサ
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>SubEnrollmentURL</p></td>
-<td style="border:1px solid black;"><p>String</p></td>
-<td style="border:1px solid black;"><p>http(または https)://<em>サーバー名</em>/_wmcs/certification/subenrollservice.asmx</p></td>
+<td style="border:1px solid black;">SubEnrollmentURL</td>
+<td style="border:1px solid black;">String</td>
+<td style="border:1px solid black;">http(または https)://<em>サーバー名</em>/_wmcs/certification/subenrollservice.asmx</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>GicURL</p></td>
-<td style="border:1px solid black;"><p>String</p></td>
-<td style="border:1px solid black;"><p>http(または https)://<em>サーバー名</em>/_wmcs/certification/certification.asmx</p></td>
+<td style="border:1px solid black;">GicURL</td>
+<td style="border:1px solid black;">String</td>
+<td style="border:1px solid black;">http(または https)://<em>サーバー名</em>/_wmcs/certification/certification.asmx</td>
 </tr>
 </tbody>
 </table>
@@ -98,7 +98,7 @@ RMS サービスとクライアントは、ローカル レジストリからサ
   
 ###  
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -114,19 +114,19 @@ RMS サービスとクライアントは、ローカル レジストリからサ
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Activation</p></td>
-<td style="border:1px solid black;"><p>String</p></td>
-<td style="border:1px solid black;"><p>http(または https)://<em>RMS クラスタ名</em>/_wmcs/Certification (<em>RMS クラスタ名</em>は RMS クラスタの名前)</p></td>
+<td style="border:1px solid black;">Activation</td>
+<td style="border:1px solid black;">String</td>
+<td style="border:1px solid black;">http(または https)://<em>RMS クラスタ名</em>/_wmcs/Certification (<em>RMS クラスタ名</em>は RMS クラスタの名前)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>EnterprisePublishing</p></td>
-<td style="border:1px solid black;"><p>String</p></td>
-<td style="border:1px solid black;"><p>http(または https)://<em>RMS クラスタ名</em>/_wmcs/Licensing (<em>RMS クラスタ名</em>は RMS クラスタの名前)</p></td>
+<td style="border:1px solid black;">EnterprisePublishing</td>
+<td style="border:1px solid black;">String</td>
+<td style="border:1px solid black;">http(または https)://<em>RMS クラスタ名</em>/_wmcs/Licensing (<em>RMS クラスタ名</em>は RMS クラスタの名前)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>CloudPublishing</p></td>
-<td style="border:1px solid black;"><p>String</p></td>
-<td style="border:1px solid black;"><p>http(または https)://<em>FQDN クラスタ名</em>/_wmcs/Licensing (<em>FQDN クラスタ名</em>は RMS クラスタの完全修飾ドメイン名)。</p></td>
+<td style="border:1px solid black;">CloudPublishing</td>
+<td style="border:1px solid black;">String</td>
+<td style="border:1px solid black;">http(または https)://<em>FQDN クラスタ名</em>/_wmcs/Licensing (<em>FQDN クラスタ名</em>は RMS クラスタの完全修飾ドメイン名)。</td>
 </tr>
 </tbody>
 </table>

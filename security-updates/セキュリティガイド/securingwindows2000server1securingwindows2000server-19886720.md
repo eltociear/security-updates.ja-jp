@@ -111,7 +111,7 @@ Contoso のメンバ サーバーに適用される基本設定を説明しま�
 
 **表 1.1 Securing Windows 2000 Server Solution のフォルダ構造**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -119,22 +119,22 @@ Contoso のメンバ サーバーに適用される基本設定を説明しま�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>フォルダ</p></th>
-<th><p>説明</p></th>
+<th>フォルダ</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>C:\SCI</p></td>
-<td style="border:1px solid black;"><p>このガイドに含まれている全ファイルのルート フォルダ。</p></td>
+<td style="border:1px solid black;">C:\SCI</td>
+<td style="border:1px solid black;">このガイドに含まれている全ファイルのルート フォルダ。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>C:\SCI\Scripts</p></td>
-<td style="border:1px solid black;"><p>修正プログラムと IPSｅc (インターネット プロトコル セキュリティ) の管理タスクの自動化を支援するスクリプトが含まれています。</p></td>
+<td style="border:1px solid black;">C:\SCI\Scripts</td>
+<td style="border:1px solid black;">修正プログラムと IPSｅc (インターネット プロトコル セキュリティ) の管理タスクの自動化を支援するスクリプトが含まれています。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>C:\SCI\Security Templates</p></td>
-<td style="border:1px solid black;"><p>Contoso シナリオ用のグループ ポリシーにインポートされたセキュリティ テンプレートが含まれています。</p></td>
+<td style="border:1px solid black;">C:\SCI\Security Templates</td>
+<td style="border:1px solid black;">Contoso シナリオ用のグループ ポリシーにインポートされたセキュリティ テンプレートが含まれています。</td>
 </tr>
 </tbody>
 </table>
@@ -212,7 +212,7 @@ Contoso の外部との接続および周辺ネットワークのセキュリテ
   
 このガイドでは、以下のスタイル凡例と用語を使用しています。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -220,34 +220,34 @@ Contoso の外部との接続および周辺ネットワークのセキュリテ
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>要素</p></th>
-<th><p>意味</p></th>
+<th>要素</th>
+<th>意味</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>太字</strong></p></td>
-<td style="border:1px solid black;"><p>コマンドやスイッチなど、記載されたとおりに入力する文字列。ユーザー インターフェイス要素も太字で表記されます。</p></td>
+<td style="border:1px solid black;"><strong>太字</strong></td>
+<td style="border:1px solid black;">コマンドやスイッチなど、記載されたとおりに入力する文字列。ユーザー インターフェイス要素も太字で表記されます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>斜体字</em></p></td>
-<td style="border:1px solid black;"><p>特定の値に置き換えるべき項目を表します。たとえば、Filename.ext は、当該の状況において有効なファイル名を指しています。初めて使用する新しい用語も斜体で表記されます。</p></td>
+<td style="border:1px solid black;"><em>斜体字</em></td>
+<td style="border:1px solid black;">特定の値に置き換えるべき項目を表します。たとえば、Filename.ext は、当該の状況において有効なファイル名を指しています。初めて使用する新しい用語も斜体で表記されます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>固定スペース フォント</p></td>
-<td style="border:1px solid black;"><p>サンプル コード。</p></td>
+<td style="border:1px solid black;">固定スペース フォント</td>
+<td style="border:1px solid black;">サンプル コード。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>%SystemRoot%</p></td>
-<td style="border:1px solid black;"><p>Windows 2000 オペレーティング システムがインストールされているフォルダ。</p></td>
+<td style="border:1px solid black;">%SystemRoot%</td>
+<td style="border:1px solid black;">Windows 2000 オペレーティング システムがインストールされているフォルダ。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>注</strong></p></td>
-<td style="border:1px solid black;"><p>補足的な情報を提供します。</p></td>
+<td style="border:1px solid black;"><strong>注</strong></td>
+<td style="border:1px solid black;">補足的な情報を提供します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>重要</strong></p></td>
-<td style="border:1px solid black;"><p>あるタスクを完了するために不可欠な補足情報を提供します。</p></td>
+<td style="border:1px solid black;"><strong>重要</strong></td>
+<td style="border:1px solid black;">あるタスクを完了するために不可欠な補足情報を提供します。</td>
 </tr>
 </tbody>
 </table>

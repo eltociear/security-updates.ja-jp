@@ -127,7 +127,7 @@ Microsoftｮ Windowsｮ 2000 は、セキュリティ イベントに関して�
 
 **表 9.1 セキュリティ イベント ログに記録されるログオン イベント**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -135,70 +135,70 @@ Microsoftｮ Windowsｮ 2000 は、セキュリティ イベントに関して�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>イベント ID</p></th>
-<th><p>説明</p></th>
+<th>イベント ID</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>528</p></td>
-<td style="border:1px solid black;"><p>ユーザーが正常にコンピュータにログオンしました。</p></td>
+<td style="border:1px solid black;">528</td>
+<td style="border:1px solid black;">ユーザーが正常にコンピュータにログオンしました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>529</p></td>
-<td style="border:1px solid black;"><p>不明なユーザー名で、または既知のユーザー名に対し無効なパスワードでログオンしようとしました。</p></td>
+<td style="border:1px solid black;">529</td>
+<td style="border:1px solid black;">不明なユーザー名で、または既知のユーザー名に対し無効なパスワードでログオンしようとしました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>530</p></td>
-<td style="border:1px solid black;"><p>ユーザー アカウントが認められた時間外にログオンしようとしました。</p></td>
+<td style="border:1px solid black;">530</td>
+<td style="border:1px solid black;">ユーザー アカウントが認められた時間外にログオンしようとしました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>531</p></td>
-<td style="border:1px solid black;"><p>無効なアカウントを使用してログオンしようとしました。</p></td>
+<td style="border:1px solid black;">531</td>
+<td style="border:1px solid black;">無効なアカウントを使用してログオンしようとしました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>532</p></td>
-<td style="border:1px solid black;"><p>期限切れのアカウントを使用してログオンしようとしました。</p></td>
+<td style="border:1px solid black;">532</td>
+<td style="border:1px solid black;">期限切れのアカウントを使用してログオンしようとしました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>533</p></td>
-<td style="border:1px solid black;"><p>このコンピュータへのログオンが認められていないユーザーがログオンしようとしました。</p></td>
+<td style="border:1px solid black;">533</td>
+<td style="border:1px solid black;">このコンピュータへのログオンが認められていないユーザーがログオンしようとしました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>534</p></td>
-<td style="border:1px solid black;"><p>ネットワーク、対話型、バッチ、サービス、リモート対話型など、認められていないログオンの種類を使用してユーザーがログオンしようとしました。</p></td>
+<td style="border:1px solid black;">534</td>
+<td style="border:1px solid black;">ネットワーク、対話型、バッチ、サービス、リモート対話型など、認められていないログオンの種類を使用してユーザーがログオンしようとしました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>535</p></td>
-<td style="border:1px solid black;"><p>指定されたアカウントのパスワードの期限は切れています。</p></td>
+<td style="border:1px solid black;">535</td>
+<td style="border:1px solid black;">指定されたアカウントのパスワードの期限は切れています。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>536</p></td>
-<td style="border:1px solid black;"><p>Net Logon サービスが有効ではありません。</p></td>
+<td style="border:1px solid black;">536</td>
+<td style="border:1px solid black;">Net Logon サービスが有効ではありません。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>537</p></td>
-<td style="border:1px solid black;"><p>その他の理由でログオンが失敗しました。</p></td>
+<td style="border:1px solid black;">537</td>
+<td style="border:1px solid black;">その他の理由でログオンが失敗しました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>538</p></td>
-<td style="border:1px solid black;"><p>ユーザーがログオフしました。</p></td>
+<td style="border:1px solid black;">538</td>
+<td style="border:1px solid black;">ユーザーがログオフしました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>539</p></td>
-<td style="border:1px solid black;"><p>ログオンしようとした時点でアカウントがロックアウトされていました。このイベントは、パスワード攻撃が失敗したためにアカウントがロックアウトされた可能性があることを示しています。</p></td>
+<td style="border:1px solid black;">539</td>
+<td style="border:1px solid black;">ログオンしようとした時点でアカウントがロックアウトされていました。このイベントは、パスワード攻撃が失敗したためにアカウントがロックアウトされた可能性があることを示しています。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>540</p></td>
-<td style="border:1px solid black;"><p>ネットワーク ログオンに成功しました。このイベントは、リモート ユーザーがネットワークからサーバー上のローカル リソースに正常に接続し、そのネットワーク ユーザー用のトークンが生成されたことを示します。</p></td>
+<td style="border:1px solid black;">540</td>
+<td style="border:1px solid black;">ネットワーク ログオンに成功しました。このイベントは、リモート ユーザーがネットワークからサーバー上のローカル リソースに正常に接続し、そのネットワーク ユーザー用のトークンが生成されたことを示します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>682</p></td>
-<td style="border:1px solid black;"><p>ユーザーが切断されたターミナル サービス セッションに再接続しました。このイベントは、以前のターミナル サービス セッションに接続されたことを示します。</p></td>
+<td style="border:1px solid black;">682</td>
+<td style="border:1px solid black;">ユーザーが切断されたターミナル サービス セッションに再接続しました。このイベントは、以前のターミナル サービス セッションに接続されたことを示します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>683</p></td>
-<td style="border:1px solid black;"><p>ユーザーはログオフせずにターミナル サービス セッションを切断しました。このイベントは、ユーザーがネットワーク経由でターミナル サービス セッションに接続した場合に生成されます。このイベントはターミナル サーバー上に記録されます。</p></td>
+<td style="border:1px solid black;">683</td>
+<td style="border:1px solid black;">ユーザーはログオフせずにターミナル サービス セッションを切断しました。このイベントは、ユーザーがネットワーク経由でターミナル サービス セッションに接続した場合に生成されます。このイベントはターミナル サーバー上に記録されます。</td>
 </tr>
 </tbody>
 </table>
@@ -234,7 +234,7 @@ Contoso では、多数のログオン試行の失敗と、多数のアカウン
   
 **表 9.2 イベント ログに記録されるアカウント ログオン イベント**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -242,54 +242,54 @@ Contoso では、多数のログオン試行の失敗と、多数のアカウン
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>イベント ID</p></th>
-<th><p>説明</p></th>
+<th>イベント ID</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>672</p></td>
-<td style="border:1px solid black;"><p>認証サービス (AS) チケットが正常に発行され、検証されました。</p></td>
+<td style="border:1px solid black;">672</td>
+<td style="border:1px solid black;">認証サービス (AS) チケットが正常に発行され、検証されました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>673</p></td>
-<td style="border:1px solid black;"><p>チケット保証サービス (TGS) のチケットが許可されました。</p></td>
+<td style="border:1px solid black;">673</td>
+<td style="border:1px solid black;">チケット保証サービス (TGS) のチケットが許可されました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>674</p></td>
-<td style="border:1px solid black;"><p>セキュリティ プリンシパルが AS チケットまたは TGS チケットを更新しました。</p></td>
+<td style="border:1px solid black;">674</td>
+<td style="border:1px solid black;">セキュリティ プリンシパルが AS チケットまたは TGS チケットを更新しました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>675</p></td>
-<td style="border:1px solid black;"><p>事前認証が失敗しました。</p></td>
+<td style="border:1px solid black;">675</td>
+<td style="border:1px solid black;">事前認証が失敗しました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>676</p></td>
-<td style="border:1px solid black;"><p>認証チケット要求が失敗しました。</p></td>
+<td style="border:1px solid black;">676</td>
+<td style="border:1px solid black;">認証チケット要求が失敗しました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>677</p></td>
-<td style="border:1px solid black;"><p>TGS チケットが許可されませんでした。</p></td>
+<td style="border:1px solid black;">677</td>
+<td style="border:1px solid black;">TGS チケットが許可されませんでした。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>678</p></td>
-<td style="border:1px solid black;"><p>アカウントはドメイン アカウントに正常にマップされました。</p></td>
+<td style="border:1px solid black;">678</td>
+<td style="border:1px solid black;">アカウントはドメイン アカウントに正常にマップされました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>680</p></td>
-<td style="border:1px solid black;"><p>成功したログオンで使用されたアカウントであることを特定しました。このイベントは、アカウントの認証に認証パッケージが使用されたことも示しています。</p></td>
+<td style="border:1px solid black;">680</td>
+<td style="border:1px solid black;">成功したログオンで使用されたアカウントであることを特定しました。このイベントは、アカウントの認証に認証パッケージが使用されたことも示しています。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>681</p></td>
-<td style="border:1px solid black;"><p>ドメイン アカウントのログオンが試行されました。</p></td>
+<td style="border:1px solid black;">681</td>
+<td style="border:1px solid black;">ドメイン アカウントのログオンが試行されました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>682</p></td>
-<td style="border:1px solid black;"><p>ユーザーが切断されたターミナル サービス セッションに再接続しました。</p></td>
+<td style="border:1px solid black;">682</td>
+<td style="border:1px solid black;">ユーザーが切断されたターミナル サービス セッションに再接続しました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>683</p></td>
-<td style="border:1px solid black;"><p>ユーザーは、ログオフせずにターミナル サービス セッションを切断しました。</p></td>
+<td style="border:1px solid black;">683</td>
+<td style="border:1px solid black;">ユーザーは、ログオフせずにターミナル サービス セッションを切断しました。</td>
 </tr>
 </tbody>
 </table>
@@ -316,7 +316,7 @@ Contoso は現在、かなり多くのドメイン ログオン試行の失敗�
   
 **表 9.3 イベント ログに記録されるアカウント管理イベント**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -324,90 +324,90 @@ Contoso は現在、かなり多くのドメイン ログオン試行の失敗�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>イベント ID</p></th>
-<th><p>説明</p></th>
+<th>イベント ID</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>624</p></td>
-<td style="border:1px solid black;"><p>ユーザー アカウントが作成されました。</p></td>
+<td style="border:1px solid black;">624</td>
+<td style="border:1px solid black;">ユーザー アカウントが作成されました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>625</p></td>
-<td style="border:1px solid black;"><p>ユーザー アカウントの種類が変更されました。</p></td>
+<td style="border:1px solid black;">625</td>
+<td style="border:1px solid black;">ユーザー アカウントの種類が変更されました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>626</p></td>
-<td style="border:1px solid black;"><p>ユーザー アカウントが有効にされました。</p></td>
+<td style="border:1px solid black;">626</td>
+<td style="border:1px solid black;">ユーザー アカウントが有効にされました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>627</p></td>
-<td style="border:1px solid black;"><p>パスワードの変更が試行されました。</p></td>
+<td style="border:1px solid black;">627</td>
+<td style="border:1px solid black;">パスワードの変更が試行されました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>628</p></td>
-<td style="border:1px solid black;"><p>ユーザー アカウントのパスワードが設定されました。</p></td>
+<td style="border:1px solid black;">628</td>
+<td style="border:1px solid black;">ユーザー アカウントのパスワードが設定されました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>629</p></td>
-<td style="border:1px solid black;"><p>ユーザー アカウントが無効にされました。</p></td>
+<td style="border:1px solid black;">629</td>
+<td style="border:1px solid black;">ユーザー アカウントが無効にされました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>630</p></td>
-<td style="border:1px solid black;"><p>ユーザー アカウントが削除されました。</p></td>
+<td style="border:1px solid black;">630</td>
+<td style="border:1px solid black;">ユーザー アカウントが削除されました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>631</p></td>
-<td style="border:1px solid black;"><p>セキュリティが有効なグローバル グループが作成されました。</p></td>
+<td style="border:1px solid black;">631</td>
+<td style="border:1px solid black;">セキュリティが有効なグローバル グループが作成されました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>632</p></td>
-<td style="border:1px solid black;"><p>セキュリティが有効なグローバル グループ メンバが追加されました。</p></td>
+<td style="border:1px solid black;">632</td>
+<td style="border:1px solid black;">セキュリティが有効なグローバル グループ メンバが追加されました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>633</p></td>
-<td style="border:1px solid black;"><p>セキュリティが有効なグローバル グループ メンバが削除されました。</p></td>
+<td style="border:1px solid black;">633</td>
+<td style="border:1px solid black;">セキュリティが有効なグローバル グループ メンバが削除されました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>634</p></td>
-<td style="border:1px solid black;"><p>セキュリティが有効なグローバル グループが削除されました。</p></td>
+<td style="border:1px solid black;">634</td>
+<td style="border:1px solid black;">セキュリティが有効なグローバル グループが削除されました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>635</p></td>
-<td style="border:1px solid black;"><p>セキュリティが無効なローカル グループが作成されました。</p></td>
+<td style="border:1px solid black;">635</td>
+<td style="border:1px solid black;">セキュリティが無効なローカル グループが作成されました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>636</p></td>
-<td style="border:1px solid black;"><p>セキュリティが有効なローカル グループ メンバが追加されました。</p></td>
+<td style="border:1px solid black;">636</td>
+<td style="border:1px solid black;">セキュリティが有効なローカル グループ メンバが追加されました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>637</p></td>
-<td style="border:1px solid black;"><p>セキュリティが有効なローカル グループ メンバが削除されました。</p></td>
+<td style="border:1px solid black;">637</td>
+<td style="border:1px solid black;">セキュリティが有効なローカル グループ メンバが削除されました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>638</p></td>
-<td style="border:1px solid black;"><p>セキュリティが有効なローカル グループが削除されました。</p></td>
+<td style="border:1px solid black;">638</td>
+<td style="border:1px solid black;">セキュリティが有効なローカル グループが削除されました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>639</p></td>
-<td style="border:1px solid black;"><p>セキュリティが有効なローカル グループが変更されました。</p></td>
+<td style="border:1px solid black;">639</td>
+<td style="border:1px solid black;">セキュリティが有効なローカル グループが変更されました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>641</p></td>
-<td style="border:1px solid black;"><p>セキュリティが有効なグローバル グループが変更されました。</p></td>
+<td style="border:1px solid black;">641</td>
+<td style="border:1px solid black;">セキュリティが有効なグローバル グループが変更されました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>642</p></td>
-<td style="border:1px solid black;"><p>ユーザー アカウントが変更されました。</p></td>
+<td style="border:1px solid black;">642</td>
+<td style="border:1px solid black;">ユーザー アカウントが変更されました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>643</p></td>
-<td style="border:1px solid black;"><p>ドメイン ポリシーが変更されました。</p></td>
+<td style="border:1px solid black;">643</td>
+<td style="border:1px solid black;">ドメイン ポリシーが変更されました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>644</p></td>
-<td style="border:1px solid black;"><p>ユーザー アカウントがロック アウトされました。</p></td>
+<td style="border:1px solid black;">644</td>
+<td style="border:1px solid black;">ユーザー アカウントがロック アウトされました。</td>
 </tr>
 </tbody>
 </table>
@@ -476,7 +476,7 @@ Windows 2000 での監査は、オブジェクトへのハンドルが開かれ�
   
 **表 9.4 イベント ログに記録されるオブジェクト アクセス イベント**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -484,30 +484,30 @@ Windows 2000 での監査は、オブジェクトへのハンドルが開かれ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>イベント ID</p></th>
-<th><p>説明</p></th>
+<th>イベント ID</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>560</p></td>
-<td style="border:1px solid black;"><p>アクセスは既存のオブジェクトに対して許可されました。</p></td>
+<td style="border:1px solid black;">560</td>
+<td style="border:1px solid black;">アクセスは既存のオブジェクトに対して許可されました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>562</p></td>
-<td style="border:1px solid black;"><p>オブジェクトへのハンドルが閉じられました。</p></td>
+<td style="border:1px solid black;">562</td>
+<td style="border:1px solid black;">オブジェクトへのハンドルが閉じられました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>563</p></td>
-<td style="border:1px solid black;"><p>オブジェクトを削除する目的でオブジェクトを開こうとしました(これは、FILE_DELETE_ON_CLOSE フラグを指定している場合に、ファイル システムによって使用されます)。</p></td>
+<td style="border:1px solid black;">563</td>
+<td style="border:1px solid black;">オブジェクトを削除する目的でオブジェクトを開こうとしました(これは、FILE_DELETE_ON_CLOSE フラグを指定している場合に、ファイル システムによって使用されます)。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>564</p></td>
-<td style="border:1px solid black;"><p>保護されていたオブジェクトが削除されました。</p></td>
+<td style="border:1px solid black;">564</td>
+<td style="border:1px solid black;">保護されていたオブジェクトが削除されました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>565</p></td>
-<td style="border:1px solid black;"><p>アクセスは既存のオブジェクトの種類に対して許可されました。</p></td>
+<td style="border:1px solid black;">565</td>
+<td style="border:1px solid black;">アクセスは既存のオブジェクトの種類に対して許可されました。</td>
 </tr>
 </tbody>
 </table>
@@ -516,7 +516,7 @@ Windows 2000 での監査は、オブジェクトへのハンドルが開かれ�
   
 **表 9.5 オブジェクト アクセス イベント 560 に関連する主な監査操作の実行方法**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -524,22 +524,22 @@ Windows 2000 での監査は、オブジェクトへのハンドルが開かれ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>監査操作</p></th>
-<th><p>実行方法</p></th>
+<th>監査操作</th>
+<th>実行方法</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>特定のファイル、フォルダ、またはオブジェクトの検索</p></td>
-<td style="border:1px solid black;"><p>イベント 560 の詳細で操作を確認するファイルまたはフォルダのフル パスを検索します。</p></td>
+<td style="border:1px solid black;">特定のファイル、フォルダ、またはオブジェクトの検索</td>
+<td style="border:1px solid black;">イベント 560 の詳細で操作を確認するファイルまたはフォルダのフル パスを検索します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>特定のユーザーによる操作の判別</p></td>
-<td style="border:1px solid black;"><p>560 イベントで特定のユーザーを識別するフィルタを定義します。</p></td>
+<td style="border:1px solid black;">特定のユーザーによる操作の判別</td>
+<td style="border:1px solid black;">560 イベントで特定のユーザーを識別するフィルタを定義します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>特定のコンピュータで実行された操作の判別</p></td>
-<td style="border:1px solid black;"><p>560 イベントでタスクが実行された特定のコンピュータ アカウントを識別するフィルタを定義します。</p></td>
+<td style="border:1px solid black;">特定のコンピュータで実行された操作の判別</td>
+<td style="border:1px solid black;">560 イベントでタスクが実行された特定のコンピュータ アカウントを識別するフィルタを定義します。</td>
 </tr>
 </tbody>
 </table>
@@ -594,7 +594,7 @@ Contoso では、すべてのディレクトリ サービス アクセス イベ
   
 **表 9.6 イベント ログに記録される特権使用イベント**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -602,22 +602,22 @@ Contoso では、すべてのディレクトリ サービス アクセス イベ
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>イベント ID</p></th>
-<th><p>説明</p></th>
+<th>イベント ID</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>576</p></td>
-<td style="border:1px solid black;"><p>指定された特権がユーザーのアクセス トークンに追加されました (このイベントは、ユーザーがログオンすると記録されます)。</p></td>
+<td style="border:1px solid black;">576</td>
+<td style="border:1px solid black;">指定された特権がユーザーのアクセス トークンに追加されました (このイベントは、ユーザーがログオンすると記録されます)。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>577</p></td>
-<td style="border:1px solid black;"><p>ユーザーが特権の必要なシステム サービス操作を実行しようとしました。</p></td>
+<td style="border:1px solid black;">577</td>
+<td style="border:1px solid black;">ユーザーが特権の必要なシステム サービス操作を実行しようとしました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>578</p></td>
-<td style="border:1px solid black;"><p>保護されたオブジェクトへの既に開かれているハンドル上で特権が使用されました。</p></td>
+<td style="border:1px solid black;">578</td>
+<td style="border:1px solid black;">保護されたオブジェクトへの既に開かれているハンドル上で特権が使用されました。</td>
 </tr>
 </tbody>
 </table>
@@ -654,7 +654,7 @@ Windows 2000 ベースのコンピュータ上で実行されているプロセ�
   
 **表 9.7 イベント ログに記録されるプロセス追跡イベント**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -662,26 +662,26 @@ Windows 2000 ベースのコンピュータ上で実行されているプロセ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>イベント ID</p></th>
-<th><p>説明</p></th>
+<th>イベント ID</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>592</p></td>
-<td style="border:1px solid black;"><p>新しいプロセスが作成されました。</p></td>
+<td style="border:1px solid black;">592</td>
+<td style="border:1px solid black;">新しいプロセスが作成されました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>593</p></td>
-<td style="border:1px solid black;"><p>プロセスが終了しました。</p></td>
+<td style="border:1px solid black;">593</td>
+<td style="border:1px solid black;">プロセスが終了しました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>594</p></td>
-<td style="border:1px solid black;"><p>オブジェクトへのハンドルが複製されました。</p></td>
+<td style="border:1px solid black;">594</td>
+<td style="border:1px solid black;">オブジェクトへのハンドルが複製されました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>595</p></td>
-<td style="border:1px solid black;"><p>オブジェクトへの間接アクセスが取得されました。</p></td>
+<td style="border:1px solid black;">595</td>
+<td style="border:1px solid black;">オブジェクトへの間接アクセスが取得されました。</td>
 </tr>
 </tbody>
 </table>
@@ -698,7 +698,7 @@ Contoso では、プロセス追跡イベントを監視してはおらず、ど
   
 **表 9.8 イベント ログに記録されるシステム イベント**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -706,38 +706,38 @@ Contoso では、プロセス追跡イベントを監視してはおらず、ど
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>イベント ID</p></th>
-<th><p>説明</p></th>
+<th>イベント ID</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>512</p></td>
-<td style="border:1px solid black;"><p>Windows が起動します。</p></td>
+<td style="border:1px solid black;">512</td>
+<td style="border:1px solid black;">Windows が起動します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>513</p></td>
-<td style="border:1px solid black;"><p>Windows がシャットダウンします。</p></td>
+<td style="border:1px solid black;">513</td>
+<td style="border:1px solid black;">Windows がシャットダウンします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>514</p></td>
-<td style="border:1px solid black;"><p>認証パッケージがローカル セキュリティ機関により読み込まれました。</p></td>
+<td style="border:1px solid black;">514</td>
+<td style="border:1px solid black;">認証パッケージがローカル セキュリティ機関により読み込まれました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>515</p></td>
-<td style="border:1px solid black;"><p>信頼されているログオン プロセスがローカル セキュリティ機関に登録されました。</p></td>
+<td style="border:1px solid black;">515</td>
+<td style="border:1px solid black;">信頼されているログオン プロセスがローカル セキュリティ機関に登録されました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>516</p></td>
-<td style="border:1px solid black;"><p>セキュリティ イベント メッセージをキューに登録するために割り当てられた内部リソースをすべて使用したため、一部のセキュリティ イベント メッセージが失われました。</p></td>
+<td style="border:1px solid black;">516</td>
+<td style="border:1px solid black;">セキュリティ イベント メッセージをキューに登録するために割り当てられた内部リソースをすべて使用したため、一部のセキュリティ イベント メッセージが失われました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>517</p></td>
-<td style="border:1px solid black;"><p>セキュリティ ログが消去されました。</p></td>
+<td style="border:1px solid black;">517</td>
+<td style="border:1px solid black;">セキュリティ ログが消去されました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>518</p></td>
-<td style="border:1px solid black;"><p>認証パッケージがローカル セキュリティ機関により読み込まれました。</p></td>
+<td style="border:1px solid black;">518</td>
+<td style="border:1px solid black;">認証パッケージがローカル セキュリティ機関により読み込まれました。</td>
 </tr>
 </tbody>
 </table>
@@ -771,7 +771,7 @@ Contoso では、コンピュータのシャットダウンや再起動、およ
   
 **表 9.9 イベント ログに記録されるポリシー変更イベント**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -779,34 +779,34 @@ Contoso では、コンピュータのシャットダウンや再起動、およ
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>イベント ID</p></th>
-<th><p>説明</p></th>
+<th>イベント ID</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>608</p></td>
-<td style="border:1px solid black;"><p>ユーザー権利が割り当てられました。</p></td>
+<td style="border:1px solid black;">608</td>
+<td style="border:1px solid black;">ユーザー権利が割り当てられました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>609</p></td>
-<td style="border:1px solid black;"><p>ユーザー権利が削除されました。</p></td>
+<td style="border:1px solid black;">609</td>
+<td style="border:1px solid black;">ユーザー権利が削除されました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>610</p></td>
-<td style="border:1px solid black;"><p>他のドメインとの信頼関係が作成されました。</p></td>
+<td style="border:1px solid black;">610</td>
+<td style="border:1px solid black;">他のドメインとの信頼関係が作成されました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>611</p></td>
-<td style="border:1px solid black;"><p>他のドメインとの信頼関係が削除されました。</p></td>
+<td style="border:1px solid black;">611</td>
+<td style="border:1px solid black;">他のドメインとの信頼関係が削除されました。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>612</p></td>
-<td style="border:1px solid black;"><p>監査ポリシーが変更されました。</p></td>
+<td style="border:1px solid black;">612</td>
+<td style="border:1px solid black;">監査ポリシーが変更されました。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>768</p></td>
-<td style="border:1px solid black;"><p>あるフォレストと他のフォレストの名前空間の要素の間で競合が検知されました (あるフォレストと他のフォレストの名前空間の要素とが重複している場合に発生します)。</p></td>
+<td style="border:1px solid black;">768</td>
+<td style="border:1px solid black;">あるフォレストと他のフォレストの名前空間の要素の間で競合が検知されました (あるフォレストと他のフォレストの名前空間の要素とが重複している場合に発生します)。</td>
 </tr>
 </tbody>
 </table>

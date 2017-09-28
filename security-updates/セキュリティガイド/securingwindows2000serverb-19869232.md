@@ -32,712 +32,712 @@ hisecws.inf で定義されている ACL は、主に、Windows NT 4.0 ベース
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>セキュリティで保護されるキー</p></th>
-<th><p>適用されるアクセス許可</p></th>
-<th><p>継承し構成</p></th>
-<th><p>上書きで構成</p></th>
-<th><p>上書きしない</p></th>
-<th><p>継承</p></th>
+<th>セキュリティで保護されるキー</th>
+<th>適用されるアクセス許可</th>
+<th>継承し構成</th>
+<th>上書きで構成</th>
+<th>上書きしない</th>
+<th>継承</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\Software</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<td style="border:1px solid black;"><strong>HKLM\Software</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Power Users: 読み取り<br />
 System: フル コントロール<br />
-Users: 読み取り</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+Users: 読み取り</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\Software\Classes</strong></p></td>
-<td style="border:1px solid black;"><p>Everyone: 読み取り</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>HKLM\Software\Classes</strong></td>
+<td style="border:1px solid black;">Everyone: 読み取り</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
-<strong>NetDDE</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<strong>NetDDE</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
-System: フル コントロール</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+System: フル コントロール</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
-<strong>Protected Storage System Provider</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<strong>Protected Storage System Provider</strong></td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
-<strong>Secure</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
-Creator/Owner: フル コントロール<br />
-Power Users: 読み取り<br />
-System: フル コントロール<br />
-Users: 読み取り</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-</tr>
-<tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
-<strong>SystemCertificates</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<strong>Secure</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Power Users: 読み取り<br />
 System: フル コントロール<br />
-Users: 読み取り</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-</tr>
-<tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
-<strong>Windows NT\CurrentVersion</strong></p></td>
-<td style="border:1px solid black;"><p>Everyone: 読み取り</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+Users: 読み取り</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<strong>SystemCertificates</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
+Creator/Owner: フル コントロール<br />
+Power Users: 読み取り<br />
+System: フル コントロール<br />
+Users: 読み取り</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<strong>Windows NT\CurrentVersion</strong></td>
+<td style="border:1px solid black;">Everyone: 読み取り</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows NT\CurrentVersion\</strong><br />
-<strong>Accessibility</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<strong>Accessibility</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Power Users: 読み取り<br />
 System: フル コントロール<br />
-Users: 読み取り</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+Users: 読み取り</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows NT\CurrentVersion\</strong><br />
-<strong>AEDebug</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<strong>AEDebug</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Power Users: 読み取り<br />
 System: フル コントロール<br />
-Users: 読み取り</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+Users: 読み取り</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows NT\CurrentVersion\</strong><br />
-<strong>AsrCommands</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<strong>AsrCommands</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Power Users: 読み取り<br />
 System: フル コントロール<br />
 Users: 読み取り<br />
-Backup Operators: 特殊なアクセス許可 (読み取りと書き込み)</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+Backup Operators: 特殊なアクセス許可 (読み取りと書き込み)</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows NT\CurrentVersion\</strong><br />
-<strong>Classes</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<strong>Classes</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Power Users: 読み取り<br />
 System: フル コントロール<br />
-Users: 読み取り</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+Users: 読み取り</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows NT\CurrentVersion\</strong><br />
-<strong>Drivers32</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<strong>Drivers32</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Power Users: 読み取り<br />
 System: フル コントロール<br />
-Users: 読み取り</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+Users: 読み取り</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows NT\CurrentVersion\</strong><br />
-<strong>EFS</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<strong>EFS</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Power Users: 読み取り<br />
 System: フル コントロール<br />
-Users: 読み取り</p></td>
+Users: 読み取り</td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows NT\CurrentVersion\</strong><br />
-<strong>Font Drivers</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<strong>Font Drivers</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Power Users: 読み取り<br />
 System: フル コントロール<br />
-Users: 読み取り</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+Users: 読み取り</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows NT\CurrentVersion\</strong><br />
-<strong>FontMapper</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<strong>FontMapper</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Power Users: 読み取り<br />
 System: フル コントロール<br />
-Users: 読み取り</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+Users: 読み取り</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows NT\CurrentVersion\</strong><br />
-<strong>Image File Execution Options</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<strong>Image File Execution Options</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Power Users: 読み取り<br />
 System: フル コントロール<br />
-Users: 読み取り</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+Users: 読み取り</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows NT\CurrentVersion\</strong><br />
-<strong>IniFileMapping</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<strong>IniFileMapping</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Power Users: 読み取り<br />
 System: フル コントロール<br />
-Users: 読み取り</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+Users: 読み取り</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows NT\CurrentVersion\</strong><br />
-<strong>Perflib</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<strong>Perflib</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Interactive: 読み取り<br />
-System: フル コントロール</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+System: フル コントロール</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows NT\CurrentVersion\</strong><br />
-<strong>Perflib\009</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<strong>Perflib\009</strong></td>
+<td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows NT\CurrentVersion\</strong><br />
-<strong>ProfileList</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<strong>ProfileList</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Power Users: 読み取り<br />
 System: フル コントロール<br />
-Users: 読み取り</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+Users: 読み取り</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows NT\CurrentVersion\</strong><br />
-<strong>SecEdit</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<strong>SecEdit</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Power Users: 読み取り<br />
 System: フル コントロール<br />
-Users: 読み取り</p></td>
+Users: 読み取り</td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><br />
-</td>
-<td style="border:1px solid black;"><br />
-</td>
-</tr>
-<tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
-<strong>Windows NT\CurrentVersion\</strong><br />
-<strong>Setup\RecoveryConsole</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
-Creator/Owner: フル コントロール<br />
-Power Users: 読み取り<br />
-System: フル コントロール<br />
-Users: 読み取り</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-</tr>
-<tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
-<strong>Windows NT\CurrentVersion\</strong><br />
-<strong>Svchost</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
-Creator/Owner: フル コントロール<br />
-Power Users: 読み取り<br />
-System: フル コントロール<br />
-Users: 読み取り</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-</tr>
-<tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
-<strong>Windows NT\CurrentVersion\</strong><br />
-<strong>Time Zones</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
-Creator/Owner: フル コントロール<br />
-Power Users: 読み取り<br />
-System: フル コントロール<br />
-Users: 読み取り</p></td>
-<td style="border:1px solid black;"><br />
-</td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><br />
-</td>
-<td style="border:1px solid black;"><br />
-</td>
-</tr>
-<tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
-<strong>Windows NT\CurrentVersion\</strong><br />
-<strong>Windows</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
-Creator/Owner: フル コントロール<br />
-Power Users: 読み取り<br />
-System: フル コントロール<br />
-Users: 読み取り</p></td>
-<td style="border:1px solid black;"><br />
-</td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows NT\CurrentVersion\</strong><br />
-<strong>Winlogon</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<strong>Setup\RecoveryConsole</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Power Users: 読み取り<br />
 System: フル コントロール<br />
-Users: 読み取り</p></td>
+Users: 読み取り</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<strong>Windows NT\CurrentVersion\</strong><br />
+<strong>Svchost</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
+Creator/Owner: フル コントロール<br />
+Power Users: 読み取り<br />
+System: フル コントロール<br />
+Users: 読み取り</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<strong>Windows NT\CurrentVersion\</strong><br />
+<strong>Time Zones</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
+Creator/Owner: フル コントロール<br />
+Power Users: 読み取り<br />
+System: フル コントロール<br />
+Users: 読み取り</td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<strong>Windows NT\CurrentVersion\</strong><br />
+<strong>Windows</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
+Creator/Owner: フル コントロール<br />
+Power Users: 読み取り<br />
+System: フル コントロール<br />
+Users: 読み取り</td>
+<td style="border:1px solid black;"><br />
+</td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"><br />
+</td>
+<td style="border:1px solid black;"><br />
+</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<strong>Windows NT\CurrentVersion\</strong><br />
+<strong>Winlogon</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
+Creator/Owner: フル コントロール<br />
+Power Users: 読み取り<br />
+System: フル コントロール<br />
+Users: 読み取り</td>
+<td style="border:1px solid black;"><br />
+</td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"><br />
+</td>
+<td style="border:1px solid black;"><br />
+</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows\CurrentVersion\</strong><br />
-<strong>Group Policy</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<strong>Group Policy</strong></td>
+<td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows\CurrentVersion\</strong><br />
-<strong>Installer</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<strong>Installer</strong></td>
+<td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
+<td style="border:1px solid black;"><strong>HKLM\SOFTWARE\Microsoft\</strong><br />
 <strong>Windows\CurrentVersion\</strong><br />
-<strong>Policies</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<strong>Policies</strong></td>
+<td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\System</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<td style="border:1px solid black;"><strong>HKLM\System</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Power Users: 読み取り<br />
 System: フル コントロール<br />
-Users: 読み取り</p></td>
+Users: 読み取り</td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\Clone</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\Clone</strong></td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\ControlSet001</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\ControlSet001</strong></td>
+<td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\ControlSet002</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\ControlSet002</strong></td>
+<td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\ControlSet003</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\ControlSet003</strong></td>
+<td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\ControlSet004</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\ControlSet004</strong></td>
+<td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\ControlSet005</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\ControlSet005</strong></td>
+<td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\ControlSet006</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\ControlSet006</strong></td>
+<td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\ControlSet007</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\ControlSet007</strong></td>
+<td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\ControlSet008</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\ControlSet008</strong></td>
+<td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\ControlSet009</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\ControlSet009</strong></td>
+<td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\ControlSet010</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\ControlSet010</strong></td>
+<td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
-<strong>Control\Computername</strong></p></td>
-<td style="border:1px solid black;"><p>Everyone: 読み取り</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
+<strong>Control\Computername</strong></td>
+<td style="border:1px solid black;">Everyone: 読み取り</td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><br />
-</td>
-<td style="border:1px solid black;"><br />
-</td>
-</tr>
-<tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
-<strong>Control\ContentIndex</strong></p></td>
-<td style="border:1px solid black;"><p>Everyone: 読み取り</p></td>
-<td style="border:1px solid black;"><br />
-</td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><br />
-</td>
-<td style="border:1px solid black;"><br />
-</td>
-</tr>
-<tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
-<strong>Control\Keyboard Layout</strong></p></td>
-<td style="border:1px solid black;"><p>Everyone: 読み取り</p></td>
-<td style="border:1px solid black;"><br />
-</td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
-<strong>Control\Keyboard Layouts</strong></p></td>
-<td style="border:1px solid black;"><p>Everyone: 読み取り</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
+<strong>Control\ContentIndex</strong></td>
+<td style="border:1px solid black;">Everyone: 読み取り</td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
-<strong>Control\Print\Printers</strong></p></td>
-<td style="border:1px solid black;"><p>Everyone: 読み取り</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
+<strong>Control\Keyboard Layout</strong></td>
+<td style="border:1px solid black;">Everyone: 読み取り</td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
-<strong>Control\ProductOptions</strong></p></td>
-<td style="border:1px solid black;"><p>Everyone: 読み取り</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
+<strong>Control\Keyboard Layouts</strong></td>
+<td style="border:1px solid black;">Everyone: 読み取り</td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
-<strong>Control\SecurePipeServers\winreg</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
-Backup Operators: 読み取り</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
+<strong>Control\Print\Printers</strong></td>
+<td style="border:1px solid black;">Everyone: 読み取り</td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
-<strong>Control\WMI\Security</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: 読み取り<br />
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
+<strong>Control\ProductOptions</strong></td>
+<td style="border:1px solid black;">Everyone: 読み取り</td>
+<td style="border:1px solid black;"><br />
+</td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"><br />
+</td>
+<td style="border:1px solid black;"><br />
+</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
+<strong>Control\SecurePipeServers\winreg</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
+Backup Operators: 読み取り</td>
+<td style="border:1px solid black;"><br />
+</td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;"><br />
+</td>
+<td style="border:1px solid black;"><br />
+</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
+<strong>Control\WMI\Security</strong></td>
+<td style="border:1px solid black;">Administrators: 読み取り<br />
 Creator Owner: フル コントロール<br />
-System: フル コントロール</p></td>
+System: フル コントロール</td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
-<strong>Enum</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
+<strong>Enum</strong></td>
+<td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
-<strong>Hardware Profiles</strong></p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
+<strong>Hardware Profiles</strong></td>
+<td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
-<strong>Services\EventLog</strong></p></td>
-<td style="border:1px solid black;"><p>Everyone: 読み取り</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
+<strong>Services\EventLog</strong></td>
+<td style="border:1px solid black;">Everyone: 読み取り</td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
-<strong>Services\Tcpip</strong></p></td>
-<td style="border:1px solid black;"><p>Everyone: 読み取り</p></td>
+<td style="border:1px solid black;"><strong>HKLM\SYSTEM\CurrentControlSet\</strong><br />
+<strong>Services\Tcpip</strong></td>
+<td style="border:1px solid black;">Everyone: 読み取り</td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>USERS\. DEFAULT</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<td style="border:1px solid black;"><strong>USERS\. DEFAULT</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
 Power Users: 読み取り<br />
 System: フル コントロール<br />
-Users: 読み取り</p></td>
+Users: 読み取り</td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>USERS\. DEFAULT\Software\</strong><br />
-<strong>Microsoft\NetDDE</strong></p></td>
-<td style="border:1px solid black;"><p>Administrators: フル コントロール<br />
+<td style="border:1px solid black;"><strong>USERS\. DEFAULT\Software\</strong><br />
+<strong>Microsoft\NetDDE</strong></td>
+<td style="border:1px solid black;">Administrators: フル コントロール<br />
 Creator/Owner: フル コントロール<br />
-System: フル コントロール</p></td>
+System: フル コントロール</td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>USERS\. DEFAULT\SOFTWARE\</strong><br />
-<strong>Microsoft\Protected Storage System Provider</strong></p></td>
+<td style="border:1px solid black;"><strong>USERS\. DEFAULT\SOFTWARE\</strong><br />
+<strong>Microsoft\Protected Storage System Provider</strong></td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
 <td style="border:1px solid black;"><br />
 </td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 </tbody>
 </table>

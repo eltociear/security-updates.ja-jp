@@ -163,53 +163,53 @@ ISA Server のキャパシティ プランニングは、必ず以下のいず�
 <thead>
 <tr class="header">
 <th></th>
-<th><p>CPU 使用率 75% でのインターネット Mbps</p></th>
-<th><p>1.5 Mbps (T1) での CPU 使用率</p></th>
-<th><p>4.5 Mbps での CPU 使用率</p></th>
-<th><p>15 Mbps での CPU 使用率</p></th>
-<th><p>45 Mbps (T3) での CPU 使用率</p></th>
+<th>CPU 使用率 75% でのインターネット Mbps</th>
+<th>1.5 Mbps (T1) での CPU 使用率</th>
+<th>4.5 Mbps での CPU 使用率</th>
+<th>15 Mbps での CPU 使用率</th>
+<th>45 Mbps (T3) での CPU 使用率</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>アウトバウンド/インバウンド ファイアウォール (SecureNAT クライアント)</p></td>
-<td style="border:1px solid black;"><p>29</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
-<td style="border:1px solid black;"><p>12</p></td>
-<td style="border:1px solid black;"><p>38</p></td>
-<td style="border:1px solid black;"><p>115</p></td>
+<td style="border:1px solid black;">アウトバウンド/インバウンド ファイアウォール (SecureNAT クライアント)</td>
+<td style="border:1px solid black;">29</td>
+<td style="border:1px solid black;">4</td>
+<td style="border:1px solid black;">12</td>
+<td style="border:1px solid black;">38</td>
+<td style="border:1px solid black;">115</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>アウトバウンド ファイアウォール (ファイアウォール クライアント)</p></td>
-<td style="border:1px solid black;"><p>61</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>6</p></td>
-<td style="border:1px solid black;"><p>19</p></td>
-<td style="border:1px solid black;"><p>56</p></td>
+<td style="border:1px solid black;">アウトバウンド ファイアウォール (ファイアウォール クライアント)</td>
+<td style="border:1px solid black;">61</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">6</td>
+<td style="border:1px solid black;">19</td>
+<td style="border:1px solid black;">56</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>フォワード キャッシュ</p></td>
-<td style="border:1px solid black;"><p>25</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
-<td style="border:1px solid black;"><p>13</p></td>
-<td style="border:1px solid black;"><p>45</p></td>
-<td style="border:1px solid black;"><p>134</p></td>
+<td style="border:1px solid black;">フォワード キャッシュ</td>
+<td style="border:1px solid black;">25</td>
+<td style="border:1px solid black;">4</td>
+<td style="border:1px solid black;">13</td>
+<td style="border:1px solid black;">45</td>
+<td style="border:1px solid black;">134</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>リバース キャッシュ</p></td>
-<td style="border:1px solid black;"><p>71</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>5</p></td>
-<td style="border:1px solid black;"><p>16</p></td>
-<td style="border:1px solid black;"><p>48</p></td>
+<td style="border:1px solid black;">リバース キャッシュ</td>
+<td style="border:1px solid black;">71</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">5</td>
+<td style="border:1px solid black;">16</td>
+<td style="border:1px solid black;">48</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>統合ファイアウォール/キャッシュ</p></td>
-<td style="border:1px solid black;"><p>32</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
-<td style="border:1px solid black;"><p>11</p></td>
-<td style="border:1px solid black;"><p>36</p></td>
-<td style="border:1px solid black;"><p>107</p></td>
+<td style="border:1px solid black;">統合ファイアウォール/キャッシュ</td>
+<td style="border:1px solid black;">32</td>
+<td style="border:1px solid black;">4</td>
+<td style="border:1px solid black;">11</td>
+<td style="border:1px solid black;">36</td>
+<td style="border:1px solid black;">107</td>
 </tr>
 </tbody>
 </table>
@@ -318,68 +318,68 @@ ISA Server システムをスケール アウトするには、次のような�
 </colgroup>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong></strong></p></td>
-<td style="border:1px solid black;"><p>スケール アップ</p></td>
-<td style="border:1px solid black;"><p>スケール アウト</p></td>
-<td style="border:1px solid black;"><p><strong></strong></p></td>
-<td style="border:1px solid black;"><p><strong></strong></p></td>
-<td style="border:1px solid black;"><p><strong></strong></p></td>
+<td style="border:1px solid black;"><strong></strong></td>
+<td style="border:1px solid black;">スケール アップ</td>
+<td style="border:1px solid black;">スケール アウト</td>
+<td style="border:1px solid black;"><strong></strong></td>
+<td style="border:1px solid black;"><strong></strong></td>
+<td style="border:1px solid black;"><strong></strong></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong></strong></p></td>
-<td style="border:1px solid black;"><p><strong></strong></p></td>
-<td style="border:1px solid black;"><p>L4/7 スイッチ</p></td>
-<td style="border:1px solid black;"><p>DNS</p></td>
-<td style="border:1px solid black;"><p>ネットワーク負荷分散</p></td>
-<td style="border:1px solid black;"><p>CARP</p></td>
+<td style="border:1px solid black;"><strong></strong></td>
+<td style="border:1px solid black;"><strong></strong></td>
+<td style="border:1px solid black;">L4/7 スイッチ</td>
+<td style="border:1px solid black;">DNS</td>
+<td style="border:1px solid black;">ネットワーク負荷分散</td>
+<td style="border:1px solid black;">CARP</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>パフォーマンス (スケール係数)</p></td>
-<td style="border:1px solid black;"><p>1.6 ～ 1.7。コンピュータ アーキテクチャによって異なります (2 次キャッシュのサイズが大きいほど、スケール係数は大きくなります)。</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>1.8 (クラスタのコンピュータ数が 1 ～ 8 台の場合)</p></td>
-<td style="border:1px solid black;"><p>1.5 から始まり、漸近的に 2 へ近づいていきます。</p></td>
+<td style="border:1px solid black;">パフォーマンス (スケール係数)</td>
+<td style="border:1px solid black;">1.6 ～ 1.7。コンピュータ アーキテクチャによって異なります (2 次キャッシュのサイズが大きいほど、スケール係数は大きくなります)。</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">1.8 (クラスタのコンピュータ数が 1 ～ 8 台の場合)</td>
+<td style="border:1px solid black;">1.5 から始まり、漸近的に 2 へ近づいていきます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>システム コスト</p></td>
-<td style="border:1px solid black;"><p>マルチプロセッサ コンピュータの方がはるかに高コストです (特に 4 プロセッサ以上)。2</p></td>
-<td style="border:1px solid black;"><p>きわめて高価 ($15,000 ～ $100,000)</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>各コンピュータに Windows 2000 Advanced Server が必要です。</p></td>
-<td style="border:1px solid black;"><p>ISA Server Enterprise Edition (EE) が必要です。</p></td>
+<td style="border:1px solid black;">システム コスト</td>
+<td style="border:1px solid black;">マルチプロセッサ コンピュータの方がはるかに高コストです (特に 4 プロセッサ以上)。2</td>
+<td style="border:1px solid black;">きわめて高価 ($15,000 ～ $100,000)</td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">各コンピュータに Windows 2000 Advanced Server が必要です。</td>
+<td style="border:1px solid black;">ISA Server Enterprise Edition (EE) が必要です。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>システム管理</p></td>
-<td style="border:1px solid black;"><p>単一コンピュータの管理</p></td>
-<td style="border:1px solid black;"><p>複数のコンピュータに加えてスイッチの管理も必要です。</p></td>
-<td style="border:1px solid black;"><p>複数のコンピュータと ISA Server 集中化アレイの管理 (EE)</p></td>
-<td style="border:1px solid black;"><p>複数のコンピュータと ISA Server 集中化アレイの管理 (EE)</p></td>
-<td style="border:1px solid black;"><p>複数のコンピュータと ISA Server 集中化アレイの管理 (EE)</p></td>
+<td style="border:1px solid black;">システム管理</td>
+<td style="border:1px solid black;">単一コンピュータの管理</td>
+<td style="border:1px solid black;">複数のコンピュータに加えてスイッチの管理も必要です。</td>
+<td style="border:1px solid black;">複数のコンピュータと ISA Server 集中化アレイの管理 (EE)</td>
+<td style="border:1px solid black;">複数のコンピュータと ISA Server 集中化アレイの管理 (EE)</td>
+<td style="border:1px solid black;">複数のコンピュータと ISA Server 集中化アレイの管理 (EE)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>フォールト トレランス</p></td>
-<td style="border:1px solid black;"><p>ネイティブ ハードウェア</p></td>
-<td style="border:1px solid black;"><p>スイッチが障害の発生したコンピュータを検出し、残りのコンピュータに負荷を分散します。</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>障害が発生したコンピュータの相互検出</p></td>
-<td style="border:1px solid black;"><p>障害が発生したコンピュータの相互検出</p></td>
+<td style="border:1px solid black;">フォールト トレランス</td>
+<td style="border:1px solid black;">ネイティブ ハードウェア</td>
+<td style="border:1px solid black;">スイッチが障害の発生したコンピュータを検出し、残りのコンピュータに負荷を分散します。</td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">障害が発生したコンピュータの相互検出</td>
+<td style="border:1px solid black;">障害が発生したコンピュータの相互検出</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>システム アップグレード</p></td>
-<td style="border:1px solid black;"><p>プロセッサの増設 - スロットが空いていることが必要です。</p></td>
-<td style="border:1px solid black;"><p>コンピュータの追加 - 空いたポートがあり、スイッチの帯域幅に余裕があることが必要です。</p></td>
-<td style="border:1px solid black;"><p>コンピュータを追加し、DNS にエントリを登録します。</p></td>
-<td style="border:1px solid black;"><p>コンピュータの追加 - コンピュータが多くなりすぎると、スケール係数が低下することがあります。</p></td>
-<td style="border:1px solid black;"><p>コンピュータの追加 - ほとんど無制限のスケーリングが可能です。</p></td>
+<td style="border:1px solid black;">システム アップグレード</td>
+<td style="border:1px solid black;">プロセッサの増設 - スロットが空いていることが必要です。</td>
+<td style="border:1px solid black;">コンピュータの追加 - 空いたポートがあり、スイッチの帯域幅に余裕があることが必要です。</td>
+<td style="border:1px solid black;">コンピュータを追加し、DNS にエントリを登録します。</td>
+<td style="border:1px solid black;">コンピュータの追加 - コンピュータが多くなりすぎると、スケール係数が低下することがあります。</td>
+<td style="border:1px solid black;">コンピュータの追加 - ほとんど無制限のスケーリングが可能です。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>シナリオ</p></td>
-<td style="border:1px solid black;"><p>すべて</p></td>
-<td style="border:1px solid black;"><p>すべて</p></td>
-<td style="border:1px solid black;"><p>すべて</p></td>
-<td style="border:1px solid black;"><p>すべて</p></td>
-<td style="border:1px solid black;"><p>フォワード キャッシュのみ</p></td>
+<td style="border:1px solid black;">シナリオ</td>
+<td style="border:1px solid black;">すべて</td>
+<td style="border:1px solid black;">すべて</td>
+<td style="border:1px solid black;">すべて</td>
+<td style="border:1px solid black;">すべて</td>
+<td style="border:1px solid black;">フォワード キャッシュのみ</td>
 </tr>
 </tbody>
 </table>
@@ -510,31 +510,31 @@ ISA Server ではメモリを以下の目的で使用します。
 </colgroup>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>物理メモリ (MB)</p></td>
-<td style="border:1px solid black;"><p>128</p></td>
-<td style="border:1px solid black;"><p>256</p></td>
-<td style="border:1px solid black;"><p>512</p></td>
-<td style="border:1px solid black;"><p>1024</p></td>
-<td style="border:1px solid black;"><p>2048</p></td>
-<td style="border:1px solid black;"><p>4096</p></td>
+<td style="border:1px solid black;">物理メモリ (MB)</td>
+<td style="border:1px solid black;">128</td>
+<td style="border:1px solid black;">256</td>
+<td style="border:1px solid black;">512</td>
+<td style="border:1px solid black;">1024</td>
+<td style="border:1px solid black;">2048</td>
+<td style="border:1px solid black;">4096</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>非ページ プール サイズの最小値</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
-<td style="border:1px solid black;"><p>8</p></td>
-<td style="border:1px solid black;"><p>16</p></td>
-<td style="border:1px solid black;"><p>32</p></td>
-<td style="border:1px solid black;"><p>64</p></td>
-<td style="border:1px solid black;"><p>128</p></td>
+<td style="border:1px solid black;">非ページ プール サイズの最小値</td>
+<td style="border:1px solid black;">4</td>
+<td style="border:1px solid black;">8</td>
+<td style="border:1px solid black;">16</td>
+<td style="border:1px solid black;">32</td>
+<td style="border:1px solid black;">64</td>
+<td style="border:1px solid black;">128</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>非ページ プール サイズの最大値</p></td>
-<td style="border:1px solid black;"><p>50</p></td>
-<td style="border:1px solid black;"><p>100</p></td>
-<td style="border:1px solid black;"><p>200</p></td>
-<td style="border:1px solid black;"><p>256</p></td>
-<td style="border:1px solid black;"><p>256</p></td>
-<td style="border:1px solid black;"><p>256</p></td>
+<td style="border:1px solid black;">非ページ プール サイズの最大値</td>
+<td style="border:1px solid black;">50</td>
+<td style="border:1px solid black;">100</td>
+<td style="border:1px solid black;">200</td>
+<td style="border:1px solid black;">256</td>
+<td style="border:1px solid black;">256</td>
+<td style="border:1px solid black;">256</td>
 </tr>
 </tbody>
 </table>
@@ -709,7 +709,7 @@ ISA Server ポリシーを調整する場合は、以下のパフォーマンス
   
 **表 5 ISA Server の認証パフォーマンス**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -720,41 +720,41 @@ ISA Server ポリシーを調整する場合は、以下のパフォーマンス
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>認証方式</p></th>
-<th><p>強度</p></th>
-<th><p>認証のタイミング</p></th>
-<th><p>要求あたりのオーバーヘッド</p></th>
-<th><p>バッチあたりのオーバーヘッド</p></th>
+<th>認証方式</th>
+<th>強度</th>
+<th>認証のタイミング</th>
+<th>要求あたりのオーバーヘッド</th>
+<th>バッチあたりのオーバーヘッド</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>基本</p></td>
-<td style="border:1px solid black;"><p>低い</p></td>
-<td style="border:1px solid black;"><p>要求ごと</p></td>
-<td style="border:1px solid black;"><p>低い</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;">基本</td>
+<td style="border:1px solid black;">低い</td>
+<td style="border:1px solid black;">要求ごと</td>
+<td style="border:1px solid black;">低い</td>
+<td style="border:1px solid black;">なし</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ダイジェスト</p></td>
-<td style="border:1px solid black;"><p>中程度</p></td>
-<td style="border:1px solid black;"><p>時間/カウンタ値ごと</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>高い</p></td>
+<td style="border:1px solid black;">ダイジェスト</td>
+<td style="border:1px solid black;">中程度</td>
+<td style="border:1px solid black;">時間/カウンタ値ごと</td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">高い</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>NTLM</p></td>
-<td style="border:1px solid black;"><p>高い</p></td>
-<td style="border:1px solid black;"><p>接続ごと</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>高い</p></td>
+<td style="border:1px solid black;">NTLM</td>
+<td style="border:1px solid black;">高い</td>
+<td style="border:1px solid black;">接続ごと</td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">高い</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Kerberos</p></td>
-<td style="border:1px solid black;"><p>高い</p></td>
-<td style="border:1px solid black;"><p>接続ごと</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>中程度</p></td>
+<td style="border:1px solid black;">Kerberos</td>
+<td style="border:1px solid black;">高い</td>
+<td style="border:1px solid black;">接続ごと</td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">中程度</td>
 </tr>
 </tbody>
 </table>

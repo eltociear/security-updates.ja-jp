@@ -27,7 +27,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362918(v=TechNet.10)'
 
 今回は、まず適用対象について考えます。適用対象である、サーバーやクライアント PC は、一律に同じ重要度ではないはずです。対象を可用性の観点で簡単に分類すると以下に分けられるのではないでしょうか。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -35,22 +35,22 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362918(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>重要度</p></th>
-<th><p>分類</p></th>
+<th>重要度</th>
+<th>分類</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>1 (最も重要)</p></td>
-<td style="border:1px solid black;"><p>24時間365日停止できない</p></td>
+<td style="border:1px solid black;">1 (最も重要)</td>
+<td style="border:1px solid black;">24時間365日停止できない</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>数時間は停止できる</p></td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">数時間は停止できる</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>3</p></td>
-<td style="border:1px solid black;"><p>停止しても、他の大きな影響はない。</p></td>
+<td style="border:1px solid black;">3</td>
+<td style="border:1px solid black;">停止しても、他の大きな影響はない。</td>
 </tr>
 </tbody>
 </table>

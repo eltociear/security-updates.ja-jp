@@ -136,7 +136,7 @@ IT セキュリティ リスク管理における 1 つの重要な側面は、�
 
 **表 2.1 主要なセキュリティ コンポーネント**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -144,34 +144,34 @@ IT セキュリティ リスク管理における 1 つの重要な側面は、�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>コンポーネント</p></th>
-<th><p>定義</p></th>
+<th>コンポーネント</th>
+<th>定義</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>脅威</p></td>
-<td style="border:1px solid black;"><p>脅威とは、情報またはシステムに対する潜在的な危険の一切を意味します。</p></td>
+<td style="border:1px solid black;">脅威</td>
+<td style="border:1px solid black;">脅威とは、情報またはシステムに対する潜在的な危険の一切を意味します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>脅威エージェント</p></td>
-<td style="border:1px solid black;"><p>脅威エージェントとは、ファイアウォール上の脆弱なポートを通じてネットワークを攻撃する人物もしくはプロセス、またはセキュリティ ポリシーに違反する方法でデータにアクセスするために使われるプロセスのことです。</p></td>
+<td style="border:1px solid black;">脅威エージェント</td>
+<td style="border:1px solid black;">脅威エージェントとは、ファイアウォール上の脆弱なポートを通じてネットワークを攻撃する人物もしくはプロセス、またはセキュリティ ポリシーに違反する方法でデータにアクセスするために使われるプロセスのことです。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>脆弱性</p></td>
-<td style="border:1px solid black;"><p>脆弱性とは、攻撃者または脅威エージェントに、コンピュータまたはネットワークに侵入して環境内のリソースに不正にアクセスする機会を与える可能性のあるソフトウェア、ハードウェア、または手続き上の弱点のことです。</p></td>
+<td style="border:1px solid black;">脆弱性</td>
+<td style="border:1px solid black;">脆弱性とは、攻撃者または脅威エージェントに、コンピュータまたはネットワークに侵入して環境内のリソースに不正にアクセスする機会を与える可能性のあるソフトウェア、ハードウェア、または手続き上の弱点のことです。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>リスク</p></td>
-<td style="border:1px solid black;"><p>リスクとは、脅威の要因が脆弱性を利用する可能性のことです。損失が発生する可能性、または脅威が脆弱性を利用する確率を意味します。</p></td>
+<td style="border:1px solid black;">リスク</td>
+<td style="border:1px solid black;">リスクとは、脅威の要因が脆弱性を利用する可能性のことです。損失が発生する可能性、または脅威が脆弱性を利用する確率を意味します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>起こりうる損害</p></td>
-<td style="border:1px solid black;"><p>起こりうる損害は、脅威エージェントが会社の資産を潜在的な損失の危険にさらす時に発生します。脆弱性によって、組織が損害の危険にさらされる可能性が発生します。</p></td>
+<td style="border:1px solid black;">起こりうる損害</td>
+<td style="border:1px solid black;">起こりうる損害は、脅威エージェントが会社の資産を潜在的な損失の危険にさらす時に発生します。脆弱性によって、組織が損害の危険にさらされる可能性が発生します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>対策</p></td>
-<td style="border:1px solid black;"><p>対策または予防手段はリスクを軽減します。対策には、脆弱性を除去したり、または脅威エージェントによって脆弱性が利用されるリスクを軽減したりするソフトウェアの構成、ハードウェア、または手続きが含まれます。</p></td>
+<td style="border:1px solid black;">対策</td>
+<td style="border:1px solid black;">対策または予防手段はリスクを軽減します。対策には、脆弱性を除去したり、または脅威エージェントによって脆弱性が利用されるリスクを軽減したりするソフトウェアの構成、ハードウェア、または手続きが含まれます。</td>
 </tr>
 </tbody>
 </table>
@@ -206,7 +206,7 @@ IT セキュリティ リスク管理における 1 つの重要な側面は、�
   
 **表 2.2 脅威のタイプ**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -214,22 +214,22 @@ IT セキュリティ リスク管理における 1 つの重要な側面は、�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>脅威</p></th>
-<th><p>例</p></th>
+<th>脅威</th>
+<th>例</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>致命的なインシデント</p></td>
-<td style="border:1px solid black;"><p>火災、水害、暴風、地震、停電、テロ攻撃</p></td>
+<td style="border:1px solid black;">致命的なインシデント</td>
+<td style="border:1px solid black;">火災、水害、暴風、地震、停電、テロ攻撃</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>悪意のない人物</p></td>
-<td style="border:1px solid black;"><p>知識のない従業員、知識のないユーザー</p></td>
+<td style="border:1px solid black;">悪意のない人物</td>
+<td style="border:1px solid black;">知識のない従業員、知識のないユーザー</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>悪意のある人物</p></td>
-<td style="border:1px solid black;"><p>攻撃者、産業スパイ、政府、贈収賄、ソーシャル エンジニアリング</p></td>
+<td style="border:1px solid black;">悪意のある人物</td>
+<td style="border:1px solid black;">攻撃者、産業スパイ、政府、贈収賄、ソーシャル エンジニアリング</td>
 </tr>
 </tbody>
 </table>
@@ -308,7 +308,7 @@ ID なりすましによる脅威には、ユーザー名またはパスワー�
   
 **表 2.3 "攻略手段" のタイプ**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -316,43 +316,43 @@ ID なりすましによる脅威には、ユーザー名またはパスワー�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>攻略手段</p></th>
-<th><p>例</p></th>
+<th>攻略手段</th>
+<th>例</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>テクニカルな脆弱性の悪用</p></td>
-<td style="border:1px solid black;"><p>辞書攻撃<br />
+<td style="border:1px solid black;">テクニカルな脆弱性の悪用</td>
+<td style="border:1px solid black;">辞書攻撃<br />
 バッファ オーバーフロー<br />
 構成の間違い<br />
 リプレイ攻撃<br />
-セッションのハイジャック</p></td>
+セッションのハイジャック</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>情報収集</p></td>
-<td style="border:1px solid black;"><p>アドレスの識別</p>
-<p>ドキュメントのグラインディング<br />
+<td style="border:1px solid black;">情報収集</td>
+<td style="border:1px solid black;">アドレスの識別
+ドキュメントのグラインディング<br />
 OS の識別<br />
-ポートのスキャニング</p>
-<p>応答の分析<br />
+ポートのスキャニング
+応答の分析<br />
 ソーシャル エンジニアリング<br />
 サービスとアプリケーションの調査<br />
 ユーザーの列挙<br />
 脆弱性のスキャニング<br />
-ワイヤレス リーク</p></td>
+ワイヤレス リーク</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>サービス拒否 (DoS)</p></td>
-<td style="border:1px solid black;"><p>物理的損害<br />
+<td style="border:1px solid black;">サービス拒否 (DoS)</td>
+<td style="border:1px solid black;">物理的損害<br />
 リソースの削除<br />
 リソースの改ざん<br />
-リソースの飽和</p>
-<p>バッファ オーバーフロー</p></td>
+リソースの飽和
+バッファ オーバーフロー</td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 **例: 悪意のある攻撃者による攻略行為**
 
@@ -422,7 +422,7 @@ OS の識別<br />
 
 **表 2.4 脆弱性のタイプ**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -430,34 +430,34 @@ OS の識別<br />
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>脆弱性</p></th>
-<th><p>例</p></th>
+<th>脆弱性</th>
+<th>例</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>物理的</p></td>
-<td style="border:1px solid black;"><p>施錠されていないドア</p></td>
+<td style="border:1px solid black;">物理的</td>
+<td style="border:1px solid black;">施錠されていないドア</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>自然</p></td>
-<td style="border:1px solid black;"><p>断層線上に建てられた社屋</p></td>
+<td style="border:1px solid black;">自然</td>
+<td style="border:1px solid black;">断層線上に建てられた社屋</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ハードウェアとソフトウェア</p></td>
-<td style="border:1px solid black;"><p>ウイルス対策ソフトウェアやオペレーティング システムの修正プログラムが古い</p></td>
+<td style="border:1px solid black;">ハードウェアとソフトウェア</td>
+<td style="border:1px solid black;">ウイルス対策ソフトウェアやオペレーティング システムの修正プログラムが古い</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>メディア</p></td>
-<td style="border:1px solid black;"><p>混信</p></td>
+<td style="border:1px solid black;">メディア</td>
+<td style="border:1px solid black;">混信</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>通信</p></td>
-<td style="border:1px solid black;"><p>暗号化されていないプロトコル</p></td>
+<td style="border:1px solid black;">通信</td>
+<td style="border:1px solid black;">暗号化されていないプロトコル</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>人間</p></td>
-<td style="border:1px solid black;"><p>定義が不十分な手続きや品質の低いアプリケーション</p></td>
+<td style="border:1px solid black;">人間</td>
+<td style="border:1px solid black;">定義が不十分な手続きや品質の低いアプリケーション</td>
 </tr>
 </tbody>
 </table>

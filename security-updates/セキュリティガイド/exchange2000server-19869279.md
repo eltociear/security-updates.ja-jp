@@ -97,7 +97,7 @@ OWA を使用すると、インターネットに接続されたほぼすべて�
 
 欠点は機能が限定されていることです。電子メールへのオフラインアクセスはサポートされておらず、予定表のサポートも限定されています。次の表は、Outlook Web Access 2000 の利点と欠点をいくつか示したものです。この表は、OWA が Exchange 2000 SP2 以降で実行され、Internet Explorer 5 以降からアクセスされていることを前提としています。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -105,42 +105,42 @@ OWA を使用すると、インターネットに接続されたほぼすべて�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>利点</p></th>
-<th><p>欠点</p></th>
+<th>利点</th>
+<th>欠点</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>連絡先アイテムや予定表アイテムを含む、メールボックスとパブリックフォルダへのアクセス</p></td>
-<td style="border:1px solid black;"><p>機能拡張セキュリティ (S/MIME) が使用できない</p></td>
+<td style="border:1px solid black;">連絡先アイテムや予定表アイテムを含む、メールボックスとパブリックフォルダへのアクセス</td>
+<td style="border:1px solid black;">機能拡張セキュリティ (S/MIME) が使用できない</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>新規のメール通知と予定表のアラーム</p></td>
-<td style="border:1px solid black;"><p>オフラインモードが使用できない</p></td>
+<td style="border:1px solid black;">新規のメール通知と予定表のアラーム</td>
+<td style="border:1px solid black;">オフラインモードが使用できない</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>HTML 電子メールメッセージのリッチテキスト編集</p></td>
-<td style="border:1px solid black;"><p>新規のパブリックフォルダを作成できない</p></td>
+<td style="border:1px solid black;">HTML 電子メールメッセージのリッチテキスト編集</td>
+<td style="border:1px solid black;">新規のパブリックフォルダを作成できない</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>表示と記録に関するマルチメディア制御</p></td>
-<td style="border:1px solid black;"><p>Outlook ルールと取り消しメッセージを使用できない。また、削除した項目を回復できない</p></td>
+<td style="border:1px solid black;">表示と記録に関するマルチメディア制御</td>
+<td style="border:1px solid black;">Outlook ルールと取り消しメッセージを使用できない。また、削除した項目を回復できない</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>URL によるメールアクセス</p></td>
-<td style="border:1px solid black;"><p>ジャーナル、メモ、タスクがない</p></td>
+<td style="border:1px solid black;">URL によるメールアクセス</td>
+<td style="border:1px solid black;">ジャーナル、メモ、タスクがない</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>メールボックスフォルダ間でのドラッグアンドドロップ機能</p></td>
-<td style="border:1px solid black;"><p>Exchange 2000 Server メールボックスアクセスしかない</p></td>
+<td style="border:1px solid black;">メールボックスフォルダ間でのドラッグアンドドロップ機能</td>
+<td style="border:1px solid black;">Exchange 2000 Server メールボックスアクセスしかない</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>フロントエンドとバックエンドのサーバー構成のサポート</p></td>
-<td style="border:1px solid black;"><p>他のユーザーのメールボックスフォルダを開けない</p></td>
+<td style="border:1px solid black;">フロントエンドとバックエンドのサーバー構成のサポート</td>
+<td style="border:1px solid black;">他のユーザーのメールボックスフォルダを開けない</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>不在およびプレビューウィンドウ</p></td>
-<td style="border:1px solid black;"><p>初期ダイヤルアップの速度が遅い</p></td>
+<td style="border:1px solid black;">不在およびプレビューウィンドウ</td>
+<td style="border:1px solid black;">初期ダイヤルアップの速度が遅い</td>
 </tr>
 </tbody>
 </table>
@@ -219,7 +219,7 @@ SMTP 仮想サーバーは組織からのメールの流れる方向を定義し
   
 SMTP 仮想サーバーの構成可能情報には 4 つのタブがあります。最も慎重に考慮する必要がある設定、および ISA Server コンピュータの背後で Exchange Server を公開することについて最大の危険を伴う設定に重点を置いてください。以下の表は、Exchange 2000 Server の SMTP 仮想サーバーを構成するときに再確認すべき主なプロパティ設定を定義しています。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -228,35 +228,35 @@ SMTP 仮想サーバーの構成可能情報には 4 つのタブがあります
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>プロパティ</p></th>
-<th><p>場所</p></th>
-<th><p>説明</p></th>
+<th>プロパティ</th>
+<th>場所</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>発信セキュリティ</p></td>
-<td style="border:1px solid black;"><p>[配信] タブ | [送信セキュリティ]</p></td>
-<td style="border:1px solid black;"><p>SMTP 仮想サーバーが他の SMTP サーバーにメールを配信する方法を定義します。</p></td>
+<td style="border:1px solid black;">発信セキュリティ</td>
+<td style="border:1px solid black;">[配信] タブ | [送信セキュリティ]</td>
+<td style="border:1px solid black;">SMTP 仮想サーバーが他の SMTP サーバーにメールを配信する方法を定義します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>スマートホスト</p></td>
-<td style="border:1px solid black;"><p>[配信] タブ | [詳細設定]</p></td>
-<td style="border:1px solid black;"><p>SMTP サーバーは DNS を使って外部メールドメインを解決できなければなりません。</p>
-<p>この解決は、SMTP サーバーが以下の場所にクエリを送信するように構成できます。</p>
+<td style="border:1px solid black;">スマートホスト</td>
+<td style="border:1px solid black;">[配信] タブ | [詳細設定]</td>
+<td style="border:1px solid black;">SMTP サーバーは DNS を使って外部メールドメインを解決できなければなりません。
+この解決は、SMTP サーバーが以下の場所にクエリを送信するように構成できます。
 <ol>
-<li><p>TCP/IP プロパティの優先 DNS サーバー設定に基づく、内部 DNS サーバー。</p></li>
+<li>TCP/IP プロパティの優先 DNS サーバー設定に基づく、内部 DNS サーバー。</li>
 <li></li>
-<li><p>[詳細設定] タブで構成された外部 DNS サーバー。</p></li>
+<li>[詳細設定] タブで構成された外部 DNS サーバー。</li>
 <li></li>
-<li><p>外部 SMTP サーバーで、通常は、メールドメインの解決を行う ISP の SMTP サーバーであるスマートホスト。</p></li>
+<li>外部 SMTP サーバーで、通常は、メールドメインの解決を行う ISP の SMTP サーバーであるスマートホスト。</li>
 <li></li>
 </ol></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>中継の制限</p></td>
-<td style="border:1px solid black;"><p>[アクセス] タブ | [中継]</p></td>
-<td style="border:1px solid black;"><p>SMTP 仮想サーバーを通じてメッセージを中継することを許可するコンピュータを定義します。ドメイン、個々の IP アドレス、またはサブネットによって指定できます。</p></td>
+<td style="border:1px solid black;">中継の制限</td>
+<td style="border:1px solid black;">[アクセス] タブ | [中継]</td>
+<td style="border:1px solid black;">SMTP 仮想サーバーを通じてメッセージを中継することを許可するコンピュータを定義します。ドメイン、個々の IP アドレス、またはサブネットによって指定できます。</td>
 </tr>
 </tbody>
 </table>
@@ -449,7 +449,7 @@ ISA Server にインストールされた Exchange サービスの公開を成�
   
 DNS の名前解決は、内部ネットワークでどの ISA クライアントを利用するか選択するときに主に考慮すべき項目です。以下の表は、各 ISA クライアントで DNS 名前解決がどのように実行されるかを簡単に説明しています。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -457,22 +457,22 @@ DNS の名前解決は、内部ネットワークでどの ISA クライアン�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>ISA Server クライアント</p></th>
-<th><p>名前解決方式</p></th>
+<th>ISA Server クライアント</th>
+<th>名前解決方式</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>SecureNAT クライアント</p></td>
-<td style="border:1px solid black;"><p>環境によって異なります。クライアントに内部 DNS サーバーを知らせるか、DNS クエリをクライアントから直接外部 DNS サーバーに渡すように ISA Server を構成する必要があります。</p></td>
+<td style="border:1px solid black;">SecureNAT クライアント</td>
+<td style="border:1px solid black;">環境によって異なります。クライアントに内部 DNS サーバーを知らせるか、DNS クエリをクライアントから直接外部 DNS サーバーに渡すように ISA Server を構成する必要があります。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Web Proxy クライアント</p></td>
-<td style="border:1px solid black;"><p>ISA Server Web Proxy サービスが単純な DNS 機能を提供できるようにします。ISA Server コンピュータ自体の DNS 構成に基づきます。</p></td>
+<td style="border:1px solid black;">Web Proxy クライアント</td>
+<td style="border:1px solid black;">ISA Server Web Proxy サービスが単純な DNS 機能を提供できるようにします。ISA Server コンピュータ自体の DNS 構成に基づきます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ファイアウォールクライアント</p></td>
-<td style="border:1px solid black;"><p>ISA Server Firewall サービスが単純な DNS 機能を提供できるようにします。ISA Server コンピュータ自体の DNS 構成に基づきます。</p></td>
+<td style="border:1px solid black;">ファイアウォールクライアント</td>
+<td style="border:1px solid black;">ISA Server Firewall サービスが単純な DNS 機能を提供できるようにします。ISA Server コンピュータ自体の DNS 構成に基づきます。</td>
 </tr>
 </tbody>
 </table>
@@ -509,7 +509,7 @@ DNS の名前解決は、内部ネットワークでどの ISA クライアン�
   
 次の表は、正しいルーティングを行うために、ネットワークトポロジに基づくデフォルトゲートウェイを構成する方法を示しています。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -517,18 +517,18 @@ DNS の名前解決は、内部ネットワークでどの ISA クライアン�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>トポロジ</p></th>
-<th><p>定義する構成</p></th>
+<th>トポロジ</th>
+<th>定義する構成</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>単純</p></td>
-<td style="border:1px solid black;"><p>SecureNAT クライアントのデフォルトゲートウェイのアドレスを、ISA Server コンピュータの内部ネットワークアダプタに割り当てられた IP アドレスに設定します。</p></td>
+<td style="border:1px solid black;">単純</td>
+<td style="border:1px solid black;">SecureNAT クライアントのデフォルトゲートウェイのアドレスを、ISA Server コンピュータの内部ネットワークアダプタに割り当てられた IP アドレスに設定します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>複雑</p></td>
-<td style="border:1px solid black;"><p>SecureNAT クライアントのデフォルトゲートウェイのアドレスを、SecureNAT クライアントと ISA Server コンピュータを結ぶチェーンの最後のルーターに割り当てられた IP アドレスに設定します。</p></td>
+<td style="border:1px solid black;">複雑</td>
+<td style="border:1px solid black;">SecureNAT クライアントのデフォルトゲートウェイのアドレスを、SecureNAT クライアントと ISA Server コンピュータを結ぶチェーンの最後のルーターに割り当てられた IP アドレスに設定します。</td>
 </tr>
 </tbody>
 </table>

@@ -37,7 +37,7 @@ Microsoft Internet Security and Acceleration (ISA) Server では、以下の 3 �
 
 次の表は、ISA Server クライアントの比較の一覧です。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -47,42 +47,42 @@ Microsoft Internet Security and Acceleration (ISA) Server では、以下の 3 �
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>機能</p></th>
-<th><p>SecureNAT クライアント</p></th>
-<th><p>ファイアウォール クライアント</p></th>
-<th><p>Web Proxy クライアント</p></th>
+<th>機能</th>
+<th>SecureNAT クライアント</th>
+<th>ファイアウォール クライアント</th>
+<th>Web Proxy クライアント</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>インストールの必要性</p></td>
-<td style="border:1px solid black;"><p>いくつかのネットワーク構成の変更が必要です。</p></td>
-<td style="border:1px solid black;"><p>あり。</p></td>
-<td style="border:1px solid black;"><p>なし。Web ブラウザの構成が必要です。</p></td>
+<td style="border:1px solid black;">インストールの必要性</td>
+<td style="border:1px solid black;">いくつかのネットワーク構成の変更が必要です。</td>
+<td style="border:1px solid black;">あり。</td>
+<td style="border:1px solid black;">なし。Web ブラウザの構成が必要です。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>オペレーティングシステムのサポート</p></td>
-<td style="border:1px solid black;"><p>Transmission Control Protocol/Internet Protocol (TCP/IP) をサポートするオペレーティングシステム。</p></td>
-<td style="border:1px solid black;"><p>Windows プラットフォームのみ。</p></td>
-<td style="border:1px solid black;"><p>すべてのプラットフォーム。ただし、Web アプリケーションを使用。</p></td>
+<td style="border:1px solid black;">オペレーティングシステムのサポート</td>
+<td style="border:1px solid black;">Transmission Control Protocol/Internet Protocol (TCP/IP) をサポートするオペレーティングシステム。</td>
+<td style="border:1px solid black;">Windows プラットフォームのみ。</td>
+<td style="border:1px solid black;">すべてのプラットフォーム。ただし、Web アプリケーションを使用。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>プロトコルサポート</p></td>
-<td style="border:1px solid black;"><p>複数の接続プロトコル用アプリケーションフィルタが必要です。</p></td>
-<td style="border:1px solid black;"><p>すべての Winsock アプリケーション。</p></td>
-<td style="border:1px solid black;"><p>Hypertext Transfer Protocol (HTTP)、Secure HTTP (HTTPS)、File Transfer Protocol (FTP)、および Gopher。</p></td>
+<td style="border:1px solid black;">プロトコルサポート</td>
+<td style="border:1px solid black;">複数の接続プロトコル用アプリケーションフィルタが必要です。</td>
+<td style="border:1px solid black;">すべての Winsock アプリケーション。</td>
+<td style="border:1px solid black;">Hypertext Transfer Protocol (HTTP)、Secure HTTP (HTTPS)、File Transfer Protocol (FTP)、および Gopher。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ユーザーレベルの認証</p></td>
-<td style="border:1px solid black;"><p>いくつかのネットワーク構成の変更が必要です。</p></td>
-<td style="border:1px solid black;"><p>あり。</p></td>
-<td style="border:1px solid black;"><p>あり。</p></td>
+<td style="border:1px solid black;">ユーザーレベルの認証</td>
+<td style="border:1px solid black;">いくつかのネットワーク構成の変更が必要です。</td>
+<td style="border:1px solid black;">あり。</td>
+<td style="border:1px solid black;">あり。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>サーバーアプリケーション</p></td>
-<td style="border:1px solid black;"><p>構成やインストールは必要ありません。</p></td>
-<td style="border:1px solid black;"><p>構成ファイルが必要です。</p></td>
-<td style="border:1px solid black;"><p>適用できません。</p></td>
+<td style="border:1px solid black;">サーバーアプリケーション</td>
+<td style="border:1px solid black;">構成やインストールは必要ありません。</td>
+<td style="border:1px solid black;">構成ファイルが必要です。</td>
+<td style="border:1px solid black;">適用できません。</td>
 </tr>
 </tbody>
 </table>
@@ -93,7 +93,7 @@ Microsoft Internet Security and Acceleration (ISA) Server では、以下の 3 �
   
 DNS (ドメインネームシステム) の名前解決は、内部ネットワークでどの ISA クライアントを利用するかを選択するときに主に考慮すべき項目です。以下の表は、各 ISA クライアントで DNS 名前解決がどのように実行されるかを簡単に説明しています。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -101,22 +101,22 @@ DNS (ドメインネームシステム) の名前解決は、内部ネットワ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>ISA Server クライアント</p></th>
-<th><p>名前解決方式</p></th>
+<th>ISA Server クライアント</th>
+<th>名前解決方式</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>SecureNAT クライアント</p></td>
-<td style="border:1px solid black;"><p>環境によって異なります。クライアントに内部 DNS サーバーを知らせるか、DNS クエリをクライアントから直接外部 DNS サーバーに渡すように ISA Server を構成する必要があります。</p></td>
+<td style="border:1px solid black;">SecureNAT クライアント</td>
+<td style="border:1px solid black;">環境によって異なります。クライアントに内部 DNS サーバーを知らせるか、DNS クエリをクライアントから直接外部 DNS サーバーに渡すように ISA Server を構成する必要があります。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Web Proxy クライアント</p></td>
-<td style="border:1px solid black;"><p>ISA Server Web Proxy サービスにより、単純な DNS 機能が提供されます。これは、ISA Server 自体の DNS 構成に基づきます。</p></td>
+<td style="border:1px solid black;">Web Proxy クライアント</td>
+<td style="border:1px solid black;">ISA Server Web Proxy サービスにより、単純な DNS 機能が提供されます。これは、ISA Server 自体の DNS 構成に基づきます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ファイアウォールクライアント</p></td>
-<td style="border:1px solid black;"><p>ISA Server Firewall サービスにより、単純な DNS 機能が提供されます。これは、ISA Server 自体の DNS 構成に基づきます。</p></td>
+<td style="border:1px solid black;">ファイアウォールクライアント</td>
+<td style="border:1px solid black;">ISA Server Firewall サービスにより、単純な DNS 機能が提供されます。これは、ISA Server 自体の DNS 構成に基づきます。</td>
 </tr>
 </tbody>
 </table>

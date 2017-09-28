@@ -19,7 +19,7 @@ Windows プラットフォームの Common Criteria Certification
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 -   [情報基盤強化税制におけるマイクロソフト製品の ISO/IEC 15408 取得状況について](http://www.microsoft.com/japan/technet/security/news/isoiec15408.mspx)
     昨年度まで適用されておりました、ＩＴ 投資促進税制に変わり、情報基盤強化税制が開始されます。今回の税制では、情報セキュリティの強化が重視されており、その基準として、ISO/IEC 15408 の取得製品であることが条件の １ つとなっております。
 -   [Microsoft Windows プラットフォーム製品が Common Criteria EAL 4 Certification を取得](http://www.microsoft.com/japan/presspass/detail.aspx?newsid=2535)
@@ -33,7 +33,7 @@ Windows プラットフォームの Common Criteria Certification
 
 ------------------------------------------------------------------------
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -76,6 +76,6 @@ Windows プラットフォームの Common Criteria Certification
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 [<img src="images/dd362377.arrow_px_up(ja-jp,TechNet.10).gif" alt="ページのトップへ" width="7" height="9" />](#top) [ページのトップへ](#top)

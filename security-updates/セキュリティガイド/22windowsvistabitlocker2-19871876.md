@@ -23,7 +23,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362931(v=TechNet.10)'
 
 BitLocker はWindows Vista の機能ではありますが、2 つのエディションでのみ使用することが出来ます。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -32,36 +32,36 @@ BitLocker はWindows Vista の機能ではありますが、2 つのエディシ
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>Windows Vistaエディション</p></th>
-<th><p>BitLocker</p></th>
-<th><p>EFS</p></th>
+<th>Windows Vistaエディション</th>
+<th>BitLocker</th>
+<th>EFS</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Home Basic</p></td>
-<td style="border:1px solid black;"><p>×</p></td>
-<td style="border:1px solid black;"><p>×</p></td>
+<td style="border:1px solid black;">Home Basic</td>
+<td style="border:1px solid black;">×</td>
+<td style="border:1px solid black;">×</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Home Premium</p></td>
-<td style="border:1px solid black;"><p>×</p></td>
-<td style="border:1px solid black;"><p>×</p></td>
+<td style="border:1px solid black;">Home Premium</td>
+<td style="border:1px solid black;">×</td>
+<td style="border:1px solid black;">×</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Business</p></td>
-<td style="border:1px solid black;"><p>×</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">Business</td>
+<td style="border:1px solid black;">×</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Enterprise</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">Enterprise</td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Ultimate</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
-<td style="border:1px solid black;"><p>○</p></td>
+<td style="border:1px solid black;">Ultimate</td>
+<td style="border:1px solid black;">○</td>
+<td style="border:1px solid black;">○</td>
 </tr>
 </tbody>
 </table>

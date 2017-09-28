@@ -203,7 +203,7 @@ Exchange 2000 には迷惑メールに対する防御機能が組み込まれて
 
 **表 2.1 Exchange 2000 の管理役割**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -211,22 +211,22 @@ Exchange 2000 には迷惑メールに対する防御機能が組み込まれて
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>役割</p></th>
-<th><p>説明</p></th>
+<th>役割</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Exchange 管理者 (参照のみ可)</p></td>
-<td style="border:1px solid black;"><p>対象コンテナ以下のすべてのオブジェクト プロパティについて、一覧と読み取りの権限が付与されます。オブジェクト プロパティの修正を行う必要がない管理者には、常にこの役割を割り当てます。</p></td>
+<td style="border:1px solid black;">Exchange 管理者 (参照のみ可)</td>
+<td style="border:1px solid black;">対象コンテナ以下のすべてのオブジェクト プロパティについて、一覧と読み取りの権限が付与されます。オブジェクト プロパティの修正を行う必要がない管理者には、常にこの役割を割り当てます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Exchange 管理者</p></td>
-<td style="border:1px solid black;"><p>所有権の取得、アクセス権限の変更、またはユーザーのメールボックスのオープンを除いたすべての権限が付与されます。オブジェクトの追加、またはオブジェクト プロパティの変更は必要だが、オブジェクトのアクセス権限の委任は必要ない管理者にこの役割を割り当てます。</p></td>
+<td style="border:1px solid black;">Exchange 管理者</td>
+<td style="border:1px solid black;">所有権の取得、アクセス権限の変更、またはユーザーのメールボックスのオープンを除いたすべての権限が付与されます。オブジェクトの追加、またはオブジェクト プロパティの変更は必要だが、オブジェクトのアクセス権限の委任は必要ない管理者にこの役割を割り当てます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Exchange 管理者 (完全)</p></td>
-<td style="border:1px solid black;"><p>対象コンテナ以下のすべてのオブジェクトについて、ユーザーのメールボックスのオープンまたはユーザーのメールボックスの偽装を除き、アクセス権限の変更を含むすべての権限が付与されます。オブジェクトのアクセス権限の委任が必要か、管理グループに新しいサーバーを追加することが必要な管理者だけにこの役割を割り当てます。</p></td>
+<td style="border:1px solid black;">Exchange 管理者 (完全)</td>
+<td style="border:1px solid black;">対象コンテナ以下のすべてのオブジェクトについて、ユーザーのメールボックスのオープンまたはユーザーのメールボックスの偽装を除き、アクセス権限の変更を含むすべての権限が付与されます。オブジェクトのアクセス権限の委任が必要か、管理グループに新しいサーバーを追加することが必要な管理者だけにこの役割を割り当てます。</td>
 </tr>
 </tbody>
 </table>
@@ -316,7 +316,7 @@ Exchange 2000 を使用して、メールボックス ストア、パブリッ�
   
 **表 2.2 Exchange 2000 を使用した混合型管理モデルの例**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -326,44 +326,44 @@ Exchange 2000 を使用して、メールボックス ストア、パブリッ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>名前</p></th>
-<th><p>含まれるアイテム</p></th>
-<th><p>適用されるポリシー</p></th>
-<th><p>アクセス権限</p></th>
+<th>名前</th>
+<th>含まれるアイテム</th>
+<th>適用されるポリシー</th>
+<th>アクセス権限</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Management</p></td>
-<td style="border:1px solid black;"><p>パブリック フォルダ コンテナ</p>
-<p>ルーティング グループ コンテナ</p>
-<p>システム ポリシー コンテナ</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>Exchange Management : フル コントロールの許可</p>
-<p>Group A Admin : フル コントロールの拒否</p>
-<p>Group B Admin : フル コントロールの拒否</p></td>
+<td style="border:1px solid black;">Management</td>
+<td style="border:1px solid black;">パブリック フォルダ コンテナ
+ルーティング グループ コンテナ
+システム ポリシー コンテナ</td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">Exchange Management : フル コントロールの許可
+Group A Admin : フル コントロールの拒否
+Group B Admin : フル コントロールの拒否</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>London</p></td>
-<td style="border:1px solid black;"><p>サーバー</p></td>
-<td style="border:1px solid black;"><p>サーバー ポリシー</p>
-<p>メールボックス ストア ポリシー</p>
-<p>パブリック フォルダ ストア ポリシー</p></td>
-<td style="border:1px solid black;"><p>Exchange Management : フル コントロールの許可</p>
-<p>Group A Admin : フル コントロールの許可</p></td>
+<td style="border:1px solid black;">London</td>
+<td style="border:1px solid black;">サーバー</td>
+<td style="border:1px solid black;">サーバー ポリシー
+メールボックス ストア ポリシー
+パブリック フォルダ ストア ポリシー</td>
+<td style="border:1px solid black;">Exchange Management : フル コントロールの許可
+Group A Admin : フル コントロールの許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>New York</p></td>
-<td style="border:1px solid black;"><p>サーバー</p></td>
-<td style="border:1px solid black;"><p>サーバー ポリシー</p>
-<p>メールボックス ストア ポリシー</p>
-<p>パブリック フォルダ ストア ポリシー</p></td>
-<td style="border:1px solid black;"><p>Exchange Management : フル コントロールの許可</p>
-<p>Group B Admin : フル コントロールの許可</p></td>
+<td style="border:1px solid black;">New York</td>
+<td style="border:1px solid black;">サーバー</td>
+<td style="border:1px solid black;">サーバー ポリシー
+メールボックス ストア ポリシー
+パブリック フォルダ ストア ポリシー</td>
+<td style="border:1px solid black;">Exchange Management : フル コントロールの許可
+Group B Admin : フル コントロールの許可</td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 #### ユーザー管理を制御する
 

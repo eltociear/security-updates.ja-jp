@@ -208,7 +208,7 @@ MBSA がコンピュータに特定の修正プログラムがインストール
 
 **表 8.1 MBSA スタイルのコマンド ライン スイッチ**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -216,81 +216,81 @@ MBSA がコンピュータに特定の修正プログラムがインストール
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>スイッチ</p></th>
-<th><p>機能</p></th>
+<th>スイッチ</th>
+<th>機能</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>スキャンするコンピュータの選択</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>スキャンするコンピュータの選択</strong></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>&lt;オプションなし&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>ローカル コンピュータをスキャンします。</p></td>
+<td style="border:1px solid black;">ローカル コンピュータをスキャンします。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>/c &lt;ドメイン名&gt;\&lt;コンピュータ名&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>指定された名前のコンピュータをスキャンします。</p></td>
+<td style="border:1px solid black;">指定された名前のコンピュータをスキャンします。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>/i &lt;xxx.xxx.xxx.xxx&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>指定された IP アドレスのコンピュータをスキャンします。</p></td>
+<td style="border:1px solid black;">指定された IP アドレスのコンピュータをスキャンします。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>/r &lt;xxx.xxx.xxx.xxx - xxx.xxx.xxx.xxx&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>指定された範囲の IP アドレスのコンピュータをスキャンします。</p></td>
+<td style="border:1px solid black;">指定された範囲の IP アドレスのコンピュータをスキャンします。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>/d &lt;ドメイン名&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>指定されたドメインのコンピュータをスキャンします。</p></td>
+<td style="border:1px solid black;">指定されたドメインのコンピュータをスキャンします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>実行しないスキャン オプションの選択 (/n OS+IIS+Updates のように短縮可能)</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>実行しないスキャン オプションの選択 (/n OS+IIS+Updates のように短縮可能)</strong></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>/n IIS</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>IIS のチェックをスキップします。</p></td>
+<td style="border:1px solid black;">IIS のチェックをスキップします。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>/n OS</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>Windows オペレーティング システム (OS) のチェックをスキップします。</p></td>
+<td style="border:1px solid black;">Windows オペレーティング システム (OS) のチェックをスキップします。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>/n Password</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>パスワードのチェックをスキップします。</p></td>
+<td style="border:1px solid black;">パスワードのチェックをスキップします。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>/n SQL</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>SQL のチェックをスキップします。</p></td>
+<td style="border:1px solid black;">SQL のチェックをスキップします。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>/n Updates</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>セキュリティ更新のチェックをスキップします。</p></td>
+<td style="border:1px solid black;">セキュリティ更新のチェックをスキップします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>セキュリティ更新のスキャン オプション</strong></p></td>
+<td style="border:1px solid black;"><strong>セキュリティ更新のスキャン オプション</strong></td>
 <td style="border:1px solid black;"><br />
 </td>
 </tr>
@@ -298,97 +298,97 @@ MBSA がコンピュータに特定の修正プログラムがインストール
 <td style="border:1px solid black;"><pre><code>/sus &lt;SUS サーバー&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>指定された SUS サーバーで承認されたセキュリティ更新だけをチェックします。</p></td>
+<td style="border:1px solid black;">指定された SUS サーバーで承認されたセキュリティ更新だけをチェックします。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>/s 1</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>セキュリティ更新のチェックの注意を抑制します。</p></td>
+<td style="border:1px solid black;">セキュリティ更新のチェックの注意を抑制します。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>/s 2</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>セキュリティ更新のチェックの注意と警告を抑制します。</p></td>
+<td style="border:1px solid black;">セキュリティ更新のチェックの注意と警告を抑制します。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>/nosum</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>セキュリティ更新のチェックで、ファイルのチェックサムをテストしません。</p></td>
+<td style="border:1px solid black;">セキュリティ更新のチェックで、ファイルのチェックサムをテストしません。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>出力ファイル名のテンプレートの指定</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>出力ファイル名のテンプレートの指定</strong></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>/o %domain%</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>%computername% (%date%)</p></td>
+<td style="border:1px solid black;">%computername% (%date%)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>結果と詳細の表示</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>結果と詳細の表示</strong></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>/e</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>最新のスキャンでのエラーをリスト表示します。</p></td>
+<td style="border:1px solid black;">最新のスキャンでのエラーをリスト表示します。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>/l</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>利用可能なすべてのレポートをリスト表示します。</p></td>
+<td style="border:1px solid black;">利用可能なすべてのレポートをリスト表示します。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>/ls</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>最新のスキャンでのレポートをリスト表示します。</p></td>
+<td style="border:1px solid black;">最新のスキャンでのレポートをリスト表示します。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>/lr &lt;レポート名&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>概要レポートを表示します。</p></td>
+<td style="border:1px solid black;">概要レポートを表示します。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>/ld &lt;レポート名&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>詳細レポートを表示します。</p></td>
+<td style="border:1px solid black;">詳細レポートを表示します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>その他のオプション</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>その他のオプション</strong></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>/?</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>使用方法のヘルプを表示します。</p></td>
+<td style="border:1px solid black;">使用方法のヘルプを表示します。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>/qp</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>進行状況を表示しません。</p></td>
+<td style="border:1px solid black;">進行状況を表示しません。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>/qe</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>エラー リストを表示しません。</p></td>
+<td style="border:1px solid black;">エラー リストを表示しません。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>/qr</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>レポート リストを表示しません。</p></td>
+<td style="border:1px solid black;">レポート リストを表示しません。</td>
 </tr>
 </tbody>
 </table>
@@ -399,7 +399,7 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
   
 **表 8.2 HFNetChk スタイルのコマンド ライン スイッチ**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -407,183 +407,183 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>スイッチ</p></th>
-<th><p>機能</p></th>
+<th>スイッチ</th>
+<th>機能</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>スキャンするコンピュータの選択</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>スキャンするコンピュータの選択</strong></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>-h &lt;ホスト名&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>指定された NetBIOS 名のコンピュータをスキャンします。既定の場所はローカル ホストです。ホスト名をコンマで区切ることにより、複数のホストをスキャンできます。</p></td>
+<td style="border:1px solid black;">指定された NetBIOS 名のコンピュータをスキャンします。既定の場所はローカル ホストです。ホスト名をコンマで区切ることにより、複数のホストをスキャンできます。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>-fh &lt;ファイル名&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>指定したテキスト ファイル内で指定されている NetBIOS (network basic input/output system) 名のコンピュータをスキャンします。テキスト ファイルには、コンピュータ名を改行で区切って記述します。最大で 256 台まで指定できます。</p></td>
+<td style="border:1px solid black;">指定したテキスト ファイル内で指定されている NetBIOS (network basic input/output system) 名のコンピュータをスキャンします。テキスト ファイルには、コンピュータ名を改行で区切って記述します。最大で 256 台まで指定できます。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>-i &lt;xxx.xxx.xxx.xxx&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>指定された IP アドレスのコンピュータをスキャンします。エントリをコンマで区切ることにより、複数の IP アドレスをスキャンできます。</p></td>
+<td style="border:1px solid black;">指定された IP アドレスのコンピュータをスキャンします。エントリをコンマで区切ることにより、複数の IP アドレスをスキャンできます。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>-fip &lt;ファイル名&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>指定したテキスト ファイル内で指定されている IP アドレスをスキャンします。txt ファイルには、IP アドレスを改行で区切って記述します。最大で 256 エントリまで指定できます。</p></td>
+<td style="border:1px solid black;">指定したテキスト ファイル内で指定されている IP アドレスをスキャンします。txt ファイルには、IP アドレスを改行で区切って記述します。最大で 256 エントリまで指定できます。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>-r &lt;xxx.xxx.xxx.xxx - xxx.xxx.xxx.xxx&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>指定された範囲の IP アドレスのコンピュータをスキャンします。</p></td>
+<td style="border:1px solid black;">指定された範囲の IP アドレスのコンピュータをスキャンします。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>-d &lt;ドメイン名&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>指定されたドメインのコンピュータをスキャンします。</p></td>
+<td style="border:1px solid black;">指定されたドメインのコンピュータをスキャンします。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>-n</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>ローカル ネットワークのすべてのコンピュータをスキャンします。[ネットワーク コンピュータ] 内の、すべてのドメインのすべてのコンピュータをスキャンします。</p></td>
+<td style="border:1px solid black;">ローカル ネットワークのすべてのコンピュータをスキャンします。[ネットワーク コンピュータ] 内の、すべてのドメインのすべてのコンピュータをスキャンします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>どのスキャン オプションを実行または表示するか、またはしないかを指定</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>どのスキャン オプションを実行または表示するか、またはしないかを指定</strong></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>-sus &lt;SUS ファイル名 | SUS サーバー&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>SUS テキスト ファイル、または SUS ファイルの取得先 SUS URL を指定します。ファイルまたはサーバーを指定しない場合は、エンジンはローカル コンピュータのレジストリに格納されている値を使用しようとします。</p></td>
+<td style="border:1px solid black;">SUS テキスト ファイル、または SUS ファイルの取得先 SUS URL を指定します。ファイルまたはサーバーを指定しない場合は、エンジンはローカル コンピュータのレジストリに格納されている値を使用しようとします。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>-b</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>Microsoft Security Response Center により緊急 (baseline critical) と評価された更新だけを対象にして、コンピュータをスキャンします。</p></td>
+<td style="border:1px solid black;">Microsoft Security Response Center により緊急 (baseline critical) と評価された更新だけを対象にして、コンピュータをスキャンします。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>-fq &lt;ファイル名&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>出力を抑制する Q 番号を含んでいるファイルの名前を指定します。Q 番号は、改行で区切って記述します。このスイッチは、指定されたアイテムの表示出力だけを抑制します。アイテムをスキャン中の考慮の対象から除外するわけではありません。</p></td>
+<td style="border:1px solid black;">出力を抑制する Q 番号を含んでいるファイルの名前を指定します。Q 番号は、改行で区切って記述します。このスイッチは、指定されたアイテムの表示出力だけを抑制します。アイテムをスキャン中の考慮の対象から除外するわけではありません。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>-s</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>注意 (NOTE) と警告 (WARNING) のメッセージを抑制します。既定では、どちらのメッセージも抑制しません。このスイッチでは、以下のオプションを使用できます。</p>
-<p>(1) 注意メッセージだけを抑制</p>
-<p>(2) 注意と警告のメッセージの両方を抑制</p></td>
+<td style="border:1px solid black;">注意 (NOTE) と警告 (WARNING) のメッセージを抑制します。既定では、どちらのメッセージも抑制しません。このスイッチでは、以下のオプションを使用できます。
+(1) 注意メッセージだけを抑制
+(2) 注意と警告のメッセージの両方を抑制</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>-nosum</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>セキュリティ更新ファイルのチェックサムの確認を行いません。一般的な状況では、このスイッチを使用する必要はありません。</p></td>
+<td style="border:1px solid black;">セキュリティ更新ファイルのチェックサムの確認を行いません。一般的な状況では、このスイッチを使用する必要はありません。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>-sum</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>英語以外の言語のシステムをスキャニングする際に、強制的にチェックサム スキャンを行います。このスイッチは、言語固有のチェックサムを持つ、カスタムの XML ファイルがある場合にのみ使用してください。</p></td>
+<td style="border:1px solid black;">英語以外の言語のシステムをスキャニングする際に、強制的にチェックサム スキャンを行います。このスイッチは、言語固有のチェックサムを持つ、カスタムの XML ファイルがある場合にのみ使用してください。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>-z</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>レジストリのチェックを行いません。</p></td>
+<td style="border:1px solid black;">レジストリのチェックを行いません。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>-history</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>明示的にインストールされた更新、明示的にインストールされなかった更新、またはその両方を表示します。このスイッチは、通常の処理では必要ありません。非常に特殊な状況以外には使用しないでください。このスイッチでは、以下のオプションを使用できます。</p>
-<p>(1) 明示的にインストールされた更新だけを表示</p>
-<p>(2) 明示的にインストールされなかった更新だけを表示</p>
-<p>(3) 明示的にインストールされた更新とインストールされなかった更新を表示</p></td>
+<td style="border:1px solid black;">明示的にインストールされた更新、明示的にインストールされなかった更新、またはその両方を表示します。このスイッチは、通常の処理では必要ありません。非常に特殊な状況以外には使用しないでください。このスイッチでは、以下のオプションを使用できます。
+(1) 明示的にインストールされた更新だけを表示
+(2) 明示的にインストールされなかった更新だけを表示
+(3) 明示的にインストールされた更新とインストールされなかった更新を表示</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>-v</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>テストがラップ モードでは動作しなかった理由を表示します。このスイッチは、セキュリティ更新が「適用されていない」とされた場合、または注意や警告のメッセージが出た場合に、その理由を表示するために使用できます。</p></td>
+<td style="border:1px solid black;">テストがラップ モードでは動作しなかった理由を表示します。このスイッチは、セキュリティ更新が「適用されていない」とされた場合、または注意や警告のメッセージが出た場合に、その理由を表示するために使用できます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>出力フォーマットおよびファイル名の指定</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>出力フォーマットおよびファイル名の指定</strong></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>-o</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>希望する出力形式を指定します。このスイッチでは、以下のオプションを使用できます。</p>
-<p>(tab) 出力をタブ区切り形式で表示</p>
-<p>(wrap) 出力をワードラップ形式で表示</p></td>
+<td style="border:1px solid black;">希望する出力形式を指定します。このスイッチでは、以下のオプションを使用できます。
+(tab) 出力をタブ区切り形式で表示
+(wrap) 出力をワードラップ形式で表示</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>-f &lt;ファイル名&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>結果を保存するファイルの名前を指定します。このスイッチは、ラップとタブ出力のどちらでも使用できます。</p></td>
+<td style="border:1px solid black;">結果を保存するファイルの名前を指定します。このスイッチは、ラップとタブ出力のどちらでも使用できます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>その他のオプション</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>その他のオプション</strong></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>-t</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>スキャンを実行するために使用されるスレッドの数を表示します。可能な値は 1 ～ 128 で、既定値は 64 です。このスイッチは、スキャンの速度を下げる (または上げる) ために使用できます。</p></td>
+<td style="border:1px solid black;">スキャンを実行するために使用されるスレッドの数を表示します。可能な値は 1 ～ 128 で、既定値は 64 です。このスイッチは、スキャンの速度を下げる (または上げる) ために使用できます。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>-u &lt;ユーザー名&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>ローカルまたはリモートのコンピュータ、またはコンピュータのグループをスキャンする際に使用するユーザー名を指定します。このスイッチは、-p (パスワード) スイッチと共に使用しなければなりません。</p></td>
+<td style="border:1px solid black;">ローカルまたはリモートのコンピュータ、またはコンピュータのグループをスキャンする際に使用するユーザー名を指定します。このスイッチは、-p (パスワード) スイッチと共に使用しなければなりません。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>-p &lt;パスワード&gt;</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>ローカルまたはリモートのコンピュータ、またはコンピュータのグループをスキャンする際に使用するパスワードを指定します。このスイッチは、-u (ユーザー名) スイッチと共に使用しなければなりません。セキュリティ上の理由から、パスワードがクリア テキストでネットワーク上に送られることはありません。代わりに、MBSA は、Windows NT 4.0 以降に組み込まれている challenge-response メカニズムを使用して、認証プロセスを保護します。</p></td>
+<td style="border:1px solid black;">ローカルまたはリモートのコンピュータ、またはコンピュータのグループをスキャンする際に使用するパスワードを指定します。このスイッチは、-u (ユーザー名) スイッチと共に使用しなければなりません。セキュリティ上の理由から、パスワードがクリア テキストでネットワーク上に送られることはありません。代わりに、MBSA は、Windows NT 4.0 以降に組み込まれている challenge-response メカニズムを使用して、認証プロセスを保護します。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>-x</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>利用可能なセキュリティ更新の情報を含んでいる XML データの出所を指定します。XML ファイル名、圧縮した XML .cab ファイル、または Uniform Resource Locator (URL) を指定できます。既定のファイルは、マイクロソフトの Web サイトにある、Mssecure.cab ファイルです。このスイッチを使用しなかった場合には、マイクロソフトの Web サイトから、mssecure.xml ファイルをダウンロードします。</p></td>
+<td style="border:1px solid black;">利用可能なセキュリティ更新の情報を含んでいる XML データの出所を指定します。XML ファイル名、圧縮した XML .cab ファイル、または Uniform Resource Locator (URL) を指定できます。既定のファイルは、マイクロソフトの Web サイトにある、Mssecure.cab ファイルです。このスイッチを使用しなかった場合には、マイクロソフトの Web サイトから、mssecure.xml ファイルをダウンロードします。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>-ver</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>MBSA の利用可能な最新バージョンを実行しているかどうかをチェックします。</p></td>
+<td style="border:1px solid black;">MBSA の利用可能な最新バージョンを実行しているかどうかをチェックします。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>-trace</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>トラブルシューティングのために、デバッグ ログ (ローカル ディレクトリの hf.log) を作成します。このスイッチは、コマンド ラインの最初のスイッチとして指定することが必要です。他のスイッチと組み合わせて使用することができます。</p></td>
+<td style="border:1px solid black;">トラブルシューティングのために、デバッグ ログ (ローカル ディレクトリの hf.log) を作成します。このスイッチは、コマンド ラインの最初のスイッチとして指定することが必要です。他のスイッチと組み合わせて使用することができます。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><pre><code>-about</code></pre>
 <br />
 </td>
-<td style="border:1px solid black;"><p>MBSA についての情報を表示します。</p></td>
+<td style="border:1px solid black;">MBSA についての情報を表示します。</td>
 </tr>
 </tbody>
 </table>
@@ -602,7 +602,7 @@ MBSA を使用して修正プログラムの状況を確認する場合には、
   
 **表 8.3 修正プログラムの管理スクリプト用のフォルダ構造**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -610,30 +610,30 @@ MBSA を使用して修正プログラムの状況を確認する場合には、
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>フォルダ</p></th>
-<th><p>説明</p></th>
+<th>フォルダ</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>C:\SecurityOps</p></td>
-<td style="border:1px solid black;"><p>このガイドに含まれるすべてのファイルのルート フォルダです。</p></td>
+<td style="border:1px solid black;">C:\SecurityOps</td>
+<td style="border:1px solid black;">このガイドに含まれるすべてのファイルのルート フォルダです。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>C:\SecurityOps\PatchMgmt</p></td>
-<td style="border:1px solid black;"><p>このフォルダには、修正プログラムの管理スクリプト、MBSAPatchCheck.cmd、movelog.vbs スクリプト、およびサポート ファイルとログのためのサブフォルダが含まれます。また、mssecure.xml ファイルもこのフォルダに格納しなければなりません。</p></td>
+<td style="border:1px solid black;">C:\SecurityOps\PatchMgmt</td>
+<td style="border:1px solid black;">このフォルダには、修正プログラムの管理スクリプト、MBSAPatchCheck.cmd、movelog.vbs スクリプト、およびサポート ファイルとログのためのサブフォルダが含まれます。また、mssecure.xml ファイルもこのフォルダに格納しなければなりません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>C:\Program Files\Microsoft Baseline Security Analyzer\</p></td>
-<td style="border:1px solid black;"><p>このフォルダは、MBSA ユーティリィティをマイクロソフトの Web サイトからダウンロードした後に置く場所です。詳細な手順については、後述します。</p></td>
+<td style="border:1px solid black;">C:\Program Files\Microsoft Baseline Security Analyzer\</td>
+<td style="border:1px solid black;">このフォルダは、MBSA ユーティリィティをマイクロソフトの Web サイトからダウンロードした後に置く場所です。詳細な手順については、後述します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>C:\SecurityOps\PatchMgmt\ServerLists</p></td>
-<td style="border:1px solid black;"><p>このフォルダは、適用されていない修正プログラムをスキャンするサーバーのグループのリストを記したテキスト ファイルを作成して保管する場所です。</p></td>
+<td style="border:1px solid black;">C:\SecurityOps\PatchMgmt\ServerLists</td>
+<td style="border:1px solid black;">このフォルダは、適用されていない修正プログラムをスキャンするサーバーのグループのリストを記したテキスト ファイルを作成して保管する場所です。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>C:\SecurityOps\PatchMgmt\Logs</p></td>
-<td style="border:1px solid black;"><p>このフォルダは、MBSAPatchCheck.cmd の実行後にログ ファイルが作成される場所です。スクリプトは \SecurityOps\PatchMgmt\Logs\2002117 のように、ログ ファイルを格納した日付のサブフォルダを作成します。</p></td>
+<td style="border:1px solid black;">C:\SecurityOps\PatchMgmt\Logs</td>
+<td style="border:1px solid black;">このフォルダは、MBSAPatchCheck.cmd の実行後にログ ファイルが作成される場所です。スクリプトは \SecurityOps\PatchMgmt\Logs\2002117 のように、ログ ファイルを格納した日付のサブフォルダを作成します。</td>
 </tr>
 </tbody>
 </table>
@@ -733,7 +733,7 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
   
 **表 8.4 マイクロソフトの定義による脆弱性の重大性**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -743,36 +743,36 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>コンピュータのタイプ</p></th>
-<th><p>重大性のレベル</p></th>
-<th><p> </p></th>
-<th><p> </p></th>
+<th>コンピュータのタイプ</th>
+<th>重大性のレベル</th>
+<th> </th>
+<th> </th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>　</p></td>
-<td style="border:1px solid black;"><p><strong>高</strong></p></td>
-<td style="border:1px solid black;"><p><strong>中</strong></p></td>
-<td style="border:1px solid black;"><p><strong>低</strong></p></td>
+<td style="border:1px solid black;">　</td>
+<td style="border:1px solid black;"><strong>高</strong></td>
+<td style="border:1px solid black;"><strong>中</strong></td>
+<td style="border:1px solid black;"><strong>低</strong></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>インターネット サーバー</p></td>
-<td style="border:1px solid black;"><p>Web サイト改ざん、サービス拒否、フル コントロール</p></td>
-<td style="border:1px solid black;"><p>利用困難、特別な設定、一時的な影響</p></td>
-<td style="border:1px solid black;"><p>限られた影響 (スクリプトの漏えい等)</p></td>
+<td style="border:1px solid black;">インターネット サーバー</td>
+<td style="border:1px solid black;">Web サイト改ざん、サービス拒否、フル コントロール</td>
+<td style="border:1px solid black;">利用困難、特別な設定、一時的な影響</td>
+<td style="border:1px solid black;">限られた影響 (スクリプトの漏えい等)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>内部サーバー</p></td>
-<td style="border:1px solid black;"><p>アクセス権の昇格、データの漏えいおよび改ざん、監査が困難</p></td>
-<td style="border:1px solid black;"><p>監査可能データの漏えい、改ざん、サービス拒否</p></td>
-<td style="border:1px solid black;"><p>無作為的な、部分的なデータ盗難、改ざん。限られたサービス拒否</p></td>
+<td style="border:1px solid black;">内部サーバー</td>
+<td style="border:1px solid black;">アクセス権の昇格、データの漏えいおよび改ざん、監査が困難</td>
+<td style="border:1px solid black;">監査可能データの漏えい、改ざん、サービス拒否</td>
+<td style="border:1px solid black;">無作為的な、部分的なデータ盗難、改ざん。限られたサービス拒否</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>クライアント システム</p></td>
-<td style="border:1px solid black;"><p>ユーザーの操作なしでの任意のコードの実行、リモートでのアクセス権の昇格</p></td>
-<td style="border:1px solid black;"><p>ローカル アクセス権の昇格、無作為的なデータ漏えい、サービス拒否、ユーザーの操作の利用</p></td>
-<td style="border:1px solid black;"><p>限られた、部分的なデータ盗難、改ざん。悪質な Web サイトの攻撃</p></td>
+<td style="border:1px solid black;">クライアント システム</td>
+<td style="border:1px solid black;">ユーザーの操作なしでの任意のコードの実行、リモートでのアクセス権の昇格</td>
+<td style="border:1px solid black;">ローカル アクセス権の昇格、無作為的なデータ漏えい、サービス拒否、ユーザーの操作の利用</td>
+<td style="border:1px solid black;">限られた、部分的なデータ盗難、改ざん。悪質な Web サイトの攻撃</td>
 </tr>
 </tbody>
 </table>
@@ -791,7 +791,7 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
   
 **表 8.5 修正プログラムに対する最小限のテスト**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -799,34 +799,34 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>修正プログラムのタイプ</p></th>
-<th><p>テスト フェーズ</p></th>
+<th>修正プログラムのタイプ</th>
+<th>テスト フェーズ</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>重大性「高」の修正プログラム</p></td>
-<td style="border:1px solid black;"><p>修正プログラムの評価</p>
-<p>サーバーの動作の評価 (部分的)</p></td>
+<td style="border:1px solid black;">重大性「高」の修正プログラム</td>
+<td style="border:1px solid black;">修正プログラムの評価
+サーバーの動作の評価 (部分的)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>重大性「中」の修正プログラム</p></td>
-<td style="border:1px solid black;"><p>修正プログラムの評価</p>
-<p>テスト環境への修正プログラムのインストール</p>
-<p>サーバーの動作の評価 (完全)</p>
-<p>アンインストールの手順のチェック</p></td>
+<td style="border:1px solid black;">重大性「中」の修正プログラム</td>
+<td style="border:1px solid black;">修正プログラムの評価
+テスト環境への修正プログラムのインストール
+サーバーの動作の評価 (完全)
+アンインストールの手順のチェック</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>重大性「低」の修正プログラム</p></td>
-<td style="border:1px solid black;"><p>修正プログラムの評価</p>
-<p>テスト環境への修正プログラムのインストール</p>
-<p>サーバーの動作の評価 (完全)</p>
-<p>アプリケーションの動作の評価</p>
-<p>アンインストールの手順のチェック</p></td>
+<td style="border:1px solid black;">重大性「低」の修正プログラム</td>
+<td style="border:1px solid black;">修正プログラムの評価
+テスト環境への修正プログラムのインストール
+サーバーの動作の評価 (完全)
+アプリケーションの動作の評価
+アンインストールの手順のチェック</td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 リスク管理の手順の一環として、それぞれの段階をどの程度徹底的に実行するかを決定する必要があるでしょう。緊急を要するためにいくつかの段階をスキップした場合でも、すでに展開したシステムで何らかの問題が生じる前に、その問題の可能性を見つけるために、後でそれらをテスト環境で実行してください。
 
@@ -935,7 +935,7 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
 
 **表 8.6 修正プログラム実行ファイルのスイッチ**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -943,38 +943,38 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>スイッチ</p></th>
-<th><p>説明</p></th>
+<th>スイッチ</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>-y</strong></p></td>
-<td style="border:1px solid black;"><p>アンインストールを行います。</p></td>
+<td style="border:1px solid black;"><strong>-y</strong></td>
+<td style="border:1px solid black;">アンインストールを行います。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>-f</strong></p></td>
-<td style="border:1px solid black;"><p>シャットダウン時にアプリケーションを強制的に終了します。</p></td>
+<td style="border:1px solid black;"><strong>-f</strong></td>
+<td style="border:1px solid black;">シャットダウン時にアプリケーションを強制的に終了します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>-n</strong></p></td>
-<td style="border:1px solid black;"><p>アンインストール用のディレクトリを作成しません。</p></td>
+<td style="border:1px solid black;"><strong>-n</strong></td>
+<td style="border:1px solid black;">アンインストール用のディレクトリを作成しません。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>-z</strong></p></td>
-<td style="border:1px solid black;"><p>更新が完了しても、再起動しません。</p></td>
+<td style="border:1px solid black;"><strong>-z</strong></td>
+<td style="border:1px solid black;">更新が完了しても、再起動しません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>-q</strong></p></td>
-<td style="border:1px solid black;"><p>QUIET モード - ユーザー インターフェイス (UI) を表示しません。</p></td>
+<td style="border:1px solid black;"><strong>-q</strong></td>
+<td style="border:1px solid black;">QUIET モード - ユーザー インターフェイス (UI) を表示しません。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>-m</strong></p></td>
-<td style="border:1px solid black;"><p>無人モード。</p></td>
+<td style="border:1px solid black;"><strong>-m</strong></td>
+<td style="border:1px solid black;">無人モード。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>-l</strong></p></td>
-<td style="border:1px solid black;"><p>インストール済みの修正プログラムをリスト表示します。</p></td>
+<td style="border:1px solid black;"><strong>-l</strong></td>
+<td style="border:1px solid black;">インストール済みの修正プログラムをリスト表示します。</td>
 </tr>
 </tbody>
 </table>

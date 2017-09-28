@@ -611,7 +611,7 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 
 **表 3.1 資産評価の例**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -622,20 +622,20 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>資産</p></th>
-<th><p>価値</p></th>
-<th><p>危険要因</p></th>
-<th><p>直接的影響</p></th>
-<th><p>間接的影響</p></th>
+<th>資産</th>
+<th>価値</th>
+<th>危険要因</th>
+<th>直接的影響</th>
+<th>間接的影響</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>電子商取引の Web サイト</p></td>
-<td style="border:1px solid black;"><p>年間 $17,520,000</p></td>
-<td style="border:1px solid black;"><p>年間 6 時間、または .000685</p></td>
-<td style="border:1px solid black;"><p>$12,000</p></td>
-<td style="border:1px solid black;"><p>$27,520</p></td>
+<td style="border:1px solid black;">電子商取引の Web サイト</td>
+<td style="border:1px solid black;">年間 $17,520,000</td>
+<td style="border:1px solid black;">年間 6 時間、または .000685</td>
+<td style="border:1px solid black;">$12,000</td>
+<td style="border:1px solid black;">$27,520</td>
 </tr>
 </tbody>
 </table>
@@ -752,7 +752,7 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
   
 **表 3.2 リスクの確率**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -762,54 +762,54 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>範囲</p></th>
-<th><p>計算値</p></th>
-<th><p>表現</p></th>
-<th><p>スコア</p></th>
+<th>範囲</th>
+<th>計算値</th>
+<th>表現</th>
+<th>スコア</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>1% ～ 14%</p></td>
-<td style="border:1px solid black;"><p>7%</p></td>
-<td style="border:1px solid black;"><p>極めて確率が低い</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
+<td style="border:1px solid black;">1% ～ 14%</td>
+<td style="border:1px solid black;">7%</td>
+<td style="border:1px solid black;">極めて確率が低い</td>
+<td style="border:1px solid black;">1</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>15% ～ 28%</p></td>
-<td style="border:1px solid black;"><p>21%</p></td>
-<td style="border:1px solid black;"><p>低い</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
+<td style="border:1px solid black;">15% ～ 28%</td>
+<td style="border:1px solid black;">21%</td>
+<td style="border:1px solid black;">低い</td>
+<td style="border:1px solid black;">2</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>28% ～ 42%</p></td>
-<td style="border:1px solid black;"><p>35%</p></td>
-<td style="border:1px solid black;"><p>ありそうでない</p></td>
-<td style="border:1px solid black;"><p>3</p></td>
+<td style="border:1px solid black;">28% ～ 42%</td>
+<td style="border:1px solid black;">35%</td>
+<td style="border:1px solid black;">ありそうでない</td>
+<td style="border:1px solid black;">3</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>43% ～ 57%</p></td>
-<td style="border:1px solid black;"><p>50%</p></td>
-<td style="border:1px solid black;"><p>50 – 50</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
+<td style="border:1px solid black;">43% ～ 57%</td>
+<td style="border:1px solid black;">50%</td>
+<td style="border:1px solid black;">50 – 50</td>
+<td style="border:1px solid black;">4</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>58% ～ 72%</p></td>
-<td style="border:1px solid black;"><p>65%</p></td>
-<td style="border:1px solid black;"><p>おそらく</p></td>
-<td style="border:1px solid black;"><p>5</p></td>
+<td style="border:1px solid black;">58% ～ 72%</td>
+<td style="border:1px solid black;">65%</td>
+<td style="border:1px solid black;">おそらく</td>
+<td style="border:1px solid black;">5</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>73% ～ 86%</p></td>
-<td style="border:1px solid black;"><p>79%</p></td>
-<td style="border:1px solid black;"><p>可能性が高い</p></td>
-<td style="border:1px solid black;"><p>6</p></td>
+<td style="border:1px solid black;">73% ～ 86%</td>
+<td style="border:1px solid black;">79%</td>
+<td style="border:1px solid black;">可能性が高い</td>
+<td style="border:1px solid black;">6</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>87% ～ 99%</p></td>
-<td style="border:1px solid black;"><p>93%</p></td>
-<td style="border:1px solid black;"><p>ほとんど確実</p></td>
-<td style="border:1px solid black;"><p>7</p></td>
+<td style="border:1px solid black;">87% ～ 99%</td>
+<td style="border:1px solid black;">93%</td>
+<td style="border:1px solid black;">ほとんど確実</td>
+<td style="border:1px solid black;">7</td>
 </tr>
 </tbody>
 </table>
@@ -830,7 +830,7 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
   
 **表 3.3 損失資産のスコアリング システムの例**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -838,50 +838,50 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>スコア</p></th>
-<th><p>金銭的な損失</p></th>
+<th>スコア</th>
+<th>金銭的な損失</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>$100 未満</p></td>
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">$100 未満</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>$100 ～ $1,000</p></td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">$100 ～ $1,000</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>3</p></td>
-<td style="border:1px solid black;"><p>$1,000 ～ $1 万</p></td>
+<td style="border:1px solid black;">3</td>
+<td style="border:1px solid black;">$1,000 ～ $1 万</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>4</p></td>
-<td style="border:1px solid black;"><p>$1 万 ～ $10 万</p></td>
+<td style="border:1px solid black;">4</td>
+<td style="border:1px solid black;">$1 万 ～ $10 万</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>5</p></td>
-<td style="border:1px solid black;"><p>$10 万 ～ $100 万</p></td>
+<td style="border:1px solid black;">5</td>
+<td style="border:1px solid black;">$10 万 ～ $100 万</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>6</p></td>
-<td style="border:1px solid black;"><p>$100 万 ～ $1,000 万</p></td>
+<td style="border:1px solid black;">6</td>
+<td style="border:1px solid black;">$100 万 ～ $1,000 万</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>7</p></td>
-<td style="border:1px solid black;"><p>$1,000 万 ～ $1 億</p></td>
+<td style="border:1px solid black;">7</td>
+<td style="border:1px solid black;">$1,000 万 ～ $1 億</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>8</p></td>
-<td style="border:1px solid black;"><p>$1 億 ～ $10 億</p></td>
+<td style="border:1px solid black;">8</td>
+<td style="border:1px solid black;">$1 億 ～ $10 億</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>9</p></td>
-<td style="border:1px solid black;"><p>$10 億 ～ $100 億</p></td>
+<td style="border:1px solid black;">9</td>
+<td style="border:1px solid black;">$10 億 ～ $100 億</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>10</p></td>
-<td style="border:1px solid black;"><p>$100 億超</p></td>
+<td style="border:1px solid black;">10</td>
+<td style="border:1px solid black;">$100 億超</td>
 </tr>
 </tbody>
 </table>
@@ -896,7 +896,7 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
   
 **表 3.4 リスクのスコアリング マトリックス**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -906,30 +906,30 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>確率 影響</p></th>
-<th><p>低 = 1</p></th>
-<th><p>中 = 2</p></th>
-<th><p>高 = 3</p></th>
+<th>確率 影響</th>
+<th>低 = 1</th>
+<th>中 = 2</th>
+<th>高 = 3</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>高 = 3</p></td>
-<td style="border:1px solid black;"><p>3</p></td>
-<td style="border:1px solid black;"><p>6</p></td>
-<td style="border:1px solid black;"><p>9</p></td>
+<td style="border:1px solid black;">高 = 3</td>
+<td style="border:1px solid black;">3</td>
+<td style="border:1px solid black;">6</td>
+<td style="border:1px solid black;">9</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>中 = 2</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>4</p></td>
-<td style="border:1px solid black;"><p>6</p></td>
+<td style="border:1px solid black;">中 = 2</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">4</td>
+<td style="border:1px solid black;">6</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>低 = 1</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>3</p></td>
+<td style="border:1px solid black;">低 = 1</td>
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">3</td>
 </tr>
 </tbody>
 </table>
@@ -969,38 +969,38 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>優先順位</p></th>
-<th><p>条件</p></th>
-<th><p>結果</p></th>
-<th><p>確率</p></th>
-<th><p>影響</p></th>
-<th><p>危険性</p></th>
+<th>優先順位</th>
+<th>条件</th>
+<th>結果</th>
+<th>確率</th>
+<th>影響</th>
+<th>危険性</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>ウイルスが 電子商取引 Web サイトに感染</p></td>
-<td style="border:1px solid black;"><p>サーバーの再構築に 6 時間を要した。</p></td>
-<td style="border:1px solid black;"><p>80%</p></td>
-<td style="border:1px solid black;"><p>3</p></td>
-<td style="border:1px solid black;"><p>2.4</p></td>
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">ウイルスが 電子商取引 Web サイトに感染</td>
+<td style="border:1px solid black;">サーバーの再構築に 6 時間を要した。</td>
+<td style="border:1px solid black;">80%</td>
+<td style="border:1px solid black;">3</td>
+<td style="border:1px solid black;">2.4</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>新しいプログラミング言語用のコーディング基準がない</p></td>
-<td style="border:1px solid black;"><p>潜在的にセキュリティの脆弱性が大きい状態で出荷。</p></td>
-<td style="border:1px solid black;"><p>45%</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>0.9</p></td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">新しいプログラミング言語用のコーディング基準がない</td>
+<td style="border:1px solid black;">潜在的にセキュリティの脆弱性が大きい状態で出荷。</td>
+<td style="border:1px solid black;">45%</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">0.9</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>3</p></td>
-<td style="border:1px solid black;"><p>仕様書がない</p></td>
-<td style="border:1px solid black;"><p>一部の製品セキュリティ機能が実装されなかった。</p></td>
-<td style="border:1px solid black;"><p>30%</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>0.6</p></td>
+<td style="border:1px solid black;">3</td>
+<td style="border:1px solid black;">仕様書がない</td>
+<td style="border:1px solid black;">一部の製品セキュリティ機能が実装されなかった。</td>
+<td style="border:1px solid black;">30%</td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">0.6</td>
 </tr>
 </tbody>
 </table>
@@ -1027,7 +1027,7 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
   
 **表 3.6 マスタ セキュリティ リスク リストの内容**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -1036,71 +1036,71 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>項目</p></th>
-<th><p>目的</p></th>
-<th><p>状態</p></th>
+<th>項目</th>
+<th>目的</th>
+<th>状態</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>セキュリティ リスクのステートメント</p></td>
-<td style="border:1px solid black;"><p>リスクを明確に示す。</p></td>
-<td style="border:1px solid black;"><p>必須</p></td>
+<td style="border:1px solid black;">セキュリティ リスクのステートメント</td>
+<td style="border:1px solid black;">リスクを明確に示す。</td>
+<td style="border:1px solid black;">必須</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>確率</p></td>
-<td style="border:1px solid black;"><p>脅威が発生する可能性を定量化する。</p></td>
-<td style="border:1px solid black;"><p>必須</p></td>
+<td style="border:1px solid black;">確率</td>
+<td style="border:1px solid black;">脅威が発生する可能性を定量化する。</td>
+<td style="border:1px solid black;">必須</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>影響</p></td>
-<td style="border:1px solid black;"><p>損失の深刻度または機会コストの大きさを定量化する。</p></td>
-<td style="border:1px solid black;"><p>必須</p></td>
+<td style="border:1px solid black;">影響</td>
+<td style="border:1px solid black;">損失の深刻度または機会コストの大きさを定量化する。</td>
+<td style="border:1px solid black;">必須</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ランク付けの基準</p></td>
-<td style="border:1px solid black;"><p>重要な尺度を選ぶ。</p></td>
-<td style="border:1px solid black;"><p>必須</p></td>
+<td style="border:1px solid black;">ランク付けの基準</td>
+<td style="border:1px solid black;">重要な尺度を選ぶ。</td>
+<td style="border:1px solid black;">必須</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>優先順位 (ランク)</p></td>
-<td style="border:1px solid black;"><p>アクションに優先順位を付ける。</p></td>
-<td style="border:1px solid black;"><p>必須</p></td>
+<td style="border:1px solid black;">優先順位 (ランク)</td>
+<td style="border:1px solid black;">アクションに優先順位を付ける。</td>
+<td style="border:1px solid black;">必須</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>所有者</p></td>
-<td style="border:1px solid black;"><p>リスク アクション プランに対するフォロースルーを確実に行う。</p></td>
-<td style="border:1px solid black;"><p>必須</p></td>
+<td style="border:1px solid black;">所有者</td>
+<td style="border:1px solid black;">リスク アクション プランに対するフォロースルーを確実に行う。</td>
+<td style="border:1px solid black;">必須</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>軽減計画</p></td>
-<td style="border:1px solid black;"><p>予防策を説明する。</p></td>
-<td style="border:1px solid black;"><p>必須</p></td>
+<td style="border:1px solid black;">軽減計画</td>
+<td style="border:1px solid black;">予防策を説明する。</td>
+<td style="border:1px solid black;">必須</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>危機管理計画とトリガ</p></td>
-<td style="border:1px solid black;"><p>是正策を説明する。</p></td>
-<td style="border:1px solid black;"><p>必須</p></td>
+<td style="border:1px solid black;">危機管理計画とトリガ</td>
+<td style="border:1px solid black;">是正策を説明する。</td>
+<td style="border:1px solid black;">必須</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>根本原因</p></td>
-<td style="border:1px solid black;"><p>効果的な介入計画を導く。</p></td>
-<td style="border:1px solid black;"><p>必須</p></td>
+<td style="border:1px solid black;">根本原因</td>
+<td style="border:1px solid black;">効果的な介入計画を導く。</td>
+<td style="border:1px solid black;">必須</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>下流効果</p></td>
-<td style="border:1px solid black;"><p>適切な影響の予測を保証する。</p></td>
-<td style="border:1px solid black;"><p>省略可能</p></td>
+<td style="border:1px solid black;">下流効果</td>
+<td style="border:1px solid black;">適切な影響の予測を保証する。</td>
+<td style="border:1px solid black;">省略可能</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>コンテキスト</p></td>
-<td style="border:1px solid black;"><p>浮上するリスクにおけるチームの意図を理解するために、背景情報を文書化する。</p></td>
-<td style="border:1px solid black;"><p>省略可能</p></td>
+<td style="border:1px solid black;">コンテキスト</td>
+<td style="border:1px solid black;">浮上するリスクにおけるチームの意図を理解するために、背景情報を文書化する。</td>
+<td style="border:1px solid black;">省略可能</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>実装のための時間</p></td>
-<td style="border:1px solid black;"><p>リスク制御が一定の時間枠内で実装されることの重要性を理解する。</p></td>
-<td style="border:1px solid black;"><p>省略可能</p></td>
+<td style="border:1px solid black;">実装のための時間</td>
+<td style="border:1px solid black;">リスク制御が一定の時間枠内で実装されることの重要性を理解する。</td>
+<td style="border:1px solid black;">省略可能</td>
 </tr>
 </tbody>
 </table>
@@ -1113,7 +1113,7 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
   
 **表 3.7 リスク ステートメント フォーム**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1121,46 +1121,46 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>項目</p></th>
-<th><p>目的</p></th>
+<th>項目</th>
+<th>目的</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>セキュリティ リスクの識別名</p></td>
-<td style="border:1px solid black;"><p>報告または追跡を目的に、チームがリスクを一意に識別するために使う名前。</p></td>
+<td style="border:1px solid black;">セキュリティ リスクの識別名</td>
+<td style="border:1px solid black;">報告または追跡を目的に、チームがリスクを一意に識別するために使う名前。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>セキュリティ リスクのソース</p></td>
-<td style="border:1px solid black;"><p>セキュリティ リスクの発生元となる基礎領域の広い分類。セキュリティ リスクの反復的な根本原因を求めるべき領域を識別するために使われます。</p></td>
+<td style="border:1px solid black;">セキュリティ リスクのソース</td>
+<td style="border:1px solid black;">セキュリティ リスクの発生元となる基礎領域の広い分類。セキュリティ リスクの反復的な根本原因を求めるべき領域を識別するために使われます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>セキュリティ リスクの条件 (脅威/弱点の悪用)</p></td>
-<td style="border:1px solid black;"><p>損失につながる可能性のある既存の条件を説明する語句。これは、セキュリティ リスク ステートメントの最初の部分を形成します。</p></td>
+<td style="border:1px solid black;">セキュリティ リスクの条件 (脅威/弱点の悪用)</td>
+<td style="border:1px solid black;">損失につながる可能性のある既存の条件を説明する語句。これは、セキュリティ リスク ステートメントの最初の部分を形成します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>リスクの結果 (脆弱性/資産への影響)</p></td>
-<td style="border:1px solid black;"><p>リスクが結果を生んだ場合に発生するであろう損失を説明する語句。これは、セキュリティ リスク ステートメントの 2 番目の部分を形成します。</p></td>
+<td style="border:1px solid black;">リスクの結果 (脆弱性/資産への影響)</td>
+<td style="border:1px solid black;">リスクが結果を生んだ場合に発生するであろう損失を説明する語句。これは、セキュリティ リスク ステートメントの 2 番目の部分を形成します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>セキュリティ リスクの確率</p></td>
-<td style="border:1px solid black;"><p>リスク条件が実際に発生し、損失が生じる可能性を表す、ゼロよりも大きく 100% よりも小さい確率。</p></td>
+<td style="border:1px solid black;">セキュリティ リスクの確率</td>
+<td style="border:1px solid black;">リスク条件が実際に発生し、損失が生じる可能性を表す、ゼロよりも大きく 100% よりも小さい確率。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>資産への影響の分類</p></td>
-<td style="border:1px solid black;"><p>リスクが発生する可能性のある影響のタイプの広い分類。</p></td>
+<td style="border:1px solid black;">資産への影響の分類</td>
+<td style="border:1px solid black;">リスクが発生する可能性のある影響のタイプの広い分類。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>資産の危険性</p></td>
-<td style="border:1px solid black;"><p>リスクの総合的な脅威。実際に損失が発生する可能性と潜在的損失の大きさのバランスを取ります。チームはリスク 危険性を使ってリスクのランク付けを行います。危険性は、リスクの確率と影響を掛け合わせて算出します。</p></td>
+<td style="border:1px solid black;">資産の危険性</td>
+<td style="border:1px solid black;">リスクの総合的な脅威。実際に損失が発生する可能性と潜在的損失の大きさのバランスを取ります。チームはリスク 危険性を使ってリスクのランク付けを行います。危険性は、リスクの確率と影響を掛け合わせて算出します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>リスクのコンテキスト</p></td>
-<td style="border:1px solid black;"><p>セキュリティ リスクの状況を明確にするのに役立つ追加の背景情報を含む段落。</p></td>
+<td style="border:1px solid black;">リスクのコンテキスト</td>
+<td style="border:1px solid black;">セキュリティ リスクの状況を明確にするのに役立つ追加の背景情報を含む段落。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>関連するセキュリティ リスク</p></td>
-<td style="border:1px solid black;"><p>相互依存するリスクを追跡するためにチームが使うリスク識別名のリスト。</p></td>
+<td style="border:1px solid black;">関連するセキュリティ リスク</td>
+<td style="border:1px solid black;">相互依存するリスクを追跡するためにチームが使うリスク識別名のリスト。</td>
 </tr>
 </tbody>
 </table>

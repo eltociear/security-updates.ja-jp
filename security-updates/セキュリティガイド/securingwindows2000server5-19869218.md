@@ -248,7 +248,7 @@ W32Time サービスは、RFC 1769 で説明されるとおり、簡易ネット
 
 **表 5.1 Windows 2000 サーバーの役割**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -257,36 +257,36 @@ W32Time サービスは、RFC 1769 で説明されるとおり、簡易ネット
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>サーバーの役割</p></th>
-<th><p>説明</p></th>
-<th><p>セキュリティ テンプレート</p></th>
+<th>サーバーの役割</th>
+<th>説明</th>
+<th>セキュリティ テンプレート</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Windows 2000 ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>Active Directory ドメイン コントローラを含むグループ。</p></td>
-<td style="border:1px solid black;"><p>MSS DCBaseline.inf</p></td>
+<td style="border:1px solid black;">Windows 2000 ドメイン コントローラ</td>
+<td style="border:1px solid black;">Active Directory ドメイン コントローラを含むグループ。</td>
+<td style="border:1px solid black;">MSS DCBaseline.inf</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Windows 2000 メンバ サーバー</p></td>
-<td style="border:1px solid black;"><p>ドメインのメンバであるすべてのサーバーであり、メンバ サーバー OU 内またはその下に常駐。</p></td>
-<td style="border:1px solid black;"><p>MSS Baseline.inf</p></td>
+<td style="border:1px solid black;">Windows 2000 メンバ サーバー</td>
+<td style="border:1px solid black;">ドメインのメンバであるすべてのサーバーであり、メンバ サーバー OU 内またはその下に常駐。</td>
+<td style="border:1px solid black;">MSS Baseline.inf</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Windows 2000 ファイル サーバーとプリント サーバー</p></td>
-<td style="border:1px solid black;"><p>ロックされたファイル サーバーおよびプリント サーバーを含むグループ。</p></td>
-<td style="border:1px solid black;"><p>MSS FilePrint Role.inf</p></td>
+<td style="border:1px solid black;">Windows 2000 ファイル サーバーとプリント サーバー</td>
+<td style="border:1px solid black;">ロックされたファイル サーバーおよびプリント サーバーを含むグループ。</td>
+<td style="border:1px solid black;">MSS FilePrint Role.inf</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Windows 2000 インフラストラクチャ サーバー</p></td>
-<td style="border:1px solid black;"><p>ロックされた DNS、WINS、および DHCP の各サーバーを含むグループ。</p></td>
-<td style="border:1px solid black;"><p>MSS Infrastructure Role.inf</p></td>
+<td style="border:1px solid black;">Windows 2000 インフラストラクチャ サーバー</td>
+<td style="border:1px solid black;">ロックされた DNS、WINS、および DHCP の各サーバーを含むグループ。</td>
+<td style="border:1px solid black;">MSS Infrastructure Role.inf</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Windows 2000 IIS サーバー</p></td>
-<td style="border:1px solid black;"><p>ロックされた IIS サーバーを含むグループ。</p></td>
-<td style="border:1px solid black;"><p>MSS IIS Role.inf</p></td>
+<td style="border:1px solid black;">Windows 2000 IIS サーバー</td>
+<td style="border:1px solid black;">ロックされた IIS サーバーを含むグループ。</td>
+<td style="border:1px solid black;">MSS IIS Role.inf</td>
 </tr>
 </tbody>
 </table>
@@ -309,7 +309,7 @@ Contoso は 上記の推奨事項を応用して、自社 Windows 2000 サーバ
   
 **表 5.2 Contoso の OU と管理グループ**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -317,30 +317,30 @@ Contoso は 上記の推奨事項を応用して、自社 Windows 2000 サーバ
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>OU 名</p></th>
-<th><p>管理グループ</p></th>
+<th>OU 名</th>
+<th>管理グループ</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>ドメイン技術</p></td>
+<td style="border:1px solid black;">ドメイン コントローラ</td>
+<td style="border:1px solid black;">ドメイン技術</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>メンバ サーバー</p></td>
-<td style="border:1px solid black;"><p>ドメイン技術</p></td>
+<td style="border:1px solid black;">メンバ サーバー</td>
+<td style="border:1px solid black;">ドメイン技術</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>インフラストラクチャ</p></td>
-<td style="border:1px solid black;"><p>運用</p></td>
+<td style="border:1px solid black;">インフラストラクチャ</td>
+<td style="border:1px solid black;">運用</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ファイルとプリント</p></td>
-<td style="border:1px solid black;"><p>運用</p></td>
+<td style="border:1px solid black;">ファイルとプリント</td>
+<td style="border:1px solid black;">運用</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Web</p></td>
-<td style="border:1px solid black;"><p>Web サービス</p></td>
+<td style="border:1px solid black;">Web</td>
+<td style="border:1px solid black;">Web サービス</td>
 </tr>
 </tbody>
 </table>
@@ -426,7 +426,7 @@ Contoso は、制限された各グループに対応する GPO を使用して�
   
 **表 5.3 Windows 2000 Server コンピュータ ポリシーのセクション**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -434,54 +434,54 @@ Contoso は、制限された各グループに対応する GPO を使用して�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>UI 内のポリシー セクション名</p></th>
-<th><p>説明</p></th>
+<th>UI 内のポリシー セクション名</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>アカウント ポリシー\パスワードのポリシー</p></td>
-<td style="border:1px solid black;"><p>パスワードの期間、長さ、および複雑さを構成します。</p></td>
+<td style="border:1px solid black;">アカウント ポリシー\パスワードのポリシー</td>
+<td style="border:1px solid black;">パスワードの期間、長さ、および複雑さを構成します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>アカウント ポリシー\アカウント ロックアウトのポリシー</p></td>
-<td style="border:1px solid black;"><p>ロックアウトの期間、しきい値、およびリセット カウンタを構成します。</p></td>
+<td style="border:1px solid black;">アカウント ポリシー\アカウント ロックアウトのポリシー</td>
+<td style="border:1px solid black;">ロックアウトの期間、しきい値、およびリセット カウンタを構成します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>アカウント ポリシー\Kerberos ポリシー</p></td>
-<td style="border:1px solid black;"><p>チケットの有効期間を構成します。</p></td>
+<td style="border:1px solid black;">アカウント ポリシー\Kerberos ポリシー</td>
+<td style="border:1px solid black;">チケットの有効期間を構成します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ローカル ポリシー\監査ポリシー</p></td>
-<td style="border:1px solid black;"><p>特定のイベントの記録を有効または無効にします。</p></td>
+<td style="border:1px solid black;">ローカル ポリシー\監査ポリシー</td>
+<td style="border:1px solid black;">特定のイベントの記録を有効または無効にします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ローカル ポリシー\ユーザー権利の割り当て</p></td>
-<td style="border:1px solid black;"><p>ローカル ログオンやネットワーク アクセスなど権利を定義します。</p></td>
+<td style="border:1px solid black;">ローカル ポリシー\ユーザー権利の割り当て</td>
+<td style="border:1px solid black;">ローカル ログオンやネットワーク アクセスなど権利を定義します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ローカル ポリシー\セキュリティ オプション</p></td>
-<td style="border:1px solid black;"><p>特定のセキュリティに関するレジストリ値を修正します。</p></td>
+<td style="border:1px solid black;">ローカル ポリシー\セキュリティ オプション</td>
+<td style="border:1px solid black;">特定のセキュリティに関するレジストリ値を修正します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>イベント ログ</p></td>
-<td style="border:1px solid black;"><p>成功および失敗の監視を有効にします。</p></td>
+<td style="border:1px solid black;">イベント ログ</td>
+<td style="border:1px solid black;">成功および失敗の監視を有効にします。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>制限されたグループ</p></td>
-<td style="border:1px solid black;"><p>誰が特定のグループに所属するかを管理者が制御します。</p></td>
+<td style="border:1px solid black;">制限されたグループ</td>
+<td style="border:1px solid black;">誰が特定のグループに所属するかを管理者が制御します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>システム サービス</p></td>
-<td style="border:1px solid black;"><p>各サービスの起動モードを制御します。</p></td>
+<td style="border:1px solid black;">システム サービス</td>
+<td style="border:1px solid black;">各サービスの起動モードを制御します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>レジストリ</p></td>
-<td style="border:1px solid black;"><p>レジストリ キーに関するアクセス許可および監査を構成します。</p></td>
+<td style="border:1px solid black;">レジストリ</td>
+<td style="border:1px solid black;">レジストリ キーに関するアクセス許可および監査を構成します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ファイル システム</p></td>
-<td style="border:1px solid black;"><p>フォルダ、サブフォルダ、およびファイルに関するアクセス許可および監査を構成します。</p></td>
+<td style="border:1px solid black;">ファイル システム</td>
+<td style="border:1px solid black;">フォルダ、サブフォルダ、およびファイルに関するアクセス許可および監査を構成します。</td>
 </tr>
 </tbody>
 </table>
@@ -697,7 +697,7 @@ Contoso のパスワード ポリシーの設定を要約して下表に示し�
   
 **表 5.4 Contoso のパスワード ポリシー**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -705,34 +705,34 @@ Contoso のパスワード ポリシーの設定を要約して下表に示し�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>UI 内でのパスワード ポリシー名</p></th>
-<th><p>設定</p></th>
+<th>UI 内でのパスワード ポリシー名</th>
+<th>設定</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>パスワードの履歴を記録する</p></td>
-<td style="border:1px solid black;"><p>24 パスワードを記憶</p></td>
+<td style="border:1px solid black;">パスワードの履歴を記録する</td>
+<td style="border:1px solid black;">24 パスワードを記憶</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>パスワードの有効期間</p></td>
-<td style="border:1px solid black;"><p>42 日</p></td>
+<td style="border:1px solid black;">パスワードの有効期間</td>
+<td style="border:1px solid black;">42 日</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>パスワードの変更禁止期間</p></td>
-<td style="border:1px solid black;"><p>2 日</p></td>
+<td style="border:1px solid black;">パスワードの変更禁止期間</td>
+<td style="border:1px solid black;">2 日</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>パスワードの長さ</p></td>
-<td style="border:1px solid black;"><p>8 文字</p></td>
+<td style="border:1px solid black;">パスワードの長さ</td>
+<td style="border:1px solid black;">8 文字</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>パスワードは要求する複雑さを満たす</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">パスワードは要求する複雑さを満たす</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>暗号化を元に戻せる状態でドメインのすべてのユーザーのパスワードを保存する</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">暗号化を元に戻せる状態でドメインのすべてのユーザーのパスワードを保存する</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -825,7 +825,7 @@ Contoso のシナリオでは、\[ロックアウト カウントのリセット
   
 **表 5.5 Contoso におけるアカウント ロックアウト ポリシーの設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -833,22 +833,22 @@ Contoso のシナリオでは、\[ロックアウト カウントのリセット
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>UI 内のアカウント ロックアウト ポリシー名</p></th>
-<th><p>設定</p></th>
+<th>UI 内のアカウント ロックアウト ポリシー名</th>
+<th>設定</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ロックアウト期間</p></td>
-<td style="border:1px solid black;"><p>30 分</p></td>
+<td style="border:1px solid black;">ロックアウト期間</td>
+<td style="border:1px solid black;">30 分</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ロックアウトのしきい値</p></td>
-<td style="border:1px solid black;"><p>50 回の無効なログオンの試行</p></td>
+<td style="border:1px solid black;">ロックアウトのしきい値</td>
+<td style="border:1px solid black;">50 回の無効なログオンの試行</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ロックアウト カウントのリセット</p></td>
-<td style="border:1px solid black;"><p>30 分</p></td>
+<td style="border:1px solid black;">ロックアウト カウントのリセット</td>
+<td style="border:1px solid black;">30 分</td>
 </tr>
 </tbody>
 </table>
@@ -867,7 +867,7 @@ Contoso は、自社の Kerberos バージョン 5 のポリシーの既定の�
   
 **表 5.6 Kerberos ポリシーの設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -875,30 +875,30 @@ Contoso は、自社の Kerberos バージョン 5 のポリシーの既定の�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>UI 内の Kerberos ポリシー名</p></th>
-<th><p>設定</p></th>
+<th>UI 内の Kerberos ポリシー名</th>
+<th>設定</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ユーザー ログオンの制限を強制する</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">ユーザー ログオンの制限を強制する</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>サービス チケットの最長有効期間</p></td>
-<td style="border:1px solid black;"><p>600 分</p></td>
+<td style="border:1px solid black;">サービス チケットの最長有効期間</td>
+<td style="border:1px solid black;">600 分</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>チケットの最長有効期間</p></td>
-<td style="border:1px solid black;"><p>10 時間</p></td>
+<td style="border:1px solid black;">チケットの最長有効期間</td>
+<td style="border:1px solid black;">10 時間</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ユーザー チケットを更新できる最長有効期間</p></td>
-<td style="border:1px solid black;"><p>7 日</p></td>
+<td style="border:1px solid black;">ユーザー チケットを更新できる最長有効期間</td>
+<td style="border:1px solid black;">7 日</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>コンピュータの時計の同期の最長トレランス</p></td>
-<td style="border:1px solid black;"><p>5 分</p></td>
+<td style="border:1px solid black;">コンピュータの時計の同期の最長トレランス</td>
+<td style="border:1px solid black;">5 分</td>
 </tr>
 </tbody>
 </table>

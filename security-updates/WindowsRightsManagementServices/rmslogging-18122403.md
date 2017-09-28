@@ -13,7 +13,7 @@ RMS: Logging パフォーマンス オブジェクトに対して使用可能な
 
 ###  
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -27,16 +27,16 @@ RMS: Logging パフォーマンス オブジェクトに対して使用可能な
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Logging Failures</p></td>
-<td style="border:1px solid black;"><p>完全に処理されなかったログ試行の総数</p></td>
+<td style="border:1px solid black;">Logging Failures</td>
+<td style="border:1px solid black;">完全に処理されなかったログ試行の総数</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Logging Processing Time</p></td>
-<td style="border:1px solid black;"><p>ログ要求の処理にかかった時間 (マイクロ秒単位)</p></td>
+<td style="border:1px solid black;">Logging Processing Time</td>
+<td style="border:1px solid black;">ログ要求の処理にかかった時間 (マイクロ秒単位)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Logging Requests</p></td>
-<td style="border:1px solid black;"><p>ログ サービスが受け取ったログ要求の総数</p></td>
+<td style="border:1px solid black;">Logging Requests</td>
+<td style="border:1px solid black;">ログ サービスが受け取ったログ要求の総数</td>
 </tr>
 </tbody>
 </table>

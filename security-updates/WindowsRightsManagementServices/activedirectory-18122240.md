@@ -23,7 +23,7 @@ Active Directory キャッシュ設定の変更
 
 ###  
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -41,40 +41,40 @@ Active Directory キャッシュ設定の変更
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>PrincipalCacheMax</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>1,000</p></td>
-<td style="border:1px solid black;"><p>キャッシュに格納できるプリンシパルとその電子メール アドレスおよび SID の最大数</p></td>
+<td style="border:1px solid black;">PrincipalCacheMax</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">1,000</td>
+<td style="border:1px solid black;">キャッシュに格納できるプリンシパルとその電子メール アドレスおよび SID の最大数</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>PrincipalCacheExpireMinutes</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>12</p></td>
-<td style="border:1px solid black;"><p>プリンシパルについてキャッシュに格納される情報の有効期間</p></td>
+<td style="border:1px solid black;">PrincipalCacheExpireMinutes</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">12</td>
+<td style="border:1px solid black;">プリンシパルについてキャッシュに格納される情報の有効期間</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>GroupIDCacheMax</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>1,000</p></td>
-<td style="border:1px solid black;"><p>キャッシュに格納できるグループとその電子メール アドレスおよび SID の最大数</p></td>
+<td style="border:1px solid black;">GroupIDCacheMax</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">1,000</td>
+<td style="border:1px solid black;">キャッシュに格納できるグループとその電子メール アドレスおよび SID の最大数</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>GroupIDCacheExpireMinutes</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>12</p></td>
-<td style="border:1px solid black;"><p>グループ メンバシップ用にキャッシュされた情報の有効期間</p></td>
+<td style="border:1px solid black;">GroupIDCacheExpireMinutes</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">12</td>
+<td style="border:1px solid black;">グループ メンバシップ用にキャッシュされた情報の有効期間</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>GroupMembershipCacheMax</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>1,000</p></td>
-<td style="border:1px solid black;"><p>キャッシュに格納できるグループ メンバの連絡先の最大数</p></td>
+<td style="border:1px solid black;">GroupMembershipCacheMax</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">1,000</td>
+<td style="border:1px solid black;">キャッシュに格納できるグループ メンバの連絡先の最大数</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>GroupMembershipCacheExpireMinutes</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>12</p></td>
-<td style="border:1px solid black;"><p>グループ メンバの連絡先用にキャッシュされた情報の有効期間</p></td>
+<td style="border:1px solid black;">GroupMembershipCacheExpireMinutes</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">12</td>
+<td style="border:1px solid black;">グループ メンバの連絡先用にキャッシュされた情報の有効期間</td>
 </tr>
 </tbody>
 </table>

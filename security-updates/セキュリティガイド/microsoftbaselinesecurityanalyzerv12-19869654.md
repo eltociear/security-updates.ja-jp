@@ -122,7 +122,7 @@ IE-Rollup.XML および Patch-Rollup.XML というサンプル ファイルが�
 
 サンプル \#3 を使用する場合、有効なチェック ID の値はこの表に示す通りです。このサンプルは、結果の XML 出力の名前を自動的に抽出しますが、ID はロールアップに必要な特定のチェックを指定するために使用される必要があります。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -130,218 +130,218 @@ IE-Rollup.XML および Patch-Rollup.XML というサンプル ファイルが�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>チェック ID</p></th>
-<th><p>チェック名</p></th>
+<th>チェック ID</th>
+<th>チェック名</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>101</p></td>
-<td style="border:1px solid black;"><p>Windows のバージョン</p></td>
+<td style="border:1px solid black;">101</td>
+<td style="border:1px solid black;">Windows のバージョン</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>102</p></td>
-<td style="border:1px solid black;"><p>ファイル システム</p></td>
+<td style="border:1px solid black;">102</td>
+<td style="border:1px solid black;">ファイル システム</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>104</p></td>
-<td style="border:1px solid black;"><p>ローカル アカウントのパスワードのテスト</p></td>
+<td style="border:1px solid black;">104</td>
+<td style="border:1px solid black;">ローカル アカウントのパスワードのテスト</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>106</p></td>
-<td style="border:1px solid black;"><p>パスワードの有効期限</p></td>
+<td style="border:1px solid black;">106</td>
+<td style="border:1px solid black;">パスワードの有効期限</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>107</p></td>
-<td style="border:1px solid black;"><p>Guest アカウント</p></td>
+<td style="border:1px solid black;">107</td>
+<td style="border:1px solid black;">Guest アカウント</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>110</p></td>
-<td style="border:1px solid black;"><p>自動ログオン</p></td>
+<td style="border:1px solid black;">110</td>
+<td style="border:1px solid black;">自動ログオン</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>115</p></td>
-<td style="border:1px solid black;"><p>Windows のセキュリティの更新</p></td>
+<td style="border:1px solid black;">115</td>
+<td style="border:1px solid black;">Windows のセキュリティの更新</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>117</p></td>
-<td style="border:1px solid black;"><p>匿名ユーザーの制限</p></td>
+<td style="border:1px solid black;">117</td>
+<td style="border:1px solid black;">匿名ユーザーの制限</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>118</p></td>
-<td style="border:1px solid black;"><p>IE のゾーン</p></td>
+<td style="border:1px solid black;">118</td>
+<td style="border:1px solid black;">IE のゾーン</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>119</p></td>
-<td style="border:1px solid black;"><p>監査</p></td>
+<td style="border:1px solid black;">119</td>
+<td style="border:1px solid black;">監査</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>121</p></td>
-<td style="border:1px solid black;"><p>共有</p></td>
+<td style="border:1px solid black;">121</td>
+<td style="border:1px solid black;">共有</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>122</p></td>
-<td style="border:1px solid black;"><p>管理者アカウント</p></td>
+<td style="border:1px solid black;">122</td>
+<td style="border:1px solid black;">管理者アカウント</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>123</p></td>
-<td style="border:1px solid black;"><p>サービス</p></td>
+<td style="border:1px solid black;">123</td>
+<td style="border:1px solid black;">サービス</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>124</p></td>
-<td style="border:1px solid black;"><p>マクロのセキュリティ</p></td>
+<td style="border:1px solid black;">124</td>
+<td style="border:1px solid black;">マクロのセキュリティ</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>126</p></td>
-<td style="border:1px solid black;"><p>Windows Media Player のセキュリティの更新</p></td>
+<td style="border:1px solid black;">126</td>
+<td style="border:1px solid black;">Windows Media Player のセキュリティの更新</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>127</p></td>
-<td style="border:1px solid black;"><p>Exchange Server のセキュリティの更新</p></td>
+<td style="border:1px solid black;">127</td>
+<td style="border:1px solid black;">Exchange Server のセキュリティの更新</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>174</p></td>
-<td style="border:1px solid black;"><p>Office のセキュリティの更新</p></td>
+<td style="border:1px solid black;">174</td>
+<td style="border:1px solid black;">Office のセキュリティの更新</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>176</p></td>
-<td style="border:1px solid black;"><p>管理者グループ用の IE セキュリティ強化の構成</p></td>
+<td style="border:1px solid black;">176</td>
+<td style="border:1px solid black;">管理者グループ用の IE セキュリティ強化の構成</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>177</p></td>
-<td style="border:1px solid black;"><p>管理者グループ以外用の IE のセキュリティ強化の構成</p></td>
+<td style="border:1px solid black;">177</td>
+<td style="border:1px solid black;">管理者グループ以外用の IE のセキュリティ強化の構成</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>178</p></td>
-<td style="border:1px solid black;"><p>インターネット接続ファイアウォール</p></td>
+<td style="border:1px solid black;">178</td>
+<td style="border:1px solid black;">インターネット接続ファイアウォール</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>179</p></td>
-<td style="border:1px solid black;"><p>自動更新</p></td>
+<td style="border:1px solid black;">179</td>
+<td style="border:1px solid black;">自動更新</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>201</p></td>
-<td style="border:1px solid black;"><p>ドメイン コントローラの IIS のテスト</p></td>
+<td style="border:1px solid black;">201</td>
+<td style="border:1px solid black;">ドメイン コントローラの IIS のテスト</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>203</p></td>
-<td style="border:1px solid black;"><p>SQL Server/MSDE のセキュリティ モデル</p></td>
+<td style="border:1px solid black;">203</td>
+<td style="border:1px solid black;">SQL Server/MSDE のセキュリティ モデル</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>204</p></td>
-<td style="border:1px solid black;"><p>Sysadmin ロール メンバ</p></td>
+<td style="border:1px solid black;">204</td>
+<td style="border:1px solid black;">Sysadmin ロール メンバ</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>205</p></td>
-<td style="border:1px solid black;"><p>公開された SQL Server/MSDE のパスワード</p></td>
+<td style="border:1px solid black;">205</td>
+<td style="border:1px solid black;">公開された SQL Server/MSDE のパスワード</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>206</p></td>
-<td style="border:1px solid black;"><p>SQL の Guest アカウント</p></td>
+<td style="border:1px solid black;">206</td>
+<td style="border:1px solid black;">SQL の Guest アカウント</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>207</p></td>
-<td style="border:1px solid black;"><p>CmdExec ロール</p></td>
+<td style="border:1px solid black;">207</td>
+<td style="border:1px solid black;">CmdExec ロール</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>212</p></td>
-<td style="border:1px solid black;"><p>SQL Server/MSDE のセキュリティの更新</p></td>
+<td style="border:1px solid black;">212</td>
+<td style="border:1px solid black;">SQL Server/MSDE のセキュリティの更新</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>213</p></td>
-<td style="border:1px solid black;"><p>レジストリのアクセス権</p></td>
+<td style="border:1px solid black;">213</td>
+<td style="border:1px solid black;">レジストリのアクセス権</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>215</p></td>
-<td style="border:1px solid black;"><p>Sysadmins</p></td>
+<td style="border:1px solid black;">215</td>
+<td style="border:1px solid black;">Sysadmins</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>216</p></td>
-<td style="border:1px solid black;"><p>フォルダのアクセス権</p></td>
+<td style="border:1px solid black;">216</td>
+<td style="border:1px solid black;">フォルダのアクセス権</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>217</p></td>
-<td style="border:1px solid black;"><p>SQL Server/MSDE のアカウント パスワードのテスト</p></td>
+<td style="border:1px solid black;">217</td>
+<td style="border:1px solid black;">SQL Server/MSDE のアカウント パスワードのテスト</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>218</p></td>
-<td style="border:1px solid black;"><p>サービス アカウント</p></td>
+<td style="border:1px solid black;">218</td>
+<td style="border:1px solid black;">サービス アカウント</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>219</p></td>
-<td style="border:1px solid black;"><p>SQL Server/MSDE の状態</p></td>
+<td style="border:1px solid black;">219</td>
+<td style="border:1px solid black;">SQL Server/MSDE の状態</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>301</p></td>
-<td style="border:1px solid black;"><p>ドメイン コントローラの SQL のテスト</p></td>
+<td style="border:1px solid black;">301</td>
+<td style="border:1px solid black;">ドメイン コントローラの SQL のテスト</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>302</p></td>
-<td style="border:1px solid black;"><p>IIS のセキュリティの更新</p></td>
+<td style="border:1px solid black;">302</td>
+<td style="border:1px solid black;">IIS のセキュリティの更新</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>307</p></td>
-<td style="border:1px solid black;"><p>IIS ログの有効化</p></td>
+<td style="border:1px solid black;">307</td>
+<td style="border:1px solid black;">IIS ログの有効化</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>308</p></td>
-<td style="border:1px solid black;"><p>サンプル アプリケーション</p></td>
+<td style="border:1px solid black;">308</td>
+<td style="border:1px solid black;">サンプル アプリケーション</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>309</p></td>
-<td style="border:1px solid black;"><p>IISAdmin の仮想ディレクトリ</p></td>
+<td style="border:1px solid black;">309</td>
+<td style="border:1px solid black;">IISAdmin の仮想ディレクトリ</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>311</p></td>
-<td style="border:1px solid black;"><p>IIS 親パス</p></td>
+<td style="border:1px solid black;">311</td>
+<td style="border:1px solid black;">IIS 親パス</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>314</p></td>
-<td style="border:1px solid black;"><p>IIS の状態</p></td>
+<td style="border:1px solid black;">314</td>
+<td style="border:1px solid black;">IIS の状態</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>315</p></td>
-<td style="border:1px solid black;"><p>IIS Lockdown ツール</p></td>
+<td style="border:1px solid black;">315</td>
+<td style="border:1px solid black;">IIS Lockdown ツール</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>316</p></td>
-<td style="border:1px solid black;"><p>MSADC と Scripts の仮想ディレクトリ</p></td>
+<td style="border:1px solid black;">316</td>
+<td style="border:1px solid black;">MSADC と Scripts の仮想ディレクトリ</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>415</p></td>
-<td style="border:1px solid black;"><p>MDAC のセキュリティの更新</p></td>
+<td style="border:1px solid black;">415</td>
+<td style="border:1px solid black;">MDAC のセキュリティの更新</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>416</p></td>
-<td style="border:1px solid black;"><p>Commerce Server のセキュリティの更新</p></td>
+<td style="border:1px solid black;">416</td>
+<td style="border:1px solid black;">Commerce Server のセキュリティの更新</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>417</p></td>
-<td style="border:1px solid black;"><p>MSXML のセキュリティの更新</p></td>
+<td style="border:1px solid black;">417</td>
+<td style="border:1px solid black;">MSXML のセキュリティの更新</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>418</p></td>
-<td style="border:1px solid black;"><p>Microsoft VM のセキュリティの更新</p></td>
+<td style="border:1px solid black;">418</td>
+<td style="border:1px solid black;">Microsoft VM のセキュリティの更新</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>419</p></td>
-<td style="border:1px solid black;"><p>BizTalk Server のセキュリティの更新</p></td>
+<td style="border:1px solid black;">419</td>
+<td style="border:1px solid black;">BizTalk Server のセキュリティの更新</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>420</p></td>
-<td style="border:1px solid black;"><p>Content Management Server Site Builder のセキュリティの更新</p></td>
+<td style="border:1px solid black;">420</td>
+<td style="border:1px solid black;">Content Management Server Site Builder のセキュリティの更新</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>421</p></td>
-<td style="border:1px solid black;"><p>Content Management Server のセキュリティの更新</p></td>
+<td style="border:1px solid black;">421</td>
+<td style="border:1px solid black;">Content Management Server のセキュリティの更新</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>422</p></td>
-<td style="border:1px solid black;"><p>Host Integration Server のセキュリティの更新</p></td>
+<td style="border:1px solid black;">422</td>
+<td style="border:1px solid black;">Host Integration Server のセキュリティの更新</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>423</p></td>
-<td style="border:1px solid black;"><p>Content Management Server Site Stager のセキュリティの更新</p></td>
+<td style="border:1px solid black;">423</td>
+<td style="border:1px solid black;">Content Management Server Site Stager のセキュリティの更新</td>
 </tr>
 </tbody>
 </table>

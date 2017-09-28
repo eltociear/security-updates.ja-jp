@@ -13,7 +13,7 @@ RMS: Certification パフォーマンス オブジェクトに対して使用可
 
 ###  
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -27,68 +27,68 @@ RMS: Certification パフォーマンス オブジェクトに対して使用可
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Certification AddNewUser Processing Time</p></td>
-<td style="border:1px solid black;"><p>アカウント証明サービスが新しいユーザー情報でデータベースを更新するときにかかった処理時間 (マイクロ秒単位)</p></td>
+<td style="border:1px solid black;">Certification AddNewUser Processing Time</td>
+<td style="border:1px solid black;">アカウント証明サービスが新しいユーザー情報でデータベースを更新するときにかかった処理時間 (マイクロ秒単位)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Certification AssociateUserAndMachine Processing Time</p></td>
-<td style="border:1px solid black;"><p>アカウント証明サービスがユーザーとコンピュータ データベースをリンクするときにかかった処理時間 (マイクロ秒単位)</p></td>
+<td style="border:1px solid black;">Certification AssociateUserAndMachine Processing Time</td>
+<td style="border:1px solid black;">アカウント証明サービスがユーザーとコンピュータ データベースをリンクするときにかかった処理時間 (マイクロ秒単位)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Certification Failure Processing Time</p></td>
-<td style="border:1px solid black;"><p>失敗した証明要求の処理にかかった時間 (マイクロ秒単位)</p></td>
+<td style="border:1px solid black;">Certification Failure Processing Time</td>
+<td style="border:1px solid black;">失敗した証明要求の処理にかかった時間 (マイクロ秒単位)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Certification GetUser Processing Time</p></td>
-<td style="border:1px solid black;"><p>アカウント証明サービスがデータベースからユーザー キー情報を取得するときにかかった処理時間 (マイクロ秒単位)</p></td>
+<td style="border:1px solid black;">Certification GetUser Processing Time</td>
+<td style="border:1px solid black;">アカウント証明サービスがデータベースからユーザー キー情報を取得するときにかかった処理時間 (マイクロ秒単位)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Certification Quota Extension Failure Processing Time</p></td>
-<td style="border:1px solid black;"><p>設定された制限数を超えていて失敗した追加の RM アカウント証明書の要求をアカウント証明サービスが処理するときにかかった時間 (マイクロ秒単位)</p></td>
+<td style="border:1px solid black;">Certification Quota Extension Failure Processing Time</td>
+<td style="border:1px solid black;">設定された制限数を超えていて失敗した追加の RM アカウント証明書の要求をアカウント証明サービスが処理するときにかかった時間 (マイクロ秒単位)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Certification Quota Extension Total Processing Time</p></td>
-<td style="border:1px solid black;"><p>設定された制限数を超えている追加の RM アカウント証明書の要求をアカウント証明サービスが処理するときにかかった時間 (マイクロ秒単位)</p></td>
+<td style="border:1px solid black;">Certification Quota Extension Total Processing Time</td>
+<td style="border:1px solid black;">設定された制限数を超えている追加の RM アカウント証明書の要求をアカウント証明サービスが処理するときにかかった時間 (マイクロ秒単位)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Certification Failures</p></td>
-<td style="border:1px solid black;"><p>RM アカウント証明書を受け取れなかったアカウント証明サービスに対して発行された要求の総数</p></td>
+<td style="border:1px solid black;">Certification Failures</td>
+<td style="border:1px solid black;">RM アカウント証明書を受け取れなかったアカウント証明サービスに対して発行された要求の総数</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Certification Requests</p></td>
-<td style="border:1px solid black;"><p>証明サーバーに対する RM アカウント証明書の要求の総数</p></td>
+<td style="border:1px solid black;">Certification Requests</td>
+<td style="border:1px solid black;">証明サーバーに対する RM アカウント証明書の要求の総数</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Certification Total Processing Time</p></td>
-<td style="border:1px solid black;"><p>証明要求の処理にかかった時間 (マイクロ秒単位)</p></td>
+<td style="border:1px solid black;">Certification Total Processing Time</td>
+<td style="border:1px solid black;">証明要求の処理にかかった時間 (マイクロ秒単位)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Certification Update Quota Processing Time</p></td>
-<td style="border:1px solid black;"><p>クォータ データベースの更新にかかった時間 (マイクロ秒単位)</p></td>
+<td style="border:1px solid black;">Certification Update Quota Processing Time</td>
+<td style="border:1px solid black;">クォータ データベースの更新にかかった時間 (マイクロ秒単位)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Certification User Certificate Enabling Bits Addition Processing Time</p></td>
-<td style="border:1px solid black;"><p>Certification XrML ユーザー証明書の有効化ビットの生成にかかった処理時間 (マイクロ秒単位)</p></td>
+<td style="border:1px solid black;">Certification User Certificate Enabling Bits Addition Processing Time</td>
+<td style="border:1px solid black;">Certification XrML ユーザー証明書の有効化ビットの生成にかかった処理時間 (マイクロ秒単位)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Certification User Certificate Generation Processing Time</p></td>
-<td style="border:1px solid black;"><p>ユーザー証明書の生成にかかった処理時間 (マイクロ秒単位)</p></td>
+<td style="border:1px solid black;">Certification User Certificate Generation Processing Time</td>
+<td style="border:1px solid black;">ユーザー証明書の生成にかかった処理時間 (マイクロ秒単位)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Precertification Failure Processing Time</p></td>
-<td style="border:1px solid black;"><p>失敗した事前証明要求の処理にかかった合計時間 (マイクロ秒単位)</p></td>
+<td style="border:1px solid black;">Precertification Failure Processing Time</td>
+<td style="border:1px solid black;">失敗した事前証明要求の処理にかかった合計時間 (マイクロ秒単位)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Precertification Service Failures</p></td>
-<td style="border:1px solid black;"><p>事前証明サービスに対する失敗した要求の総数</p></td>
+<td style="border:1px solid black;">Precertification Service Failures</td>
+<td style="border:1px solid black;">事前証明サービスに対する失敗した要求の総数</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Precertification Requests</p></td>
-<td style="border:1px solid black;"><p>事前証明サービスに対する要求の総数</p></td>
+<td style="border:1px solid black;">Precertification Requests</td>
+<td style="border:1px solid black;">事前証明サービスに対する要求の総数</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Precertification Total Processing Time</p></td>
-<td style="border:1px solid black;"><p>事前証明要求の処理にかかった時間 (マイクロ秒単位)</p></td>
+<td style="border:1px solid black;">Precertification Total Processing Time</td>
+<td style="border:1px solid black;">事前証明要求の処理にかかった時間 (マイクロ秒単位)</td>
 </tr>
 </tbody>
 </table>

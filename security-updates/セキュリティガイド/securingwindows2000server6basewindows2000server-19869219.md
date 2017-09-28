@@ -58,7 +58,7 @@ baseline.inf と dcbaseline.inf の違いについては、第 7 章「特定サ
 
 **表 6.1 Contoso 社の MSBP 監査およびイベント ログ ポリシー設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -66,98 +66,98 @@ baseline.inf と dcbaseline.inf の違いについては、第 7 章「特定サ
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>ユーザー インターフェイス (UI) に表示されるポリシーの完全名</p></th>
-<th><p>コンピュータの設定</p></th>
+<th>ユーザー インターフェイス (UI) に表示されるポリシーの完全名</th>
+<th>コンピュータの設定</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>アカウント ログオン イベントの監査</p></td>
-<td style="border:1px solid black;"><p>成功、失敗</p></td>
+<td style="border:1px solid black;">アカウント ログオン イベントの監査</td>
+<td style="border:1px solid black;">成功、失敗</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>アカウント管理の監査</p></td>
-<td style="border:1px solid black;"><p>成功、失敗</p></td>
+<td style="border:1px solid black;">アカウント管理の監査</td>
+<td style="border:1px solid black;">成功、失敗</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ディレクトリ サービスのアクセスの監査</p></td>
-<td style="border:1px solid black;"><p>成功、失敗</p></td>
+<td style="border:1px solid black;">ディレクトリ サービスのアクセスの監査</td>
+<td style="border:1px solid black;">成功、失敗</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ログオン イベントの監査</p></td>
-<td style="border:1px solid black;"><p>成功、失敗</p></td>
+<td style="border:1px solid black;">ログオン イベントの監査</td>
+<td style="border:1px solid black;">成功、失敗</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>オブジェクト アクセスの監査</p></td>
-<td style="border:1px solid black;"><p>成功、失敗</p></td>
+<td style="border:1px solid black;">オブジェクト アクセスの監査</td>
+<td style="border:1px solid black;">成功、失敗</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ポリシーの変更の監査</p></td>
-<td style="border:1px solid black;"><p>成功、失敗</p></td>
+<td style="border:1px solid black;">ポリシーの変更の監査</td>
+<td style="border:1px solid black;">成功、失敗</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>権限使用の監査</p></td>
-<td style="border:1px solid black;"><p>失敗</p></td>
+<td style="border:1px solid black;">権限使用の監査</td>
+<td style="border:1px solid black;">失敗</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>プロセス追跡の監査</p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
+<td style="border:1px solid black;">プロセス追跡の監査</td>
+<td style="border:1px solid black;">監査しない</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>システム イベントの監査</p></td>
-<td style="border:1px solid black;"><p>成功、失敗</p></td>
+<td style="border:1px solid black;">システム イベントの監査</td>
+<td style="border:1px solid black;">成功、失敗</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>アプリケーション ログの最大サイズ</p></td>
-<td style="border:1px solid black;"><p>10240 KB</p></td>
+<td style="border:1px solid black;">アプリケーション ログの最大サイズ</td>
+<td style="border:1px solid black;">10240 KB</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>セキュリティ ログの最大サイズ</p></td>
-<td style="border:1px solid black;"><p>184320 KB</p></td>
+<td style="border:1px solid black;">セキュリティ ログの最大サイズ</td>
+<td style="border:1px solid black;">184320 KB</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>システム ログの最大サイズ</p></td>
-<td style="border:1px solid black;"><p>10240 KB</p></td>
+<td style="border:1px solid black;">システム ログの最大サイズ</td>
+<td style="border:1px solid black;">10240 KB</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>アプリケーション ログのゲスト アクセスの制限</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">アプリケーション ログのゲスト アクセスの制限</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>セキュリティ ログのゲスト アクセスの制限</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">セキュリティ ログのゲスト アクセスの制限</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>システム ログのゲスト アクセスの制限</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">システム ログのゲスト アクセスの制限</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>アプリケーション ログの保存日数</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;">アプリケーション ログの保存日数</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>セキュリティ ログの保存日数</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;">セキュリティ ログの保存日数</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>システム ログの保存日数</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;">システム ログの保存日数</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>アプリケーション ログの保存方法</p></td>
-<td style="border:1px solid black;"><p>必要に応じて</p></td>
+<td style="border:1px solid black;">アプリケーション ログの保存方法</td>
+<td style="border:1px solid black;">必要に応じて</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>セキュリティ ログの保存方法</p></td>
-<td style="border:1px solid black;"><p>必要に応じて</p></td>
+<td style="border:1px solid black;">セキュリティ ログの保存方法</td>
+<td style="border:1px solid black;">必要に応じて</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>システム ログの保存方法</p></td>
-<td style="border:1px solid black;"><p>必要に応じて</p></td>
+<td style="border:1px solid black;">システム ログの保存方法</td>
+<td style="border:1px solid black;">必要に応じて</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>セキュリティの監査ログがいっぱいになったら、コンピュータをシャットダウンする</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">セキュリティの監査ログがいっぱいになったら、コンピュータをシャットダウンする</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -319,7 +319,7 @@ Contoso 社のシナリオでは、管理者がアプリケーションをデバ
   
 **表 6.2 MSBP セキュリティ オプション設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -327,170 +327,170 @@ Contoso 社のシナリオでは、管理者がアプリケーションをデバ
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>UI に表示されるセキュリティ オプションの完全名</p></th>
-<th><p>コンピュータの設定</p></th>
+<th>UI に表示されるセキュリティ オプションの完全名</th>
+<th>コンピュータの設定</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>匿名接続の追加を制限する</p></td>
-<td style="border:1px solid black;"><p>SAM のアカウントと共有の列挙を許可しない</p></td>
+<td style="border:1px solid black;">匿名接続の追加を制限する</td>
+<td style="border:1px solid black;">SAM のアカウントと共有の列挙を許可しない</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>サーバー オペレータがタスクのスケジュールを割り当てるのを許可する (ドメイン コントローラのみ)</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">サーバー オペレータがタスクのスケジュールを割り当てるのを許可する (ドメイン コントローラのみ)</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ログオンせずにシステムをシャットダウンできるようにする</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">ログオンせずにシステムをシャットダウンできるようにする</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>リムーバブル NTFS メディアを取り出すのを許可する</p></td>
-<td style="border:1px solid black;"><p>管理者</p></td>
+<td style="border:1px solid black;">リムーバブル NTFS メディアを取り出すのを許可する</td>
+<td style="border:1px solid black;">管理者</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>セッションを切断する前に、ある一定のアイドル時間を必要とする</p></td>
-<td style="border:1px solid black;"><p>15 分</p></td>
+<td style="border:1px solid black;">セッションを切断する前に、ある一定のアイドル時間を必要とする</td>
+<td style="border:1px solid black;">15 分</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>グローバル システム オブジェクトへのアクセスを監査する</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">グローバル システム オブジェクトへのアクセスを監査する</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>バックアップと復元の特権の使用を監査する</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">バックアップと復元の特権の使用を監査する</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ログオン時間を経過した場合は自動的にユーザーをログオフする (「注」を参照)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;">ログオン時間を経過した場合は自動的にユーザーをログオフする (「注」を参照)</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ログオン時間が時間切れになった場合、自動的にユーザーをログオフする (ローカル)(「注」を参照)</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">ログオン時間が時間切れになった場合、自動的にユーザーをログオフする (ローカル)(「注」を参照)</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>システムのシャットダウン時に仮想メモリのページ ファイルをクリアする</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">システムのシャットダウン時に仮想メモリのページ ファイルをクリアする</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>常にクライアント側の通信にデジタル署名を行う</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">常にクライアント側の通信にデジタル署名を行う</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>可能な場合、クライアントの通信にデジタル署名を行う</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">可能な場合、クライアントの通信にデジタル署名を行う</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>常にサーバーの通信にデジタル署名を行う</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">常にサーバーの通信にデジタル署名を行う</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>可能な場合、サーバーの通信にデジタル署名を行う</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">可能な場合、サーバーの通信にデジタル署名を行う</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ログオンに Ctrl+Alt+Del を必要としない</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">ログオンに Ctrl+Alt+Del を必要としない</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ログオン画面に最後のユーザー名を表示しない</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">ログオン画面に最後のユーザー名を表示しない</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>LAN Manager 認証レベル</p></td>
-<td style="border:1px solid black;"><p>NTLMv2 応答のみ送信する</p></td>
+<td style="border:1px solid black;">LAN Manager 認証レベル</td>
+<td style="border:1px solid black;">NTLMv2 応答のみ送信する</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ログオン時のユーザーへのメッセージのテキスト</p></td>
-<td style="border:1px solid black;"><p>このシステムは、認証を受けたユーザーのみに使用が許可されています。不正アクセスを試みると、起訴の対象となります。不正にアクセスしている場合は、すぐにアクセスを終了してください。[OK] をクリックすると、バックグラウンドでこの情報を受諾したことになります。</p></td>
+<td style="border:1px solid black;">ログオン時のユーザーへのメッセージのテキスト</td>
+<td style="border:1px solid black;">このシステムは、認証を受けたユーザーのみに使用が許可されています。不正アクセスを試みると、起訴の対象となります。不正にアクセスしている場合は、すぐにアクセスを終了してください。[OK] をクリックすると、バックグラウンドでこの情報を受諾したことになります。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ログオン時のユーザーへのメッセージのタイトル</p></td>
-<td style="border:1px solid black;"><p>適切な許可なく続行することは法律に違反します。</p></td>
+<td style="border:1px solid black;">ログオン時のユーザーへのメッセージのタイトル</td>
+<td style="border:1px solid black;">適切な許可なく続行することは法律に違反します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ドメイン コントローラが利用できない場合に使用する、前回ログオンのキャッシュ数</p></td>
-<td style="border:1px solid black;"><p>10 ログオン</p></td>
+<td style="border:1px solid black;">ドメイン コントローラが利用できない場合に使用する、前回ログオンのキャッシュ数</td>
+<td style="border:1px solid black;">10 ログオン</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>コンピュータ アカウント パスワードのシステム保守をしない</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">コンピュータ アカウント パスワードのシステム保守をしない</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ユーザーがプリンタ ドライバをインストールできないようにする</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">ユーザーがプリンタ ドライバをインストールできないようにする</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>パスワードが無効になる前にユーザーに変更を促す</p></td>
-<td style="border:1px solid black;"><p>14 日</p></td>
+<td style="border:1px solid black;">パスワードが無効になる前にユーザーに変更を促す</td>
+<td style="border:1px solid black;">14 日</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>回復コンソール: 自動管理ログオンを許可する</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">回復コンソール: 自動管理ログオンを許可する</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>回復コンソール: すべてのドライブとフォルダに、フロッピーのコピーとアクセスを許可する</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">回復コンソール: すべてのドライブとフォルダに、フロッピーのコピーとアクセスを許可する</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Administrator アカウント名の変更</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;">Administrator アカウント名の変更</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Guest アカウント名の変更</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;">Guest アカウント名の変更</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>CD-ROM へのアクセスを、ローカル ログオン ユーザーだけに制限する</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">CD-ROM へのアクセスを、ローカル ログオン ユーザーだけに制限する</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>フロッピーへのアクセスを、ローカル ログオン ユーザーだけに制限する</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">フロッピーへのアクセスを、ローカル ログオン ユーザーだけに制限する</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>セキュリティで保護されたチャネル: 常にセキュリティ チャネルのデータをデジタル的に暗号化または署名する</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">セキュリティで保護されたチャネル: 常にセキュリティ チャネルのデータをデジタル的に暗号化または署名する</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>セキュリティで保護されたチャネル: 可能な場合、セキュリティ チャネルのデータをデジタル的に暗号化または署名する</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">セキュリティで保護されたチャネル: 可能な場合、セキュリティ チャネルのデータをデジタル的に暗号化または署名する</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>セキュリティで保護されたチャネル: 可能な場合、セキュリティ チャネルのデータをデジタル的に署名する</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">セキュリティで保護されたチャネル: 可能な場合、セキュリティ チャネルのデータをデジタル的に署名する</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>セキュリティで保護されたチャネル: 強力な (Windows 2000 かそれ以降のバージョン) セッション キーを必要とする</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">セキュリティで保護されたチャネル: 強力な (Windows 2000 かそれ以降のバージョン) セッション キーを必要とする</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>システム パーティションの保護 (RISC プラットフォームのみ)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;">システム パーティションの保護 (RISC プラットフォームのみ)</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>サード パーティ製の SMB サーバーへ接続するためのパスワードを、暗号化しないで送信する</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">サード パーティ製の SMB サーバーへ接続するためのパスワードを、暗号化しないで送信する</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>セキュリティ監査のログを記録できない場合は直ちにシステムをシャットダウンする</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">セキュリティ監査のログを記録できない場合は直ちにシステムをシャットダウンする</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>スマート カード取り出し時の動作</p></td>
-<td style="border:1px solid black;"><p>ワークステーションをロックする</p></td>
+<td style="border:1px solid black;">スマート カード取り出し時の動作</td>
+<td style="border:1px solid black;">ワークステーションをロックする</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>グローバル システム オブジェクトの既定のアクセス許可を強化する (例: シンボリック リンク)</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">グローバル システム オブジェクトの既定のアクセス許可を強化する (例: シンボリック リンク)</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>署名されていないドライバのインストール時の動作</p></td>
-<td style="border:1px solid black;"><p>警告するがインストールは許可する</p></td>
+<td style="border:1px solid black;">署名されていないドライバのインストール時の動作</td>
+<td style="border:1px solid black;">警告するがインストールは許可する</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>署名されていないドライバ以外のインストール時の動作</p></td>
-<td style="border:1px solid black;"><p>警告なしで許可する</p></td>
+<td style="border:1px solid black;">署名されていないドライバ以外のインストール時の動作</td>
+<td style="border:1px solid black;">警告なしで許可する</td>
 </tr>
 </tbody>
 </table>
@@ -1453,7 +1453,7 @@ Contoso 社のネットワークでほかのサーバー タイプが必要に�
   
 **表 6.3 MSBP で有効化されているサービス**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1463,156 +1463,156 @@ Contoso 社のネットワークでほかのサーバー タイプが必要に�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>UI に表示されるサービスの完全名</p></th>
-<th><p>サービス名</p></th>
-<th><p>設定の既定値</p></th>
-<th><p>起動タイプ</p></th>
+<th>UI に表示されるサービスの完全名</th>
+<th>サービス名</th>
+<th>設定の既定値</th>
+<th>起動タイプ</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Automatic Updates</p></td>
-<td style="border:1px solid black;"><p>WUAUServ</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">Automatic Updates</td>
+<td style="border:1px solid black;">WUAUServ</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Computer Browser</p></td>
-<td style="border:1px solid black;"><p>Browser</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">Computer Browser</td>
+<td style="border:1px solid black;">Browser</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DHCP Client</p></td>
-<td style="border:1px solid black;"><p>DHCP</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">DHCP Client</td>
+<td style="border:1px solid black;">DHCP</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Distributed Link Tracking Client</p></td>
-<td style="border:1px solid black;"><p>TrkWks</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">Distributed Link Tracking Client</td>
+<td style="border:1px solid black;">TrkWks</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DNS Client</p></td>
-<td style="border:1px solid black;"><p>DNSCache</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">DNS Client</td>
+<td style="border:1px solid black;">DNSCache</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Event Log</p></td>
-<td style="border:1px solid black;"><p>EventLog</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">Event Log</td>
+<td style="border:1px solid black;">EventLog</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>IPSEC Policy Agent(IPSEC Service)</p></td>
-<td style="border:1px solid black;"><p>PolicyAgent</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">IPSEC Policy Agent(IPSEC Service)</td>
+<td style="border:1px solid black;">PolicyAgent</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Logical Disk Manager</p></td>
-<td style="border:1px solid black;"><p>Dmserver</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">Logical Disk Manager</td>
+<td style="border:1px solid black;">Dmserver</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Netlogon</p></td>
-<td style="border:1px solid black;"><p>Netlogon</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">Netlogon</td>
+<td style="border:1px solid black;">Netlogon</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NTLM Security Support Provider</p></td>
-<td style="border:1px solid black;"><p>NtLmSsps</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">NTLM Security Support Provider</td>
+<td style="border:1px solid black;">NtLmSsps</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Plug and Play</p></td>
-<td style="border:1px solid black;"><p>PlugPlay</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">Plug and Play</td>
+<td style="border:1px solid black;">PlugPlay</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Protected Storage</p></td>
-<td style="border:1px solid black;"><p>ProtectedStorage</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">Protected Storage</td>
+<td style="border:1px solid black;">ProtectedStorage</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Remote Procedure Call (RPC)</p></td>
-<td style="border:1px solid black;"><p>RpcSs</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">Remote Procedure Call (RPC)</td>
+<td style="border:1px solid black;">RpcSs</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Remote Registry Service</p></td>
-<td style="border:1px solid black;"><p>RemoteRegistry</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">Remote Registry Service</td>
+<td style="border:1px solid black;">RemoteRegistry</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Security Accounts Manager</p></td>
-<td style="border:1px solid black;"><p>SaContoso</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">Security Accounts Manager</td>
+<td style="border:1px solid black;">SaContoso</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Server</p></td>
-<td style="border:1px solid black;"><p>Lanmanserver</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">Server</td>
+<td style="border:1px solid black;">Lanmanserver</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>SNMP Service</p></td>
-<td style="border:1px solid black;"><p>SNMP</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">SNMP Service</td>
+<td style="border:1px solid black;">SNMP</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>System Event Notification</p></td>
-<td style="border:1px solid black;"><p>SENS</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">System Event Notification</td>
+<td style="border:1px solid black;">SENS</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>TCP/IP NetBIOS Helper Service</p></td>
-<td style="border:1px solid black;"><p>LmHosts</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">TCP/IP NetBIOS Helper Service</td>
+<td style="border:1px solid black;">LmHosts</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Terminal Services</p></td>
-<td style="border:1px solid black;"><p>TermService</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">Terminal Services</td>
+<td style="border:1px solid black;">TermService</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Windows Installer</p></td>
-<td style="border:1px solid black;"><p>MSIServer</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">Windows Installer</td>
+<td style="border:1px solid black;">MSIServer</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Windows Management Instrumentation</p></td>
-<td style="border:1px solid black;"><p>WinMgmt</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">Windows Management Instrumentation</td>
+<td style="border:1px solid black;">WinMgmt</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Windows Time</p></td>
-<td style="border:1px solid black;"><p>W32Time</p></td>
-<td style="border:1px solid black;"><p>自動 (「注」を参照)</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">Windows Time</td>
+<td style="border:1px solid black;">W32Time</td>
+<td style="border:1px solid black;">自動 (「注」を参照)</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Workstation</p></td>
-<td style="border:1px solid black;"><p>LanmanWorkstation</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
+<td style="border:1px solid black;">Workstation</td>
+<td style="border:1px solid black;">LanmanWorkstation</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">自動</td>
 </tr>
 </tbody>
 </table>
@@ -1623,7 +1623,7 @@ Contoso 社のネットワークでほかのサーバー タイプが必要に�
   
 **表 6.4 MSBP で無効化されているサービス**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1633,162 +1633,162 @@ Contoso 社のネットワークでほかのサーバー タイプが必要に�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>UI に表示されるサービスの完全名</p></th>
-<th><p>サービス名</p></th>
-<th><p>設定の既定値</p></th>
-<th><p>起動タイプ</p></th>
+<th>UI に表示されるサービスの完全名</th>
+<th>サービス名</th>
+<th>設定の既定値</th>
+<th>起動タイプ</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Alerter</p></td>
-<td style="border:1px solid black;"><p>Alerter</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Alerter</td>
+<td style="border:1px solid black;">Alerter</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Application Management</p></td>
-<td style="border:1px solid black;"><p>AppMgmt</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Application Management</td>
+<td style="border:1px solid black;">AppMgmt</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ClipBook</p></td>
-<td style="border:1px solid black;"><p>ClipSrv</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">ClipBook</td>
+<td style="border:1px solid black;">ClipSrv</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Distributed Transaction Coordinator</p></td>
-<td style="border:1px solid black;"><p>MSDTC</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Distributed Transaction Coordinator</td>
+<td style="border:1px solid black;">MSDTC</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Fax Service</p></td>
-<td style="border:1px solid black;"><p>Fax</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Fax Service</td>
+<td style="border:1px solid black;">Fax</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Indexing Service</p></td>
-<td style="border:1px solid black;"><p>Cisvc</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Indexing Service</td>
+<td style="border:1px solid black;">Cisvc</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Internet Connection Sharing</p></td>
-<td style="border:1px solid black;"><p>SharedAccess</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Internet Connection Sharing</td>
+<td style="border:1px solid black;">SharedAccess</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>License Logging Service</p></td>
-<td style="border:1px solid black;"><p>LicenseService</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">License Logging Service</td>
+<td style="border:1px solid black;">LicenseService</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Messenger</p></td>
-<td style="border:1px solid black;"><p>Messenger</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Messenger</td>
+<td style="border:1px solid black;">Messenger</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NetMeeting Remote Desktop Sharing</p></td>
-<td style="border:1px solid black;"><p>Mnmsrvc</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">NetMeeting Remote Desktop Sharing</td>
+<td style="border:1px solid black;">Mnmsrvc</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Network DDE</p></td>
-<td style="border:1px solid black;"><p>NetDDE</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Network DDE</td>
+<td style="border:1px solid black;">NetDDE</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Network DDE DSDM</p></td>
-<td style="border:1px solid black;"><p>NetDDEdsdm</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Network DDE DSDM</td>
+<td style="border:1px solid black;">NetDDEdsdm</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>QoS Admission Control (RSVP)</p></td>
-<td style="border:1px solid black;"><p>RSVP</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">QoS Admission Control (RSVP)</td>
+<td style="border:1px solid black;">RSVP</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Remote Access Auto Connection Manager</p></td>
-<td style="border:1px solid black;"><p>RasAuto</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Remote Access Auto Connection Manager</td>
+<td style="border:1px solid black;">RasAuto</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Remote Access Connection Manager</p></td>
-<td style="border:1px solid black;"><p>RasMan</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Remote Access Connection Manager</td>
+<td style="border:1px solid black;">RasMan</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Removable Storage</p></td>
-<td style="border:1px solid black;"><p>NtmsSvc</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Removable Storage</td>
+<td style="border:1px solid black;">NtmsSvc</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Routing and Remote Access</p></td>
-<td style="border:1px solid black;"><p>RemoteAccess</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Routing and Remote Access</td>
+<td style="border:1px solid black;">RemoteAccess</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>RunAs Service</p></td>
-<td style="border:1px solid black;"><p>Seclogon</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">RunAs Service</td>
+<td style="border:1px solid black;">Seclogon</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Smart Card</p></td>
-<td style="border:1px solid black;"><p>ScardSvr</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Smart Card</td>
+<td style="border:1px solid black;">ScardSvr</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Smart Card Helper</p></td>
-<td style="border:1px solid black;"><p>ScardDrv</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Smart Card Helper</td>
+<td style="border:1px solid black;">ScardDrv</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Task Scheduler</p></td>
-<td style="border:1px solid black;"><p>Schedule</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Task Scheduler</td>
+<td style="border:1px solid black;">Schedule</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Telephony</p></td>
-<td style="border:1px solid black;"><p>TapiSrv</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Telephony</td>
+<td style="border:1px solid black;">TapiSrv</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Telnet</p></td>
-<td style="border:1px solid black;"><p>TlntSvr</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Telnet</td>
+<td style="border:1px solid black;">TlntSvr</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Uninterruptible Power Supply</p></td>
-<td style="border:1px solid black;"><p>UPS</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Uninterruptible Power Supply</td>
+<td style="border:1px solid black;">UPS</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Utility Manager</p></td>
-<td style="border:1px solid black;"><p>UtilMan</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Utility Manager</td>
+<td style="border:1px solid black;">UtilMan</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -1797,7 +1797,7 @@ Contoso 社のネットワークでほかのサーバー タイプが必要に�
   
 **表 6.5 MSBP で無効化されている既定以外のサービス**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1807,186 +1807,186 @@ Contoso 社のネットワークでほかのサーバー タイプが必要に�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>UI に表示されるサービスの完全名</p></th>
-<th><p>サービス名</p></th>
-<th><p>設定の既定値</p></th>
-<th><p>起動タイプ</p></th>
+<th>UI に表示されるサービスの完全名</th>
+<th>サービス名</th>
+<th>設定の既定値</th>
+<th>起動タイプ</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Boot Information Negotiation Layer</p></td>
-<td style="border:1px solid black;"><p>BINLSVC</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Boot Information Negotiation Layer</td>
+<td style="border:1px solid black;">BINLSVC</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Certificate Services</p></td>
-<td style="border:1px solid black;"><p>CertSvc</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Certificate Services</td>
+<td style="border:1px solid black;">CertSvc</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Cluster Service</p></td>
-<td style="border:1px solid black;"><p>ClusSvc</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Cluster Service</td>
+<td style="border:1px solid black;">ClusSvc</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>File Server for Macintosh</p></td>
-<td style="border:1px solid black;"><p>MacFile</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">File Server for Macintosh</td>
+<td style="border:1px solid black;">MacFile</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>FTP Publishing Service</p></td>
-<td style="border:1px solid black;"><p>MSFTPSVC</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">FTP Publishing Service</td>
+<td style="border:1px solid black;">MSFTPSVC</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Gateway Service for Netware (「注」を参照)</p></td>
-<td style="border:1px solid black;"><p>NWCWorkstation</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Gateway Service for Netware (「注」を参照)</td>
+<td style="border:1px solid black;">NWCWorkstation</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Internet Authentication Service</p></td>
-<td style="border:1px solid black;"><p>IAS</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Internet Authentication Service</td>
+<td style="border:1px solid black;">IAS</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Message Queuing</p></td>
-<td style="border:1px solid black;"><p>MSMQ</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Message Queuing</td>
+<td style="border:1px solid black;">MSMQ</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Network News Transport Protocol (NNTP)</p></td>
-<td style="border:1px solid black;"><p>NntpSvc</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Network News Transport Protocol (NNTP)</td>
+<td style="border:1px solid black;">NntpSvc</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>On-Line Presentation Broadcast</p></td>
-<td style="border:1px solid black;"><p>NSLService</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">On-Line Presentation Broadcast</td>
+<td style="border:1px solid black;">NSLService</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Print Server for Macintosh</p></td>
-<td style="border:1px solid black;"><p>MacPrint</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Print Server for Macintosh</td>
+<td style="border:1px solid black;">MacPrint</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>QoS RSVP</p></td>
-<td style="border:1px solid black;"><p>RSVP</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">QoS RSVP</td>
+<td style="border:1px solid black;">RSVP</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Remote Storage Engine</p></td>
-<td style="border:1px solid black;"><p>Remote_Storage_Engine</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Remote Storage Engine</td>
+<td style="border:1px solid black;">Remote_Storage_Engine</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Remote Storage File</p></td>
-<td style="border:1px solid black;"><p>Remote_Storage_File_System_Agent</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Remote Storage File</td>
+<td style="border:1px solid black;">Remote_Storage_File_System_Agent</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Remote Storage Media</p></td>
-<td style="border:1px solid black;"><p>Remote_Storage_Subsystem</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Remote Storage Media</td>
+<td style="border:1px solid black;">Remote_Storage_Subsystem</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Remote Storage Notification</p></td>
-<td style="border:1px solid black;"><p>Remote_Storage_User_Link</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Remote Storage Notification</td>
+<td style="border:1px solid black;">Remote_Storage_User_Link</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>SAP Agent</p></td>
-<td style="border:1px solid black;"><p>NwSapAgent</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">SAP Agent</td>
+<td style="border:1px solid black;">NwSapAgent</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Simple TCP/IP Services</p></td>
-<td style="border:1px solid black;"><p>SimpTcp</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Simple TCP/IP Services</td>
+<td style="border:1px solid black;">SimpTcp</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Single Instance Storage Groveler</p></td>
-<td style="border:1px solid black;"><p>Groveler</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Single Instance Storage Groveler</td>
+<td style="border:1px solid black;">Groveler</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Site Server ILS Service</p></td>
-<td style="border:1px solid black;"><p>LDAPSVCX</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Site Server ILS Service</td>
+<td style="border:1px solid black;">LDAPSVCX</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Simple Mail Transport Protocol (SMTP)</p></td>
-<td style="border:1px solid black;"><p>SMTPSVC</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Simple Mail Transport Protocol (SMTP)</td>
+<td style="border:1px solid black;">SMTPSVC</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>SNMP Trap Service</p></td>
-<td style="border:1px solid black;"><p>SNMPTRAP</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">SNMP Trap Service</td>
+<td style="border:1px solid black;">SNMPTRAP</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>TCP/IP Print Server</p></td>
-<td style="border:1px solid black;"><p>LPDSVC</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">TCP/IP Print Server</td>
+<td style="border:1px solid black;">LPDSVC</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Terminal Services Licensing</p></td>
-<td style="border:1px solid black;"><p>TermServLicensing</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Terminal Services Licensing</td>
+<td style="border:1px solid black;">TermServLicensing</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Trivial FTP Daemon</p></td>
-<td style="border:1px solid black;"><p>TFTPD</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Trivial FTP Daemon</td>
+<td style="border:1px solid black;">TFTPD</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Windows Media Monitor Service</p></td>
-<td style="border:1px solid black;"><p>nsmonitor</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Windows Media Monitor Service</td>
+<td style="border:1px solid black;">nsmonitor</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Windows Media Program Service</p></td>
-<td style="border:1px solid black;"><p>nsprogram</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Windows Media Program Service</td>
+<td style="border:1px solid black;">nsprogram</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Windows Media Station Service</p></td>
-<td style="border:1px solid black;"><p>nsstation</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Windows Media Station Service</td>
+<td style="border:1px solid black;">nsstation</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Windows Media Unicast Service</p></td>
-<td style="border:1px solid black;"><p>nsunicast</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">Windows Media Unicast Service</td>
+<td style="border:1px solid black;">nsunicast</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -1997,7 +1997,7 @@ Contoso 社のネットワークでほかのサーバー タイプが必要に�
   
 **表 6.6 MSBP で手動で開始するよう構成されているサービス**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2007,48 +2007,48 @@ Contoso 社のネットワークでほかのサーバー タイプが必要に�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>UI に表示されるサービスの完全名</p></th>
-<th><p>サービス名</p></th>
-<th><p>設定の既定値</p></th>
-<th><p>起動タイプ</p></th>
+<th>UI に表示されるサービスの完全名</th>
+<th>サービス名</th>
+<th>設定の既定値</th>
+<th>起動タイプ</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Background Intelligent Transfer Service</p></td>
-<td style="border:1px solid black;"><p>BITS</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
+<td style="border:1px solid black;">Background Intelligent Transfer Service</td>
+<td style="border:1px solid black;">BITS</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">手動</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>COM+ Event Services</p></td>
-<td style="border:1px solid black;"><p>EventSystem</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
+<td style="border:1px solid black;">COM+ Event Services</td>
+<td style="border:1px solid black;">EventSystem</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">手動</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Logical Disk Manager Administrative Service</p></td>
-<td style="border:1px solid black;"><p>Dmadmin</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
+<td style="border:1px solid black;">Logical Disk Manager Administrative Service</td>
+<td style="border:1px solid black;">Dmadmin</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">手動</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Network Connections</p></td>
-<td style="border:1px solid black;"><p>Netman</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
+<td style="border:1px solid black;">Network Connections</td>
+<td style="border:1px solid black;">Netman</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">手動</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Performance Logs and Alerts</p></td>
-<td style="border:1px solid black;"><p>SysmonLog</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
+<td style="border:1px solid black;">Performance Logs and Alerts</td>
+<td style="border:1px solid black;">SysmonLog</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">手動</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Windows Management Instrumentation Driver Extensions</p></td>
-<td style="border:1px solid black;"><p>WMI</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
+<td style="border:1px solid black;">Windows Management Instrumentation Driver Extensions</td>
+<td style="border:1px solid black;">WMI</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">手動</td>
 </tr>
 </tbody>
 </table>
@@ -2057,7 +2057,7 @@ Contoso 社のネットワークでほかのサーバー タイプが必要に�
   
 **表 6.7 MSBP で特定のサーバー役割で有効化されているサービス**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2067,84 +2067,84 @@ Contoso 社のネットワークでほかのサーバー タイプが必要に�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>UI に表示されるサービスの完全名</p></th>
-<th><p>サービス名</p></th>
-<th><p>設定の既定値</p></th>
-<th><p>起動タイプ</p></th>
+<th>UI に表示されるサービスの完全名</th>
+<th>サービス名</th>
+<th>設定の既定値</th>
+<th>起動タイプ</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DHCP Server</p></td>
-<td style="border:1px solid black;"><p>DHCPServer</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>インフラストラクチャ役割でのみ有効化されています。</p></td>
+<td style="border:1px solid black;">DHCP Server</td>
+<td style="border:1px solid black;">DHCPServer</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">インフラストラクチャ役割でのみ有効化されています。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Distributed File System</p></td>
-<td style="border:1px solid black;"><p>Dfs</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>ドメイン コントローラ役割でのみ有効化されています。</p></td>
+<td style="border:1px solid black;">Distributed File System</td>
+<td style="border:1px solid black;">Dfs</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">ドメイン コントローラ役割でのみ有効化されています。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Distributed Link Tracking Server</p></td>
-<td style="border:1px solid black;"><p>TrkSrv</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>ドメイン コントローラ役割でのみ有効化されています。</p></td>
+<td style="border:1px solid black;">Distributed Link Tracking Server</td>
+<td style="border:1px solid black;">TrkSrv</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">ドメイン コントローラ役割でのみ有効化されています。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>DNS Server</p></td>
-<td style="border:1px solid black;"><p>DNS</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>ドメイン コントローラ役割でのみ有効化されています。</p></td>
+<td style="border:1px solid black;">DNS Server</td>
+<td style="border:1px solid black;">DNS</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">ドメイン コントローラ役割でのみ有効化されています。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>File Replication</p></td>
-<td style="border:1px solid black;"><p>NtFrs</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>ドメイン コントローラ役割でのみ有効化されています。</p></td>
+<td style="border:1px solid black;">File Replication</td>
+<td style="border:1px solid black;">NtFrs</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">ドメイン コントローラ役割でのみ有効化されています。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>IIS Admin Service</p></td>
-<td style="border:1px solid black;"><p>IISADMIN</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>IIS 役割で有効化されています。</p></td>
+<td style="border:1px solid black;">IIS Admin Service</td>
+<td style="border:1px solid black;">IISADMIN</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">IIS 役割で有効化されています。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Intersite Messaging</p></td>
-<td style="border:1px solid black;"><p>IsmServ</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>ドメイン コントローラ役割で有効化されています。</p></td>
+<td style="border:1px solid black;">Intersite Messaging</td>
+<td style="border:1px solid black;">IsmServ</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">ドメイン コントローラ役割で有効化されています。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Kerberos Key Distribution Center</p></td>
-<td style="border:1px solid black;"><p>Kdc</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>ドメイン コントローラ役割でのみ有効化されています。</p></td>
+<td style="border:1px solid black;">Kerberos Key Distribution Center</td>
+<td style="border:1px solid black;">Kdc</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">ドメイン コントローラ役割でのみ有効化されています。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Print Spooler</p></td>
-<td style="border:1px solid black;"><p>Spooler</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>ファイルと印刷役割でのみ有効化されています。</p></td>
+<td style="border:1px solid black;">Print Spooler</td>
+<td style="border:1px solid black;">Spooler</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">ファイルと印刷役割でのみ有効化されています。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Remote Procedure Call (RPC) Locator</p></td>
-<td style="border:1px solid black;"><p>Rpclocator</p></td>
-<td style="border:1px solid black;"><p>手動</p></td>
-<td style="border:1px solid black;"><p>ドメイン コントローラ役割でのみ有効化されています。</p></td>
+<td style="border:1px solid black;">Remote Procedure Call (RPC) Locator</td>
+<td style="border:1px solid black;">Rpclocator</td>
+<td style="border:1px solid black;">手動</td>
+<td style="border:1px solid black;">ドメイン コントローラ役割でのみ有効化されています。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Windows Internet Name Service (WINS)</p></td>
-<td style="border:1px solid black;"><p>WINS</p></td>
-<td style="border:1px solid black;"><p>インストールされていません</p></td>
-<td style="border:1px solid black;"><p>インフラストラクチャ役割でのみ有効化されています。</p></td>
+<td style="border:1px solid black;">Windows Internet Name Service (WINS)</td>
+<td style="border:1px solid black;">WINS</td>
+<td style="border:1px solid black;">インストールされていません</td>
+<td style="border:1px solid black;">インフラストラクチャ役割でのみ有効化されています。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>World Wide Web Publishing Service</p></td>
-<td style="border:1px solid black;"><p>W3svc</p></td>
-<td style="border:1px solid black;"><p>自動</p></td>
-<td style="border:1px solid black;"><p>IIS 役割でのみ有効化されています。</p></td>
+<td style="border:1px solid black;">World Wide Web Publishing Service</td>
+<td style="border:1px solid black;">W3svc</td>
+<td style="border:1px solid black;">自動</td>
+<td style="border:1px solid black;">IIS 役割でのみ有効化されています。</td>
 </tr>
 </tbody>
 </table>
@@ -2385,7 +2385,7 @@ Contoso 社のシナリオでは、グループ ポリシーを使用してこ�
   
 **表 6.8 レジストリに追加された MSBP TCP/IP パラメータ**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -2394,61 +2394,61 @@ Contoso 社のシナリオでは、グループ ポリシーを使用してこ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>レジストリ値エントリ</p></th>
-<th><p>形式</p></th>
-<th><p>値 (10進数)</p></th>
+<th>レジストリ値エントリ</th>
+<th>形式</th>
+<th>値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>EnableICMPRedirect</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>0</p></td>
+<td style="border:1px solid black;">EnableICMPRedirect</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">0</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>SynAttackProtect</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
+<td style="border:1px solid black;">SynAttackProtect</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">2</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>EnableDeadGWDetect</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>0</p></td>
+<td style="border:1px solid black;">EnableDeadGWDetect</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">0</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>EnablePMTUDiscovery</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>0</p></td>
+<td style="border:1px solid black;">EnablePMTUDiscovery</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">0</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>KeepAliveTime</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>300,000</p></td>
+<td style="border:1px solid black;">KeepAliveTime</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">300,000</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>DisableIPSourceRouting</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
+<td style="border:1px solid black;">DisableIPSourceRouting</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">2</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>TcpMaxConnectResponseRetransmissions</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>2</p></td>
+<td style="border:1px solid black;">TcpMaxConnectResponseRetransmissions</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">2</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>TcpMaxDataRetransmissions</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>3</p></td>
+<td style="border:1px solid black;">TcpMaxDataRetransmissions</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">3</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>PerformRouterDiscovery</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>0</p></td>
+<td style="border:1px solid black;">PerformRouterDiscovery</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">0</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>TCPMaxPortsExhausted</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>5</p></td>
+<td style="border:1px solid black;">TCPMaxPortsExhausted</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">5</td>
 </tr>
 </tbody>
 </table>
@@ -2461,7 +2461,7 @@ Contoso 社のシナリオでは、グループ ポリシーを使用してこ�
   
 **表 6.9 レジストリに追加された MSBP Afd.sys 設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -2470,31 +2470,31 @@ Contoso 社のシナリオでは、グループ ポリシーを使用してこ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>レジストリ値エントリ</p></th>
-<th><p>形式</p></th>
-<th><p>値 (10進数)</p></th>
+<th>レジストリ値エントリ</th>
+<th>形式</th>
+<th>値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DynamicBacklogGrowthDelta</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>10</p></td>
+<td style="border:1px solid black;">DynamicBacklogGrowthDelta</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">10</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>EnableDynamicBacklog</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
+<td style="border:1px solid black;">EnableDynamicBacklog</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">1</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>MinimumDynamicBacklog</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>20</p></td>
+<td style="border:1px solid black;">MinimumDynamicBacklog</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">20</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>MaximumDynamicBacklog</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>20000</p></td>
+<td style="border:1px solid black;">MaximumDynamicBacklog</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">20000</td>
 </tr>
 </tbody>
 </table>
@@ -2503,7 +2503,7 @@ Contoso 社のシナリオでは、グループ ポリシーを使用してこ�
   
 **表 6.10 対策による影響と不正利用の可能性**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -2512,86 +2512,86 @@ Contoso 社のシナリオでは、グループ ポリシーを使用してこ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>レジストリ値エントリ</p></th>
-<th><p>対策による潜在的影響</p></th>
-<th><p>不正利用の可能性</p></th>
+<th>レジストリ値エントリ</th>
+<th>対策による潜在的影響</th>
+<th>不正利用の可能性</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>EnableICMPRedirect</p></td>
-<td style="border:1px solid black;"><p>Routing and Remote Access Services (RRAS) が自律システム境界ルーター (ASBR) として構成されている場合、接続されたインターフェイス サブネット ルートを正常にインポートできません。</p>
-<p>その代わりこのルーターは、ホストルーターを Open Shortest Path First (OSPF) ルートに挿入します。OSPF ルーターを ASBR ルーターとして使うことはできないため、接続されたインターフェイス サブネット ルートを OSPF にインポートすると、未知のルーティング パスによってルーティング テーブルが混乱します。</p></td>
-<td style="border:1px solid black;"><p>Internet Control Message Protocol (ICMP) のリダイレクトにより、スタックがホスト ルートに組み込まれます。これらのルートは、OSPF 生成ルートを上書きします。</p>
-<p>これ自身は予期される動作です。しかし問題は、ICMP リダイレクト組み込みルートの 10 分のタイムアウト期限により、関係するネットワークにブラック ホールができてしまうことです。</p></td>
+<td style="border:1px solid black;">EnableICMPRedirect</td>
+<td style="border:1px solid black;">Routing and Remote Access Services (RRAS) が自律システム境界ルーター (ASBR) として構成されている場合、接続されたインターフェイス サブネット ルートを正常にインポートできません。
+その代わりこのルーターは、ホストルーターを Open Shortest Path First (OSPF) ルートに挿入します。OSPF ルーターを ASBR ルーターとして使うことはできないため、接続されたインターフェイス サブネット ルートを OSPF にインポートすると、未知のルーティング パスによってルーティング テーブルが混乱します。</td>
+<td style="border:1px solid black;">Internet Control Message Protocol (ICMP) のリダイレクトにより、スタックがホスト ルートに組み込まれます。これらのルートは、OSPF 生成ルートを上書きします。
+これ自身は予期される動作です。しかし問題は、ICMP リダイレクト組み込みルートの 10 分のタイムアウト期限により、関係するネットワークにブラック ホールができてしまうことです。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>SynAttackProtect</p></td>
-<td style="border:1px solid black;"><p>このレジストリ値により、TCP が SYN-ACK の再転送を調整します。この値を設定すると、SYN 攻撃が発生した際、接続応答がすばやくタイムアウトになります。</p>
-<p>またこの値により、接続通知が遅延され、SYN 攻撃の進行中は、TCP 接続要求がすばやくタイムアウトになります。</p>
-<p>この設定を行うと、各アダプタ (Initial Round Trip Time (RTT) とウィンドウ サイズ) ソケット オプションで構成されたスケーラブル ウィンドウと TCP パラメータが動作しなくなります。</p></td>
-<td style="border:1px solid black;"><p>SYN フラッド攻撃では、攻撃者がサーバーに SYN パケットのストリームを連続的に送信するため、サーバーは応答不能になるまでハーフオープン接続を開いたままにし、正当な要求に応答できなくなります。</p></td>
+<td style="border:1px solid black;">SynAttackProtect</td>
+<td style="border:1px solid black;">このレジストリ値により、TCP が SYN-ACK の再転送を調整します。この値を設定すると、SYN 攻撃が発生した際、接続応答がすばやくタイムアウトになります。
+またこの値により、接続通知が遅延され、SYN 攻撃の進行中は、TCP 接続要求がすばやくタイムアウトになります。
+この設定を行うと、各アダプタ (Initial Round Trip Time (RTT) とウィンドウ サイズ) ソケット オプションで構成されたスケーラブル ウィンドウと TCP パラメータが動作しなくなります。</td>
+<td style="border:1px solid black;">SYN フラッド攻撃では、攻撃者がサーバーに SYN パケットのストリームを連続的に送信するため、サーバーは応答不能になるまでハーフオープン接続を開いたままにし、正当な要求に応答できなくなります。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>EnableDeadGWDetect</p></td>
-<td style="border:1px solid black;"><p>停止しているゲートウェイの検出を有効化すると、多数の接続に問題が発生したときに、TCP が、バックアップ ゲートウェイを変更するよう IP に要求します。</p>
-<p>この設定の値を 0 に指定すると、Windows は停止しているゲートウェイを検出せず、自動的に別のゲートウェイに切り替えます。</p></td>
-<td style="border:1px solid black;"><p>攻撃者は、サーバーがゲートウェイを切り替えるよう強制することができます。これにより、意図しないゲートウェイに切り替えられる場合があります。</p></td>
+<td style="border:1px solid black;">EnableDeadGWDetect</td>
+<td style="border:1px solid black;">停止しているゲートウェイの検出を有効化すると、多数の接続に問題が発生したときに、TCP が、バックアップ ゲートウェイを変更するよう IP に要求します。
+この設定の値を 0 に指定すると、Windows は停止しているゲートウェイを検出せず、自動的に別のゲートウェイに切り替えます。</td>
+<td style="border:1px solid black;">攻撃者は、サーバーがゲートウェイを切り替えるよう強制することができます。これにより、意図しないゲートウェイに切り替えられる場合があります。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>EnablePMTUDiscovery</p></td>
-<td style="border:1px solid black;"><p><strong>[EnablePMTUDiscovery]</strong> を <strong>1</strong> に設定すると、TCP は、リモート ホストへのパスの最大伝送単位 (MTU) または最大パケット サイズを検出しようとします。</p>
-<p>TCP は、パスの MTU を検出し、TCP セグメントをそのサイズに限定することにより、異なる MTU でネットワークを接続しているパス上のルーターで断片化が行われること防止できます。</p>
-<p>断片化によって、TCP スループットに悪影響が及ぼされることがあります。この値を <strong>0</strong> に設定すると、ローカル サブネット上のホストでないすべての接続に対し、576 バイトという MTU が使用されます。</p></td>
-<td style="border:1px solid black;"><p>この値を <strong>0</strong> に設定しないと、攻撃者が MTU を非常に小さな値に変更し、サーバーに大量のパケットを断片化させることで、スタックに多大な負荷をかける可能性があります。</p></td>
+<td style="border:1px solid black;">EnablePMTUDiscovery</td>
+<td style="border:1px solid black;"><strong>[EnablePMTUDiscovery]</strong> を <strong>1</strong> に設定すると、TCP は、リモート ホストへのパスの最大伝送単位 (MTU) または最大パケット サイズを検出しようとします。
+TCP は、パスの MTU を検出し、TCP セグメントをそのサイズに限定することにより、異なる MTU でネットワークを接続しているパス上のルーターで断片化が行われること防止できます。
+断片化によって、TCP スループットに悪影響が及ぼされることがあります。この値を <strong>0</strong> に設定すると、ローカル サブネット上のホストでないすべての接続に対し、576 バイトという MTU が使用されます。</td>
+<td style="border:1px solid black;">この値を <strong>0</strong> に設定しないと、攻撃者が MTU を非常に小さな値に変更し、サーバーに大量のパケットを断片化させることで、スタックに多大な負荷をかける可能性があります。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>KeepAliveTime</p></td>
-<td style="border:1px solid black;"><p>この値は、TCP が keep-alive パケットを送信してアイドル状態の接続がそのままであることを確認する頻度を指定します。リモート コンピュータがまだ利用可能な場合は、keep-alive パケットの確認を行います。</p>
-<p>既定では keep-alive パケットは送信されません。プログラムを使用してこの値を接続上で設定できます。この値を既定の 2 時間から 5 分に変更すると、非アクティブなセッションがより早く接続解除されます。</p></td>
-<td style="border:1px solid black;"><p>ネットワーク アプリケーションに接続できた攻撃者は、数多くの接続を確立することで、DoS を発生させることができます。</p></td>
+<td style="border:1px solid black;">KeepAliveTime</td>
+<td style="border:1px solid black;">この値は、TCP が keep-alive パケットを送信してアイドル状態の接続がそのままであることを確認する頻度を指定します。リモート コンピュータがまだ利用可能な場合は、keep-alive パケットの確認を行います。
+既定では keep-alive パケットは送信されません。プログラムを使用してこの値を接続上で設定できます。この値を既定の 2 時間から 5 分に変更すると、非アクティブなセッションがより早く接続解除されます。</td>
+<td style="border:1px solid black;">ネットワーク アプリケーションに接続できた攻撃者は、数多くの接続を確立することで、DoS を発生させることができます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>DisableIPSourceRouting</p></td>
-<td style="border:1px solid black;"><p>IP ソース ルーティングは、データグラムがネットワークを通過する際に使用すべき IP ルートを送信者が決定するための機構です。この値を <strong>2</strong> に指定すると、受信するすべてのソース ルーティングされたパケットがドロップされます。</p></td>
-<td style="border:1px solid black;"><p>攻撃者はソース ルーティング パケットを利用して、自身の ID と発信場所を隠すことができます。</p>
-<p>ソース ルーティングにより、パケットを送信しているコンピュータが、パケットのルートを指定できます。</p></td>
+<td style="border:1px solid black;">DisableIPSourceRouting</td>
+<td style="border:1px solid black;">IP ソース ルーティングは、データグラムがネットワークを通過する際に使用すべき IP ルートを送信者が決定するための機構です。この値を <strong>2</strong> に指定すると、受信するすべてのソース ルーティングされたパケットがドロップされます。</td>
+<td style="border:1px solid black;">攻撃者はソース ルーティング パケットを利用して、自身の ID と発信場所を隠すことができます。
+ソース ルーティングにより、パケットを送信しているコンピュータが、パケットのルートを指定できます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>TCPMaxConnectResponseRetransmissions</p></td>
-<td style="border:1px solid black;"><p>このパラメータでは、SYN が確認されない場合に、接続要求に応えて SYN-ACK が再送信される回数を指定します。</p>
-<p>この値を <strong>2</strong> 以上に指定すると、スタックは、内部的に SYN-ATTACK 保護を使用します。この値を <strong>2</strong> 以下に指定すると、スタックは、SYN-ATTACK 保護のレジストリ値を一切読み取りません。このパラメータにより、ハーフオープンの TCP 接続をクリーンアップするのに要する既定の時間が短縮されます。</p>
-<p>激しい攻撃にさらされているサイトでは、<strong>1</strong> のような低い値にすべき場合もあります。<strong>0</strong> も有効な値です。ただしこのパラメータを <strong>0</strong> に設定すると、SYN-ACK は一切再送信されず、3 秒でタイムアウトになります。このような低い値にすると、遠方のクライアントから要求された正当な接続も実行できない場合があります。</p></td>
-<td style="border:1px solid black;"><p>SYN フラッド攻撃では、攻撃者がサーバーに SYN パケットのストリームを連続的に送信するため、サーバーは応答不能になるまでハーフオープン接続を開いたままにし、正当な要求に応答できなくなります。</p></td>
+<td style="border:1px solid black;">TCPMaxConnectResponseRetransmissions</td>
+<td style="border:1px solid black;">このパラメータでは、SYN が確認されない場合に、接続要求に応えて SYN-ACK が再送信される回数を指定します。
+この値を <strong>2</strong> 以上に指定すると、スタックは、内部的に SYN-ATTACK 保護を使用します。この値を <strong>2</strong> 以下に指定すると、スタックは、SYN-ATTACK 保護のレジストリ値を一切読み取りません。このパラメータにより、ハーフオープンの TCP 接続をクリーンアップするのに要する既定の時間が短縮されます。
+激しい攻撃にさらされているサイトでは、<strong>1</strong> のような低い値にすべき場合もあります。<strong>0</strong> も有効な値です。ただしこのパラメータを <strong>0</strong> に設定すると、SYN-ACK は一切再送信されず、3 秒でタイムアウトになります。このような低い値にすると、遠方のクライアントから要求された正当な接続も実行できない場合があります。</td>
+<td style="border:1px solid black;">SYN フラッド攻撃では、攻撃者がサーバーに SYN パケットのストリームを連続的に送信するため、サーバーは応答不能になるまでハーフオープン接続を開いたままにし、正当な要求に応答できなくなります。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>TCPMaxData Retransmissions</p></td>
-<td style="border:1px solid black;"><p>各送信セグメントが IP に渡される際、TCP が再送信タイマを開始します。タイマが切れる前に特定のセグメントのデータについて確認が受信されないと、セグメントは 3 回まで再送信されます。</p></td>
-<td style="border:1px solid black;"><p>SYN フラッド攻撃では、攻撃者がサーバーに SYN パケットのストリームを連続的に送信するため、サーバーは応答不能になるまでハーフオープン接続を開いたままにし、正当な要求に応答できなくなります。</p></td>
+<td style="border:1px solid black;">TCPMaxData Retransmissions</td>
+<td style="border:1px solid black;">各送信セグメントが IP に渡される際、TCP が再送信タイマを開始します。タイマが切れる前に特定のセグメントのデータについて確認が受信されないと、セグメントは 3 回まで再送信されます。</td>
+<td style="border:1px solid black;">SYN フラッド攻撃では、攻撃者がサーバーに SYN パケットのストリームを連続的に送信するため、サーバーは応答不能になるまでハーフオープン接続を開いたままにし、正当な要求に応答できなくなります。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>PerformRouterDiscovery</p></td>
-<td style="border:1px solid black;"><p>これは、Internet Router Discovery Protocol (IRDP) をサポートする Windows 2000 が、コンピュータ上でのデフォルト ゲートウェイ アドレスを自動的に検出および構成することを防止するために設定します。</p></td>
-<td style="border:1px solid black;"><p>同じネットワーク セグメントにあるシステムの制御を獲得した攻撃者は、ネットワーク上のコンピュータをルーターに見せかけることができます。</p>
-<p>そうすると、IRDP が有効化されたほかのコンピュータは、セキュリティが破られたシステムにトラフィックをルーティングしてしまいます。</p></td>
+<td style="border:1px solid black;">PerformRouterDiscovery</td>
+<td style="border:1px solid black;">これは、Internet Router Discovery Protocol (IRDP) をサポートする Windows 2000 が、コンピュータ上でのデフォルト ゲートウェイ アドレスを自動的に検出および構成することを防止するために設定します。</td>
+<td style="border:1px solid black;">同じネットワーク セグメントにあるシステムの制御を獲得した攻撃者は、ネットワーク上のコンピュータをルーターに見せかけることができます。
+そうすると、IRDP が有効化されたほかのコンピュータは、セキュリティが破られたシステムにトラフィックをルーティングしてしまいます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>TCPMaxPortsExhausted</p></td>
-<td style="border:1px solid black;"><p>このパラメータでは、SYN-ATTACK 保護の実行開始点を指定します。SYN-ATTACK 保護は、接続で可能なバックログが <strong>0</strong> に設定されているため、システムが <strong>TCPMaxPortsExhausted</strong> 接続要求を拒否したときに動作が開始します。</p>
-<p>これは、正当な方法で使用を試みるサーバーやシステムにはほとんど影響がありません。</p></td>
-<td style="border:1px solid black;"><p>SYN フラッド攻撃では、攻撃者がサーバーに SYN パケットのストリームを連続的に送信するため、サーバーは応答不能になるまでハーフオープン接続を開いたままにし、正当な要求に応答できなくなります。</p></td>
+<td style="border:1px solid black;">TCPMaxPortsExhausted</td>
+<td style="border:1px solid black;">このパラメータでは、SYN-ATTACK 保護の実行開始点を指定します。SYN-ATTACK 保護は、接続で可能なバックログが <strong>0</strong> に設定されているため、システムが <strong>TCPMaxPortsExhausted</strong> 接続要求を拒否したときに動作が開始します。
+これは、正当な方法で使用を試みるサーバーやシステムにはほとんど影響がありません。</td>
+<td style="border:1px solid black;">SYN フラッド攻撃では、攻撃者がサーバーに SYN パケットのストリームを連続的に送信するため、サーバーは応答不能になるまでハーフオープン接続を開いたままにし、正当な要求に応答できなくなります。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>AFD 設定:</p>
-<p>DynamicBacklogGrowthDelta</p>
-<p>EnableDynamicBacklog</p>
-<p>MinimumDynamic</p>
-<p>Backlog</p>
-<p>MaximumDynamic</p>
-<p>Backlog</p></td>
-<td style="border:1px solid black;"><p>FTP サーバーや Web サーバーといった Windows Sockets アプリケーションの接続試行は、Afd.sys によって処理されます。Afd.sys は、正当なクライアントのアクセスを拒否せず、ハーフオープンの状態で多数の接続をサポートできるよう改良されました。</p>
-<p>これは、管理者が動的バックログを設定できるようにすることで実行できます。<strong>DynamicBacklogGrowthDelta</strong> は、追加の接続が必要となったときに作成する空き接続を指定します。この値を大きくしすぎると、空き接続の割り当て量が膨大になりますので注意してください。</p></td>
-<td style="border:1px solid black;"><p>SYN フラッド攻撃では、攻撃者がサーバーに SYN パケットのストリームを連続的に送信するため、サーバーは応答不能になるまでハーフオープン接続を開いたままにし、正当な要求に応答できなくなります。</p></td>
+<td style="border:1px solid black;">AFD 設定:
+DynamicBacklogGrowthDelta
+EnableDynamicBacklog
+MinimumDynamic
+Backlog
+MaximumDynamic
+Backlog</td>
+<td style="border:1px solid black;">FTP サーバーや Web サーバーといった Windows Sockets アプリケーションの接続試行は、Afd.sys によって処理されます。Afd.sys は、正当なクライアントのアクセスを拒否せず、ハーフオープンの状態で多数の接続をサポートできるよう改良されました。
+これは、管理者が動的バックログを設定できるようにすることで実行できます。<strong>DynamicBacklogGrowthDelta</strong> は、追加の接続が必要となったときに作成する空き接続を指定します。この値を大きくしすぎると、空き接続の割り当て量が膨大になりますので注意してください。</td>
+<td style="border:1px solid black;">SYN フラッド攻撃では、攻撃者がサーバーに SYN パケットのストリームを連続的に送信するため、サーバーは応答不能になるまでハーフオープン接続を開いたままにし、正当な要求に応答できなくなります。</td>
 </tr>
 </tbody>
 </table>
@@ -2630,7 +2630,7 @@ Contoso 社のシナリオでは、現在でも NetBIOS ネーム サービス�
   
 **表 6.11 NetBIOS 名前解放保護を構成するためにレジストリに追加された MSBP 設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -2639,16 +2639,16 @@ Contoso 社のシナリオでは、現在でも NetBIOS ネーム サービス�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>レジストリ キー</p></th>
-<th><p>形式</p></th>
-<th><p>値 (10進数)</p></th>
+<th>レジストリ キー</th>
+<th>形式</th>
+<th>値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>NoNameReleaseOnDemand</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
+<td style="border:1px solid black;">NoNameReleaseOnDemand</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">1</td>
 </tr>
 </tbody>
 </table>
@@ -2679,7 +2679,7 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、**
   
 **表 6.12 8.3 ファイル名作成を無効にするためにレジストリに追加された MSBP 設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -2688,16 +2688,16 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、**
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>レジストリ キー</p></th>
-<th><p>形式</p></th>
-<th><p>値 (10進数)</p></th>
+<th>レジストリ キー</th>
+<th>形式</th>
+<th>値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>NtfsDisable8dot3NameCreation</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
+<td style="border:1px solid black;">NtfsDisable8dot3NameCreation</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">1</td>
 </tr>
 </tbody>
 </table>
@@ -2726,7 +2726,7 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、�
   
 **表 6.13 すべてのドライブで自動実行を無効化するためにレジストリに追加された MSBP 設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -2735,16 +2735,16 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>レジストリ値エントリ</p></th>
-<th><p>形式</p></th>
-<th><p>値 (16進数)</p></th>
+<th>レジストリ値エントリ</th>
+<th>形式</th>
+<th>値 (16進数)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>NoDriveTypeAutoRun</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>0xFF</p></td>
+<td style="border:1px solid black;">NoDriveTypeAutoRun</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">0xFF</td>
 </tr>
 </tbody>
 </table>
@@ -2801,7 +2801,7 @@ Contoso 社のシナリオでは、テンプレートの **HKLM\\SYSTEM\\Softwar
   
 **表 6.14 スクリーン セーバー パスワード保護を即座に有効にするためにレジストリに追加された MSBP 設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -2810,16 +2810,16 @@ Contoso 社のシナリオでは、テンプレートの **HKLM\\SYSTEM\\Softwar
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>レジストリ値エントリ</p></th>
-<th><p>形式</p></th>
-<th><p>値 (10進数)</p></th>
+<th>レジストリ値エントリ</th>
+<th>形式</th>
+<th>値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ScreenSaverGracePeriod</p></td>
-<td style="border:1px solid black;"><p>文字列</p></td>
-<td style="border:1px solid black;"><p>0</p></td>
+<td style="border:1px solid black;">ScreenSaverGracePeriod</td>
+<td style="border:1px solid black;">文字列</td>
+<td style="border:1px solid black;">0</td>
 </tr>
 </tbody>
 </table>
@@ -2844,7 +2844,7 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、�
   
 **表 6.15 カーネル オブジェクト属性を保護するためにレジストリに追加された MSBP 設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -2853,16 +2853,16 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>レジストリ値エントリ</p></th>
-<th><p>形式</p></th>
-<th><p>値 (10進数)</p></th>
+<th>レジストリ値エントリ</th>
+<th>形式</th>
+<th>値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>EnhancedSecurityLevel</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
+<td style="border:1px solid black;">EnhancedSecurityLevel</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">1</td>
 </tr>
 </tbody>
 </table>
@@ -2887,7 +2887,7 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、�
   
 **表 6.16 Null セッション アクセスを制限するためにレジストリに追加された MSBP 設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -2896,16 +2896,16 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>レジストリ値エントリ</p></th>
-<th><p>形式</p></th>
-<th><p>値 (10進数)</p></th>
+<th>レジストリ値エントリ</th>
+<th>形式</th>
+<th>値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>RestrictNullSessAccess</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
+<td style="border:1px solid black;">RestrictNullSessAccess</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">1</td>
 </tr>
 </tbody>
 </table>
@@ -2957,7 +2957,7 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、�
   
 **表 6.17 許容限界に近付いたセキュリティ ログの警告を有効化するためにレジストリに追加された MSBP 設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -2966,16 +2966,16 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>レジストリ値エントリ</p></th>
-<th><p>形式</p></th>
-<th><p>値 (10進数)</p></th>
+<th>レジストリ値エントリ</th>
+<th>形式</th>
+<th>値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>WarningLevel</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>90</p></td>
+<td style="border:1px solid black;">WarningLevel</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">90</td>
 </tr>
 </tbody>
 </table>
@@ -3004,7 +3004,7 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、�
   
 **表 6.18 ワークステーションのロックの解除時に、ドメイン コントローラ認証を要求するためにレジストリに追加された MSBP 設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -3013,16 +3013,16 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>レジストリ値エントリ</p></th>
-<th><p>形式</p></th>
-<th><p>値 (10進数)</p></th>
+<th>レジストリ値エントリ</th>
+<th>形式</th>
+<th>値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ForceUnlockLogon</p></td>
-<td style="border:1px solid black;"><p>DWORD</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
+<td style="border:1px solid black;">ForceUnlockLogon</td>
+<td style="border:1px solid black;">DWORD</td>
+<td style="border:1px solid black;">1</td>
 </tr>
 </tbody>
 </table>
@@ -3071,7 +3071,7 @@ Windows 2000 サービスは通常 Local System アカウントで実行され�
   
 **表 6.19 さまざまな環境における Windows 2000 のアカウント特権**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -3080,26 +3080,26 @@ Windows 2000 サービスは通常 Local System アカウントで実行され�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>Windows 2000 Server での認証サービス</p></th>
-<th><p>Windows 2000 Server のみのフォレスト間</p></th>
-<th><p>ドメイン間の NTLM 信頼関係によるマルチフォレスト</p></th>
+<th>Windows 2000 Server での認証サービス</th>
+<th>Windows 2000 Server のみのフォレスト間</th>
+<th>ドメイン間の NTLM 信頼関係によるマルチフォレスト</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ローカル ユーザー サービス アカウント</p></td>
-<td style="border:1px solid black;"><p>ネットワーク リソースなし。アカウントに割り当てられた特権でのローカル アクセスのみ。</p></td>
-<td style="border:1px solid black;"><p>ネットワーク リソースなし。アカウントに割り当てられた特権でのローカル アクセスのみ。</p></td>
+<td style="border:1px solid black;">ローカル ユーザー サービス アカウント</td>
+<td style="border:1px solid black;">ネットワーク リソースなし。アカウントに割り当てられた特権でのローカル アクセスのみ。</td>
+<td style="border:1px solid black;">ネットワーク リソースなし。アカウントに割り当てられた特権でのローカル アクセスのみ。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ドメイン ユーザー サービス アカウント</p></td>
-<td style="border:1px solid black;"><p>ドメイン ユーザーとしてのネットワーク アクセス。ユーザーの特権でのローカル アクセス。</p></td>
-<td style="border:1px solid black;"><p>ドメイン ユーザーとしてのネットワーク アクセス。ユーザーの特権でのローカル アクセス。</p></td>
+<td style="border:1px solid black;">ドメイン ユーザー サービス アカウント</td>
+<td style="border:1px solid black;">ドメイン ユーザーとしてのネットワーク アクセス。ユーザーの特権でのローカル アクセス。</td>
+<td style="border:1px solid black;">ドメイン ユーザーとしてのネットワーク アクセス。ユーザーの特権でのローカル アクセス。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>LocalSystem</p></td>
-<td style="border:1px solid black;"><p>コンピュータ アカウント認証ユーザーとしてのネットワーク アクセス。LocalSystem でのローカル アクセス。</p></td>
-<td style="border:1px solid black;"><p>フォレスト間にまたがるネットワーク リソースなし。LocalSystem でのローカル アクセス。</p></td>
+<td style="border:1px solid black;">LocalSystem</td>
+<td style="border:1px solid black;">コンピュータ アカウント認証ユーザーとしてのネットワーク アクセス。LocalSystem でのローカル アクセス。</td>
+<td style="border:1px solid black;">フォレスト間にまたがるネットワーク リソースなし。LocalSystem でのローカル アクセス。</td>
 </tr>
 </tbody>
 </table>
@@ -3255,51 +3255,51 @@ Contoso 社のシナリオでは、まず各サーバーの役割が必要とす
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>サービス</p></th>
-<th><p>プロトコル</p></th>
-<th><p>発信元ポート</p></th>
-<th><p>宛先ポート</p></th>
-<th><p>発信元アドレス</p></th>
-<th><p>宛先アドレス</p></th>
-<th><p>アクション</p></th>
+<th>サービス</th>
+<th>プロトコル</th>
+<th>発信元ポート</th>
+<th>宛先ポート</th>
+<th>発信元アドレス</th>
+<th>宛先アドレス</th>
+<th>アクション</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>HTTP サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>80</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">HTTP サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">80</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>HTTPS サーバー</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>443</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">HTTPS サーバー</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">443</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DNS クライアント</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>53</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">DNS クライアント</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">53</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"></td>
-<td style="border:1px solid black;"><p>UDP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>53</p></td>
-<td style="border:1px solid black;"><p>ホスト IP</p></td>
-<td style="border:1px solid black;"><p>任意</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">UDP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">53</td>
+<td style="border:1px solid black;">ホスト IP</td>
+<td style="border:1px solid black;">任意</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 </tbody>
 </table>

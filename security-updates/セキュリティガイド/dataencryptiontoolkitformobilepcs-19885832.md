@@ -123,7 +123,7 @@ Active Directory GPO テンプレートを使用して、いくつかの EFS 関
 
 **表 2.1. Active Directory GPO テンプレートによる EFS 関連の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -132,51 +132,51 @@ Active Directory GPO テンプレートを使用して、いくつかの EFS 関
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>設定名</p></th>
-<th><p>可用性</p></th>
-<th><p>既定</p></th>
+<th>設定名</th>
+<th>可用性</th>
+<th>既定</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>EFS の有効化</p></td>
-<td style="border:1px solid black;"><p>Windows XP、Windows Vista</p></td>
-<td style="border:1px solid black;"><p>許可</p></td>
+<td style="border:1px solid black;">EFS の有効化</td>
+<td style="border:1px solid black;">Windows XP、Windows Vista</td>
+<td style="border:1px solid black;">許可</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ドキュメントの暗号化</p></td>
-<td style="border:1px solid black;"><p>Windows Vista</p></td>
-<td style="border:1px solid black;"><p>オフ</p></td>
+<td style="border:1px solid black;">ドキュメントの暗号化</td>
+<td style="border:1px solid black;">Windows Vista</td>
+<td style="border:1px solid black;">オフ</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>スマート カードを必須とする</p></td>
-<td style="border:1px solid black;"><p>Windows Vista</p></td>
-<td style="border:1px solid black;"><p>オフ</p></td>
+<td style="border:1px solid black;">スマート カードを必須とする</td>
+<td style="border:1px solid black;">Windows Vista</td>
+<td style="border:1px solid black;">オフ</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>スマート カードからキャッシュ可能なユーザー キーを作成する</p></td>
-<td style="border:1px solid black;"><p>Windows Vista</p></td>
-<td style="border:1px solid black;"><p>オフ</p></td>
+<td style="border:1px solid black;">スマート カードからキャッシュ可能なユーザー キーを作成する</td>
+<td style="border:1px solid black;">Windows Vista</td>
+<td style="border:1px solid black;">オフ</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ページファイルの暗号化</p></td>
-<td style="border:1px solid black;"><p>Windows Vista</p></td>
-<td style="border:1px solid black;"><p>オフ</p></td>
+<td style="border:1px solid black;">ページファイルの暗号化</td>
+<td style="border:1px solid black;">Windows Vista</td>
+<td style="border:1px solid black;">オフ</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>証明書の自動登録</p></td>
-<td style="border:1px solid black;"><p>Windows XP、Windows Vista</p></td>
-<td style="border:1px solid black;"><p>オン</p></td>
+<td style="border:1px solid black;">証明書の自動登録</td>
+<td style="border:1px solid black;">Windows XP、Windows Vista</td>
+<td style="border:1px solid black;">オン</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>自己署名入りの証明書のキー サイズ</p></td>
-<td style="border:1px solid black;"><p>Windows Vista</p></td>
-<td style="border:1px solid black;"><p>2048 ビット</p></td>
+<td style="border:1px solid black;">自己署名入りの証明書のキー サイズ</td>
+<td style="border:1px solid black;">Windows Vista</td>
+<td style="border:1px solid black;">2048 ビット</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>自動証明書要求の EFS テンプレート</p></td>
-<td style="border:1px solid black;"><p>Windows Vista</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;">自動証明書要求の EFS テンプレート</td>
+<td style="border:1px solid black;">Windows Vista</td>
+<td style="border:1px solid black;">なし</td>
 </tr>
 </tbody>
 </table>

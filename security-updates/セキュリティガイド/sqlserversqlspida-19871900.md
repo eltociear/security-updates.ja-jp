@@ -248,7 +248,7 @@ osql コマンドは、デフォルトでは以下の場所にインストール
 
 オプションの説明 :
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -256,26 +256,26 @@ osql コマンドは、デフォルトでは以下の場所にインストール
 </colgroup>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>-U :</p></td>
-<td style="border:1px solid black;"><p>SQL Server に接続するためのログイン (ユーザー) を指定します。</p></td>
+<td style="border:1px solid black;">-U :</td>
+<td style="border:1px solid black;">SQL Server に接続するためのログイン (ユーザー) を指定します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>-P :</p></td>
-<td style="border:1px solid black;"><p>ログイン(ユーザー)のパスワードを指定します。<br />
-このドキュメントでは、 パスワードなしの sa を使用しているためパスワードの指定を行っておりません。</p></td>
+<td style="border:1px solid black;">-P :</td>
+<td style="border:1px solid black;">ログイン(ユーザー)のパスワードを指定します。<br />
+このドキュメントでは、 パスワードなしの sa を使用しているためパスワードの指定を行っておりません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>-S :</p></td>
-<td style="border:1px solid black;"><p>SQL Server が動作しているインスタンス (サーバー) を指定します。</p></td>
+<td style="border:1px solid black;">-S :</td>
+<td style="border:1px solid black;">SQL Server が動作しているインスタンス (サーバー) を指定します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>-Q :</p></td>
-<td style="border:1px solid black;"><p>SQL Server に対して指定したクエリの実行を要求し、実行後に、このコマンドを終了させるオプションです。<br />
-&quot;(ダブルコーテーション) で囲まれた部分がクエリ文字列になります。</p></td>
+<td style="border:1px solid black;">-Q :</td>
+<td style="border:1px solid black;">SQL Server に対して指定したクエリの実行を要求し、実行後に、このコマンドを終了させるオプションです。<br />
+&quot;(ダブルコーテーション) で囲まれた部分がクエリ文字列になります。</td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 osql コマンドおよび SQL Server の詳細につきましては、SQL Server に付属する Books Online、ヘルプ、製品マニュアルをご参照ください。
 

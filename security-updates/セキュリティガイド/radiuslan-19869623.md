@@ -92,7 +92,7 @@ Microsoft Windows® 2000 Server (またはそれ以降) についても、次の
 
 **表 12.1: 最初に行うセットアップ タスク**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -100,75 +100,75 @@ Microsoft Windows® 2000 Server (またはそれ以降) についても、次の
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>タスク名</p></th>
-<th><p>サービス管理機能</p></th>
+<th>タスク名</th>
+<th>サービス管理機能</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>運用作業領域</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>運用作業領域</strong></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>IAS に RADIUS クライアントを追加する</p></td>
-<td style="border:1px solid black;"><p>ネットワーク管理</p></td>
+<td style="border:1px solid black;">IAS に RADIUS クライアントを追加する</td>
+<td style="border:1px solid black;">ネットワーク管理</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>コンピュータのワイヤレス設定を有効にする</p></td>
-<td style="border:1px solid black;"><p>ディレクトリ サービス管理</p></td>
+<td style="border:1px solid black;">コンピュータのワイヤレス設定を有効にする</td>
+<td style="border:1px solid black;">ディレクトリ サービス管理</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>リモート アクセス ポリシー グループにコンピュータとユーザーを追加する</p></td>
-<td style="border:1px solid black;"><p>ディレクトリ サービス管理</p></td>
+<td style="border:1px solid black;">リモート アクセス ポリシー グループにコンピュータとユーザーを追加する</td>
+<td style="border:1px solid black;">ディレクトリ サービス管理</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>監視の警告を分類する</p></td>
-<td style="border:1px solid black;"><p>サービスの監視と管理</p></td>
+<td style="border:1px solid black;">監視の警告を分類する</td>
+<td style="border:1px solid black;">サービスの監視と管理</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>IAS の容量制約を監視する</p></td>
-<td style="border:1px solid black;"><p>サービスの監視と管理</p></td>
+<td style="border:1px solid black;">IAS の容量制約を監視する</td>
+<td style="border:1px solid black;">サービスの監視と管理</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>IAS 構成エクスポートを構成する</p></td>
-<td style="border:1px solid black;"><p>記憶域管理</p></td>
+<td style="border:1px solid black;">IAS 構成エクスポートを構成する</td>
+<td style="border:1px solid black;">記憶域管理</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>RADIUS クライアント構成をエクスポートする</p></td>
-<td style="border:1px solid black;"><p>記憶域管理</p></td>
+<td style="border:1px solid black;">RADIUS クライアント構成をエクスポートする</td>
+<td style="border:1px solid black;">記憶域管理</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>IAS データ ディレクトリのバックアップを構成する</p></td>
-<td style="border:1px solid black;"><p>記憶域管理</p></td>
+<td style="border:1px solid black;">IAS データ ディレクトリのバックアップを構成する</td>
+<td style="border:1px solid black;">記憶域管理</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>IAS バックアップをテストする</p></td>
-<td style="border:1px solid black;"><p>記憶域管理</p></td>
+<td style="border:1px solid black;">IAS バックアップをテストする</td>
+<td style="border:1px solid black;">記憶域管理</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>最適化作業領域</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>最適化作業領域</strong></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>IAS サーバーの最大負荷を判定する</p></td>
-<td style="border:1px solid black;"><p>容量管理</p></td>
+<td style="border:1px solid black;">IAS サーバーの最大負荷を判定する</td>
+<td style="border:1px solid black;">容量管理</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>IAS サーバーの記憶域要件およびバックアップ要件を判定する</p></td>
-<td style="border:1px solid black;"><p>容量管理</p></td>
+<td style="border:1px solid black;">IAS サーバーの記憶域要件およびバックアップ要件を判定する</td>
+<td style="border:1px solid black;">容量管理</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>変更作業領域</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>変更作業領域</strong></td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>オペレーティング システムの更新を管理する</p></td>
-<td style="border:1px solid black;"><p>変更管理<br />
-リリース管理</p></td>
+<td style="border:1px solid black;">オペレーティング システムの更新を管理する</td>
+<td style="border:1px solid black;">変更管理<br />
+リリース管理</td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 #### 保守タスク
 
@@ -178,7 +178,7 @@ Microsoft Windows® 2000 Server (またはそれ以降) についても、次の
 
 **表 12.2: 継続保守タスク**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -186,52 +186,52 @@ Microsoft Windows® 2000 Server (またはそれ以降) についても、次の
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>タスク名</p></th>
-<th><p>実行頻度</p></th>
+<th>タスク名</th>
+<th>実行頻度</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>IAS に RADIUS クライアントを追加する</p></td>
-<td style="border:1px solid black;"><p>ワイヤレス AP がネットワークに追加された時点</p></td>
+<td style="border:1px solid black;">IAS に RADIUS クライアントを追加する</td>
+<td style="border:1px solid black;">ワイヤレス AP がネットワークに追加された時点</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>IAS サーバーから RADIUS クライアントを削除する</p></td>
-<td style="border:1px solid black;"><p>ワイヤレス AP がネットワークから削除された時点</p></td>
+<td style="border:1px solid black;">IAS サーバーから RADIUS クライアントを削除する</td>
+<td style="border:1px solid black;">ワイヤレス AP がネットワークから削除された時点</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>コンピュータのワイヤレス設定を有効にする</p></td>
-<td style="border:1px solid black;"><p>コンピュータがネットワークに追加された時点</p></td>
+<td style="border:1px solid black;">コンピュータのワイヤレス設定を有効にする</td>
+<td style="border:1px solid black;">コンピュータがネットワークに追加された時点</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>リモート アクセス ポリシー グループにコンピュータとユーザーを追加する</p></td>
-<td style="border:1px solid black;"><p>従業員が WLAN へのアクセスを許可された時点</p></td>
+<td style="border:1px solid black;">リモート アクセス ポリシー グループにコンピュータとユーザーを追加する</td>
+<td style="border:1px solid black;">従業員が WLAN へのアクセスを許可された時点</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>RADIUS クライアント構成をエクスポートする</p></td>
-<td style="border:1px solid black;"><p>ワイヤレス AP がネットワークに追加された時点</p></td>
+<td style="border:1px solid black;">RADIUS クライアント構成をエクスポートする</td>
+<td style="border:1px solid black;">ワイヤレス AP がネットワークに追加された時点</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>IAS バックアップをテストする</p></td>
-<td style="border:1px solid black;"><p>毎月</p></td>
+<td style="border:1px solid black;">IAS バックアップをテストする</td>
+<td style="border:1px solid black;">毎月</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>IAS RADIUS 要求ログへアクセスする</p></td>
-<td style="border:1px solid black;"><p>毎日または毎週<br />
-(セキュリティ要件による)</p></td>
+<td style="border:1px solid black;">IAS RADIUS 要求ログへアクセスする</td>
+<td style="border:1px solid black;">毎日または毎週<br />
+(セキュリティ要件による)</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>IAS RADIUS 認証イベント ログ エントリを確認する</p></td>
-<td style="border:1px solid black;"><p>毎日または毎週<br />
-(セキュリティ要件による)</p></td>
+<td style="border:1px solid black;">IAS RADIUS 認証イベント ログ エントリを確認する</td>
+<td style="border:1px solid black;">毎日または毎週<br />
+(セキュリティ要件による)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>IAS RADIUS ログ エントリをアーカイブおよび削除する</p></td>
-<td style="border:1px solid black;"><p>毎月</p></td>
+<td style="border:1px solid black;">IAS RADIUS ログ エントリをアーカイブおよび削除する</td>
+<td style="border:1px solid black;">毎月</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>オペレーティング システムの更新を管理する</p></td>
-<td style="border:1px solid black;"><p>毎日</p></td>
+<td style="border:1px solid black;">オペレーティング システムの更新を管理する</td>
+<td style="border:1px solid black;">毎日</td>
 </tr>
 </tbody>
 </table>
@@ -244,7 +244,7 @@ Microsoft Windows® 2000 Server (またはそれ以降) についても、次の
   
 **表 12.3: 必要なテクノロジ**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -252,79 +252,79 @@ Microsoft Windows® 2000 Server (またはそれ以降) についても、次の
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>項目</p></th>
-<th><p>ソース</p></th>
+<th>項目</th>
+<th>ソース</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>[Active Directory ユーザーとコンピュータ] MMC スナップイン</p></td>
-<td style="border:1px solid black;"><p>Windows Server 2003</p></td>
+<td style="border:1px solid black;">[Active Directory ユーザーとコンピュータ] MMC スナップイン</td>
+<td style="border:1px solid black;">Windows Server 2003</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>MSS スクリプト</p></td>
-<td style="border:1px solid black;"><p>このソリューション</p></td>
+<td style="border:1px solid black;">MSS スクリプト</td>
+<td style="border:1px solid black;">このソリューション</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>テキスト エディタ</p></td>
-<td style="border:1px solid black;"><p>Windows Server 2003 のメモ帳</p></td>
+<td style="border:1px solid black;">テキスト エディタ</td>
+<td style="border:1px solid black;">Windows Server 2003 のメモ帳</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Windows タスク スケジューラ サービス</p></td>
-<td style="border:1px solid black;"><p>Windows Server 2003</p></td>
+<td style="border:1px solid black;">Windows タスク スケジューラ サービス</td>
+<td style="border:1px solid black;">Windows Server 2003</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>SchTasks.exe</p></td>
-<td style="border:1px solid black;"><p>Windows Server 2003</p></td>
+<td style="border:1px solid black;">SchTasks.exe</td>
+<td style="border:1px solid black;">Windows Server 2003</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Windows バックアップ</p></td>
-<td style="border:1px solid black;"><p>Windows Server 2003</p></td>
+<td style="border:1px solid black;">Windows バックアップ</td>
+<td style="border:1px solid black;">Windows Server 2003</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>イベント ビューア</p></td>
-<td style="border:1px solid black;"><p>Windows Server 2003</p></td>
+<td style="border:1px solid black;">イベント ビューア</td>
+<td style="border:1px solid black;">Windows Server 2003</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>パフォーマンス モニタ</p></td>
-<td style="border:1px solid black;"><p>Windows Server 2003</p></td>
+<td style="border:1px solid black;">パフォーマンス モニタ</td>
+<td style="border:1px solid black;">Windows Server 2003</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Net.exe</p></td>
-<td style="border:1px solid black;"><p>Windows Server 2003</p></td>
+<td style="border:1px solid black;">Net.exe</td>
+<td style="border:1px solid black;">Windows Server 2003</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>運用警告コンソール</p></td>
-<td style="border:1px solid black;"><p>Microsoft Operations Manager (MOM)</p></td>
+<td style="border:1px solid black;">運用警告コンソール</td>
+<td style="border:1px solid black;">Microsoft Operations Manager (MOM)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>外部保管用のリムーバブル メディア</p></td>
-<td style="border:1px solid black;"><p>フロッピー ディスク、CD-RW、またはテープ</p></td>
+<td style="border:1px solid black;">外部保管用のリムーバブル メディア</td>
+<td style="border:1px solid black;">フロッピー ディスク、CD-RW、またはテープ</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>IAS サーバー バックアップ</p></td>
-<td style="border:1px solid black;"><p>ネットワーク バックアップ サービス<br />
+<td style="border:1px solid black;">IAS サーバー バックアップ</td>
+<td style="border:1px solid black;">ネットワーク バックアップ サービス<br />
 または<br />
-ローカル バックアップ デバイス</p></td>
+ローカル バックアップ デバイス</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>グループ ポリシー管理コンソール</p></td>
-<td style="border:1px solid black;"><p>Microsoft.com からの Web ダウンロード</p></td>
+<td style="border:1px solid black;">グループ ポリシー管理コンソール</td>
+<td style="border:1px solid black;">Microsoft.com からの Web ダウンロード</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>IASParse</p></td>
-<td style="border:1px solid black;"><p>Windows Server 2003 サポート ツール</p></td>
+<td style="border:1px solid black;">IASParse</td>
+<td style="border:1px solid black;">Windows Server 2003 サポート ツール</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Microsoft Access 2002</p></td>
-<td style="border:1px solid black;"><p>Microsoft Office XP</p></td>
+<td style="border:1px solid black;">Microsoft Access 2002</td>
+<td style="border:1px solid black;">Microsoft Office XP</td>
 </tr>
 </tbody>
 </table>
   
 **表 12.4: 推奨テクノロジ**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -332,36 +332,36 @@ Microsoft Windows® 2000 Server (またはそれ以降) についても、次の
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>項目</p></th>
-<th><p>ソース</p></th>
+<th>項目</th>
+<th>ソース</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>運用警告コンソール</p></td>
-<td style="border:1px solid black;"><p>Microsoft Operations Manager またはその他のサービス監視システム</p></td>
+<td style="border:1px solid black;">運用警告コンソール</td>
+<td style="border:1px solid black;">Microsoft Operations Manager またはその他のサービス監視システム</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>運用警告用の電子メール インフラストラクチャ (MOM の代替)</p></td>
-<td style="border:1px solid black;"><p>SMTP/POP3/IMAP サーバーとクライアント (Microsoft Exchange Server および Microsoft Outlook® など)</p></td>
+<td style="border:1px solid black;">運用警告用の電子メール インフラストラクチャ (MOM の代替)</td>
+<td style="border:1px solid black;">SMTP/POP3/IMAP サーバーとクライアント (Microsoft Exchange Server および Microsoft Outlook® など)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Eventquery.vbs</p></td>
-<td style="border:1px solid black;"><p>Windows Server 2003</p></td>
+<td style="border:1px solid black;">Eventquery.vbs</td>
+<td style="border:1px solid black;">Windows Server 2003</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>容量計画ツール</p></td>
-<td style="border:1px solid black;"><p>Microsoft Operations Manager またはその他の容量計画ツール</p></td>
+<td style="border:1px solid black;">容量計画ツール</td>
+<td style="border:1px solid black;">Microsoft Operations Manager またはその他の容量計画ツール</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>セキュリティ更新配布システム</p></td>
-<td style="border:1px solid black;"><p>Microsoft Systems Management Server<br />
+<td style="border:1px solid black;">セキュリティ更新配布システム</td>
+<td style="border:1px solid black;">Microsoft Systems Management Server<br />
 または<br />
-Microsoft Software Update Services</p></td>
+Microsoft Software Update Services</td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 [](#mainsection)[ページのトップへ](#mainsection)
 
@@ -375,7 +375,7 @@ RADIUS インフラストラクチャと WLAN セキュリティの管理にと�
 
 **表 12.5: RADIUS と WLAN セキュリティの中心的な役割**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -384,31 +384,31 @@ RADIUS インフラストラクチャと WLAN セキュリティの管理にと�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>役割名</p></th>
-<th><p>範囲</p></th>
-<th><p>説明</p></th>
+<th>役割名</th>
+<th>範囲</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>インターネット認証サービス管理者 (Internet Authentication Service Administrator)</p></td>
-<td style="border:1px solid black;"><p>エンタープライズ環境</p></td>
-<td style="border:1px solid black;"><p>企業の IAS の全体的な管理と構成を担当</p></td>
+<td style="border:1px solid black;">インターネット認証サービス管理者 (Internet Authentication Service Administrator)</td>
+<td style="border:1px solid black;">エンタープライズ環境</td>
+<td style="border:1px solid black;">企業の IAS の全体的な管理と構成を担当</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>インターネット認証サービス監査人 (Internet Authentication Service Auditor)</p></td>
-<td style="border:1px solid black;"><p>エンタープライズ環境</p></td>
-<td style="border:1px solid black;"><p>IAS サーバー コンピュータに格納されている RADIUS ログの確認、アーカイブ、および削除を担当</p></td>
+<td style="border:1px solid black;">インターネット認証サービス監査人 (Internet Authentication Service Auditor)</td>
+<td style="border:1px solid black;">エンタープライズ環境</td>
+<td style="border:1px solid black;">IAS サーバー コンピュータに格納されている RADIUS ログの確認、アーカイブ、および削除を担当</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>インターネット認証サービス バックアップ オペレータ (Internet Authentication Service Backup Operators)</p></td>
-<td style="border:1px solid black;"><p>エンタープライズ環境</p></td>
-<td style="border:1px solid black;"><p>IAS 構成状態データと履歴データのバックアップと復元を担当</p></td>
+<td style="border:1px solid black;">インターネット認証サービス バックアップ オペレータ (Internet Authentication Service Backup Operators)</td>
+<td style="border:1px solid black;">エンタープライズ環境</td>
+<td style="border:1px solid black;">IAS 構成状態データと履歴データのバックアップと復元を担当</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>WLAN ヘルプデスク スタッフ (WLAN Helpdesk Staff)</p></td>
-<td style="border:1px solid black;"><p>エンタープライズ環境</p></td>
-<td style="border:1px solid black;"><p>WLAN の問題のトラブルシューティングを担当する上級ヘルプデスク スタッフ</p></td>
+<td style="border:1px solid black;">WLAN ヘルプデスク スタッフ (WLAN Helpdesk Staff)</td>
+<td style="border:1px solid black;">エンタープライズ環境</td>
+<td style="border:1px solid black;">WLAN の問題のトラブルシューティングを担当する上級ヘルプデスク スタッフ</td>
 </tr>
 </tbody>
 </table>
@@ -419,7 +419,7 @@ RADIUS インフラストラクチャと WLAN セキュリティの管理にと�
   
 **表 12.6: RADIUS と WLAN セキュリティをサポートする役割**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -428,41 +428,41 @@ RADIUS インフラストラクチャと WLAN セキュリティの管理にと�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>役割名</p></th>
-<th><p>範囲</p></th>
-<th><p>説明</p></th>
+<th>役割名</th>
+<th>範囲</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>監視オペレータ (Monitor Operator)</p></td>
-<td style="border:1px solid black;"><p>エンタープライズ環境</p></td>
-<td style="border:1px solid black;"><p>イベントの監視を担当</p></td>
+<td style="border:1px solid black;">監視オペレータ (Monitor Operator)</td>
+<td style="border:1px solid black;">エンタープライズ環境</td>
+<td style="border:1px solid black;">イベントの監視を担当</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>容量計画立案者 (Capacity Planner)</p></td>
-<td style="border:1px solid black;"><p>エンタープライズ環境</p></td>
-<td style="border:1px solid black;"><p>将来的な容量要件を予測するためのパフォーマンスと負荷の分析を担当</p></td>
+<td style="border:1px solid black;">容量計画立案者 (Capacity Planner)</td>
+<td style="border:1px solid black;">エンタープライズ環境</td>
+<td style="border:1px solid black;">将来的な容量要件を予測するためのパフォーマンスと負荷の分析を担当</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Active Directory 管理者 (Active Directory Administrator)</p></td>
-<td style="border:1px solid black;"><p>エンタープライズ環境</p></td>
-<td style="border:1px solid black;"><p>Active Directory インフラストラクチャの構成とサポートを担当</p></td>
+<td style="border:1px solid black;">Active Directory 管理者 (Active Directory Administrator)</td>
+<td style="border:1px solid black;">エンタープライズ環境</td>
+<td style="border:1px solid black;">Active Directory インフラストラクチャの構成とサポートを担当</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Active Directory 運用 (Active Directory Operations)</p></td>
-<td style="border:1px solid black;"><p>エンタープライズ環境</p></td>
-<td style="border:1px solid black;"><p>セキュリティ グループの保守、アカウントの作成など、ディレクトリの日常的な保守業務を担当</p></td>
+<td style="border:1px solid black;">Active Directory 運用 (Active Directory Operations)</td>
+<td style="border:1px solid black;">エンタープライズ環境</td>
+<td style="border:1px solid black;">セキュリティ グループの保守、アカウントの作成など、ディレクトリの日常的な保守業務を担当</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>デスクトップ管理者 (Desktop Administrator)</p></td>
-<td style="border:1px solid black;"><p>エンタープライズ環境</p></td>
-<td style="border:1px solid black;"><p>デスクトップ コンピュータの構成とサポートを担当</p></td>
+<td style="border:1px solid black;">デスクトップ管理者 (Desktop Administrator)</td>
+<td style="border:1px solid black;">エンタープライズ環境</td>
+<td style="border:1px solid black;">デスクトップ コンピュータの構成とサポートを担当</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>変更承認委員会 (Change Approvals Board)</p></td>
-<td style="border:1px solid black;"><p>エンタープライズ環境</p></td>
-<td style="border:1px solid black;"><p>インフラストラクチャの変更の承認に必要な業務および技術部門の代表者</p></td>
+<td style="border:1px solid black;">変更承認委員会 (Change Approvals Board)</td>
+<td style="border:1px solid black;">エンタープライズ環境</td>
+<td style="border:1px solid black;">インフラストラクチャの変更の承認に必要な業務および技術部門の代表者</td>
 </tr>
 </tbody>
 </table>
@@ -475,7 +475,7 @@ IAS サーバーの場合は、ドメイン セキュリティ グループを�
   
 **表 12.7: RADIUS および WLAN セキュリティ役割のセキュリティ グループへの対応付け**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -485,36 +485,36 @@ IAS サーバーの場合は、ドメイン セキュリティ グループを�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>役割名</p></th>
-<th><p>ドメイン セキュリティ グループ</p></th>
-<th><p>ローカル セキュリティ グループ</p></th>
-<th><p>機能</p></th>
+<th>役割名</th>
+<th>ドメイン セキュリティ グループ</th>
+<th>ローカル セキュリティ グループ</th>
+<th>機能</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>インターネット認証サービス管理者 (Internet Authentication Service Administrator)</p></td>
-<td style="border:1px solid black;"><p>IAS Admins</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>IAS サービスの開始と終了、およびその構成変更も含む、IAS サーバーのすべての管理機能</p></td>
+<td style="border:1px solid black;">インターネット認証サービス管理者 (Internet Authentication Service Administrator)</td>
+<td style="border:1px solid black;">IAS Admins</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">IAS サービスの開始と終了、およびその構成変更も含む、IAS サーバーのすべての管理機能</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>インターネット認証サービス監査人 (Internet Authentication Service Auditor)</p></td>
-<td style="border:1px solid black;"><p>IAS Security Auditors</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>ログ ボリュームの RADIUS 要求ログ ファイルの読み取りや削除を行う機能</p></td>
+<td style="border:1px solid black;">インターネット認証サービス監査人 (Internet Authentication Service Auditor)</td>
+<td style="border:1px solid black;">IAS Security Auditors</td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">ログ ボリュームの RADIUS 要求ログ ファイルの読み取りや削除を行う機能</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>IAS バックアップ オペレータ (IAS Backup Operators)</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>Backup Operators</p></td>
-<td style="border:1px solid black;"><p>オペレーティング システムの状態データおよび IAS 構成データの完全バックアップと復元機能</p></td>
+<td style="border:1px solid black;">IAS バックアップ オペレータ (IAS Backup Operators)</td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">Backup Operators</td>
+<td style="border:1px solid black;">オペレーティング システムの状態データおよび IAS 構成データの完全バックアップと復元機能</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>WLAN ヘルプデスク スタッフ (WLAN Helpdesk Staff)</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
-<td style="border:1px solid black;"><p>IAS の認証に関する問題を解決するための IAS 管理者との連携 (場合によっては IAS セキュリティ監査人と同じリソースの読み取りアクセス許可が付与される可能性がある)</p></td>
+<td style="border:1px solid black;">WLAN ヘルプデスク スタッフ (WLAN Helpdesk Staff)</td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">なし</td>
+<td style="border:1px solid black;">IAS の認証に関する問題を解決するための IAS 管理者との連携 (場合によっては IAS セキュリティ監査人と同じリソースの読み取りアクセス許可が付与される可能性がある)</td>
 </tr>
 </tbody>
 </table>
@@ -759,7 +759,7 @@ Remote Access Policy セキュリティ グループを構成して動作可能�
   
 **表 12.8: 警告カテゴリ**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -767,38 +767,38 @@ Remote Access Policy セキュリティ グループを構成して動作可能�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>警告カテゴリ</p></th>
-<th><p>説明</p></th>
+<th>警告カテゴリ</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>サービスは利用できない</p></td>
-<td style="border:1px solid black;"><p>アプリケーションまたはコンポーネントが完全に利用できない場合。</p></td>
+<td style="border:1px solid black;">サービスは利用できない</td>
+<td style="border:1px solid black;">アプリケーションまたはコンポーネントが完全に利用できない場合。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>セキュリティ違反</p></td>
-<td style="border:1px solid black;"><p>アプリケーションがハッキングされている場合またはセキュリティを侵害された場合。</p></td>
+<td style="border:1px solid black;">セキュリティ違反</td>
+<td style="border:1px solid black;">アプリケーションがハッキングされている場合またはセキュリティを侵害された場合。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>致命的なエラー</p></td>
-<td style="border:1px solid black;"><p>アプリケーションで、早急な (ただし即時とは限らない) 管理措置の必要な重大なエラーが検出された場合。 アプリケーションまたはコンポーネントは、標準以下のレベルのパフォーマンスで動作していますが、それでもほとんどの重要な操作を実行できます。</p></td>
+<td style="border:1px solid black;">致命的なエラー</td>
+<td style="border:1px solid black;">アプリケーションで、早急な (ただし即時とは限らない) 管理措置の必要な重大なエラーが検出された場合。 アプリケーションまたはコンポーネントは、標準以下のレベルのパフォーマンスで動作していますが、それでもほとんどの重要な操作を実行できます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>エラー</p></td>
-<td style="border:1px solid black;"><p>アプリケーションで、即時の管理措置や解決を必要としない一時的な問題が検出された場合。 アプリケーションまたはコンポーネントは、許容レベルのパフォーマンスで動作していますが、それでもほとんどの重要な操作を実行できます。</p></td>
+<td style="border:1px solid black;">エラー</td>
+<td style="border:1px solid black;">アプリケーションで、即時の管理措置や解決を必要としない一時的な問題が検出された場合。 アプリケーションまたはコンポーネントは、許容レベルのパフォーマンスで動作していますが、それでもほとんどの重要な操作を実行できます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>警告</p></td>
-<td style="border:1px solid black;"><p>アプリケーションで、即時の管理措置や解決を必要としない警告メッセージが生成された場合。 アプリケーションまたはコンポーネントは、許容レベルのパフォーマンスで動作していますが、それでもほとんどの重要な操作を実行できます。 ただし、問題が続く場合は、この状況が &quot;エラー&quot;、&quot;致命的なエラー&quot;、または &quot;サービスは利用できない&quot; に変化する可能性があります。</p></td>
+<td style="border:1px solid black;">警告</td>
+<td style="border:1px solid black;">アプリケーションで、即時の管理措置や解決を必要としない警告メッセージが生成された場合。 アプリケーションまたはコンポーネントは、許容レベルのパフォーマンスで動作していますが、それでもほとんどの重要な操作を実行できます。 ただし、問題が続く場合は、この状況が &quot;エラー&quot;、&quot;致命的なエラー&quot;、または &quot;サービスは利用できない&quot; に変化する可能性があります。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>情報</p></td>
-<td style="border:1px solid black;"><p>アプリケーションが情報イベントを生成した場合。 アプリケーションまたはコンポーネントは、許容レベルのパフォーマンスで動作しており、重要な操作や重要でない操作を実行しています。</p></td>
+<td style="border:1px solid black;">情報</td>
+<td style="border:1px solid black;">アプリケーションが情報イベントを生成した場合。 アプリケーションまたはコンポーネントは、許容レベルのパフォーマンスで動作しており、重要な操作や重要でない操作を実行しています。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>成功</p></td>
-<td style="border:1px solid black;"><p>アプリケーションが成功イベントを生成した場合。 アプリケーションまたはコンポーネントは、許容レベルのパフォーマンスで動作しており、重要な操作や重要でない操作を実行しています。</p></td>
+<td style="border:1px solid black;">成功</td>
+<td style="border:1px solid black;">アプリケーションが成功イベントを生成した場合。 アプリケーションまたはコンポーネントは、許容レベルのパフォーマンスで動作しており、重要な操作や重要でない操作を実行しています。</td>
 </tr>
 </tbody>
 </table>
@@ -829,7 +829,7 @@ Remote Access Policy セキュリティ グループを構成して動作可能�
   
 **表 12.9: IAS 容量制約パフォーマンス オブジェクトの監視項目**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -838,41 +838,41 @@ Remote Access Policy セキュリティ グループを構成して動作可能�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>パフォーマンス オブジェクト</p></th>
-<th><p>パフォーマンス カウンタ</p></th>
-<th><p>インスタンス</p></th>
+<th>パフォーマンス オブジェクト</th>
+<th>パフォーマンス カウンタ</th>
+<th>インスタンス</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Processor</p></td>
-<td style="border:1px solid black;"><p>% Processor Time</p></td>
-<td style="border:1px solid black;"><p>_Total</p></td>
+<td style="border:1px solid black;">Processor</td>
+<td style="border:1px solid black;">% Processor Time</td>
+<td style="border:1px solid black;">_Total</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Physical Disk</p></td>
-<td style="border:1px solid black;"><p>% Disk Time</p></td>
-<td style="border:1px solid black;"><p>_Total</p></td>
+<td style="border:1px solid black;">Physical Disk</td>
+<td style="border:1px solid black;">% Disk Time</td>
+<td style="border:1px solid black;">_Total</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Physical Disk</p></td>
-<td style="border:1px solid black;"><p>Avg. Disk Read Queue Length</p></td>
-<td style="border:1px solid black;"><p>_Total</p></td>
+<td style="border:1px solid black;">Physical Disk</td>
+<td style="border:1px solid black;">Avg. Disk Read Queue Length</td>
+<td style="border:1px solid black;">_Total</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Physical Disk</p></td>
-<td style="border:1px solid black;"><p>Avg. Disk Write Queue Length</p></td>
-<td style="border:1px solid black;"><p>D: (IAS–DATA)</p></td>
+<td style="border:1px solid black;">Physical Disk</td>
+<td style="border:1px solid black;">Avg. Disk Write Queue Length</td>
+<td style="border:1px solid black;">D: (IAS–DATA)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Network Interface</p></td>
-<td style="border:1px solid black;"><p>Bytes Total/sec</p></td>
-<td style="border:1px solid black;"><p>NW adapter</p></td>
+<td style="border:1px solid black;">Network Interface</td>
+<td style="border:1px solid black;">Bytes Total/sec</td>
+<td style="border:1px solid black;">NW adapter</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Memory</p></td>
-<td style="border:1px solid black;"><p>% Committed Bytes in use</p></td>
-<td style="border:1px solid black;"><p>---</p></td>
+<td style="border:1px solid black;">Memory</td>
+<td style="border:1px solid black;">% Committed Bytes in use</td>
+<td style="border:1px solid black;">---</td>
 </tr>
 </tbody>
 </table>
@@ -1528,7 +1528,7 @@ SChannel のログ記録はシステム リソースを消費し、イベント 
   
 **表 12.10: IAS サーバーの負荷の判断**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1536,22 +1536,22 @@ SChannel のログ記録はシステム リソースを消費し、イベント 
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>認証の種類</p></th>
-<th><p>1 秒あたりの認証数</p></th>
+<th>認証の種類</th>
+<th>1 秒あたりの認証数</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>新しい EAP-TLS 認証</p></td>
-<td style="border:1px solid black;"><p>36</p></td>
+<td style="border:1px solid black;">新しい EAP-TLS 認証</td>
+<td style="border:1px solid black;">36</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>オフロード カード サポートを使用する新しい EAP-TLS 認証</p></td>
-<td style="border:1px solid black;"><p>50</p></td>
+<td style="border:1px solid black;">オフロード カード サポートを使用する新しい EAP-TLS 認証</td>
+<td style="border:1px solid black;">50</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>高速再接続による認証</p></td>
-<td style="border:1px solid black;"><p>166</p></td>
+<td style="border:1px solid black;">高速再接続による認証</td>
+<td style="border:1px solid black;">166</td>
 </tr>
 </tbody>
 </table>
@@ -1632,7 +1632,7 @@ RADIUS および WLAN ソフトウェア コンポーネントに対するセキ
   
 **表 12.11: ユーザー定義の構成項目**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1640,26 +1640,26 @@ RADIUS および WLAN ソフトウェア コンポーネントに対するセキ
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>構成項目</p></th>
-<th><p>設定</p></th>
+<th>構成項目</th>
+<th>設定</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Microsoft Active Directory フォレスト ルート ドメインの DNS 名</p></td>
-<td style="border:1px solid black;"><p>woodgrovebank.com</p></td>
+<td style="border:1px solid black;">Microsoft Active Directory フォレスト ルート ドメインの DNS 名</td>
+<td style="border:1px solid black;">woodgrovebank.com</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ドメインのネットワーク基本入出力システム (NetBIOS) 名</p></td>
-<td style="border:1px solid black;"><p>WOODGROVEBANK</p></td>
+<td style="border:1px solid black;">ドメインのネットワーク基本入出力システム (NetBIOS) 名</td>
+<td style="border:1px solid black;">WOODGROVEBANK</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>プライマリ IAS サーバーのサーバー名</p></td>
-<td style="border:1px solid black;"><p>HQ-IAS-01</p></td>
+<td style="border:1px solid black;">プライマリ IAS サーバーのサーバー名</td>
+<td style="border:1px solid black;">HQ-IAS-01</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>セカンダリ IAS サーバーのサーバー名</p></td>
-<td style="border:1px solid black;"><p>HQ-IAS-02</p></td>
+<td style="border:1px solid black;">セカンダリ IAS サーバーのサーバー名</td>
+<td style="border:1px solid black;">HQ-IAS-02</td>
 </tr>
 </tbody>
 </table>
@@ -1668,7 +1668,7 @@ RADIUS および WLAN ソフトウェア コンポーネントに対するセキ
   
 **表 12.12: ソリューションで規定されている構成項目**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1676,114 +1676,114 @@ RADIUS および WLAN ソフトウェア コンポーネントに対するセキ
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>構成項目</p></th>
-<th><p>設定</p></th>
+<th>構成項目</th>
+<th>設定</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>[アカウント] IAS の構成を制御する管理グループの完全な名前</p></td>
-<td style="border:1px solid black;"><p>IAS Admins</p></td>
+<td style="border:1px solid black;">[アカウント] IAS の構成を制御する管理グループの完全な名前</td>
+<td style="border:1px solid black;">IAS Admins</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>[アカウント] IAS の構成を管理する管理グループの Windows 2000 以前の名前</p></td>
-<td style="border:1px solid black;"><p>IAS Admins</p></td>
+<td style="border:1px solid black;">[アカウント] IAS の構成を管理する管理グループの Windows 2000 以前の名前</td>
+<td style="border:1px solid black;">IAS Admins</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>[アカウント] セキュリティ目的で IAS 認証とアカウンティング要求のログを確認するグループの完全な名前</p></td>
-<td style="border:1px solid black;"><p>IAS Security Auditors</p></td>
+<td style="border:1px solid black;">[アカウント] セキュリティ目的で IAS 認証とアカウンティング要求のログを確認するグループの完全な名前</td>
+<td style="border:1px solid black;">IAS Security Auditors</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>[アカウント] セキュリティ目的で IAS 認証とアカウンティング要求のログを確認するグループの Windows 2000 以前の名前</p></td>
-<td style="border:1px solid black;"><p>IAS Security Auditors</p></td>
+<td style="border:1px solid black;">[アカウント] セキュリティ目的で IAS 認証とアカウンティング要求のログを確認するグループの Windows 2000 以前の名前</td>
+<td style="border:1px solid black;">IAS Security Auditors</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>[アカウント] 802.1x 認証の証明書を必要とするユーザーを含む Active Directory グローバル グループ</p></td>
-<td style="border:1px solid black;"><p>AutoEnroll Client Authentication – User Certificate</p></td>
+<td style="border:1px solid black;">[アカウント] 802.1x 認証の証明書を必要とするユーザーを含む Active Directory グローバル グループ</td>
+<td style="border:1px solid black;">AutoEnroll Client Authentication – User Certificate</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>[アカウント] 802.1x 認証の証明書を必要とするコンピュータを含む Active Directory グローバル グループ</p></td>
-<td style="border:1px solid black;"><p>AutoEnroll Client Authentication – Computer Certificate</p></td>
+<td style="border:1px solid black;">[アカウント] 802.1x 認証の証明書を必要とするコンピュータを含む Active Directory グローバル グループ</td>
+<td style="border:1px solid black;">AutoEnroll Client Authentication – Computer Certificate</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>[アカウント] 802.1x 認証の証明書を必要とする IAS サーバーを含む Microsoft Active Directory グローバル グループ</p></td>
-<td style="border:1px solid black;"><p>AutoEnroll RAS and IAS Server Authentication Certificate</p></td>
+<td style="border:1px solid black;">[アカウント] 802.1x 認証の証明書を必要とする IAS サーバーを含む Microsoft Active Directory グローバル グループ</td>
+<td style="border:1px solid black;">AutoEnroll RAS and IAS Server Authentication Certificate</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>[アカウント] 802.1x 認証の証明書を必要とする IAS サーバーを含む Microsoft Active Directory グローバル グループの Windows 2000 以前の名前</p></td>
-<td style="border:1px solid black;"><p>AutoEnroll RAS and IAS Server Authentication Certificate</p></td>
+<td style="border:1px solid black;">[アカウント] 802.1x 認証の証明書を必要とする IAS サーバーを含む Microsoft Active Directory グローバル グループの Windows 2000 以前の名前</td>
+<td style="border:1px solid black;">AutoEnroll RAS and IAS Server Authentication Certificate</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>[アカウント] ワイヤレス ネットワークへのアクセスを許可されているユーザーを含む Active Directory グローバル グループ</p></td>
-<td style="border:1px solid black;"><p>Remote Access Policy – Wireless Users</p></td>
+<td style="border:1px solid black;">[アカウント] ワイヤレス ネットワークへのアクセスを許可されているユーザーを含む Active Directory グローバル グループ</td>
+<td style="border:1px solid black;">Remote Access Policy – Wireless Users</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>[アカウント] ワイヤレス ネットワークへのアクセスを許可されているコンピュータを含む Active Directory グローバル グループ</p></td>
-<td style="border:1px solid black;"><p>Remote Access Policy – Wireless Computers</p></td>
+<td style="border:1px solid black;">[アカウント] ワイヤレス ネットワークへのアクセスを許可されているコンピュータを含む Active Directory グローバル グループ</td>
+<td style="border:1px solid black;">Remote Access Policy – Wireless Computers</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>[アカウント] Wireless Users グループと Wireless Computers グループの両方を含む Active Directory ユニバーサル グループ</p></td>
-<td style="border:1px solid black;"><p>Remote Access Policy – Wireless Access</p></td>
+<td style="border:1px solid black;">[アカウント] Wireless Users グループと Wireless Computers グループの両方を含む Active Directory ユニバーサル グループ</td>
+<td style="border:1px solid black;">Remote Access Policy – Wireless Access</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>[アカウント] Active Directory のグループ ポリシーを使用してワイヤレス ネットワーク関連のプロパティを構成する必要があるコンピュータが属する Active Directory グローバル グループ</p></td>
-<td style="border:1px solid black;"><p>Wireless Network Policy – Computers</p></td>
+<td style="border:1px solid black;">[アカウント] Active Directory のグループ ポリシーを使用してワイヤレス ネットワーク関連のプロパティを構成する必要があるコンピュータが属する Active Directory グローバル グループ</td>
+<td style="border:1px solid black;">Wireless Network Policy – Computers</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>[証明書] ユーザー クライアント認証用の証明書を生成するために使用される証明書テンプレート</p></td>
-<td style="border:1px solid black;"><p>Client Authentication – User</p></td>
+<td style="border:1px solid black;">[証明書] ユーザー クライアント認証用の証明書を生成するために使用される証明書テンプレート</td>
+<td style="border:1px solid black;">Client Authentication – User</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>[証明書] コンピュータ クライアント認証用の証明書を生成するために使用される証明書テンプレート</p></td>
-<td style="border:1px solid black;"><p>Client Authentication – Computer</p></td>
+<td style="border:1px solid black;">[証明書] コンピュータ クライアント認証用の証明書を生成するために使用される証明書テンプレート</td>
+<td style="border:1px solid black;">Client Authentication – Computer</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>[証明書] IAS で使用されるサーバー認証証明書を生成するために使用される証明書テンプレート</p></td>
-<td style="border:1px solid black;"><p>RAS and IAS Server Authentication</p></td>
+<td style="border:1px solid black;">[証明書] IAS で使用されるサーバー認証証明書を生成するために使用される証明書テンプレート</td>
+<td style="border:1px solid black;">RAS and IAS Server Authentication</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>[スクリプト] インストール スクリプトのパス</p></td>
-<td style="border:1px solid black;"><p>C:\MSSScripts</p></td>
+<td style="border:1px solid black;">[スクリプト] インストール スクリプトのパス</td>
+<td style="border:1px solid black;">C:\MSSScripts</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>[スクリプト] IAS 構成のエクスポート バッチ ファイル</p></td>
-<td style="border:1px solid black;"><p>IASExport.bat</p></td>
+<td style="border:1px solid black;">[スクリプト] IAS 構成のエクスポート バッチ ファイル</td>
+<td style="border:1px solid black;">IASExport.bat</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>[スクリプト] IAS 構成のインポート バッチ ファイル</p></td>
-<td style="border:1px solid black;"><p>IASImport.bat</p></td>
+<td style="border:1px solid black;">[スクリプト] IAS 構成のインポート バッチ ファイル</td>
+<td style="border:1px solid black;">IASImport.bat</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>[スクリプト] IAS RADIUS クライアント構成のエクスポート バッチ ファイル</p></td>
-<td style="border:1px solid black;"><p>IASClientExport.bat</p></td>
+<td style="border:1px solid black;">[スクリプト] IAS RADIUS クライアント構成のエクスポート バッチ ファイル</td>
+<td style="border:1px solid black;">IASClientExport.bat</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>[スクリプト] IAS RADIUS クライアント構成のインポート バッチ ファイル</p></td>
-<td style="border:1px solid black;"><p>IASClientImport.bat</p></td>
+<td style="border:1px solid black;">[スクリプト] IAS RADIUS クライアント構成のインポート バッチ ファイル</td>
+<td style="border:1px solid black;">IASClientImport.bat</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>[構成] 構成バックアップ ファイルのパス</p></td>
-<td style="border:1px solid black;"><p>D:\IASConfig</p></td>
+<td style="border:1px solid black;">[構成] 構成バックアップ ファイルのパス</td>
+<td style="border:1px solid black;">D:\IASConfig</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>[要求ログ] IAS 認証および監査要求ログの場所</p></td>
-<td style="border:1px solid black;"><p>D:\IASLogs</p></td>
+<td style="border:1px solid black;">[要求ログ] IAS 認証および監査要求ログの場所</td>
+<td style="border:1px solid black;">D:\IASLogs</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>[要求ログ] RADIUS 要求ログの共有名</p></td>
-<td style="border:1px solid black;"><p>IASLogs</p></td>
+<td style="border:1px solid black;">[要求ログ] RADIUS 要求ログの共有名</td>
+<td style="border:1px solid black;">IASLogs</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>[リモート アクセス ポリシー] ポリシー名</p></td>
-<td style="border:1px solid black;"><p>Allow Wireless Access</p></td>
+<td style="border:1px solid black;">[リモート アクセス ポリシー] ポリシー名</td>
+<td style="border:1px solid black;">Allow Wireless Access</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>[グループ ポリシー] Microsoft Active Directory グループ ポリシー オブジェクト (GPO) 名</p></td>
-<td style="border:1px solid black;"><p>Wireless Network Policy</p></td>
+<td style="border:1px solid black;">[グループ ポリシー] Microsoft Active Directory グループ ポリシー オブジェクト (GPO) 名</td>
+<td style="border:1px solid black;">Wireless Network Policy</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>[グループ ポリシー] GPO 内のワイヤレス ネットワーク ポリシー</p></td>
-<td style="border:1px solid black;"><p>Client Computer Wireless Configuration</p></td>
+<td style="border:1px solid black;">[グループ ポリシー] GPO 内のワイヤレス ネットワーク ポリシー</td>
+<td style="border:1px solid black;">Client Computer Wireless Configuration</td>
 </tr>
 </tbody>
 </table>

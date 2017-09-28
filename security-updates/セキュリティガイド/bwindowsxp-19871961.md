@@ -356,7 +356,7 @@ Windows XP セキュリティ ガイド
 
 **表 B.1 バグの深刻度の分類**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -365,51 +365,51 @@ Windows XP セキュリティ ガイド
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>深刻度</p></th>
-<th><p>最も一般的な種類</p></th>
-<th><p>必要な条件</p></th>
+<th>深刻度</th>
+<th>最も一般的な種類</th>
+<th>必要な条件</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>1</p></td>
-<td style="border:1px solid black;"><p>- バグによって構築およびその後のテストが妨げられる。<br />
+<td style="border:1px solid black;">1</td>
+<td style="border:1px solid black;">- バグによって構築およびその後のテストが妨げられる。<br />
 - バグによって予測しなかったユーザー アクセスが発生する。<br />
 - 文書で定義されている手順が不明確である。<br />
 - 機能またはプロセスの結果または動作が、機能仕様に記述されている、予測される結果と矛盾している。<br />
-- セキュリティ テンプレート ファイルと機能仕様の間に大きな不一致がある。</p></td>
-<td style="border:1px solid black;"><p>- ソリューションが機能しない。<br />
+- セキュリティ テンプレート ファイルと機能仕様の間に大きな不一致がある。</td>
+<td style="border:1px solid black;">- ソリューションが機能しない。<br />
 - ユーザーがシステムの重要な部分の使用を開始できない。<br />
 - ユーザーに、本来許可されるべきではないアクセス権が付与される。<br />
 - 本来許可されるべき特定のサーバーへのユーザー アクセスがブロックされる。<br />
 – 予測される結果が得られない。<br />
-– 問題を解決しないとテストを継続できない。</p></td>
+– 問題を解決しないとテストを継続できない。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>- ガイドで定義されている手順が不明確である。<br />
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">- ガイドで定義されている手順が不明確である。<br />
 – 記載されている機能がない (この場合、テストは中断される)。<br />
 – 記載がないか、不適切である。<br />
-– セキュリティ テンプレート ファイルとこのガイドの内容との間に不整合があるが、セキュリティ テンプレート ファイルと機能仕様の内容は整合している。</p></td>
-<td style="border:1px solid black;"><p>– ユーザーが簡単な回避策で状況を改善できない。<br />
+– セキュリティ テンプレート ファイルとこのガイドの内容との間に不整合があるが、セキュリティ テンプレート ファイルと機能仕様の内容は整合している。</td>
+<td style="border:1px solid black;">– ユーザーが簡単な回避策で状況を改善できない。<br />
 – ユーザーがすぐに回避策を思い付くことができない。<br />
-– システムで主要なビジネス要件を満たせない。</p></td>
+– システムで主要なビジネス要件を満たせない。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>3</p></td>
-<td style="border:1px solid black;"><p>– 文書の書式の問題。<br />
+<td style="border:1px solid black;">3</td>
+<td style="border:1px solid black;">– 文書の書式の問題。<br />
 – 文書内に小さな誤りや不正確な箇所がある。<br />
-– 文書内に誤字、脱字がある。</p></td>
-<td style="border:1px solid black;"><p>– ユーザーが簡単な回避策で状況を改善できる。<br />
+– 文書内に誤字、脱字がある。</td>
+<td style="border:1px solid black;">– ユーザーが簡単な回避策で状況を改善できる。<br />
 – ユーザーがすぐに回避策を思い付くことができる。<br />
 – バグによってユーザーの操作性が損なわれることがない。<br />
-– 主要なビジネス要件が機能している。</p></td>
+– 主要なビジネス要件が機能している。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>4</p></td>
-<td style="border:1px solid black;"><p>– 推奨事項である。<br />
-– 今後改善の必要がある機能が存在する。</p></td>
-<td style="border:1px solid black;"><p>– 明らかに現在のバージョンに関係がない。</p></td>
+<td style="border:1px solid black;">4</td>
+<td style="border:1px solid black;">– 推奨事項である。<br />
+– 今後改善の必要がある機能が存在する。</td>
+<td style="border:1px solid black;">– 明らかに現在のバージョンに関係がない。</td>
 </tr>
 </tbody>
 </table>

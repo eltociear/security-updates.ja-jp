@@ -84,7 +84,7 @@ Microsoft は、ラップトップ コンピュータのセキュリティ問題
 
 このガイドでは、次の表に示す表記規則が使用されます。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -92,28 +92,28 @@ Microsoft は、ラップトップ コンピュータのセキュリティ問題
 </colgroup>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>太字フォント</strong></p></td>
-<td style="border:1px solid black;"><p>コマンド、スイッチ、ファイル名など、そのまま入力する文字を示します。ユーザー インターフェイスも太字で表記されます。</p></td>
+<td style="border:1px solid black;"><strong>太字フォント</strong></td>
+<td style="border:1px solid black;">コマンド、スイッチ、ファイル名など、そのまま入力する文字を示します。ユーザー インターフェイスも太字で表記されます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>斜体フォント</em></p></td>
-<td style="border:1px solid black;"><p><em>斜体</em></p></td>
+<td style="border:1px solid black;"><em>斜体フォント</em></td>
+<td style="border:1px solid black;"><em>斜体</em></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>&lt;斜体&gt;</em></p></td>
-<td style="border:1px solid black;"><p>斜体と山かっこで示されるプレースホルダ (<em>&lt;filename&gt;</em> など) は変数を表します。</p></td>
+<td style="border:1px solid black;"><em>&lt;斜体&gt;</em></td>
+<td style="border:1px solid black;">斜体と山かっこで示されるプレースホルダ (<em>&lt;filename&gt;</em> など) は変数を表します。</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><pre><code>Monospace フォント</code></pre></td>
-<td style="border:1px solid black;"><p>コードとスクリプトのサンプルを示します。</p></td>
+<td style="border:1px solid black;">コードとスクリプトのサンプルを示します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>注</strong></p></td>
-<td style="border:1px solid black;"><p>読者に補足情報を示します。</p></td>
+<td style="border:1px solid black;"><strong>注</strong></td>
+<td style="border:1px solid black;">読者に補足情報を示します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>重要</strong></p></td>
-<td style="border:1px solid black;"><p>読者に重要な補足情報を示します。</p></td>
+<td style="border:1px solid black;"><strong>重要</strong></td>
+<td style="border:1px solid black;">読者に重要な補足情報を示します。</td>
 </tr>
 </tbody>
 </table>

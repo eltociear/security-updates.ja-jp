@@ -190,7 +190,7 @@ Office 2003 の設定を構成する GPO には、Windows XP に付属してい�
 
 **表 2.1 パスワード ポリシーの推奨設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -200,48 +200,48 @@ Office 2003 の設定を構成する GPO には、Windows XP に付属してい�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>設定</p></th>
-<th><p>ドメイン コントローラの既定の設定</p></th>
-<th><p>EC</p></th>
-<th><p>SSLF</p></th>
+<th>設定</th>
+<th>ドメイン コントローラの既定の設定</th>
+<th>EC</th>
+<th>SSLF</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>パスワードの履歴を記録する</p></td>
-<td style="border:1px solid black;"><p>24 パスワード数</p></td>
-<td style="border:1px solid black;"><p>24 パスワード数</p></td>
-<td style="border:1px solid black;"><p>24 パスワード数</p></td>
+<td style="border:1px solid black;">パスワードの履歴を記録する</td>
+<td style="border:1px solid black;">24 パスワード数</td>
+<td style="border:1px solid black;">24 パスワード数</td>
+<td style="border:1px solid black;">24 パスワード数</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>パスワードの有効期間</p></td>
-<td style="border:1px solid black;"><p>42 日間</p></td>
-<td style="border:1px solid black;"><p>90 日間</p></td>
-<td style="border:1px solid black;"><p>90 日間</p></td>
+<td style="border:1px solid black;">パスワードの有効期間</td>
+<td style="border:1px solid black;">42 日間</td>
+<td style="border:1px solid black;">90 日間</td>
+<td style="border:1px solid black;">90 日間</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>パスワードの変更禁止期間</p></td>
-<td style="border:1px solid black;"><p>1 日</p></td>
-<td style="border:1px solid black;"><p>1 日</p></td>
-<td style="border:1px solid black;"><p>1 日</p></td>
+<td style="border:1px solid black;">パスワードの変更禁止期間</td>
+<td style="border:1px solid black;">1 日</td>
+<td style="border:1px solid black;">1 日</td>
+<td style="border:1px solid black;">1 日</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>最小パスワード長</p></td>
-<td style="border:1px solid black;"><p>7 文字以上</p></td>
-<td style="border:1px solid black;"><p>8 文字以上</p></td>
-<td style="border:1px solid black;"><p>12 文字以上</p></td>
+<td style="border:1px solid black;">最小パスワード長</td>
+<td style="border:1px solid black;">7 文字以上</td>
+<td style="border:1px solid black;">8 文字以上</td>
+<td style="border:1px solid black;">12 文字以上</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>パスワードは、複雑さの要件を満たす必要がある</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">パスワードは、複雑さの要件を満たす必要がある</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>暗号化を元に戻せる状態でパスワードを保存する</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">暗号化を元に戻せる状態でパスワードを保存する</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -316,7 +316,7 @@ EC 環境では、\[最小パスワード長\] の値を \[8 文字以上\] に�
   
 **表 2.2 アカウント ロックアウト ポリシーの推奨設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -326,30 +326,30 @@ EC 環境では、\[最小パスワード長\] の値を \[8 文字以上\] に�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>設定</p></th>
-<th><p>ドメイン コントローラの既定の設定</p></th>
-<th><p>EC</p></th>
-<th><p>SSLF</p></th>
+<th>設定</th>
+<th>ドメイン コントローラの既定の設定</th>
+<th>EC</th>
+<th>SSLF</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ロックアウト期間</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>15 分</p></td>
-<td style="border:1px solid black;"><p>15 分</p></td>
+<td style="border:1px solid black;">ロックアウト期間</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">15 分</td>
+<td style="border:1px solid black;">15 分</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>アカウントのロックアウトのしきい値</p></td>
-<td style="border:1px solid black;"><p>0 回ログオンに失敗</p></td>
-<td style="border:1px solid black;"><p>50 回ログオンに失敗</p></td>
-<td style="border:1px solid black;"><p>10 回ログオンに失敗</p></td>
+<td style="border:1px solid black;">アカウントのロックアウトのしきい値</td>
+<td style="border:1px solid black;">0 回ログオンに失敗</td>
+<td style="border:1px solid black;">50 回ログオンに失敗</td>
+<td style="border:1px solid black;">10 回ログオンに失敗</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ロックアウト カウンタのリセット</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>15 分</p></td>
-<td style="border:1px solid black;"><p>15 分</p></td>
+<td style="border:1px solid black;">ロックアウト カウンタのリセット</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">15 分</td>
+<td style="border:1px solid black;">15 分</td>
 </tr>
 </tbody>
 </table>
@@ -400,7 +400,7 @@ EC 環境では、\[最小パスワード長\] の値を \[8 文字以上\] に�
   
 **表 2.3 ユーザー権利の割り当ての推奨設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -410,18 +410,18 @@ EC 環境では、\[最小パスワード長\] の値を \[8 文字以上\] に�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>設定</p></th>
-<th><p>ドメイン コントローラの既定の設定</p></th>
-<th><p>EC</p></th>
-<th><p>SSLF</p></th>
+<th>設定</th>
+<th>ドメイン コントローラの既定の設定</th>
+<th>EC</th>
+<th>SSLF</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ドメインにワークステーションを追加</p></td>
-<td style="border:1px solid black;"><p>Authenticated Users</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
+<td style="border:1px solid black;">ドメインにワークステーションを追加</td>
+<td style="border:1px solid black;">Authenticated Users</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">Administrators</td>
 </tr>
 </tbody>
 </table>
@@ -448,7 +448,7 @@ Active Directory ドメインでは、各コンピュータ アカウントは�
   
 **表 2.4 セキュリティ オプションの推奨設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -458,30 +458,30 @@ Active Directory ドメインでは、各コンピュータ アカウントは�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>設定</p></th>
-<th><p>ドメイン コントローラの既定の設定</p></th>
-<th><p>EC</p></th>
-<th><p>SSLF</p></th>
+<th>設定</th>
+<th>ドメイン コントローラの既定の設定</th>
+<th>EC</th>
+<th>SSLF</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Microsoft ネットワーク サーバー:ログオン時間の有効期間が切れるとクライアントを切断する</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">Microsoft ネットワーク サーバー:ログオン時間の有効期間が切れるとクライアントを切断する</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ネットワーク アクセス:匿名の SID と名前の変換を許可する</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">ネットワーク アクセス:匿名の SID と名前の変換を許可する</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ネットワーク セキュリティ:ログオン時間を経過した場合はユーザーを強制的にログオフさせる</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">ネットワーク セキュリティ:ログオン時間を経過した場合はユーザーを強制的にログオフさせる</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>

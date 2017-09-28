@@ -262,7 +262,7 @@ IP トランスポートの場合、一般的にサイト リンクは 2 つの�
 
 下表は、さまざまな種類のネットワーク速度を示しています。このネットワーク速度を参考に、コストを見積もることができます
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -270,45 +270,45 @@ IP トランスポートの場合、一般的にサイト リンクは 2 つの�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>ネットワークの種類</p></th>
-<th><p>速度</p></th>
+<th>ネットワークの種類</th>
+<th>速度</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>低速 (通常、欧州で利用)</p></td>
-<td style="border:1px solid black;"><p>64 Kbps</p></td>
+<td style="border:1px solid black;">低速 (通常、欧州で利用)</td>
+<td style="border:1px solid black;">64 Kbps</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ISDN</p></td>
-<td style="border:1px solid black;"><p>64 Kbps または 128 Kbps</p></td>
+<td style="border:1px solid black;">ISDN</td>
+<td style="border:1px solid black;">64 Kbps または 128 Kbps</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>フレーム リレー</p></td>
-<td style="border:1px solid black;"><p>通常、56 Kbps ～ 1.5 Mbps 間で変化</p></td>
+<td style="border:1px solid black;">フレーム リレー</td>
+<td style="border:1px solid black;">通常、56 Kbps ～ 1.5 Mbps 間で変化</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>T1</p></td>
-<td style="border:1px solid black;"><p>1.5 Mbps</p></td>
+<td style="border:1px solid black;">T1</td>
+<td style="border:1px solid black;">1.5 Mbps</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>T3</p></td>
-<td style="border:1px solid black;"><p>45 Mbps</p></td>
+<td style="border:1px solid black;">T3</td>
+<td style="border:1px solid black;">45 Mbps</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>非同期転送モード (ATM)</p></td>
-<td style="border:1px solid black;"><p>通常、155 Mbps ～ 622 Mbps 間で変化</p></td>
+<td style="border:1px solid black;">非同期転送モード (ATM)</td>
+<td style="border:1px solid black;">通常、155 Mbps ～ 622 Mbps 間で変化</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ギガビット イーサネット</p></td>
-<td style="border:1px solid black;"><p>1 Gbps</p></td>
+<td style="border:1px solid black;">ギガビット イーサネット</td>
+<td style="border:1px solid black;">1 Gbps</td>
 </tr>
 </tbody>
 </table>
   
 任意のコストを割り当てる前に、WAN のモデルを定義します。コストに加え、それ以外のファクタ (可用性と複製の待ち時間) を基準に、フォレスト全体で実行できる一連のコストを確立します。この場合、コストを割り当てることで、同じコストが割り当てられた別の場所にも同じ内容が常に適用されることになります。下表は、フォレスト内のネットワークごとにコストを分類した一例を示しています。この場合、高速なネットワークが低コストになります。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -316,26 +316,26 @@ IP トランスポートの場合、一般的にサイト リンクは 2 つの�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>ネットワークの種類</p></th>
-<th><p>コスト値</p></th>
+<th>ネットワークの種類</th>
+<th>コスト値</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>バックボーン接続の T1</p></td>
-<td style="border:1px solid black;"><p>1</p></td>
+<td style="border:1px solid black;">バックボーン接続の T1</td>
+<td style="border:1px solid black;">1</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>56 キロビット リンク</p></td>
-<td style="border:1px solid black;"><p>500</p></td>
+<td style="border:1px solid black;">56 キロビット リンク</td>
+<td style="border:1px solid black;">500</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>支社</p></td>
-<td style="border:1px solid black;"><p>1,000</p></td>
+<td style="border:1px solid black;">支社</td>
+<td style="border:1px solid black;">1,000</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>国際的なリンク</p></td>
-<td style="border:1px solid black;"><p>5,000</p></td>
+<td style="border:1px solid black;">国際的なリンク</td>
+<td style="border:1px solid black;">5,000</td>
 </tr>
 </tbody>
 </table>
@@ -452,7 +452,7 @@ IP ネットワークが完全にルートされていない場合、(IP トラ�
   
 サイト A とサイト B がサイト リンク AB を所有し、サイト B とサイト C がサイト リンク BC を所有する場合について考えます。サイト A のドメイン コントローラを、サイト C のドメイン コントローラに複製するときは、サイト リンク AB とサイト リンク BC に許可された最大の間隔でのみ複製が発生します。下表は、サイト A、サイト B、およびサイト C のドメイン コントローラ間で複製を発生する頻度と期間を決定するサイト リンク設定を示しています。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -461,21 +461,21 @@ IP ネットワークが完全にルートされていない場合、(IP トラ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>サイト リンク</p></th>
-<th><p>複製間隔</p></th>
-<th><p>スケジュール</p></th>
+<th>サイト リンク</th>
+<th>複製間隔</th>
+<th>スケジュール</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>AB</p></td>
-<td style="border:1px solid black;"><p>30 分</p></td>
-<td style="border:1px solid black;"><p>午後 12 時から午前 4 時</p></td>
+<td style="border:1px solid black;">AB</td>
+<td style="border:1px solid black;">30 分</td>
+<td style="border:1px solid black;">午後 12 時から午前 4 時</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>BC</p></td>
-<td style="border:1px solid black;"><p>60 分</p></td>
-<td style="border:1px solid black;"><p>午前 1 時から 5 時</p></td>
+<td style="border:1px solid black;">BC</td>
+<td style="border:1px solid black;">60 分</td>
+<td style="border:1px solid black;">午前 1 時から 5 時</td>
 </tr>
 </tbody>
 </table>

@@ -168,61 +168,61 @@ Exchange Server を SecureNAT クライアントとして構成することを�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>プロトコル</p></th>
-<th><p>定義済みカスタム</p></th>
-<th><p>IP プロトコル</p></th>
-<th><p>プロトコル番号</p></th>
-<th><p>方向</p></th>
-<th><p>ローカルポート</p></th>
-<th><p>ローカルポート番号</p></th>
-<th><p>リモートポート</p></th>
-<th><p>リモートポート番号</p></th>
+<th>プロトコル</th>
+<th>定義済みカスタム</th>
+<th>IP プロトコル</th>
+<th>プロトコル番号</th>
+<th>方向</th>
+<th>ローカルポート</th>
+<th>ローカルポート番号</th>
+<th>リモートポート</th>
+<th>リモートポート番号</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>IMAP (受信)</p></td>
-<td style="border:1px solid black;"><p>カスタム</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>6</p></td>
-<td style="border:1px solid black;"><p>着信</p></td>
-<td style="border:1px solid black;"><p>固定</p></td>
-<td style="border:1px solid black;"><p>143</p></td>
-<td style="border:1px solid black;"><p>すべてのポート</p></td>
-<td style="border:1px solid black;"><p>N/A</p></td>
+<td style="border:1px solid black;">IMAP (受信)</td>
+<td style="border:1px solid black;">カスタム</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">6</td>
+<td style="border:1px solid black;">着信</td>
+<td style="border:1px solid black;">固定</td>
+<td style="border:1px solid black;">143</td>
+<td style="border:1px solid black;">すべてのポート</td>
+<td style="border:1px solid black;">N/A</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>POP3 (受信)</p></td>
-<td style="border:1px solid black;"><p>カスタム</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>6</p></td>
-<td style="border:1px solid black;"><p>着信</p></td>
-<td style="border:1px solid black;"><p>固定</p></td>
-<td style="border:1px solid black;"><p>110</p></td>
-<td style="border:1px solid black;"><p>すべてのポート</p></td>
-<td style="border:1px solid black;"><p>N/A</p></td>
+<td style="border:1px solid black;">POP3 (受信)</td>
+<td style="border:1px solid black;">カスタム</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">6</td>
+<td style="border:1px solid black;">着信</td>
+<td style="border:1px solid black;">固定</td>
+<td style="border:1px solid black;">110</td>
+<td style="border:1px solid black;">すべてのポート</td>
+<td style="border:1px solid black;">N/A</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>SMTP (受信)</p></td>
-<td style="border:1px solid black;"><p>カスタム</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>6</p></td>
-<td style="border:1px solid black;"><p>着信</p></td>
-<td style="border:1px solid black;"><p>固定</p></td>
-<td style="border:1px solid black;"><p>25</p></td>
-<td style="border:1px solid black;"><p>すべてのポート</p></td>
-<td style="border:1px solid black;"><p>N/A</p></td>
+<td style="border:1px solid black;">SMTP (受信)</td>
+<td style="border:1px solid black;">カスタム</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">6</td>
+<td style="border:1px solid black;">着信</td>
+<td style="border:1px solid black;">固定</td>
+<td style="border:1px solid black;">25</td>
+<td style="border:1px solid black;">すべてのポート</td>
+<td style="border:1px solid black;">N/A</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>SMTP (送信)</p></td>
-<td style="border:1px solid black;"><p>カスタム</p></td>
-<td style="border:1px solid black;"><p>TCP</p></td>
-<td style="border:1px solid black;"><p>6</p></td>
-<td style="border:1px solid black;"><p>着信</p></td>
-<td style="border:1px solid black;"><p>すべてのポート</p></td>
-<td style="border:1px solid black;"><p>N/A</p></td>
-<td style="border:1px solid black;"><p>固定ポート</p></td>
-<td style="border:1px solid black;"><p>25</p></td>
+<td style="border:1px solid black;">SMTP (送信)</td>
+<td style="border:1px solid black;">カスタム</td>
+<td style="border:1px solid black;">TCP</td>
+<td style="border:1px solid black;">6</td>
+<td style="border:1px solid black;">着信</td>
+<td style="border:1px solid black;">すべてのポート</td>
+<td style="border:1px solid black;">N/A</td>
+<td style="border:1px solid black;">固定ポート</td>
+<td style="border:1px solid black;">25</td>
 </tr>
 </tbody>
 </table>

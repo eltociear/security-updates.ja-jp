@@ -46,7 +46,7 @@ Contoso では、ニコラスという勤勉な若手アナリストが家に良
 
 この件にまつわる費用について、次の表にまとめました。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -60,28 +60,28 @@ Contoso では、ニコラスという勤勉な若手アナリストが家に良
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>紛失にまつわる人件費 (データの復元およびお客様への通知の費用)</p></td>
-<td style="border:1px solid black;"><p>$45,000</p></td>
+<td style="border:1px solid black;">紛失にまつわる人件費 (データの復元およびお客様への通知の費用)</td>
+<td style="border:1px solid black;">$45,000</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>追加費用 (一般 および投資家向け広報活動、また追加したコール センターの電話料金など)</p></td>
-<td style="border:1px solid black;"><p>$135,000</p></td>
+<td style="border:1px solid black;">追加費用 (一般 および投資家向け広報活動、また追加したコール センターの電話料金など)</td>
+<td style="border:1px solid black;">$135,000</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>影響を受けるお客様に関する費用 (影響を受けるお客様のクレジット監視サービス)</p></td>
-<td style="border:1px solid black;"><p>$80,000</p></td>
+<td style="border:1px solid black;">影響を受けるお客様に関する費用 (影響を受けるお客様のクレジット監視サービス)</td>
+<td style="border:1px solid black;">$80,000</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>法的損害費用 (罰金、弁護料および民事訴訟に関連した費用)</p></td>
-<td style="border:1px solid black;"><p>$165,000</p></td>
+<td style="border:1px solid black;">法的損害費用 (罰金、弁護料および民事訴訟に関連した費用)</td>
+<td style="border:1px solid black;">$165,000</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>顧客による収益の損失 (失われた顧客 250 名 ― $700/ひとり)</p></td>
-<td style="border:1px solid black;"><p>$175,000</p></td>
+<td style="border:1px solid black;">顧客による収益の損失 (失われた顧客 250 名 ― $700/ひとり)</td>
+<td style="border:1px solid black;">$175,000</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>合計</p></td>
-<td style="border:1px solid black;"><p>$600,000</p></td>
+<td style="border:1px solid black;">合計</td>
+<td style="border:1px solid black;">$600,000</td>
 </tr>
 </tbody>
 </table>

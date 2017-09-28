@@ -15,7 +15,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 
 **監査のためのセキュリティ ターゲットの遵守マトリックス**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <tr>
 <th>
@@ -1233,7 +1233,7 @@ FTA\_TSE.1
 </td>
 </tr>
 </table>
-<p> </p>
+ 
 [](#mainsection)[ページのトップへ](#mainsection)
 
 ##### 目次

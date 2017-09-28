@@ -45,7 +45,7 @@ WSUS サーバーを含むコンピュータの更新プロセスを管理する
 
 2.  グループ ポリシー オブジェクト エディタの詳細ペインで、適切なポリシーを構成します。設定する可能性のあるポリシーの例については、次の表を参照してください。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -103,7 +103,7 @@ Windows サービスを中断せず、Windows を再起動もしない特定の�
 </td>
 </tr>
 </table>
-<p> </p>
+ 
 構成した新しいポリシーが有効になるまで数分かかります。グループ ポリシーの更新後、クライアント コンピュータに新しい設定が適用されるまで約 20 分かかります。既定では、コンピュータのグループ ポリシーは、0 ～ 30 分のランダムな時間のずれはありますが、バックグラウンドで 90 分ごとに更新されます。グループ ポリシーをもっと短い時間で更新する場合は、クライアント コンピュータのコマンド プロンプトで、「gpupdate /force」と入力します。
 
 グループ ポリシーの詳細については、[グループ ポリシー](http://go.microsoft.com/fwlink/?linkid=14232)についてのページ (http://go.microsoft.com/fwlink/?LinkID=14232) (英語情報) を参照してください。Active Directory および Active Directory 以外のネットワーク環境でクライアント コンピュータをセットアップおよび構成するオプションの詳細については、[Microsoft Windows Server Update Services 展開ガイド](http://www.microsoft.com/japan/technet/prodtechnol/windowsserver2003/library/wsus/wsusdeploymentguidetc/ace052df-74e7-4d6a-b5d4-f7911bb06b40.mspx) (http://www.microsoft.com/japan/technet/prodtechnol/windowsserver2003/library/wsus/wsusdeploymentguidetc/ace052df-74e7-4d6a-b5d4-f7911bb06b40.mspx) を参照してください。

@@ -13,7 +13,7 @@ RMS: Enrollment パフォーマンス オブジェクトに対して使用可能
 
 ###  
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -27,16 +27,16 @@ RMS: Enrollment パフォーマンス オブジェクトに対して使用可能
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>SubEnroll Failures</p></td>
-<td style="border:1px solid black;"><p>完全に処理されなかったサブ登録要求の総数</p></td>
+<td style="border:1px solid black;">SubEnroll Failures</td>
+<td style="border:1px solid black;">完全に処理されなかったサブ登録要求の総数</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>SubEnroll Processing Time</p></td>
-<td style="border:1px solid black;"><p>サブ登録要求 1 件あたりの平均処理時間 (マイクロ秒単位)</p></td>
+<td style="border:1px solid black;">SubEnroll Processing Time</td>
+<td style="border:1px solid black;">サブ登録要求 1 件あたりの平均処理時間 (マイクロ秒単位)</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>SubEnroll Requests</p></td>
-<td style="border:1px solid black;"><p>登録サービスが受け取ったサブ登録要求の総数</p></td>
+<td style="border:1px solid black;">SubEnroll Requests</td>
+<td style="border:1px solid black;">登録サービスが受け取ったサブ登録要求の総数</td>
 </tr>
 </tbody>
 </table>

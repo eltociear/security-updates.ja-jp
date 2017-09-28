@@ -239,7 +239,7 @@ SCE をインストールした場合、一組のテンプレートが既定で 
 
 **表 4.1: Windows NT SCE ツールセットに同梱されている定義済みテンプレート**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -248,56 +248,56 @@ SCE をインストールした場合、一組のテンプレートが既定で 
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>目的</p></th>
-<th><p>セキュリティ対象</p></th>
-<th><p>使用ファイル</p></th>
+<th>目的</th>
+<th>セキュリティ対象</th>
+<th>使用ファイル</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>基本的なセキュリティ</p></td>
-<td style="border:1px solid black;"><p>プライマリ/バックアップ ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>BasicDC4.inf</p></td>
+<td style="border:1px solid black;">基本的なセキュリティ</td>
+<td style="border:1px solid black;">プライマリ/バックアップ ドメイン コントローラ</td>
+<td style="border:1px solid black;">BasicDC4.inf</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"> </td>
-<td style="border:1px solid black;"><p>メンバ サーバー</p></td>
-<td style="border:1px solid black;"><p>BasicSv4.inf</p></td>
+<td style="border:1px solid black;">メンバ サーバー</td>
+<td style="border:1px solid black;">BasicSv4.inf</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"> </td>
-<td style="border:1px solid black;"><p>ワークステーション</p></td>
-<td style="border:1px solid black;"><p>BasicWk4.inf</p></td>
+<td style="border:1px solid black;">ワークステーション</td>
+<td style="border:1px solid black;">BasicWk4.inf</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>セキュリティの向上とアプリケーションの完全な互換性</p></td>
-<td style="border:1px solid black;"><p>プライマリ/バックアップ ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>CompDC4.inf</p></td>
+<td style="border:1px solid black;">セキュリティの向上とアプリケーションの完全な互換性</td>
+<td style="border:1px solid black;">プライマリ/バックアップ ドメイン コントローラ</td>
+<td style="border:1px solid black;">CompDC4.inf</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"> </td>
-<td style="border:1px solid black;"><p>メンバ サーバー</p></td>
-<td style="border:1px solid black;"><p>CompDC4.inf</p></td>
-</tr>
-<tr class="even">
-<td style="border:1px solid black;"> </td>
-<td style="border:1px solid black;"><p>ワークステーション</p></td>
-<td style="border:1px solid black;"><p>CompWS4.inf</p></td>
-</tr>
-<tr class="odd">
-<td style="border:1px solid black;"><p>高いセキュリティとアプリケーションの互換性の縮小</p></td>
-<td style="border:1px solid black;"><p>メンバ サーバーまたはドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>HiSecDC4.inf</p></td>
+<td style="border:1px solid black;">メンバ サーバー</td>
+<td style="border:1px solid black;">CompDC4.inf</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"> </td>
-<td style="border:1px solid black;"><p>ワークステーション</p></td>
-<td style="border:1px solid black;"><p>HiSecWS4.inf</p></td>
+<td style="border:1px solid black;">ワークステーション</td>
+<td style="border:1px solid black;">CompWS4.inf</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>高いセキュリティと Windows 98 との互換性の縮小</p></td>
-<td style="border:1px solid black;"><p>メンバ サーバーまたはドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>SecurDC4.inf</p></td>
+<td style="border:1px solid black;">高いセキュリティとアプリケーションの互換性の縮小</td>
+<td style="border:1px solid black;">メンバ サーバーまたはドメイン コントローラ</td>
+<td style="border:1px solid black;">HiSecDC4.inf</td>
+</tr>
+<tr class="even">
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;">ワークステーション</td>
+<td style="border:1px solid black;">HiSecWS4.inf</td>
+</tr>
+<tr class="odd">
+<td style="border:1px solid black;">高いセキュリティと Windows 98 との互換性の縮小</td>
+<td style="border:1px solid black;">メンバ サーバーまたはドメイン コントローラ</td>
+<td style="border:1px solid black;">SecurDC4.inf</td>
 </tr>
 </tbody>
 </table>
@@ -1044,7 +1044,7 @@ Trey シナリオの実装が完了したら、実装を検証して要件を満
   
 **表 4.2: 検証テスト**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -1053,93 +1053,93 @@ Trey シナリオの実装が完了したら、実装を検証して要件を満
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>内容</p></th>
-<th><p>テスト手順</p></th>
-<th><p>予想される結果</p></th>
+<th>内容</th>
+<th>テスト手順</th>
+<th>予想される結果</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Internet Explorer 6 SP1 のインストールの検証</p></td>
-<td style="border:1px solid black;"><p>Internet Explorer を起動し、 <strong>[ヘルプ]</strong> メニューの <strong>[バージョン情報]</strong> をクリックします。</p></td>
-<td style="border:1px solid black;"><p>バージョン情報に &quot;6.0.2800.xxxx&quot; と表示されます。</p></td>
+<td style="border:1px solid black;">Internet Explorer 6 SP1 のインストールの検証</td>
+<td style="border:1px solid black;">Internet Explorer を起動し、 <strong>[ヘルプ]</strong> メニューの <strong>[バージョン情報]</strong> をクリックします。</td>
+<td style="border:1px solid black;">バージョン情報に &quot;6.0.2800.xxxx&quot; と表示されます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Windows NT 4.0 (SP6a) のインストールの検証</p></td>
-<td style="border:1px solid black;"><p>[管理ツール] の [Windows NT 診断プログラム] アプレットを実行して、<strong>[バージョン]</strong> タブをクリックします。</p></td>
-<td style="border:1px solid black;"><p>バージョン情報に &quot;SP6a&quot; と表示されます。</p></td>
+<td style="border:1px solid black;">Windows NT 4.0 (SP6a) のインストールの検証</td>
+<td style="border:1px solid black;">[管理ツール] の [Windows NT 診断プログラム] アプレットを実行して、<strong>[バージョン]</strong> タブをクリックします。</td>
+<td style="border:1px solid black;">バージョン情報に &quot;SP6a&quot; と表示されます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>起動シーケンスの検証</p></td>
-<td style="border:1px solid black;"><p><em>モード 1 の場合</em> (Trey のほとんどのサーバーおよびそのワークステーションすべてで、[ローカルにスタートアップ キーを保存する] を選択)</p>
-<p>起動時にキーの暗号化が解除されて読み込まれ、そのコンピュータは管理者が操作しなくても再起動できるようになります。</p>
-<p><em>モード 2 の場合</em> (高付加価値サーバーで、<strong>[パスワード スタートアップ]</strong>、および関連するテキスト フィールドを使用)</p>
-<p>起動処理を完了するには、起動時に管理者がコンソールにパスワードを入力する必要があります。</p></td>
-<td style="border:1px solid black;"><p>クライアントが正常にログオンできます。</p></td>
+<td style="border:1px solid black;">起動シーケンスの検証</td>
+<td style="border:1px solid black;"><em>モード 1 の場合</em> (Trey のほとんどのサーバーおよびそのワークステーションすべてで、[ローカルにスタートアップ キーを保存する] を選択)
+起動時にキーの暗号化が解除されて読み込まれ、そのコンピュータは管理者が操作しなくても再起動できるようになります。
+<em>モード 2 の場合</em> (高付加価値サーバーで、<strong>[パスワード スタートアップ]</strong>、および関連するテキスト フィールドを使用)
+起動処理を完了するには、起動時に管理者がコンソールにパスワードを入力する必要があります。</td>
+<td style="border:1px solid black;">クライアントが正常にログオンできます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>DSClient が正常にインストールされていることの検証</p></td>
-<td style="border:1px solid black;"><p><strong>[スタート]</strong> メニューの <strong>[検索]</strong> をクリックして、<strong>[人]</strong> をクリックします。</p></td>
-<td style="border:1px solid black;"><p>Active Directory を検索する機能があれば、DSClient は正常にインストールされています。</p></td>
+<td style="border:1px solid black;">DSClient が正常にインストールされていることの検証</td>
+<td style="border:1px solid black;"><strong>[スタート]</strong> メニューの <strong>[検索]</strong> をクリックして、<strong>[人]</strong> をクリックします。</td>
+<td style="border:1px solid black;">Active Directory を検索する機能があれば、DSClient は正常にインストールされています。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>システム ポリシーの検証</p></td>
-<td style="border:1px solid black;"><p>システム ポリシーで制限されているリソースにアクセスしてみます。</p>
-<p>システム ポリシーの場所を再確認してください。通常は、C:\Winnt\system32\repl\import\scripts フォルダです。</p></td>
-<td style="border:1px solid black;"><p>禁止されているリソースにアクセスできません。</p>
-<p>システム ポリシーが、所定の場所で使用可能になっています。</p></td>
+<td style="border:1px solid black;">システム ポリシーの検証</td>
+<td style="border:1px solid black;">システム ポリシーで制限されているリソースにアクセスしてみます。
+システム ポリシーの場所を再確認してください。通常は、C:\Winnt\system32\repl\import\scripts フォルダです。</td>
+<td style="border:1px solid black;">禁止されているリソースにアクセスできません。
+システム ポリシーが、所定の場所で使用可能になっています。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>NTLMv2 認証の検証</p></td>
-<td style="border:1px solid black;"><p>NTLMv2 認証が要求されるようにドメイン コントローラを設定します。</p></td>
-<td style="border:1px solid black;"><p>クライアントが正常にログオンできます。</p></td>
+<td style="border:1px solid black;">NTLMv2 認証の検証</td>
+<td style="border:1px solid black;">NTLMv2 認証が要求されるようにドメイン コントローラを設定します。</td>
+<td style="border:1px solid black;">クライアントが正常にログオンできます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>セキュリティ構成マネージャの検証</p></td>
-<td style="border:1px solid black;"><p>セキュリティ テンプレートを構築して、ドメイン内の 1 台以上のコンピュータに自動的に適用されるようにします。</p>
-<p>%winnt%\security\templates フォルダにあるテンプレートのセットを確認します。</p></td>
-<td style="border:1px solid black;"><p>メンバ サーバーおよびワークステーションをセキュリティ保護できます。</p>
-<p>テンプレートは、所定の場所で使用可能になっています。</p></td>
+<td style="border:1px solid black;">セキュリティ構成マネージャの検証</td>
+<td style="border:1px solid black;">セキュリティ テンプレートを構築して、ドメイン内の 1 台以上のコンピュータに自動的に適用されるようにします。
+%winnt%\security\templates フォルダにあるテンプレートのセットを確認します。</td>
+<td style="border:1px solid black;">メンバ サーバーおよびワークステーションをセキュリティ保護できます。
+テンプレートは、所定の場所で使用可能になっています。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>長いファイル名の作成確認</p></td>
-<td style="border:1px solid black;"><p>8.3 形式よりも長い名前を持つ新しいファイルを作成します。</p></td>
-<td style="border:1px solid black;"><p>8.3 形式の名前のファイルにはアクセスできません。</p></td>
+<td style="border:1px solid black;">長いファイル名の作成確認</td>
+<td style="border:1px solid black;">8.3 形式よりも長い名前を持つ新しいファイルを作成します。</td>
+<td style="border:1px solid black;">8.3 形式の名前のファイルにはアクセスできません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>自動実行機能の検証</p></td>
-<td style="border:1px solid black;"><p>コンピュータのドライブに自動実行可能なディスクを挿入します。</p></td>
-<td style="border:1px solid black;"><p>コンピュータのドライブに自動実行可能なディスクが挿入されても、自動実行が動作しません。</p></td>
+<td style="border:1px solid black;">自動実行機能の検証</td>
+<td style="border:1px solid black;">コンピュータのドライブに自動実行可能なディスクを挿入します。</td>
+<td style="border:1px solid black;">コンピュータのドライブに自動実行可能なディスクが挿入されても、自動実行が動作しません。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>OS/2 サブシステムまたは POSIX サブシステムが動作しないことの検証</p></td>
-<td style="border:1px solid black;"><p>ユーザーがプロセスを開始してログオフし、その次にシステムにログオンしたユーザーが、前のユーザーのプロセスにアクセスすることができます。</p></td>
-<td style="border:1px solid black;"><p>OS/2 サブシステムまたは POSIX サブシステムに依存するアプリケーションが使用できません。</p></td>
+<td style="border:1px solid black;">OS/2 サブシステムまたは POSIX サブシステムが動作しないことの検証</td>
+<td style="border:1px solid black;">ユーザーがプロセスを開始してログオフし、その次にシステムにログオンしたユーザーが、前のユーザーのプロセスにアクセスすることができます。</td>
+<td style="border:1px solid black;">OS/2 サブシステムまたは POSIX サブシステムに依存するアプリケーションが使用できません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>オブジェクトの保護レベルの検証</p></td>
-<td style="border:1px solid black;"><p>さまざまな状況下で、悪意のあるユーザーがカーネル オブジェクトの属性を変更しようとします。</p></td>
-<td style="border:1px solid black;"><p>悪意のある呼び出し元が自分の権限を格上げすることをシステムが許可しません。</p></td>
+<td style="border:1px solid black;">オブジェクトの保護レベルの検証</td>
+<td style="border:1px solid black;">さまざまな状況下で、悪意のあるユーザーがカーネル オブジェクトの属性を変更しようとします。</td>
+<td style="border:1px solid black;">悪意のある呼び出し元が自分の権限を格上げすることをシステムが許可しません。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ユーザーによるプリンタ ドライバの追加の防止</p></td>
-<td style="border:1px solid black;"><p>悪意のあるユーザーが、プリンタ ドライバを追加して権限を格上げしようとします。</p></td>
-<td style="border:1px solid black;"><p>Printer Operators グループおよび Administrator グループのメンバが、新しいプリンタ ドライバを追加できます。</p></td>
+<td style="border:1px solid black;">ユーザーによるプリンタ ドライバの追加の防止</td>
+<td style="border:1px solid black;">悪意のあるユーザーが、プリンタ ドライバを追加して権限を格上げしようとします。</td>
+<td style="border:1px solid black;">Printer Operators グループおよび Administrator グループのメンバが、新しいプリンタ ドライバを追加できます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Administrator の自動ログオンが無効であることの検証</p></td>
-<td style="border:1px solid black;"><p>コンピュータの再起動時に、Administrator として自動ログオンしてみます。</p></td>
-<td style="border:1px solid black;"><p>Administrator の自動ログオンが無効になっています。</p></td>
+<td style="border:1px solid black;">Administrator の自動ログオンが無効であることの検証</td>
+<td style="border:1px solid black;">コンピュータの再起動時に、Administrator として自動ログオンしてみます。</td>
+<td style="border:1px solid black;">Administrator の自動ログオンが無効になっています。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>起動時のタイムアウトの検証</p></td>
-<td style="border:1px solid black;"><p>再起動して、起動時のタイムアウトを確認します。</p></td>
-<td style="border:1px solid black;"><p>起動時のタイムアウトは、30 から 0 に変更されています。</p></td>
+<td style="border:1px solid black;">起動時のタイムアウトの検証</td>
+<td style="border:1px solid black;">再起動して、起動時のタイムアウトを確認します。</td>
+<td style="border:1px solid black;">起動時のタイムアウトは、30 から 0 に変更されています。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>SCM のインストールの検証</p></td>
-<td style="border:1px solid black;"><p>クライアントで、<strong>[スタート]</strong> メニューの <strong>[ファイル名を指定して実行]</strong> をクリックし、「<strong>mmc</strong>」と入力して <strong>Enter</strong> キーを押します。</p></td>
-<td style="border:1px solid black;"><p>SCM の Microsoft 管理コンソールが使用可能になっています。</p></td>
+<td style="border:1px solid black;">SCM のインストールの検証</td>
+<td style="border:1px solid black;">クライアントで、<strong>[スタート]</strong> メニューの <strong>[ファイル名を指定して実行]</strong> をクリックし、「<strong>mmc</strong>」と入力して <strong>Enter</strong> キーを押します。</td>
+<td style="border:1px solid black;">SCM の Microsoft 管理コンソールが使用可能になっています。</td>
 </tr>
 </tbody>
 </table>

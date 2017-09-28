@@ -25,7 +25,7 @@ WSUS 環境のオプションのレジストリ エントリは、次のサブ�
 
 次の表に、キーと値の範囲を示します。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <tr>
 <th colspan="3">
@@ -125,7 +125,7 @@ Reg\_String
 </td>
 </tr>
 </table>
-<p> </p>
+ 
 ![](images/Cc708449.arrow_px_up(ja-jp,WS.10).gif) [ページのトップへ](#ctl00_rs1_eb1_panel1)
 
 ### 自動更新の構成オプション
@@ -136,7 +136,7 @@ Reg\_String
 
 次の表に、キーと値の範囲を示します。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <tr>
 <th colspan="3">
@@ -420,5 +420,5 @@ Reg\_DWORD
 </td>
 </tr>
 </table>
-<p> </p>
+ 
 ![](images/Cc708449.arrow_px_up(ja-jp,WS.10).gif) [ページのトップへ](#ctl00_rs1_eb1_panel1)

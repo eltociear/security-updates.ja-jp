@@ -35,7 +35,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362920(v=TechNet.10)'
 
 脅威モデルの詳細については、関連資料を見ていただくとして、簡易的に脅威モデルを作る方法として、各機能単位や外部から操作できる部分 (エントリーポイント) 毎に、STRIDE モデルに従った脅威の可能性を割り当てていきます。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -43,40 +43,40 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362920(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>脅威</p></th>
-<th><p>説明</p></th>
+<th>脅威</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>なりすまし<br />
-(Spoofing identity)</p></td>
-<td style="border:1px solid black;"><p>不正にアクセス権を取得して、別のユーザーの認証情報 （ユーザー名とパスワードなど） を使用すること。</p></td>
+<td style="border:1px solid black;">なりすまし<br />
+(Spoofing identity)</td>
+<td style="border:1px solid black;">不正にアクセス権を取得して、別のユーザーの認証情報 （ユーザー名とパスワードなど） を使用すること。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>データの改ざん<br />
-(Tampering with data)</p></td>
-<td style="border:1px solid black;"><p>データに悪意のある変更を行うこと。</p></td>
+<td style="border:1px solid black;">データの改ざん<br />
+(Tampering with data)</td>
+<td style="border:1px solid black;">データに悪意のある変更を行うこと。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>否認<br />
-(Repudiation)</p></td>
-<td style="border:1px solid black;"><p>ユーザーがある操作を実行することを拒否されることで、そのことを他人に証明する手段がない状態のこと。&quot;否認防止&quot; は、否認の脅威に対抗するシステムの能力を指します (小包を受け取ったときに署名するようなことで、小包の受け取り手はこれを証拠として使用できます)。</p></td>
+<td style="border:1px solid black;">否認<br />
+(Repudiation)</td>
+<td style="border:1px solid black;">ユーザーがある操作を実行することを拒否されることで、そのことを他人に証明する手段がない状態のこと。&quot;否認防止&quot; は、否認の脅威に対抗するシステムの能力を指します (小包を受け取ったときに署名するようなことで、小包の受け取り手はこれを証拠として使用できます)。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>情報漏洩<br />
-(Information disclosure)</p></td>
-<td style="border:1px solid black;"><p>情報へのアクセス権を持たない個人に情報が公開されること。たとえば、適切な権利なしにファイルにアクセスすること。</p></td>
+<td style="border:1px solid black;">情報漏洩<br />
+(Information disclosure)</td>
+<td style="border:1px solid black;">情報へのアクセス権を持たない個人に情報が公開されること。たとえば、適切な権利なしにファイルにアクセスすること。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>サービス拒否<br />
-(Denial of service)</p></td>
-<td style="border:1px solid black;"><p>正当なユーザーがサービスやシステムを使用できないようにする、意図的な試み。</p></td>
+<td style="border:1px solid black;">サービス拒否<br />
+(Denial of service)</td>
+<td style="border:1px solid black;">正当なユーザーがサービスやシステムを使用できないようにする、意図的な試み。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>特権の昇格<br />
-(Elevation of privilege)</p></td>
-<td style="border:1px solid black;"><p>特権を持たないユーザーがアクセス権を獲得すること。特権の不正取得の一例には、特権のないユーザーを Administrators グループに追加する手段を考案することなどがあります。</p></td>
+<td style="border:1px solid black;">特権の昇格<br />
+(Elevation of privilege)</td>
+<td style="border:1px solid black;">特権を持たないユーザーがアクセス権を獲得すること。特権の不正取得の一例には、特権のないユーザーを Administrators グループに追加する手段を考案することなどがあります。</td>
 </tr>
 </tbody>
 </table>

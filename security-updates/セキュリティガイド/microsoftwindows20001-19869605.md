@@ -55,7 +55,7 @@ BIOS 設定パスワードを用いて、各 Windows 2000 コンピュータの 
 
 Windows 2000 の評価された構成には Windows 2000 Professional、Server、および Advanced Server の各製品があります。ただし、それらは、このドキュメントに記載されているインストールおよび構成の手順に従って、下の表に示す役割に構成されているものとします。Windows 2000 によって求められる特有のセキュリティ要件の詳細については、Windows 2000 セキュリティ ターゲットを参照してください。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -63,34 +63,34 @@ Windows 2000 の評価された構成には Windows 2000 Professional、Server�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>製品</p></th>
-<th><p>役割</p></th>
+<th>製品</th>
+<th>役割</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Microsoft Windows 2000 Advanced Server</p></td>
-<td style="border:1px solid black;"><p>ドメイン コントローラ</p>
-<p>ドメイン メンバ サーバー</p>
-<p>ワークグループ メンバ サーバー</p>
-<p>スタンドアロン</p></td>
+<td style="border:1px solid black;">Microsoft Windows 2000 Advanced Server</td>
+<td style="border:1px solid black;">ドメイン コントローラ
+ドメイン メンバ サーバー
+ワークグループ メンバ サーバー
+スタンドアロン</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Microsoft Windows 2000 Server</p></td>
-<td style="border:1px solid black;"><p>ドメイン コントローラ</p>
-<p>ドメイン メンバ サーバー</p>
-<p>ワークグループ メンバ サーバー</p>
-<p>スタンドアロン</p></td>
+<td style="border:1px solid black;">Microsoft Windows 2000 Server</td>
+<td style="border:1px solid black;">ドメイン コントローラ
+ドメイン メンバ サーバー
+ワークグループ メンバ サーバー
+スタンドアロン</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Microsoft Windows 2000 Professional</p></td>
-<td style="border:1px solid black;"><p>ドメイン メンバ</p>
-<p>ワークグループ メンバ</p>
-<p>スタンドアロン</p></td>
+<td style="border:1px solid black;">Microsoft Windows 2000 Professional</td>
+<td style="border:1px solid black;">ドメイン メンバ
+ワークグループ メンバ
+スタンドアロン</td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 ドメイン環境とワークグループ環境の違いを理解することが重要です。ドメイン環境とワークグループ環境の主な違いは、ワークグループ環境では分散管理を採用していることです。つまり、各コンピュータをそれぞれ独立して管理する必要があるということです。ドメイン環境では集中管理方式が採られています。この場合、管理者は 1 つのドメイン アカウントを作成して、ドメイン内のすべてのリソースに対するアクセス許可を中央のその 1 人のユーザーまたはユーザーのグループに割り当てることができます。集中管理を採ると、管理に要する時間が少なくて済み、セキュリティがより強固な環境が得られます。一般的に、ワークグループ環境はセキュリティ上の懸念がない非常に小規模な環境に適用されます。大規模な環境およびデータに関してセキュリティを厳しくする必要のある環境では、ドメイン構成を適用すべきです。基本的な定義を下に示します。
 

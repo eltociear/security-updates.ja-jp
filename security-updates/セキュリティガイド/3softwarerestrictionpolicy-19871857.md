@@ -59,7 +59,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362912(v=TechNet.10)'
 
 ファイルをハッシュで制限する方法が、最も手軽さと確実性のバランスが取れた方法ですが、ファイルが大量にある、またはバージョンアップが頻繁などの場合には、向かない場合もあります。そのため、SRP にはいくつかの制限方法が用意されています。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -68,31 +68,31 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362912(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>優先順位</p></th>
-<th><p>方法</p></th>
-<th><p>概要</p></th>
+<th>優先順位</th>
+<th>方法</th>
+<th>概要</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>1 (高)</p></td>
-<td style="border:1px solid black;"><p>ハッシュ</p></td>
-<td style="border:1px solid black;"><p>実行ファイルのハッシュ値を元に、制限または許可を行います。</p></td>
+<td style="border:1px solid black;">1 (高)</td>
+<td style="border:1px solid black;">ハッシュ</td>
+<td style="border:1px solid black;">実行ファイルのハッシュ値を元に、制限または許可を行います。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>2</p></td>
-<td style="border:1px solid black;"><p>証明書</p></td>
-<td style="border:1px solid black;"><p>実行ファイルに施されている証明書による署名を元に、制限または許可を行います。</p></td>
+<td style="border:1px solid black;">2</td>
+<td style="border:1px solid black;">証明書</td>
+<td style="border:1px solid black;">実行ファイルに施されている証明書による署名を元に、制限または許可を行います。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>3</p></td>
-<td style="border:1px solid black;"><p>パス</p></td>
-<td style="border:1px solid black;"><p>実行ファイルが置かれている場所 (パス) を元に、制限または許可を行います。ワイルドカードを使うこともできます。</p></td>
+<td style="border:1px solid black;">3</td>
+<td style="border:1px solid black;">パス</td>
+<td style="border:1px solid black;">実行ファイルが置かれている場所 (パス) を元に、制限または許可を行います。ワイルドカードを使うこともできます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>4 (低)</p></td>
-<td style="border:1px solid black;"><p>インターネットゾーン</p></td>
-<td style="border:1px solid black;"><p>Internet Explorer で指定できる、各ゾーン毎に、制限または許可を行います。</p></td>
+<td style="border:1px solid black;">4 (低)</td>
+<td style="border:1px solid black;">インターネットゾーン</td>
+<td style="border:1px solid black;">Internet Explorer で指定できる、各ゾーン毎に、制限または許可を行います。</td>
 </tr>
 </tbody>
 </table>
@@ -103,7 +103,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362912(v=TechNet.10)'
   
 制限を行った以上、正しく制限されているか、誰が実行しようとしているのかを知りたいのが管理者の性だと思います。制限されたアプリケーションを実行しようとすると、以下のイベントがアプリケーションログに警告として残ります。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -111,26 +111,26 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362912(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>イベントID</p></th>
-<th><p>内容</p></th>
+<th>イベントID</th>
+<th>内容</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>865</p></td>
-<td style="border:1px solid black;"><p>規定の制限規則により実行が制限された場合</p></td>
+<td style="border:1px solid black;">865</td>
+<td style="border:1px solid black;">規定の制限規則により実行が制限された場合</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>866</p></td>
-<td style="border:1px solid black;"><p>パス規則により実行が制限された場合</p></td>
+<td style="border:1px solid black;">866</td>
+<td style="border:1px solid black;">パス規則により実行が制限された場合</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>867</p></td>
-<td style="border:1px solid black;"><p>証明書規則により実行が制限された場合</p></td>
+<td style="border:1px solid black;">867</td>
+<td style="border:1px solid black;">証明書規則により実行が制限された場合</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>878</p></td>
-<td style="border:1px solid black;"><p>インターネットゾーン規則または、ハッシュ規則により実行が制限された場合</p></td>
+<td style="border:1px solid black;">878</td>
+<td style="border:1px solid black;">インターネットゾーン規則または、ハッシュ規則により実行が制限された場合</td>
 </tr>
 </tbody>
 </table>

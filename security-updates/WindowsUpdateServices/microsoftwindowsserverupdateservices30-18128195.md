@@ -163,7 +163,7 @@ WSUS 3.0 セットアップを実行する前に、WSUS 3.0 サーバーがこ�
 
 ###  
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -177,25 +177,25 @@ WSUS 3.0 セットアップを実行する前に、WSUS 3.0 サーバーがこ�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Microsoft インターネット インフォメーション サービス (IIS)</p></td>
-<td style="border:1px solid black;"><p>オペレーティング システムからインストールします。</p>
-<p>「問題 1 : IIS をインストールする必要がある」を参照してください。</p></td>
+<td style="border:1px solid black;">Microsoft インターネット インフォメーション サービス (IIS)</td>
+<td style="border:1px solid black;">オペレーティング システムからインストールします。
+「問題 1 : IIS をインストールする必要がある」を参照してください。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Microsoft .NET Framework Version 2.0 再頒布可能パッケージ (x86)</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=68935">Microsoft ダウンロード センター</a>で、Microsoft .NET Framework Version 2.0 再頒布可能パッケージ (x86) についてのページ (http://go.microsoft.com/fwlink/?LinkId=68935、英語情報の場合があります) を参照してください。64 ビット プラットフォームの場合は、<a href="http://go.microsoft.com/fwlink/?linkid=70637">Microsoft ダウンロード センター</a>で、Microsoft .NET Framework Version 2.0 再頒布可能パッケージ (x64) についてのページ (http://go.microsoft.com/fwlink/?LinkId=70637、英語情報の場合があります) を参照してください。</p></td>
+<td style="border:1px solid black;">Microsoft .NET Framework Version 2.0 再頒布可能パッケージ (x86)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=68935">Microsoft ダウンロード センター</a>で、Microsoft .NET Framework Version 2.0 再頒布可能パッケージ (x86) についてのページ (http://go.microsoft.com/fwlink/?LinkId=68935、英語情報の場合があります) を参照してください。64 ビット プラットフォームの場合は、<a href="http://go.microsoft.com/fwlink/?linkid=70637">Microsoft ダウンロード センター</a>で、Microsoft .NET Framework Version 2.0 再頒布可能パッケージ (x64) についてのページ (http://go.microsoft.com/fwlink/?LinkId=70637、英語情報の場合があります) を参照してください。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Windows Server 2003 用の Microsoft 管理コンソール 3.0</p></td>
-<td style="border:1px solid black;"><p>これは、WSUS 3.0 UI を使用するための前提条件です。<a href="http://go.microsoft.com/fwlink/?linkid=70412">Microsoft ダウンロード センター</a>で、Windows Server 2003 用の Microsoft 管理コンソール 3.0 についてのページ (KB907265、http://go.microsoft.com/fwlink/?LinkId=70412、英語情報の場合があります) を参照してください。64 ビット プラットフォームの場合は、<a href="http://go.microsoft.com/fwlink/?linkid=70638">Microsoft ダウンロード センター</a>で、Windows Server 2003 x64 Edition 用の Microsoft 管理コンソール 3.0 についてのページ (KB907265、http://go.microsoft.com/fwlink/?LinkId=70638、英語情報の場合があります) を参照してください。</p></td>
+<td style="border:1px solid black;">Windows Server 2003 用の Microsoft 管理コンソール 3.0</td>
+<td style="border:1px solid black;">これは、WSUS 3.0 UI を使用するための前提条件です。<a href="http://go.microsoft.com/fwlink/?linkid=70412">Microsoft ダウンロード センター</a>で、Windows Server 2003 用の Microsoft 管理コンソール 3.0 についてのページ (KB907265、http://go.microsoft.com/fwlink/?LinkId=70412、英語情報の場合があります) を参照してください。64 ビット プラットフォームの場合は、<a href="http://go.microsoft.com/fwlink/?linkid=70638">Microsoft ダウンロード センター</a>で、Windows Server 2003 x64 Edition 用の Microsoft 管理コンソール 3.0 についてのページ (KB907265、http://go.microsoft.com/fwlink/?LinkId=70638、英語情報の場合があります) を参照してください。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Microsoft Report Viewer</p></td>
-<td style="border:1px solid black;"><p>これは、WSUS 3.0 UI を使用するための前提条件です。<a href="http://go.microsoft.com/fwlink/?linkid=70410">Microsoft ダウンロード センター</a>で、Microsoft Report Viewer 再頒布可能パッケージ 2005 についてのページ (http://go.microsoft.com/fwlink/?LinkId=70410、英語情報の場合があります) を参照してください。</p></td>
+<td style="border:1px solid black;">Microsoft Report Viewer</td>
+<td style="border:1px solid black;">これは、WSUS 3.0 UI を使用するための前提条件です。<a href="http://go.microsoft.com/fwlink/?linkid=70410">Microsoft ダウンロード センター</a>で、Microsoft Report Viewer 再頒布可能パッケージ 2005 についてのページ (http://go.microsoft.com/fwlink/?LinkId=70410、英語情報の場合があります) を参照してください。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>SQL Server 2005 (オプション)</p></td>
-<td style="border:1px solid black;"><p>互換性のあるバージョンの SQL Server がまだインストールされていない場合、WSUS 3.0 は Windows Internal Database をインストールします。完全な SQL Server データベースの使用を計画している場合は、少なくとも Windows Server 2003 上で SQL Server 2005 SP1 を使用する必要があります。これは、<a href="http://go.microsoft.com/fwlink/?linkid=66143">Microsoft ダウンロード センター</a> (http://go.microsoft.com/fwlink/?LinkId=66143) から入手できます。Windows Server 2008 の場合は、SQL Server 2005 SP2 が必要です。これは、<a href="http://go.microsoft.com/fwlink/?linkid=84823">Microsoft ダウンロード センター</a> (http://go.microsoft.com/fwlink/?LinkId=84823) から入手できます。</p></td>
+<td style="border:1px solid black;">SQL Server 2005 (オプション)</td>
+<td style="border:1px solid black;">互換性のあるバージョンの SQL Server がまだインストールされていない場合、WSUS 3.0 は Windows Internal Database をインストールします。完全な SQL Server データベースの使用を計画している場合は、少なくとも Windows Server 2003 上で SQL Server 2005 SP1 を使用する必要があります。これは、<a href="http://go.microsoft.com/fwlink/?linkid=66143">Microsoft ダウンロード センター</a> (http://go.microsoft.com/fwlink/?LinkId=66143) から入手できます。Windows Server 2008 の場合は、SQL Server 2005 SP2 が必要です。これは、<a href="http://go.microsoft.com/fwlink/?linkid=84823">Microsoft ダウンロード センター</a> (http://go.microsoft.com/fwlink/?LinkId=84823) から入手できます。</td>
 </tr>
 </tbody>
 </table>
@@ -247,7 +247,7 @@ WSUS コマンド ライン パラメータを使用すると、WSUS 3.0 の無�
   
 ###  
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -261,24 +261,24 @@ WSUS コマンド ライン パラメータを使用すると、WSUS 3.0 の無�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>/q</strong></p></td>
-<td style="border:1px solid black;"><p>サイレント インストールを実行します。</p></td>
+<td style="border:1px solid black;"><strong>/q</strong></td>
+<td style="border:1px solid black;">サイレント インストールを実行します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>/u</strong></p></td>
-<td style="border:1px solid black;"><p>製品をアンインストールします。Windows Internal Database インスタンスがインストールされている場合は、同時にアンインストールします。</p></td>
+<td style="border:1px solid black;"><strong>/u</strong></td>
+<td style="border:1px solid black;">製品をアンインストールします。Windows Internal Database インスタンスがインストールされている場合は、同時にアンインストールします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>/p</strong></p></td>
-<td style="border:1px solid black;"><p>必要条件のみ確認します。製品のインストールは実行せずに、システムを調査し、必要条件が満たされない場合はそれを報告します。</p></td>
+<td style="border:1px solid black;"><strong>/p</strong></td>
+<td style="border:1px solid black;">必要条件のみ確認します。製品のインストールは実行せずに、システムを調査し、必要条件が満たされない場合はそれを報告します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>/?, /h</strong></p></td>
-<td style="border:1px solid black;"><p>コマンドライン パラメータと説明を表示します。</p></td>
+<td style="border:1px solid black;"><strong>/?, /h</strong></td>
+<td style="border:1px solid black;">コマンドライン パラメータと説明を表示します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>/g</strong></p></td>
-<td style="border:1px solid black;"><p>バージョン 2.0 の WSUS からアップグレードします。このオプションで有効なパラメータは /q (サイレント インストール) のみです。このオプションで有効なプロパティは DEFAULT_WEBSITE のみです。</p></td>
+<td style="border:1px solid black;"><strong>/g</strong></td>
+<td style="border:1px solid black;">バージョン 2.0 の WSUS からアップグレードします。このオプションで有効なパラメータは /q (サイレント インストール) のみです。このオプションで有効なプロパティは DEFAULT_WEBSITE のみです。</td>
 </tr>
 </tbody>
 </table>
@@ -287,7 +287,7 @@ WSUS コマンド ライン パラメータを使用すると、WSUS 3.0 の無�
   
 ###  
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -301,64 +301,64 @@ WSUS コマンド ライン パラメータを使用すると、WSUS 3.0 の無�
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>CONTENT_LOCAL</p></td>
-<td style="border:1px solid black;"><p>0=コンテンツはローカルにホスト、1=Microsoft Update 上にホスト。</p></td>
+<td style="border:1px solid black;">CONTENT_LOCAL</td>
+<td style="border:1px solid black;">0=コンテンツはローカルにホスト、1=Microsoft Update 上にホスト。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>CONTENT_DIR</p></td>
-<td style="border:1px solid black;"><p>コンテンツ ディレクトリへのパス。既定値は、<em>WSUSInstallationDrive</em><strong>\WSUS\WSUSContent</strong> です。<em>WSUSInstallationDrive</em> は空き領域が最大のローカル ドライブです。</p></td>
+<td style="border:1px solid black;">CONTENT_DIR</td>
+<td style="border:1px solid black;">コンテンツ ディレクトリへのパス。既定値は、<em>WSUSInstallationDrive</em><strong>\WSUS\WSUSContent</strong> です。<em>WSUSInstallationDrive</em> は空き領域が最大のローカル ドライブです。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>WYUKON_DATA_DIR</p></td>
-<td style="border:1px solid black;"><p>Windows Internal Database データ ディレクトリ。</p></td>
+<td style="border:1px solid black;">WYUKON_DATA_DIR</td>
+<td style="border:1px solid black;">Windows Internal Database データ ディレクトリ。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>SQLINSTANCE_NAME</p></td>
-<td style="border:1px solid black;"><p>名前は、<em>サーバー名</em>\<em>SQL インスタンス名</em> の形式で表示されます。データベース インスタンスが、ローカル コンピュータ上にある場合は、%COMPUTERNAME% 環境変数を使用します。既存のインスタンスがない場合、既定では %COMPUTERNAME%\WSUS になります。</p></td>
+<td style="border:1px solid black;">SQLINSTANCE_NAME</td>
+<td style="border:1px solid black;">名前は、<em>サーバー名</em>\<em>SQL インスタンス名</em> の形式で表示されます。データベース インスタンスが、ローカル コンピュータ上にある場合は、%COMPUTERNAME% 環境変数を使用します。既存のインスタンスがない場合、既定では %COMPUTERNAME%\WSUS になります。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DEFAULT_WEBSITE</p></td>
-<td style="border:1px solid black;"><p>0=ポート 8530。1=ポート 80。</p></td>
+<td style="border:1px solid black;">DEFAULT_WEBSITE</td>
+<td style="border:1px solid black;">0=ポート 8530。1=ポート 80。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>PREREQ_CHECK_LOG</p></td>
-<td style="border:1px solid black;"><p>ログ ファイルのパスおよびファイル名。</p></td>
+<td style="border:1px solid black;">PREREQ_CHECK_LOG</td>
+<td style="border:1px solid black;">ログ ファイルのパスおよびファイル名。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>CONSOLE_INSTALL</p></td>
-<td style="border:1px solid black;"><p>0=WSUS サーバーをインストール。1=コンソールのみをインストール。</p></td>
+<td style="border:1px solid black;">CONSOLE_INSTALL</td>
+<td style="border:1px solid black;">0=WSUS サーバーをインストール。1=コンソールのみをインストール。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ENABLE_INVENTORY</p></td>
-<td style="border:1px solid black;"><p>0=一覧機能をインストールしない。1=一覧機能をインストール。</p></td>
+<td style="border:1px solid black;">ENABLE_INVENTORY</td>
+<td style="border:1px solid black;">0=一覧機能をインストールしない。1=一覧機能をインストール。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DELETE_DATABASE</p></td>
-<td style="border:1px solid black;"><p>0=データベースを保持、1=データベースを削除。</p></td>
+<td style="border:1px solid black;">DELETE_DATABASE</td>
+<td style="border:1px solid black;">0=データベースを保持、1=データベースを削除。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>DELETE_CONTENT</p></td>
-<td style="border:1px solid black;"><p>0=コンテンツ ファイルを保持、1=コンテンツ ファイルを削除。</p></td>
+<td style="border:1px solid black;">DELETE_CONTENT</td>
+<td style="border:1px solid black;">0=コンテンツ ファイルを保持、1=コンテンツ ファイルを削除。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>DELETE_LOGS</p></td>
-<td style="border:1px solid black;"><p>0=ログ ファイルを保持。1=ログ ファイルを削除 (/u インストール スイッチと共に使用します)。</p></td>
+<td style="border:1px solid black;">DELETE_LOGS</td>
+<td style="border:1px solid black;">0=ログ ファイルを保持。1=ログ ファイルを削除 (/u インストール スイッチと共に使用します)。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>CREATE_DATABASE</p></td>
-<td style="border:1px solid black;"><p>0=現在のデータベースを使用、1=データベースを作成</p></td>
+<td style="border:1px solid black;">CREATE_DATABASE</td>
+<td style="border:1px solid black;">0=現在のデータベースを使用、1=データベースを作成</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>PROGRESS_WINDOW_HANDLE</p></td>
-<td style="border:1px solid black;"><p>MSI 進捗状況メッセージを返すウィンドウ ハンドル。</p></td>
+<td style="border:1px solid black;">PROGRESS_WINDOW_HANDLE</td>
+<td style="border:1px solid black;">MSI 進捗状況メッセージを返すウィンドウ ハンドル。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>MU_ROLLUP</p></td>
-<td style="border:1px solid black;"><p>1=Microsoft Update 向上プログラムに参加、0=参加しない</p></td>
+<td style="border:1px solid black;">MU_ROLLUP</td>
+<td style="border:1px solid black;">1=Microsoft Update 向上プログラムに参加、0=参加しない</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>FRONTEND_SETUP</p></td>
-<td style="border:1px solid black;"><p>1=データベースにコンテンツの場所を書き込まない、0=データベースにコンテンツの場所を書き込む (ネットワーク負荷分散のため)</p></td>
+<td style="border:1px solid black;">FRONTEND_SETUP</td>
+<td style="border:1px solid black;">1=データベースにコンテンツの場所を書き込まない、0=データベースにコンテンツの場所を書き込む (ネットワーク負荷分散のため)</td>
 </tr>
 </tbody>
 </table>
@@ -556,7 +556,7 @@ WSUS 3.0 では、32 ビットと 64 ビットの両方のバージョンの Win
   
 ###  
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -570,25 +570,25 @@ WSUS 3.0 では、32 ビットと 64 ビットの両方のバージョンの Win
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Microsoft インターネット インフォメーション サービス (IIS)</p></td>
-<td style="border:1px solid black;"><p>オペレーティング システムからインストールします。次のコンポーネントが有効になっていることを確認してください。</p>
-<p>Windows 認証</p>
-<p>静的コンテンツ</p>
-<p>ASP.NET</p>
-<p>6.0 管理互換性</p>
-<p>IIS メタベース互換性</p></td>
+<td style="border:1px solid black;">Microsoft インターネット インフォメーション サービス (IIS)</td>
+<td style="border:1px solid black;">オペレーティング システムからインストールします。次のコンポーネントが有効になっていることを確認してください。
+Windows 認証
+静的コンテンツ
+ASP.NET
+6.0 管理互換性
+IIS メタベース互換性</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Microsoft .NET Framework Version 2.0 再頒布可能パッケージ (x86)</p></td>
-<td style="border:1px solid black;"><p>Windows Server 2008 では、オペレーティング システムの一部としてインストールされているため不要です。</p></td>
+<td style="border:1px solid black;">Microsoft .NET Framework Version 2.0 再頒布可能パッケージ (x86)</td>
+<td style="border:1px solid black;">Windows Server 2008 では、オペレーティング システムの一部としてインストールされているため不要です。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Microsoft 管理コンソール 3.0</p></td>
-<td style="border:1px solid black;"><p>Windows Server 2008 では、オペレーティング システムの一部としてインストールされているため不要です。</p></td>
+<td style="border:1px solid black;">Microsoft 管理コンソール 3.0</td>
+<td style="border:1px solid black;">Windows Server 2008 では、オペレーティング システムの一部としてインストールされているため不要です。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Microsoft Report Viewer</p></td>
-<td style="border:1px solid black;"><p>これは、WSUS UI を使用するための前提条件です。<a href="http://go.microsoft.com/fwlink/?linkid=70410">Microsoft ダウンロード センター</a>で、Microsoft Report Viewer 再頒布可能パッケージ 2005 についてのページ (http://go.microsoft.com/fwlink/?LinkId=70410) を参照してください。</p></td>
+<td style="border:1px solid black;">Microsoft Report Viewer</td>
+<td style="border:1px solid black;">これは、WSUS UI を使用するための前提条件です。<a href="http://go.microsoft.com/fwlink/?linkid=70410">Microsoft ダウンロード センター</a>で、Microsoft Report Viewer 再頒布可能パッケージ 2005 についてのページ (http://go.microsoft.com/fwlink/?LinkId=70410) を参照してください。</td>
 </tr>
 </tbody>
 </table>

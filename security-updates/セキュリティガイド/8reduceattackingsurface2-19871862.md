@@ -25,7 +25,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362917(v=TechNet.10)'
 
 このアカウントには、主に、以下の 3 つのアカウントが使用されます。
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -34,26 +34,26 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362917(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>権限の強さ</p></th>
-<th><p>アカウント名</p></th>
-<th><p>概要</p></th>
+<th>権限の強さ</th>
+<th>アカウント名</th>
+<th>概要</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>強</p></td>
-<td style="border:1px solid black;"><p>Local System</p></td>
-<td style="border:1px solid black;"><p>OS と同等の権限を持つ、もっとも強い権限を持つアカウント</p></td>
+<td style="border:1px solid black;">強</td>
+<td style="border:1px solid black;">Local System</td>
+<td style="border:1px solid black;">OS と同等の権限を持つ、もっとも強い権限を持つアカウント</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>中</p></td>
-<td style="border:1px solid black;"><p>Network Service</p></td>
-<td style="border:1px solid black;"><p>ネットワーク接続を行うサービス向けの、権限が制限されたアカウント</p></td>
+<td style="border:1px solid black;">中</td>
+<td style="border:1px solid black;">Network Service</td>
+<td style="border:1px solid black;">ネットワーク接続を行うサービス向けの、権限が制限されたアカウント</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>弱</p></td>
-<td style="border:1px solid black;"><p>Local Service</p></td>
-<td style="border:1px solid black;"><p>各 PC 上でも動作するサービス向けの、権限が制限されたアカウント</p></td>
+<td style="border:1px solid black;">弱</td>
+<td style="border:1px solid black;">Local Service</td>
+<td style="border:1px solid black;">各 PC 上でも動作するサービス向けの、権限が制限されたアカウント</td>
 </tr>
 </tbody>
 </table>

@@ -202,7 +202,7 @@ DEP が原因でアプリケーション障害が発生した場合は、アプ�
 
 **表** **1 DEP boot.ini** **の構成オプション**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -210,27 +210,27 @@ DEP が原因でアプリケーション障害が発生した場合は、アプ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>構成</p></th>
-<th><p>説明</p></th>
+<th>構成</th>
+<th>説明</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>OptIn</strong></p>
-<p>(既定の構成)</p></td>
-<td style="border:1px solid black;"><p>Windows システムのコンポーネントおよびサービスにのみ、DEP 保護機能が適用されます。</p></td>
+<td style="border:1px solid black;"><strong>OptIn</strong>
+(既定の構成)</td>
+<td style="border:1px solid black;">Windows システムのコンポーネントおよびサービスにのみ、DEP 保護機能が適用されます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>OptOut</strong></p></td>
-<td style="border:1px solid black;"><p>DEP はすべてのプロセスに対して有効になります。 管理者は、DEP を適用しないアプリケーションのリストを手動で作成できます。</p></td>
+<td style="border:1px solid black;"><strong>OptOut</strong></td>
+<td style="border:1px solid black;">DEP はすべてのプロセスに対して有効になります。 管理者は、DEP を適用しないアプリケーションのリストを手動で作成できます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>AlwaysOn</strong></p></td>
-<td style="border:1px solid black;"><p>DEP はすべてのプロセスに対して有効になります。</p></td>
+<td style="border:1px solid black;"><strong>AlwaysOn</strong></td>
+<td style="border:1px solid black;">DEP はすべてのプロセスに対して有効になります。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>AlwaysOff</strong></p></td>
-<td style="border:1px solid black;"><p>DEP はどのプロセスにも適用されません。</p></td>
+<td style="border:1px solid black;"><strong>AlwaysOff</strong></td>
+<td style="border:1px solid black;">DEP はどのプロセスにも適用されません。</td>
 </tr>
 </tbody>
 </table>

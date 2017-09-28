@@ -88,7 +88,7 @@ Windows XP SP 2 の管理用テンプレートは大幅に変更されました�
 
 **表 A.1:クラッシュ検出の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -98,18 +98,18 @@ Windows XP SP 2 の管理用テンプレートは大幅に変更されました�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -122,7 +122,7 @@ Internet Explorer のクラッシュ レポート情報には、コンピュー�
   
 **表 A.2:アドオンの有効化または無効化の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -132,18 +132,18 @@ Internet Explorer のクラッシュ レポート情報には、コンピュー�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -176,7 +176,7 @@ SP2 では、環境全体で Internet Explorer ゾーン構成のセキュリテ
   
 **表 A.3:ソフトウェア実行許可の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -186,18 +186,18 @@ SP2 では、環境全体で Internet Explorer ゾーン構成のセキュリテ
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -220,7 +220,7 @@ Microsoft ActiveX コントロールとファイル ダウンロードには、�
   
 **表 A.4:MK プロトコルの設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -230,18 +230,18 @@ Microsoft ActiveX コントロールとファイル ダウンロードには、�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -262,7 +262,7 @@ MK プロトコルは一般的には使用されていないので、不要な�
   
 **表 A.5:整合性のある MIME 処理の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -272,18 +272,18 @@ MK プロトコルは一般的には使用されていないので、不要な�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -306,7 +306,7 @@ MIME ファイル タイプの偽装は、組織にとって脅威となる可�
   
 **表 A.6:MIME スニッフィングの設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -316,18 +316,18 @@ MIME ファイル タイプの偽装は、組織にとって脅威となる可�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -348,7 +348,7 @@ MIME ファイル タイプの偽装は、組織にとって脅威となる可�
   
 **表 A.7:スクリプト化されたウィンドウ制限の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -358,18 +358,18 @@ MIME ファイル タイプの偽装は、組織にとって脅威となる可�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -390,7 +390,7 @@ Internet Explorer では、スクリプトのプログラムを使用してさ�
   
 **表 A.8:ゾーン昇格からの保護の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -400,18 +400,18 @@ Internet Explorer では、スクリプトのプログラムを使用してさ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -432,7 +432,7 @@ Internet Explorer では、Web ページの場所 (インターネット ゾー�
   
 **表 A.9:ActiveX のインストール制限の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -442,18 +442,18 @@ Internet Explorer では、Web ページの場所 (インターネット ゾー�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
 </tr>
 </tbody>
 </table>
@@ -478,7 +478,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.10:ファイル ダウンロード制限の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -488,18 +488,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -520,7 +520,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.11:許可されたものを除きすべてのアドオンを拒否する設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -530,18 +530,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
 </tr>
 </tbody>
 </table>
@@ -556,7 +556,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.12:アドオンの一覧の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -566,18 +566,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
 </tr>
 </tbody>
 </table>
@@ -592,7 +592,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
     **表 A.13:アドオンの一覧設定の値**
 
-<p> </p>
+ 
     <table style="border:1px solid black;">
     <colgroup>
     <col width="50%" />
@@ -600,22 +600,22 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
     </colgroup>
     <thead>
     <tr class="header">
-    <th><p>値</p></th>
-    <th><p>説明</p></th>
+    <th>値</th>
+    <th>説明</th>
     </tr>
     </thead>
     <tbody>
     <tr class="odd">
-    <td style="border:1px solid black;"><p>0</p></td>
-    <td style="border:1px solid black;"><p>このアドオンを拒否します。</p></td>
+    <td style="border:1px solid black;">0</td>
+    <td style="border:1px solid black;">このアドオンを拒否します。</td>
     </tr>
     <tr class="even">
-    <td style="border:1px solid black;"><p>1</p></td>
-    <td style="border:1px solid black;"><p>このアドオンを許可します。</p></td>
+    <td style="border:1px solid black;">1</td>
+    <td style="border:1px solid black;">このアドオンを許可します。</td>
     </tr>
     <tr class="odd">
-    <td style="border:1px solid black;"><p>2</p></td>
-    <td style="border:1px solid black;"><p>このアドオンを許可し、ユーザーが [アドオンの管理] を使用してこのアドオンを管理することを許可します。</p></td>
+    <td style="border:1px solid black;">2</td>
+    <td style="border:1px solid black;">このアドオンを許可し、ユーザーが [アドオンの管理] を使用してこのアドオンを管理することを許可します。</td>
     </tr>
     </tbody>
     </table>
@@ -634,7 +634,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.14:パスワードの保存を許可しない設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -644,18 +644,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -674,7 +674,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.15:シャットダウン オプションを表示しない設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -684,18 +684,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -708,7 +708,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.16:既定のシャットダウン オプションを調整しない設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -718,18 +718,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -750,7 +750,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.17:Windows Update でのデバイス ドライバ検索確認の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -760,18 +760,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -796,7 +796,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.18:認証されていない RPC クライアントの設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -806,18 +806,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -838,7 +838,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.19:クライアント認証の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -848,18 +848,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -878,7 +878,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.20:\[Web に公開する\] タスク削除の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -888,18 +888,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -910,7 +910,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.21:インターネット ダウンロード オフの設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -920,18 +920,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -942,7 +942,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.22:Windows Messenger カスタマ プログラム オフの設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -952,18 +952,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -974,7 +974,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.23:検索コンパニオン更新オフの設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -984,18 +984,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -1008,7 +1008,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.24:HTTP 経由の印刷オフの設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1018,18 +1018,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -1044,7 +1044,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.25:プリンタ ドライバの HTTP 経由でのダウンロード オフの設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1054,18 +1054,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -1078,7 +1078,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.26:Windows Update でのデバイス ドライバ検索オフの設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1088,18 +1088,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -1124,7 +1124,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.27:ネットワーク接続をすべて保護 (ドメイン プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1134,18 +1134,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -1160,7 +1160,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.28:例外を許可しない (ドメイン プロファイル) 設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1170,18 +1170,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
 </tr>
 </tbody>
 </table>
@@ -1196,7 +1196,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.29:プログラム例外定義 (ドメイン プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1206,18 +1206,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
 </tr>
 </tbody>
 </table>
@@ -1234,7 +1234,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.30:ローカル プログラム例外許可 (ドメイン プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1244,18 +1244,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -1268,7 +1268,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.31:リモート管理例外許可 (ドメイン プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1278,18 +1278,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -1308,7 +1308,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.32:ファイルとプリンタの共有例外許可 (ドメイン プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1318,18 +1318,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -1346,7 +1346,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.33:ICMP 例外許可 (ドメイン プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1356,18 +1356,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
 </tr>
 </tbody>
 </table>
@@ -1384,7 +1384,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.34:リモート デスクトップ例外許可 (ドメイン プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1394,18 +1394,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
 </tr>
 </tbody>
 </table>
@@ -1422,7 +1422,7 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
   
 **表 A.35:UPnP フレームワーク例外許可 (ドメイン プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1432,18 +1432,18 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
 </tr>
 </tbody>
 </table>
@@ -1458,7 +1458,7 @@ UPnP ネットワーク トラフィックをブロックすると、環境内�
   
 **表 A.36:通知禁止 (ドメイン プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1468,18 +1468,18 @@ UPnP ネットワーク トラフィックをブロックすると、環境内�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
 </tr>
 </tbody>
 </table>
@@ -1494,7 +1494,7 @@ Windows ファイアウォールは、プログラムの例外一覧にプログ
   
 **表 A.37:ユニキャスト応答禁止 (ドメイン プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1504,18 +1504,18 @@ Windows ファイアウォールは、プログラムの例外一覧にプログ
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -1530,7 +1530,7 @@ Windows ファイアウォールは、プログラムの例外一覧にプログ
   
 **表 A.38:ポート例外定義 (ドメイン プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1540,18 +1540,18 @@ Windows ファイアウォールは、プログラムの例外一覧にプログ
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
 </tr>
 </tbody>
 </table>
@@ -1570,7 +1570,7 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
   
 **表 A.39:ローカル ポート例外許可 (ドメイン プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1580,18 +1580,18 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -1618,7 +1618,7 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
   
 **表 A.40:ネットワーク接続をすべて保護 (標準プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1628,18 +1628,18 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -1654,7 +1654,7 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
   
 **表 A.41:例外を許可しない (標準プロファイル) 設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1664,18 +1664,18 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
 </tr>
 </tbody>
 </table>
@@ -1688,7 +1688,7 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
   
 **表 A.42:プログラム例外定義 (標準プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1698,18 +1698,18 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
-<td style="border:1px solid black;"><p>推奨</p></td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
+<td style="border:1px solid black;">推奨</td>
 </tr>
 </tbody>
 </table>
@@ -1726,7 +1726,7 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
   
 **表 A.43:ローカル プログラム例外許可 (標準プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1736,18 +1736,18 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -1758,7 +1758,7 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
   
 **表 A.44:リモート管理例外許可 (標準プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1768,18 +1768,18 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -1798,7 +1798,7 @@ TCP ポート 135 および 445 を悪用する既知の攻撃を回避するた
   
 **表 A.45:ファイルとプリンタの共有例外許可 (標準プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1808,18 +1808,18 @@ TCP ポート 135 および 445 を悪用する既知の攻撃を回避するた
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -1836,7 +1836,7 @@ TCP ポート 135 および 445 を悪用する既知の攻撃を回避するた
   
 **表 A.46:ICMP 例外許可 (標準プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1846,18 +1846,18 @@ TCP ポート 135 および 445 を悪用する既知の攻撃を回避するた
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -1874,7 +1874,7 @@ TCP ポート 135 および 445 を悪用する既知の攻撃を回避するた
   
 **表 A.47:リモート デスクトップ例外許可 (標準プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1884,18 +1884,18 @@ TCP ポート 135 および 445 を悪用する既知の攻撃を回避するた
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -1912,7 +1912,7 @@ TCP ポート 135 および 445 を悪用する既知の攻撃を回避するた
   
 **表 A.48:UPnP フレームワーク例外許可 (標準プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1922,18 +1922,18 @@ TCP ポート 135 および 445 を悪用する既知の攻撃を回避するた
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -1948,7 +1948,7 @@ UPnP ネットワーク トラフィックをブロックすると、コンピ�
   
 **表 A.49:通知禁止 (標準プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1958,18 +1958,18 @@ UPnP ネットワーク トラフィックをブロックすると、コンピ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
 </tr>
 </tbody>
 </table>
@@ -1984,7 +1984,7 @@ Windows ファイアウォールは、プログラムの例外一覧にプログ
   
 **表 A.50:ユニキャスト応答禁止 (標準プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -1994,18 +1994,18 @@ Windows ファイアウォールは、プログラムの例外一覧にプログ
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -2020,7 +2020,7 @@ Windows ファイアウォールは、プログラムの例外一覧にプログ
   
 **表 A.51:ポート例外定義 (標準プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2030,18 +2030,18 @@ Windows ファイアウォールは、プログラムの例外一覧にプログ
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
-<td style="border:1px solid black;"><p>推奨しない</p></td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
+<td style="border:1px solid black;">推奨しない</td>
 </tr>
 </tbody>
 </table>
@@ -2060,7 +2060,7 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
   
 **表 A.52:ローカル ポート例外許可 (標準プロファイル) の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -2070,18 +2070,18 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境 (デスクトップ)</p></th>
-<th><p>エンタープライズ クライアント環境 (ラップトップ)</p></th>
-<th><p>高セキュリティ環境 (デスクトップ)</p></th>
-<th><p>高セキュリティ環境 (ラップトップ)</p></th>
+<th>エンタープライズ クライアント環境 (デスクトップ)</th>
+<th>エンタープライズ クライアント環境 (ラップトップ)</th>
+<th>高セキュリティ環境 (デスクトップ)</th>
+<th>高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -2110,7 +2110,7 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
   
 **表 A.53:ゾーン情報を保存しない設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -2118,14 +2118,14 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境</p></th>
-<th><p>高セキュリティ環境</p></th>
+<th>エンタープライズ クライアント環境</th>
+<th>高セキュリティ環境</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 </tbody>
 </table>
@@ -2138,7 +2138,7 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
   
 **表 A.54:ゾーン情報の削除方法の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -2146,14 +2146,14 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境</p></th>
-<th><p>高セキュリティ環境</p></th>
+<th>エンタープライズ クライアント環境</th>
+<th>高セキュリティ環境</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>
@@ -2168,7 +2168,7 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
   
 **表 A.55:ウイルス対策プログラムへの通知の設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -2176,14 +2176,14 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>エンタープライズ クライアント環境</p></th>
-<th><p>高セキュリティ環境</p></th>
+<th>エンタープライズ クライアント環境</th>
+<th>高セキュリティ環境</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 </tbody>
 </table>

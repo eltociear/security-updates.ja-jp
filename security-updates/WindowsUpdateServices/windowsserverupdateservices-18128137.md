@@ -51,7 +51,7 @@ WSUS のインストールが既に試行済みで、サイトが存在しない
 
 ###  
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -67,52 +67,52 @@ WSUS のインストールが既に試行済みで、サイトが存在しない
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>すべてのオペレーティング システム</p></td>
-<td style="border:1px solid black;"><p>Microsoft インターネット インフォメーション サービス (IIS) 5.0</p></td>
-<td style="border:1px solid black;"><p>オペレーティング システムからインストールします。</p>
-<p>「問題 1IIS のインストールの必要性」を参照してください。</p></td>
+<td style="border:1px solid black;">すべてのオペレーティング システム</td>
+<td style="border:1px solid black;">Microsoft インターネット インフォメーション サービス (IIS) 5.0</td>
+<td style="border:1px solid black;">オペレーティング システムからインストールします。
+「問題 1IIS のインストールの必要性」を参照してください。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>すべてのオペレーティング システム</p></td>
-<td style="border:1px solid black;"><p>Background Intelligent Transfer Service (BITS) 2.0</p></td>
-<td style="border:1px solid black;"><p>Windows Server 2003 オペレーティング システムの場合は、ダウンロード センターの「<a href="http://go.microsoft.com/fwlink/?linkid=47251">Windows Server 2003 用バックグラウンド インテリジェント転送サービス (BITS) 2.0 および WinHTTP 5.1 の更新プログラム (KB842773)</a>」(http://go.microsoft.com/fwlink/?LinkId=47251) を参照してください。</p>
-<p>Windows Server 2000 オペレーティング システムの場合は、ダウンロード センターの「<a href="http://go.microsoft.com/fwlink/?linkid=46794">Windows 2000 用バックグラウンド インテリジェント転送サービス (BITS) 2.0 および WinHTTP 5.1 の更新プログラム (KB842773)</a>」(http://go.microsoft.com/fwlink/?LinkId=46794) を参照してください。</p></td>
+<td style="border:1px solid black;">すべてのオペレーティング システム</td>
+<td style="border:1px solid black;">Background Intelligent Transfer Service (BITS) 2.0</td>
+<td style="border:1px solid black;">Windows Server 2003 オペレーティング システムの場合は、ダウンロード センターの「<a href="http://go.microsoft.com/fwlink/?linkid=47251">Windows Server 2003 用バックグラウンド インテリジェント転送サービス (BITS) 2.0 および WinHTTP 5.1 の更新プログラム (KB842773)</a>」(http://go.microsoft.com/fwlink/?LinkId=47251) を参照してください。
+Windows Server 2000 オペレーティング システムの場合は、ダウンロード センターの「<a href="http://go.microsoft.com/fwlink/?linkid=46794">Windows 2000 用バックグラウンド インテリジェント転送サービス (BITS) 2.0 および WinHTTP 5.1 の更新プログラム (KB842773)</a>」(http://go.microsoft.com/fwlink/?LinkId=46794) を参照してください。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Windows Server 2003</p></td>
-<td style="border:1px solid black;"><p>Microsoft .NET Framework 1.1 Service Pack 1 for Windows Server 2003</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=47358">Microsoft .NET Framework 1.1 Service Pack 1 for Windows Server 2003</a></p>
-<p>また、<a href="http://go.microsoft.com/fwlink/?linkid=47370">Windows Update</a> で重要な更新プログラムやサービス パックを検索して、Microsoft .NET Framework 1.1 Service Pack 1 for Windows Server 2003 をインストールすることもできます。</p></td>
+<td style="border:1px solid black;">Windows Server 2003</td>
+<td style="border:1px solid black;">Microsoft .NET Framework 1.1 Service Pack 1 for Windows Server 2003</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=47358">Microsoft .NET Framework 1.1 Service Pack 1 for Windows Server 2003</a>
+また、<a href="http://go.microsoft.com/fwlink/?linkid=47370">Windows Update</a> で重要な更新プログラムやサービス パックを検索して、Microsoft .NET Framework 1.1 Service Pack 1 for Windows Server 2003 をインストールすることもできます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Windows Server 2003</p></td>
-<td style="border:1px solid black;"><p>Microsoft SQL と完全に互換性のあるデータベース ソフトウェア</p></td>
-<td style="border:1px solid black;"><p>N/A</p></td>
+<td style="border:1px solid black;">Windows Server 2003</td>
+<td style="border:1px solid black;">Microsoft SQL と完全に互換性のあるデータベース ソフトウェア</td>
+<td style="border:1px solid black;">N/A</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Windows 2000 Server</p></td>
-<td style="border:1px solid black;"><p>Microsoft SQL と完全に互換性のあるデータベース ソフトウェア</p></td>
-<td style="border:1px solid black;"><p>Microsoft SQL Server 2000 を使用していない場合は、Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) をインストールできます。インストールするには、いくつかの手順を実行する必要があります。詳細については、後半の「Windows 2000 での MSDE 2000 のインストール」を参照してください。</p></td>
+<td style="border:1px solid black;">Windows 2000 Server</td>
+<td style="border:1px solid black;">Microsoft SQL と完全に互換性のあるデータベース ソフトウェア</td>
+<td style="border:1px solid black;">Microsoft SQL Server 2000 を使用していない場合は、Microsoft SQL Server 2000 Desktop Engine (MSDE 2000) をインストールできます。インストールするには、いくつかの手順を実行する必要があります。詳細については、後半の「Windows 2000 での MSDE 2000 のインストール」を参照してください。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Windows 2000 Server</p></td>
-<td style="border:1px solid black;"><p>Microsoft Internet Explorer 6.0 Service Pack 1</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=47359">Internet Explorer 6 Service Pack 1</a></p></td>
+<td style="border:1px solid black;">Windows 2000 Server</td>
+<td style="border:1px solid black;">Microsoft Internet Explorer 6.0 Service Pack 1</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=47359">Internet Explorer 6 Service Pack 1</a></td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>Windows 2000 Server</p></td>
-<td style="border:1px solid black;"><p>Microsoft .NET Framework Version 1.1 再配布可能パッケージ (http://go.microsoft.com/fwlink/?LinkId=47369)</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=47369">Microsoft .NET Framework Version 1.1 再頒布可能パッケージ</a></p></td>
+<td style="border:1px solid black;">Windows 2000 Server</td>
+<td style="border:1px solid black;">Microsoft .NET Framework Version 1.1 再配布可能パッケージ (http://go.microsoft.com/fwlink/?LinkId=47369)</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=47369">Microsoft .NET Framework Version 1.1 再頒布可能パッケージ</a></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Windows 2000 Server</p></td>
-<td style="border:1px solid black;"><p>Microsoft .NET Framework 1.1 Service Pack 1</p></td>
-<td style="border:1px solid black;"><p><a href="http://go.microsoft.com/fwlink/?linkid=47368">Microsoft .NET Framework 1.1 Service Pack 1</a></p>
-<p>また、<a href="http://go.microsoft.com/fwlink/?linkid=47370">Windows Update (http://go.microsoft.com/fwlink/?LinkId=47370)</a> で重要な更新プログラムやサービス パックを検索して、Microsoft .NET Framework 1.1 Service Pack 1 for Windows Server 2000 をインストールすることもできます。</p></td>
+<td style="border:1px solid black;">Windows 2000 Server</td>
+<td style="border:1px solid black;">Microsoft .NET Framework 1.1 Service Pack 1</td>
+<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=47368">Microsoft .NET Framework 1.1 Service Pack 1</a>
+また、<a href="http://go.microsoft.com/fwlink/?linkid=47370">Windows Update (http://go.microsoft.com/fwlink/?LinkId=47370)</a> で重要な更新プログラムやサービス パックを検索して、Microsoft .NET Framework 1.1 Service Pack 1 for Windows Server 2000 をインストールすることもできます。</td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 これらの要件の他に、WSUS が必要に応じてサーバーに ASP.NET バージョン 1.1 をインストールまたは構成する場合があります。WSUS セットアップにより ASP.NET が構成されます。
 

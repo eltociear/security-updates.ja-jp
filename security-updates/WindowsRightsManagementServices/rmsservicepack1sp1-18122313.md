@@ -76,7 +76,7 @@ RMS SP1 では多数の改善とパフォーマンスの強化が図られてい
 
 ###  
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -94,34 +94,34 @@ RMS SP1 では多数の改善とパフォーマンスの強化が図られてい
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>1.0</p></td>
-<td style="border:1px solid black;"><p>以前のバージョンの機能すべて。</p>
-<p>サーバーのオフライン登録機能は使用できません。サーバーはインターネット経由で登録する必要があります。</p>
-<p>クライアントのセルフライセンス認証機能は使用できません。</p></td>
-<td style="border:1px solid black;"><p>以前のバージョンの機能すべて。</p>
-<p>サーバーのオフライン登録機能は使用できません。</p>
-<p>クライアントのセルフライセンス認証。</p></td>
-<td style="border:1px solid black;"><p>以前のバージョンの機能すべて。</p>
-<p>SP1 クライアントの場合、クライアントはセルフライセンス認証を実行できます。</p>
-<p>v1 クライアントの場合、クライアントはインターネット経由でライセンス認証を実行する必要があります。</p></td>
+<td style="border:1px solid black;">1.0</td>
+<td style="border:1px solid black;">以前のバージョンの機能すべて。
+サーバーのオフライン登録機能は使用できません。サーバーはインターネット経由で登録する必要があります。
+クライアントのセルフライセンス認証機能は使用できません。</td>
+<td style="border:1px solid black;">以前のバージョンの機能すべて。
+サーバーのオフライン登録機能は使用できません。
+クライアントのセルフライセンス認証。</td>
+<td style="border:1px solid black;">以前のバージョンの機能すべて。
+SP1 クライアントの場合、クライアントはセルフライセンス認証を実行できます。
+v1 クライアントの場合、クライアントはインターネット経由でライセンス認証を実行する必要があります。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>SP1</p></td>
-<td style="border:1px solid black;"><p>以前のバージョンの機能すべて。</p>
-<p>サーバーのオフライン登録。</p>
-<p>クライアントのセルフライセンス認証機能は使用できません。</p></td>
-<td style="border:1px solid black;"><p>すべての SP1 機能。</p>
-<p>サーバーのオフライン登録。</p>
-<p>クライアントのセルフライセンス認証。</p>
-<p>サーバー ロックボックス。</p></td>
-<td style="border:1px solid black;"><p>以前のバージョンのすべての機能と SP1 の機能。</p>
-<p>サーバーのオフライン登録。</p>
-<p>SP1 クライアントの場合、クライアントはセルフライセンス認証を実行できます。</p>
-<p>v1 クライアントの場合、クライアントはインターネット経由でライセンス認証を実行する必要があります。</p></td>
+<td style="border:1px solid black;">SP1</td>
+<td style="border:1px solid black;">以前のバージョンの機能すべて。
+サーバーのオフライン登録。
+クライアントのセルフライセンス認証機能は使用できません。</td>
+<td style="border:1px solid black;">すべての SP1 機能。
+サーバーのオフライン登録。
+クライアントのセルフライセンス認証。
+サーバー ロックボックス。</td>
+<td style="border:1px solid black;">以前のバージョンのすべての機能と SP1 の機能。
+サーバーのオフライン登録。
+SP1 クライアントの場合、クライアントはセルフライセンス認証を実行できます。
+v1 クライアントの場合、クライアントはインターネット経由でライセンス認証を実行する必要があります。</td>
 </tr>
 </tbody>
 </table>
-<p> </p>
+ 
 
 <span id="BKMK_6"></span>
 RMS SP1 の削除

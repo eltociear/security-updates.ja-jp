@@ -15,7 +15,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 
 **Windows 20000 既定のセキュリティ ポリシーの設定**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -25,785 +25,785 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>セキュリティの設定</p></th>
-<th><p>ローカル セキュリティ ポリシー (Professional および Server/Adv. Server)</p></th>
-<th><p>ドメイン コントローラ セキュリティ ポリシー</p></th>
-<th><p>ドメイン セキュリティ ポリシー</p></th>
+<th>セキュリティの設定</th>
+<th>ローカル セキュリティ ポリシー (Professional および Server/Adv. Server)</th>
+<th>ドメイン コントローラ セキュリティ ポリシー</th>
+<th>ドメイン セキュリティ ポリシー</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>アカウント ポリシー</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">アカウント ポリシー</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>パスワード ポリシー</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>パスワード ポリシー</strong></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>パスワードの履歴を記録する</em></p></td>
-<td style="border:1px solid black;"><p>パスワードを記憶しない</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>パスワードを 1 つ記憶する</p></td>
+<td style="border:1px solid black;"><em>パスワードの履歴を記録する</em></td>
+<td style="border:1px solid black;">パスワードを記憶しない</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">パスワードを 1 つ記憶する</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>パスワードの有効期間</em></p></td>
-<td style="border:1px solid black;"><p>42 日</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>42 日</p></td>
+<td style="border:1px solid black;"><em>パスワードの有効期間</em></td>
+<td style="border:1px solid black;">42 日</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">42 日</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>パスワードの変更禁止期間</em></p></td>
-<td style="border:1px solid black;"><p>0 日</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>0 日</p></td>
+<td style="border:1px solid black;"><em>パスワードの変更禁止期間</em></td>
+<td style="border:1px solid black;">0 日</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">0 日</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>パスワードの長さ</em></p></td>
-<td style="border:1px solid black;"><p>0 文字</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>0 文字</p></td>
+<td style="border:1px solid black;"><em>パスワードの長さ</em></td>
+<td style="border:1px solid black;">0 文字</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">0 文字</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>パスワードは要求する複雑さを満たす</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;"><em>パスワードは要求する複雑さを満たす</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>暗号化を元に戻せる状態でドメインのすべてのユーザーのパスワードを保存する</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;"><em>暗号化を元に戻せる状態でドメインのすべてのユーザーのパスワードを保存する</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>アカウント ロックアウト ポリシー</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>アカウント ロックアウト ポリシー</strong></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>ロックアウト期間</em></p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ロックアウト期間</em></td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>アカウントのロックアウトのしきい値</em></p></td>
-<td style="border:1px solid black;"><p>無効なログインの試みなし</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>無効なログインの試みなし</p></td>
+<td style="border:1px solid black;"><em>アカウントのロックアウトのしきい値</em></td>
+<td style="border:1px solid black;">無効なログインの試みなし</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">無効なログインの試みなし</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>ロックアウト カウントのリセット</em></p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ロックアウト カウントのリセット</em></td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>Kerberos ポリシー</strong></p></td>
-<td style="border:1px solid black;"><p><strong>(ポリシー利用不可)</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>Kerberos ポリシー</strong></td>
+<td style="border:1px solid black;"><strong>(ポリシー利用不可)</strong></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>ユーザー ログオンの制限を強制する</em></p></td>
-<td style="border:1px solid black;"><p>(利用不可)</p>
-<p>(ローカル既定値は有効)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
+<td style="border:1px solid black;"><em>ユーザー ログオンの制限を強制する</em></td>
+<td style="border:1px solid black;">(利用不可)
+(ローカル既定値は有効)</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">有効</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>サービス チケットの最長有効期間</em></p></td>
-<td style="border:1px solid black;"><p>(利用不可)</p>
-<p>(ローカル既定値は 60 分)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>600 分</p></td>
+<td style="border:1px solid black;"><em>サービス チケットの最長有効期間</em></td>
+<td style="border:1px solid black;">(利用不可)
+(ローカル既定値は 60 分)</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">600 分</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>チケットの最長有効期間</em></p></td>
-<td style="border:1px solid black;"><p>(利用不可)</p>
-<p>(ローカル既定値は 7 時間)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>10 時間</p></td>
+<td style="border:1px solid black;"><em>チケットの最長有効期間</em></td>
+<td style="border:1px solid black;">(利用不可)
+(ローカル既定値は 7 時間)</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">10 時間</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>ユーザー チケットを更新できる最長有効期間</em></p></td>
-<td style="border:1px solid black;"><p>(利用不可)</p>
-<p>(ローカル既定値は 10 日)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>7 日</p></td>
+<td style="border:1px solid black;"><em>ユーザー チケットを更新できる最長有効期間</em></td>
+<td style="border:1px solid black;">(利用不可)
+(ローカル既定値は 10 日)</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">7 日</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>コンピュータの時計の同期の最長トレランス</em></p></td>
-<td style="border:1px solid black;"><p>(利用不可)</p>
-<p>(ローカル既定値は 60 分)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>5 分</p></td>
+<td style="border:1px solid black;"><em>コンピュータの時計の同期の最長トレランス</em></td>
+<td style="border:1px solid black;">(利用不可)
+(ローカル既定値は 60 分)</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">5 分</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ローカル ポリシー</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">ローカル ポリシー</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>監査ポリシー</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>監査ポリシー</strong></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>アカウント ログオン イベントの監査</em></p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>アカウント ログオン イベントの監査</em></td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>アカウント管理の監査</em></p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>アカウント管理の監査</em></td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>ディレクトリ サービスのアクセスの監査</em></p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ディレクトリ サービスのアクセスの監査</em></td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>ログオン イベントの監査</em></p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ログオン イベントの監査</em></td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>オブジェクト アクセスの監査</em></p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>オブジェクト アクセスの監査</em></td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>ポリシーの変更の監査</em></p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ポリシーの変更の監査</em></td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>特権使用の監査</em></p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>特権使用の監査</em></td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>プロセス追跡の監査</em></p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>プロセス追跡の監査</em></td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>システム イベントの監査</em></p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>監査しない</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>システム イベントの監査</em></td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">監査しない</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><strong>ユーザー権利の割り当て</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>ユーザー権利の割り当て</strong></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>ネットワーク経由でコンピュータへアクセス</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p>
-<p>Power Users</p>
-<p>Users</p>
-<p>Everyone</p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Authenticated Users</p>
-<p>Everyone</p>
-<p>IUSR_W2K-<em>コンピュータ名</em></p>
-<p>IWAM_W2K-<em>コンピュータ名</em></p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ネットワーク経由でコンピュータへアクセス</em></td>
+<td style="border:1px solid black;">Administrators
+Backup Operators
+Power Users
+Users
+Everyone</td>
+<td style="border:1px solid black;">Administrators
+Authenticated Users
+Everyone
+IUSR_W2K-<em>コンピュータ名</em>
+IWAM_W2K-<em>コンピュータ名</em></td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>ペレーティング システムの一部として機能</em></p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ペレーティング システムの一部として機能</em></td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>ドメインにワークステーションを追加</em></p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>Authenticated Users</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ドメインにワークステーションを追加</em></td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">Authenticated Users</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>ファイルとディレクトリのバックアップ</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p>
-<p>Server Operators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ファイルとディレクトリのバックアップ</em></td>
+<td style="border:1px solid black;">Administrators
+Backup Operators</td>
+<td style="border:1px solid black;">Administrators
+Backup Operators
+Server Operators</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>走査チェックのバイパス</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p>
-<p>Power Users</p>
-<p>Users</p>
-<p>Everyone</p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Authenticated Users</p>
-<p>Everyone</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>走査チェックのバイパス</em></td>
+<td style="border:1px solid black;">Administrators
+Backup Operators
+Power Users
+Users
+Everyone</td>
+<td style="border:1px solid black;">Administrators
+Authenticated Users
+Everyone</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>システム時刻の変更</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Power Users</p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Server Operators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>システム時刻の変更</em></td>
+<td style="border:1px solid black;">Administrators
+Power Users</td>
+<td style="border:1px solid black;">Administrators
+Server Operators</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>ページ ファイルの作成</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ページ ファイルの作成</em></td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>トークン オブジェクトの作成</em></p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>トークン オブジェクトの作成</em></td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>永続的共有オブジェクトの作成</em></p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>永続的共有オブジェクトの作成</em></td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>プログラムのデバッグ</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>プログラムのデバッグ</em></td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>ネットワーク経由でコンピュータへアクセスを拒否する</em></p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ネットワーク経由でコンピュータへアクセスを拒否する</em></td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>バッチ ジョブとしてログオンを拒否する</em></p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>バッチ ジョブとしてログオンを拒否する</em></td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>サービスとしてログオンを拒否する</em></p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>サービスとしてログオンを拒否する</em></td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>ローカルでログオンを拒否する</em></p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ローカルでログオンを拒否する</em></td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>コンピュータとユーザー アカウントに委任時の信頼を付与</em></p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>コンピュータとユーザー アカウントに委任時の信頼を付与</em></td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>リモートコンピュータからの強制シャットダウン</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Server Operators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>リモートコンピュータからの強制シャットダウン</em></td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">Administrators
+Server Operators</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>セキュリティ監査の生成</em></p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>セキュリティ監査の生成</em></td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>クォータの増加</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>クォータの増加</em></td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>スケジューリング優先順位の繰り上げ</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>スケジューリング優先順位の繰り上げ</em></td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>デバイス ドライバのロードとアンロード</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>デバイス ドライバのロードとアンロード</em></td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>メモリ内のページのロック</em></p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>メモリ内のページのロック</em></td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>バッチ ジョブとしてログオン</em></p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>IUSR_W2K-<em>コンピュータ名</em></p>
-<p>IWAM_W2K-<em>コンピュータ名</em></p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>バッチ ジョブとしてログオン</em></td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">IUSR_W2K-<em>コンピュータ名</em>
+IWAM_W2K-<em>コンピュータ名</em></td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>サービスとしてログオン</em></p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>サービスとしてログオン</em></td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>ローカル ログオン</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p>
-<p>Power Users</p>
-<p>Users</p>
-<p><em>コンピュータ名</em>/Guest</p>
-<p><em>コンピュータ名</em>/TsInternetUser (Server/Adv. Server のみ)</p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Authenticated Users</p>
-<p>Backup Operators</p>
-<p>IUSR_W2K-<em>コンピュータ名</em></p>
-<p>Print Operators</p>
-<p>Server Operators</p>
-<p>TsInternetUser</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ローカル ログオン</em></td>
+<td style="border:1px solid black;">Administrators
+Backup Operators
+Power Users
+Users
+<em>コンピュータ名</em>/Guest
+<em>コンピュータ名</em>/TsInternetUser (Server/Adv. Server のみ)</td>
+<td style="border:1px solid black;">Administrators
+Authenticated Users
+Backup Operators
+IUSR_W2K-<em>コンピュータ名</em>
+Print Operators
+Server Operators
+TsInternetUser</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>監査とセキュリティ ログの管理</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>監査とセキュリティ ログの管理</em></td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>ファームウェア環境値の修正</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ファームウェア環境値の修正</em></td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>単一プロセスのプロファイル</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>単一プロセスのプロファイル</em></td>
+<td style="border:1px solid black;">Administrators
+Backup Operators</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>システム パフォーマンスのプロファイル</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>システム パフォーマンスのプロファイル</em></td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>ドッキング ステーションからコンピュータを削除</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p>
-<p>Users</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ドッキング ステーションからコンピュータを削除</em></td>
+<td style="border:1px solid black;">Administrators
+Backup Operators
+Users</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>プロセス レベル トークンの置き換え</em></p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>プロセス レベル トークンの置き換え</em></td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>ファイルとディレクトリの復元</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p>
-<p>Server Operators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ファイルとディレクトリの復元</em></td>
+<td style="border:1px solid black;">Administrators
+Backup Operators</td>
+<td style="border:1px solid black;">Administrators
+Backup Operators
+Server Operators</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>システムのシャットダウン</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p>
-<p>Backup Operators</p>
-<p>Power Users</p>
-<p>Users (Professional のみ)</p></td>
-<td style="border:1px solid black;"><p>Account Operators</p>
-<p>Administrators</p>
-<p>Backup Operators</p>
-<p>Print Operators</p>
-<p>Server Operators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>システムのシャットダウン</em></td>
+<td style="border:1px solid black;">Administrators
+Backup Operators
+Power Users
+Users (Professional のみ)</td>
+<td style="border:1px solid black;">Account Operators
+Administrators
+Backup Operators
+Print Operators
+Server Operators</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>ディレクトリ サービス データの同期化</em></p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ディレクトリ サービス データの同期化</em></td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>ファイルとその他のオブジェクトの所有権の取得</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ファイルとその他のオブジェクトの所有権の取得</em></td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>セキュリティ オプション</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">セキュリティ オプション</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>匿名接続の追加を制限する</em></p></td>
-<td style="border:1px solid black;"><p>なし。既定のアクセス許可に依存。</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>匿名接続の追加を制限する</em></td>
+<td style="border:1px solid black;">なし。既定のアクセス許可に依存。</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>サーバー オペレータがタスクのスケジュールを割り当てるのを許可する (ドメイン コントローラのみ)</em></p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>サーバー オペレータがタスクのスケジュールを割り当てるのを許可する (ドメイン コントローラのみ)</em></td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>システムをシャットダウンするのにログオンを必要としない</em></p></td>
-<td style="border:1px solid black;"><p>有効 (Professional のみ)</p>
-<p>無効 (Server/Adv. Server のみ)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>システムをシャットダウンするのにログオンを必要としない</em></td>
+<td style="border:1px solid black;">有効 (Professional のみ)
+無効 (Server/Adv. Server のみ)</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>リムーバブル NTFS メディアを取り出すのを許可する</em></p></td>
-<td style="border:1px solid black;"><p>Administrators</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>リムーバブル NTFS メディアを取り出すのを許可する</em></td>
+<td style="border:1px solid black;">Administrators</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>セッションを切断する前に、ある一定のアイドル時間を必要とする</em></p></td>
-<td style="border:1px solid black;"><p>15 分</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>セッションを切断する前に、ある一定のアイドル時間を必要とする</em></td>
+<td style="border:1px solid black;">15 分</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>グローバル システム オブジェクトへのアクセスを監査する</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>グローバル システム オブジェクトへのアクセスを監査する</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>バックアップと復元の特権の使用を監査する</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>バックアップと復元の特権の使用を監査する</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>ログオン時間を経過した場合は自動的にユーザーをログオフする</em></p></td>
-<td style="border:1px solid black;"><p>(スタンドアロンの Professional、Server、または Advanced Server ではこのオプションは利用不可)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
+<td style="border:1px solid black;"><em>ログオン時間を経過した場合は自動的にユーザーをログオフする</em></td>
+<td style="border:1px solid black;">(スタンドアロンの Professional、Server、または Advanced Server ではこのオプションは利用不可)</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">無効</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>ログオン時間が時間切れになった場合、自動的にユーザーをログオフする (ローカル)</em></p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ログオン時間が時間切れになった場合、自動的にユーザーをログオフする (ローカル)</em></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>システムのシャットダウン時に仮想メモリのページ ファイルをクリアする</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>システムのシャットダウン時に仮想メモリのページ ファイルをクリアする</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>常にクライアント側の通信にデジタル署名を行う</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>常にクライアント側の通信にデジタル署名を行う</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>可能な場合、クライアントの通信にデジタル署名を行う</em></p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>可能な場合、クライアントの通信にデジタル署名を行う</em></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>常にサーバーの通信にデジタル署名を行う</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>常にサーバーの通信にデジタル署名を行う</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>可能な場合、サーバーの通信にデジタル署名を行う</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>可能な場合、サーバーの通信にデジタル署名を行う</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>ログオンに Ctrl+Alt+Del を必要としない</em></p></td>
-<td style="border:1px solid black;"><p>未定義 (Professional のみ)</p>
-<p>無効 (Server/Adv. Server のみ)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ログオンに Ctrl+Alt+Del を必要としない</em></td>
+<td style="border:1px solid black;">未定義 (Professional のみ)
+無効 (Server/Adv. Server のみ)</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>ログオン画面に最後のユーザー名を表示しない</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ログオン画面に最後のユーザー名を表示しない</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>LAN Manager 認証レベル</em></p></td>
-<td style="border:1px solid black;"><p>LM &amp; NTLM 応答の送信</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>LAN Manager 認証レベル</em></td>
+<td style="border:1px solid black;">LM &amp; NTLM 応答の送信</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>ログオン時のユーザーへのメッセージのテキスト</em></p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ログオン時のユーザーへのメッセージのテキスト</em></td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>ログオン時のユーザーへのメッセージのタイトル</em></p></td>
-<td style="border:1px solid black;"><p>(空)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ログオン時のユーザーへのメッセージのタイトル</em></td>
+<td style="border:1px solid black;">(空)</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>ドメイン コントローラが利用できない場合に使用する、前回ログオンのキャッシュ数</em></p></td>
-<td style="border:1px solid black;"><p>10 ログオン</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ドメイン コントローラが利用できない場合に使用する、前回ログオンのキャッシュ数</em></td>
+<td style="border:1px solid black;">10 ログオン</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>コンピュータ アカウント パスワードのシステム保守をしない</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>コンピュータ アカウント パスワードのシステム保守をしない</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>ユーザーがプリンタ ドライバをインストールできないようにする</em></p></td>
-<td style="border:1px solid black;"><p>無効 (Professional のみ)</p>
-<p>有効 (Server/Adv. Server のみ)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>ユーザーがプリンタ ドライバをインストールできないようにする</em></td>
+<td style="border:1px solid black;">無効 (Professional のみ)
+有効 (Server/Adv. Server のみ)</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>パスワードが無効になる前にユーザーに変更を促す</em></p></td>
-<td style="border:1px solid black;"><p>14 日</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>パスワードが無効になる前にユーザーに変更を促す</em></td>
+<td style="border:1px solid black;">14 日</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>回復コンソール: 自動管理ログオンを許可する</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>回復コンソール: 自動管理ログオンを許可する</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>回復コンソール: すべてのドライブとフォルダに、フロッピーのコピーとアクセスを許可する</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>回復コンソール: すべてのドライブとフォルダに、フロッピーのコピーとアクセスを許可する</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>Administrator アカウント名の変更</em></p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>Administrator アカウント名の変更</em></td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>Guest アカウント名の変更</em></p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>Guest アカウント名の変更</em></td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>CD-ROM へのアクセスを、ローカル ログオン ユーザーだけに制限する</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>CD-ROM へのアクセスを、ローカル ログオン ユーザーだけに制限する</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>フロッピーへのアクセスを、ローカル ログオン ユーザーだけに制限する</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>フロッピーへのアクセスを、ローカル ログオン ユーザーだけに制限する</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>セキュリティで保護されたチャネル: 常にセキュリティ チャネルのデータをデジタル的に暗号化または署名する</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>セキュリティで保護されたチャネル: 常にセキュリティ チャネルのデータをデジタル的に暗号化または署名する</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>セキュリティで保護されたチャネル: 可能な場合、セキュリティ チャネルのデータをデジタル的に暗号化または署名する</em></p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>セキュリティで保護されたチャネル: 可能な場合、セキュリティ チャネルのデータをデジタル的に暗号化または署名する</em></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>セキュリティで保護されたチャネル: 可能な場合、セキュリティ チャネルのデータをデジタル的に署名する</em></p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>セキュリティで保護されたチャネル: 可能な場合、セキュリティ チャネルのデータをデジタル的に署名する</em></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>セキュリティで保護されたチャネル: 強力な (Windows 2000 かそれ以降のバージョン) セッション キーを必要とする</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>セキュリティで保護されたチャネル: 強力な (Windows 2000 かそれ以降のバージョン) セッション キーを必要とする</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>システム パーティションの保護 (RISC プラットフォームのみ)</em></p></td>
-<td style="border:1px solid black;"><p>(スタンドアロンの Professional、Server、または Advanced Server ではこのオプションは利用不可)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>システム パーティションの保護 (RISC プラットフォームのみ)</em></td>
+<td style="border:1px solid black;">(スタンドアロンの Professional、Server、または Advanced Server ではこのオプションは利用不可)</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>サード パーティ製の SMB サーバーへ接続するためのパスワードを、暗号化しないで送信する</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>サード パーティ製の SMB サーバーへ接続するためのパスワードを、暗号化しないで送信する</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>セキュリティ監査のログを記録できない場合は直ちにシステムをシャットダウンする</em></p></td>
-<td style="border:1px solid black;"><p>無効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>セキュリティ監査のログを記録できない場合は直ちにシステムをシャットダウンする</em></td>
+<td style="border:1px solid black;">無効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>スマート カード取り出し時の動作</em></p></td>
-<td style="border:1px solid black;"><p>無動作</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>スマート カード取り出し時の動作</em></td>
+<td style="border:1px solid black;">無動作</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>グローバル システム オブジェクトの既定のアクセス許可を強化する (例: シンボリック リンク)</em></p></td>
-<td style="border:1px solid black;"><p>有効</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>グローバル システム オブジェクトの既定のアクセス許可を強化する (例: シンボリック リンク)</em></td>
+<td style="border:1px solid black;">有効</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>署名されていないドライバのインストール時の動作</em></p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>署名されていないドライバのインストール時の動作</em></td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>署名されていないドライバ以外のインストール時の動作</em></p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>署名されていないドライバ以外のインストール時の動作</em></td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>イベント ログ</p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;">イベント ログ</td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><strong>イベント ログの設定</strong></p></td>
-<td style="border:1px solid black;"><p><strong>イベント ビューアにおけるログ プロパティの設定</strong></p></td>
-<td style="border:1px solid black;"><p> </p></td>
-<td style="border:1px solid black;"><p> </p></td>
+<td style="border:1px solid black;"><strong>イベント ログの設定</strong></td>
+<td style="border:1px solid black;"><strong>イベント ビューアにおけるログ プロパティの設定</strong></td>
+<td style="border:1px solid black;"> </td>
+<td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>アプリケーション ログの最大サイズ</em></p></td>
-<td style="border:1px solid black;"><p>512 Kb</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>アプリケーション ログの最大サイズ</em></td>
+<td style="border:1px solid black;">512 Kb</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>セキュリティ ログの最大サイズ</em></p></td>
-<td style="border:1px solid black;"><p>512 Kb</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>セキュリティ ログの最大サイズ</em></td>
+<td style="border:1px solid black;">512 Kb</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>システム ログの最大サイズ</em></p></td>
-<td style="border:1px solid black;"><p>512 Kb</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>システム ログの最大サイズ</em></td>
+<td style="border:1px solid black;">512 Kb</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>アプリケーション ログのゲスト アクセスの制限</em></p></td>
-<td style="border:1px solid black;"><p>(利用不可)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>アプリケーション ログのゲスト アクセスの制限</em></td>
+<td style="border:1px solid black;">(利用不可)</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>セキュリティ ログのゲスト アクセスの制限</em></p></td>
-<td style="border:1px solid black;"><p>(利用不可)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>セキュリティ ログのゲスト アクセスの制限</em></td>
+<td style="border:1px solid black;">(利用不可)</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>システム ログのゲスト アクセスの制限</em></p></td>
-<td style="border:1px solid black;"><p>(利用不可)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>システム ログのゲスト アクセスの制限</em></td>
+<td style="border:1px solid black;">(利用不可)</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>アプリケーション ログの保存日数</em></p></td>
-<td style="border:1px solid black;"><p>7 日を超えたイベントを上書きする</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>アプリケーション ログの保存日数</em></td>
+<td style="border:1px solid black;">7 日を超えたイベントを上書きする</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>セキュリティ ログの保存日数</em></p></td>
-<td style="border:1px solid black;"><p>7 日を超えたイベントを上書きする</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>セキュリティ ログの保存日数</em></td>
+<td style="border:1px solid black;">7 日を超えたイベントを上書きする</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>システム ログの保存日数</em></p></td>
-<td style="border:1px solid black;"><p>7 日を超えたイベントを上書きする</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>システム ログの保存日数</em></td>
+<td style="border:1px solid black;">7 日を超えたイベントを上書きする</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>アプリケーション ログの保存方法</em></p></td>
-<td style="border:1px solid black;"><p>7 日を超えたイベントを上書きする</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>アプリケーション ログの保存方法</em></td>
+<td style="border:1px solid black;">7 日を超えたイベントを上書きする</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>セキュリティ ログの保存方法</em></p></td>
-<td style="border:1px solid black;"><p>7 日を超えたイベントを上書きする</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>セキュリティ ログの保存方法</em></td>
+<td style="border:1px solid black;">7 日を超えたイベントを上書きする</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p><em>システム ログの保存方法</em></p></td>
-<td style="border:1px solid black;"><p>7 日を超えたイベントを上書きする</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>システム ログの保存方法</em></td>
+<td style="border:1px solid black;">7 日を超えたイベントを上書きする</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p><em>セキュリティの監査ログがいっぱいになったら、コンピュータをシャットダウンする</em></p></td>
-<td style="border:1px solid black;"><p>(利用不可)</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
-<td style="border:1px solid black;"><p>未定義</p></td>
+<td style="border:1px solid black;"><em>セキュリティの監査ログがいっぱいになったら、コンピュータをシャットダウンする</em></td>
+<td style="border:1px solid black;">(利用不可)</td>
+<td style="border:1px solid black;">未定義</td>
+<td style="border:1px solid black;">未定義</td>
 </tr>
 </tbody>
 </table>

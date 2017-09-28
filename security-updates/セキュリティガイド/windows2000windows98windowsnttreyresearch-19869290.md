@@ -119,7 +119,7 @@ SRMD の目標は、リスクを定量化し、組織の制御範囲内にある
 
 **表 2.1: Trey のコンピュータの役割**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -129,84 +129,84 @@ SRMD の目標は、リスクを定量化し、組織の制御範囲内にある
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>役割</p></th>
-<th><p>役割で使用されるオペレーティング システム</p></th>
-<th><p>場所</p></th>
-<th><p>ハードウェアの種類</p></th>
+<th>役割</th>
+<th>役割で使用されるオペレーティング システム</th>
+<th>場所</th>
+<th>ハードウェアの種類</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>アプリケーション/Web サーバー</p></td>
-<td style="border:1px solid black;"><p>Windows NT 4.0</p></td>
-<td style="border:1px solid black;"><p>本社</p></td>
-<td style="border:1px solid black;"><p>従来のサーバー</p></td>
+<td style="border:1px solid black;">アプリケーション/Web サーバー</td>
+<td style="border:1px solid black;">Windows NT 4.0</td>
+<td style="border:1px solid black;">本社</td>
+<td style="border:1px solid black;">従来のサーバー</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Dynamic Host Configuration Protocol (DHCP) サーバー</p></td>
-<td style="border:1px solid black;"><p>Windows Server 2003</p></td>
-<td style="border:1px solid black;"><p>本社、営業所</p></td>
-<td style="border:1px solid black;"><p>従来のサーバー</p></td>
+<td style="border:1px solid black;">Dynamic Host Configuration Protocol (DHCP) サーバー</td>
+<td style="border:1px solid black;">Windows Server 2003</td>
+<td style="border:1px solid black;">本社、営業所</td>
+<td style="border:1px solid black;">従来のサーバー</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ドメイン ネーム システム (DNS) サーバー</p></td>
-<td style="border:1px solid black;"><p>Windows Server 2003</p></td>
-<td style="border:1px solid black;"><p>本社</p></td>
-<td style="border:1px solid black;"><p>従来のサーバー</p></td>
+<td style="border:1px solid black;">ドメイン ネーム システム (DNS) サーバー</td>
+<td style="border:1px solid black;">Windows Server 2003</td>
+<td style="border:1px solid black;">本社</td>
+<td style="border:1px solid black;">従来のサーバー</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ドメイン コントローラ</p></td>
-<td style="border:1px solid black;"><p>Windows Server 2003</p></td>
-<td style="border:1px solid black;"><p>本社、営業所</p></td>
-<td style="border:1px solid black;"><p>従来のサーバー</p></td>
+<td style="border:1px solid black;">ドメイン コントローラ</td>
+<td style="border:1px solid black;">Windows Server 2003</td>
+<td style="border:1px solid black;">本社、営業所</td>
+<td style="border:1px solid black;">従来のサーバー</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>経営幹部のモバイル コンピュータ</p></td>
-<td style="border:1px solid black;"><p>Windows 2000、Windows XP</p></td>
-<td style="border:1px solid black;"><p>モバイル</p></td>
-<td style="border:1px solid black;"><p>モバイル コンピュータ</p></td>
+<td style="border:1px solid black;">経営幹部のモバイル コンピュータ</td>
+<td style="border:1px solid black;">Windows 2000、Windows XP</td>
+<td style="border:1px solid black;">モバイル</td>
+<td style="border:1px solid black;">モバイル コンピュータ</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>経営幹部/特殊用途のワークステーション</p></td>
-<td style="border:1px solid black;"><p>Windows XP</p></td>
-<td style="border:1px solid black;"><p>本社</p></td>
-<td style="border:1px solid black;"><p>従来のデスクトップ</p></td>
+<td style="border:1px solid black;">経営幹部/特殊用途のワークステーション</td>
+<td style="border:1px solid black;">Windows XP</td>
+<td style="border:1px solid black;">本社</td>
+<td style="border:1px solid black;">従来のデスクトップ</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>現場のエンジニア システム</p></td>
-<td style="border:1px solid black;"><p>Windows 98</p></td>
-<td style="border:1px solid black;"><p>モバイル</p></td>
-<td style="border:1px solid black;"><p>モバイル コンピュータ</p></td>
+<td style="border:1px solid black;">現場のエンジニア システム</td>
+<td style="border:1px solid black;">Windows 98</td>
+<td style="border:1px solid black;">モバイル</td>
+<td style="border:1px solid black;">モバイル コンピュータ</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ファイル/プリント サーバー</p></td>
-<td style="border:1px solid black;"><p>Windows NT 4.0</p></td>
-<td style="border:1px solid black;"><p>本社、営業所</p></td>
-<td style="border:1px solid black;"><p>従来のサーバー</p></td>
+<td style="border:1px solid black;">ファイル/プリント サーバー</td>
+<td style="border:1px solid black;">Windows NT 4.0</td>
+<td style="border:1px solid black;">本社、営業所</td>
+<td style="border:1px solid black;">従来のサーバー</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>メッセージング サーバー</p></td>
-<td style="border:1px solid black;"><p>Windows NT 4.0</p></td>
-<td style="border:1px solid black;"><p>本社</p></td>
-<td style="border:1px solid black;"><p>従来のサーバー</p></td>
+<td style="border:1px solid black;">メッセージング サーバー</td>
+<td style="border:1px solid black;">Windows NT 4.0</td>
+<td style="border:1px solid black;">本社</td>
+<td style="border:1px solid black;">従来のサーバー</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>特殊用途の制御システム</p></td>
-<td style="border:1px solid black;"><p>Windows NT 4.0、一部 Windows 98</p></td>
-<td style="border:1px solid black;"><p>営業所</p></td>
-<td style="border:1px solid black;"><p>従来のサーバーとデスクトップの混在</p></td>
+<td style="border:1px solid black;">特殊用途の制御システム</td>
+<td style="border:1px solid black;">Windows NT 4.0、一部 Windows 98</td>
+<td style="border:1px solid black;">営業所</td>
+<td style="border:1px solid black;">従来のサーバーとデスクトップの混在</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ユーザー ワークステーション</p></td>
-<td style="border:1px solid black;"><p>Windows 98、一部</p></td>
-<td style="border:1px solid black;"><p>本社、営業所</p></td>
-<td style="border:1px solid black;"><p>従来のデスクトップ</p></td>
+<td style="border:1px solid black;">ユーザー ワークステーション</td>
+<td style="border:1px solid black;">Windows 98、一部</td>
+<td style="border:1px solid black;">本社、営業所</td>
+<td style="border:1px solid black;">従来のデスクトップ</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>Windows Internet Name Service (WINS) サーバー</p></td>
-<td style="border:1px solid black;"><p>Windows Server 2003</p></td>
-<td style="border:1px solid black;"><p>本社、営業所</p></td>
-<td style="border:1px solid black;"><p>従来のサーバー</p></td>
+<td style="border:1px solid black;">Windows Internet Name Service (WINS) サーバー</td>
+<td style="border:1px solid black;">Windows Server 2003</td>
+<td style="border:1px solid black;">本社、営業所</td>
+<td style="border:1px solid black;">従来のサーバー</td>
 </tr>
 </tbody>
 </table>
@@ -251,7 +251,7 @@ Trey の IT エンジニアは、ネットワーク上に存在する役割お�
   
 **表 2.2: 物理的なセキュリティの脅威および軽減対策**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -262,41 +262,41 @@ Trey の IT エンジニアは、ネットワーク上に存在する役割お�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>脅威</p></th>
-<th><p>詳細/攻撃経路</p></th>
-<th><p>影響/範囲</p></th>
-<th><p>発生の可能性</p></th>
-<th><p>使用可能な軽減対策</p></th>
+<th>脅威</th>
+<th>詳細/攻撃経路</th>
+<th>影響/範囲</th>
+<th>発生の可能性</th>
+<th>使用可能な軽減対策</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>環境的な損害</p></td>
-<td style="border:1px solid black;"><p>火災、洪水、天候などの外部環境要因。</p></td>
-<td style="border:1px solid black;"><p>高/ネットワーク全体</p></td>
-<td style="border:1px solid black;"><p>低</p></td>
-<td style="border:1px solid black;"><p>保険、障害復旧およびビジネス継続計画。</p></td>
+<td style="border:1px solid black;">環境的な損害</td>
+<td style="border:1px solid black;">火災、洪水、天候などの外部環境要因。</td>
+<td style="border:1px solid black;">高/ネットワーク全体</td>
+<td style="border:1px solid black;">低</td>
+<td style="border:1px solid black;">保険、障害復旧およびビジネス継続計画。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>インフラストラクチャ サービスの一時的な停止</p></td>
-<td style="border:1px solid black;"><p>ワイド エリア ネットワーク (WAN) の停止/インターネット接続、電力、冷却などの重要なインフラストラクチャ サービスが Trey によって提供されない。</p></td>
-<td style="border:1px solid black;"><p>中/ネットワーク全体</p></td>
-<td style="border:1px solid black;"><p>中</p></td>
-<td style="border:1px solid black;"><p>このような停止は、ほとんどの場合短期間で回復します。</p></td>
+<td style="border:1px solid black;">インフラストラクチャ サービスの一時的な停止</td>
+<td style="border:1px solid black;">ワイド エリア ネットワーク (WAN) の停止/インターネット接続、電力、冷却などの重要なインフラストラクチャ サービスが Trey によって提供されない。</td>
+<td style="border:1px solid black;">中/ネットワーク全体</td>
+<td style="border:1px solid black;">中</td>
+<td style="border:1px solid black;">このような停止は、ほとんどの場合短期間で回復します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>主要コンピュータの物理的な損傷</p></td>
-<td style="border:1px solid black;"><p>偶発的または意図的な損傷。</p></td>
-<td style="border:1px solid black;"><p>中/単一マシン</p></td>
-<td style="border:1px solid black;"><p>低</p></td>
-<td style="border:1px solid black;"><p>バックアップ、機密性の高いコンピュータへの物理的アクセスの制御。</p></td>
+<td style="border:1px solid black;">主要コンピュータの物理的な損傷</td>
+<td style="border:1px solid black;">偶発的または意図的な損傷。</td>
+<td style="border:1px solid black;">中/単一マシン</td>
+<td style="border:1px solid black;">低</td>
+<td style="border:1px solid black;">バックアップ、機密性の高いコンピュータへの物理的アクセスの制御。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>単一コンピュータの侵害</p></td>
-<td style="border:1px solid black;"><p>攻撃者によるコンピュータへの物理的アクセスおよび侵害。</p></td>
-<td style="border:1px solid black;"><p>高/単一マシン</p></td>
-<td style="border:1px solid black;"><p>低</p></td>
-<td style="border:1px solid black;"><p>物理的アクセスの制御、ブート強化、ローカル管理アカウントの強固なパスワード、Syskey の使用によるローカルのセキュリティ アカウント マネージャ データベース データの保護。</p></td>
+<td style="border:1px solid black;">単一コンピュータの侵害</td>
+<td style="border:1px solid black;">攻撃者によるコンピュータへの物理的アクセスおよび侵害。</td>
+<td style="border:1px solid black;">高/単一マシン</td>
+<td style="border:1px solid black;">低</td>
+<td style="border:1px solid black;">物理的アクセスの制御、ブート強化、ローカル管理アカウントの強固なパスワード、Syskey の使用によるローカルのセキュリティ アカウント マネージャ データベース データの保護。</td>
 </tr>
 </tbody>
 </table>
@@ -307,7 +307,7 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
   
 **表 2.3: サービス拒否の脅威および軽減対策**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -318,62 +318,62 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>脅威</p></th>
-<th><p>詳細/攻撃経路</p></th>
-<th><p>影響/範囲</p></th>
-<th><p>発生の可能性</p></th>
-<th><p>使用可能な軽減対策</p></th>
+<th>脅威</th>
+<th>詳細/攻撃経路</th>
+<th>影響/範囲</th>
+<th>発生の可能性</th>
+<th>使用可能な軽減対策</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ネットワーク トラフィックの改ざんまたはなりすまし</p></td>
-<td style="border:1px solid black;"><p>攻撃者は、不適切または無効なメッセージをホストに送信します。</p></td>
-<td style="border:1px solid black;"><p>高/ネットワーク全体</p></td>
-<td style="border:1px solid black;"><p>低</p></td>
-<td style="border:1px solid black;"><p>ネットワークの入口フィルタリング。</p></td>
+<td style="border:1px solid black;">ネットワーク トラフィックの改ざんまたはなりすまし</td>
+<td style="border:1px solid black;">攻撃者は、不適切または無効なメッセージをホストに送信します。</td>
+<td style="border:1px solid black;">高/ネットワーク全体</td>
+<td style="border:1px solid black;">低</td>
+<td style="border:1px solid black;">ネットワークの入口フィルタリング。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>DNS サービスの改ざん</p></td>
-<td style="border:1px solid black;"><p>攻撃者は、DNS トラフィックのなりすまし、汚染、または妨害を行います。</p></td>
-<td style="border:1px solid black;"><p>高/ネットワーク全体</p></td>
-<td style="border:1px solid black;"><p>低</p></td>
-<td style="border:1px solid black;"><p>DNS サービスの品質を監視することにより、サービスの問題を迅速に検出できます。</p></td>
+<td style="border:1px solid black;">DNS サービスの改ざん</td>
+<td style="border:1px solid black;">攻撃者は、DNS トラフィックのなりすまし、汚染、または妨害を行います。</td>
+<td style="border:1px solid black;">高/ネットワーク全体</td>
+<td style="border:1px solid black;">低</td>
+<td style="border:1px solid black;">DNS サービスの品質を監視することにより、サービスの問題を迅速に検出できます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>標的トラフィックの改ざんまたはなりすまし</p></td>
-<td style="border:1px solid black;"><p>攻撃者は、個々のコンピュータまたは資産を標的にします。</p></td>
-<td style="border:1px solid black;"><p>高/単一コンピュータ</p></td>
-<td style="border:1px solid black;"><p>低</p></td>
-<td style="border:1px solid black;"><p>ポートおよびパケット フィルタリング、ネットワークのセグメンテーション、パーソナル ファイアウォール。</p></td>
+<td style="border:1px solid black;">標的トラフィックの改ざんまたはなりすまし</td>
+<td style="border:1px solid black;">攻撃者は、個々のコンピュータまたは資産を標的にします。</td>
+<td style="border:1px solid black;">高/単一コンピュータ</td>
+<td style="border:1px solid black;">低</td>
+<td style="border:1px solid black;">ポートおよびパケット フィルタリング、ネットワークのセグメンテーション、パーソナル ファイアウォール。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ユーザー アカウントのロックアウト</p></td>
-<td style="border:1px solid black;"><p>攻撃者は、許可されている回数以上にパスワードの入力を試行して、アカウント ロックアウト ポリシーを起動します。</p></td>
-<td style="border:1px solid black;"><p>中/ネットワーク全体</p></td>
-<td style="border:1px solid black;"><p>低</p></td>
-<td style="border:1px solid black;"><p>ロックアウトされる回数が設定されていないアカウント ロックアウト ポリシーの展開。</p></td>
+<td style="border:1px solid black;">ユーザー アカウントのロックアウト</td>
+<td style="border:1px solid black;">攻撃者は、許可されている回数以上にパスワードの入力を試行して、アカウント ロックアウト ポリシーを起動します。</td>
+<td style="border:1px solid black;">中/ネットワーク全体</td>
+<td style="border:1px solid black;">低</td>
+<td style="border:1px solid black;">ロックアウトされる回数が設定されていないアカウント ロックアウト ポリシーの展開。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>サービス アカウントのロックアウト</p></td>
-<td style="border:1px solid black;"><p>攻撃者は、パスワードの再試行回数を超過することによって、サービス アカウントへのアクセスを拒否させます。</p></td>
-<td style="border:1px solid black;"><p>中/ネットワーク全体</p></td>
-<td style="border:1px solid black;"><p>低</p></td>
-<td style="border:1px solid black;"><p>ロックアウトされる回数が設定されていないアカウント ロックアウト ポリシーの展開。</p></td>
+<td style="border:1px solid black;">サービス アカウントのロックアウト</td>
+<td style="border:1px solid black;">攻撃者は、パスワードの再試行回数を超過することによって、サービス アカウントへのアクセスを拒否させます。</td>
+<td style="border:1px solid black;">中/ネットワーク全体</td>
+<td style="border:1px solid black;">低</td>
+<td style="border:1px solid black;">ロックアウトされる回数が設定されていないアカウント ロックアウト ポリシーの展開。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>帯域幅消費攻撃</p></td>
-<td style="border:1px solid black;"><p>攻撃者は、ネットワークまたはデバイスを標的として意図的に帯域幅を消費します。</p></td>
-<td style="border:1px solid black;"><p>中/ネットワーク全体</p></td>
-<td style="border:1px solid black;"><p>低</p></td>
-<td style="border:1px solid black;"><p>境界領域ネットワークの場合、入口フィルタリングおよびインターネット サービス プロバイダ (ISP) の監視。 内部ホストの場合、Transmission Control Protocol/Internet Protocol (TCP/IP) スタックの強化および入口フィルタリング。</p></td>
+<td style="border:1px solid black;">帯域幅消費攻撃</td>
+<td style="border:1px solid black;">攻撃者は、ネットワークまたはデバイスを標的として意図的に帯域幅を消費します。</td>
+<td style="border:1px solid black;">中/ネットワーク全体</td>
+<td style="border:1px solid black;">低</td>
+<td style="border:1px solid black;">境界領域ネットワークの場合、入口フィルタリングおよびインターネット サービス プロバイダ (ISP) の監視。 内部ホストの場合、Transmission Control Protocol/Internet Protocol (TCP/IP) スタックの強化および入口フィルタリング。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>改ざんされた DHCP/WINS サービス</p></td>
-<td style="border:1px solid black;"><p>攻撃者は、クライアントとインフラストラクチャ サーバー間の DHCP または WINS トラフィックのなりすまし、汚染、または妨害を行います。</p></td>
-<td style="border:1px solid black;"><p>低/単一コンピュータ</p></td>
-<td style="border:1px solid black;"><p>低</p></td>
-<td style="border:1px solid black;"><p>複数の DHCP および WINS サーバーによる範囲の重複の実行。</p></td>
+<td style="border:1px solid black;">改ざんされた DHCP/WINS サービス</td>
+<td style="border:1px solid black;">攻撃者は、クライアントとインフラストラクチャ サーバー間の DHCP または WINS トラフィックのなりすまし、汚染、または妨害を行います。</td>
+<td style="border:1px solid black;">低/単一コンピュータ</td>
+<td style="border:1px solid black;">低</td>
+<td style="border:1px solid black;">複数の DHCP および WINS サーバーによる範囲の重複の実行。</td>
 </tr>
 </tbody>
 </table>
@@ -384,7 +384,7 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
   
 **表 2.4: 悪意のあるコードの脅威および軽減対策**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -395,34 +395,34 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>脅威</p></th>
-<th><p>詳細/攻撃経路</p></th>
-<th><p>影響/範囲</p></th>
-<th><p>発生の可能性</p></th>
-<th><p>使用可能な軽減対策</p></th>
+<th>脅威</th>
+<th>詳細/攻撃経路</th>
+<th>影響/範囲</th>
+<th>発生の可能性</th>
+<th>使用可能な軽減対策</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ウイルス感染</p></td>
-<td style="border:1px solid black;"><p>ウイルスは、内部ユーザーによって Trey のネットワークに持ち込まれたあとに拡大します。</p></td>
-<td style="border:1px solid black;"><p>高/ネットワーク全体</p></td>
-<td style="border:1px solid black;"><p>中</p></td>
-<td style="border:1px solid black;"><p>クライアントおよびサーバーへのウイルス対策ソフトウェアの展開、ユーザー教育、パッチ管理、古いコンピュータの隔離。</p></td>
+<td style="border:1px solid black;">ウイルス感染</td>
+<td style="border:1px solid black;">ウイルスは、内部ユーザーによって Trey のネットワークに持ち込まれたあとに拡大します。</td>
+<td style="border:1px solid black;">高/ネットワーク全体</td>
+<td style="border:1px solid black;">中</td>
+<td style="border:1px solid black;">クライアントおよびサーバーへのウイルス対策ソフトウェアの展開、ユーザー教育、パッチ管理、古いコンピュータの隔離。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>悪意のあるコードのユーザーによる実行</p></td>
-<td style="border:1px solid black;"><p>ユーザーが、無害を装った悪意のあるコードをダウンロードして実行します。</p></td>
-<td style="border:1px solid black;"><p>高/単一コンピュータ</p></td>
-<td style="border:1px solid black;"><p>中</p></td>
-<td style="border:1px solid black;"><p>Microsoft Internet Explorer の強化、ユーザー教育。</p></td>
+<td style="border:1px solid black;">悪意のあるコードのユーザーによる実行</td>
+<td style="border:1px solid black;">ユーザーが、無害を装った悪意のあるコードをダウンロードして実行します。</td>
+<td style="border:1px solid black;">高/単一コンピュータ</td>
+<td style="border:1px solid black;">中</td>
+<td style="border:1px solid black;">Microsoft Internet Explorer の強化、ユーザー教育。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ワーム感染</p></td>
-<td style="border:1px solid black;"><p>ワームは、インターネットまたは感染した内部コンピュータによって持ち込まれたあとに拡大します。</p></td>
-<td style="border:1px solid black;"><p>高/ネットワーク全体</p></td>
-<td style="border:1px solid black;"><p>低</p></td>
-<td style="border:1px solid black;"><p>悪用対象となる脆弱性を低減するパッチ管理、古いコンピュータの隔離。</p></td>
+<td style="border:1px solid black;">ワーム感染</td>
+<td style="border:1px solid black;">ワームは、インターネットまたは感染した内部コンピュータによって持ち込まれたあとに拡大します。</td>
+<td style="border:1px solid black;">高/ネットワーク全体</td>
+<td style="border:1px solid black;">低</td>
+<td style="border:1px solid black;">悪用対象となる脆弱性を低減するパッチ管理、古いコンピュータの隔離。</td>
 </tr>
 </tbody>
 </table>
@@ -433,7 +433,7 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
   
 **表 2.5: 情報の漏えいの脅威および軽減対策**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -444,41 +444,41 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>脅威</p></th>
-<th><p>詳細/攻撃経路</p></th>
-<th><p>影響/範囲</p></th>
-<th><p>発生の可能性</p></th>
-<th><p>使用可能な軽減対策</p></th>
+<th>脅威</th>
+<th>詳細/攻撃経路</th>
+<th>影響/範囲</th>
+<th>発生の可能性</th>
+<th>使用可能な軽減対策</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ネットワーク スニッフィング</p></td>
-<td style="border:1px solid black;"><p>攻撃者は、パスワードなど機密性の高いデータを取得するために、ネットワーク トラフィックを密かに監視します。</p></td>
-<td style="border:1px solid black;"><p>高/ネットワーク全体</p></td>
-<td style="border:1px solid black;"><p>中</p></td>
-<td style="border:1px solid black;"><p>ネットワークの物理的アクセス制御、Server Message Block (SMB) 署名、NTLM または LM 認証に代わる Windows NT LAN Manager バージョン 2 (NTLMv2) の使用。</p></td>
+<td style="border:1px solid black;">ネットワーク スニッフィング</td>
+<td style="border:1px solid black;">攻撃者は、パスワードなど機密性の高いデータを取得するために、ネットワーク トラフィックを密かに監視します。</td>
+<td style="border:1px solid black;">高/ネットワーク全体</td>
+<td style="border:1px solid black;">中</td>
+<td style="border:1px solid black;">ネットワークの物理的アクセス制御、Server Message Block (SMB) 署名、NTLM または LM 認証に代わる Windows NT LAN Manager バージョン 2 (NTLMv2) の使用。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>モバイル/ラップトップ コンピュータからのデータの盗難</p></td>
-<td style="border:1px solid black;"><p>攻撃者は、コンピュータを盗み出し、そこからデータを取り出します。</p></td>
-<td style="border:1px solid black;"><p>高/ネットワーク全体</p></td>
-<td style="border:1px solid black;"><p>中</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;">モバイル/ラップトップ コンピュータからのデータの盗難</td>
+<td style="border:1px solid black;">攻撃者は、コンピュータを盗み出し、そこからデータを取り出します。</td>
+<td style="border:1px solid black;">高/ネットワーク全体</td>
+<td style="border:1px solid black;">中</td>
+<td style="border:1px solid black;">なし</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>パスワード データの漏えい</p></td>
-<td style="border:1px solid black;"><p>攻撃者は、侵害されたコンピュータまたはネットワークからパスワード ハッシュを盗み出します。</p></td>
-<td style="border:1px solid black;"><p>高/ネットワーク全体</p></td>
-<td style="border:1px solid black;"><p>低</p></td>
-<td style="border:1px solid black;"><p>ドメイン コントローラの物理的アクセス制御、Syskey の使用、NTLMv2。</p></td>
+<td style="border:1px solid black;">パスワード データの漏えい</td>
+<td style="border:1px solid black;">攻撃者は、侵害されたコンピュータまたはネットワークからパスワード ハッシュを盗み出します。</td>
+<td style="border:1px solid black;">高/ネットワーク全体</td>
+<td style="border:1px solid black;">低</td>
+<td style="border:1px solid black;">ドメイン コントローラの物理的アクセス制御、Syskey の使用、NTLMv2。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>意図的な情報の漏えい</p></td>
-<td style="border:1px solid black;"><p>権限のあるユーザーが、権限のない者へ意図的に情報を漏えいします。</p></td>
-<td style="border:1px solid black;"><p>高/単一コンピュータ</p></td>
-<td style="border:1px solid black;"><p>低</p></td>
-<td style="border:1px solid black;"><p>なし</p></td>
+<td style="border:1px solid black;">意図的な情報の漏えい</td>
+<td style="border:1px solid black;">権限のあるユーザーが、権限のない者へ意図的に情報を漏えいします。</td>
+<td style="border:1px solid black;">高/単一コンピュータ</td>
+<td style="border:1px solid black;">低</td>
+<td style="border:1px solid black;">なし</td>
 </tr>
 </tbody>
 </table>
@@ -489,7 +489,7 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
   
 **表 2.6: アカウント侵害の脅威および軽減対策**
 
-<p> </p>
+ 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -500,41 +500,41 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>脅威</p></th>
-<th><p>詳細/攻撃経路</p></th>
-<th><p>影響/範囲</p></th>
-<th><p>発生の可能性</p></th>
-<th><p>使用可能な軽減対策</p></th>
+<th>脅威</th>
+<th>詳細/攻撃経路</th>
+<th>影響/範囲</th>
+<th>発生の可能性</th>
+<th>使用可能な軽減対策</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><p>ドメイン管理者アカウントの侵害</p></td>
-<td style="border:1px solid black;"><p>攻撃者は、ドメイン管理者アカウントのパスワードを取得します。</p></td>
-<td style="border:1px solid black;"><p>高/ネットワーク全体</p></td>
-<td style="border:1px solid black;"><p>低</p></td>
-<td style="border:1px solid black;"><p>物理的アクセス制御。</p></td>
+<td style="border:1px solid black;">ドメイン管理者アカウントの侵害</td>
+<td style="border:1px solid black;">攻撃者は、ドメイン管理者アカウントのパスワードを取得します。</td>
+<td style="border:1px solid black;">高/ネットワーク全体</td>
+<td style="border:1px solid black;">低</td>
+<td style="border:1px solid black;">物理的アクセス制御。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>個々のコンピュータのローカル管理者アカウントの侵害</p></td>
-<td style="border:1px solid black;"><p>攻撃者は、パスワード解読などの手段で、ローカル管理者アカウントのパスワードを取得します。</p></td>
-<td style="border:1px solid black;"><p>高/単一コンピュータ</p></td>
-<td style="border:1px solid black;"><p>低</p></td>
-<td style="border:1px solid black;"><p>物理的なセキュリティ制御、NTLMv2 認証。</p></td>
+<td style="border:1px solid black;">個々のコンピュータのローカル管理者アカウントの侵害</td>
+<td style="border:1px solid black;">攻撃者は、パスワード解読などの手段で、ローカル管理者アカウントのパスワードを取得します。</td>
+<td style="border:1px solid black;">高/単一コンピュータ</td>
+<td style="border:1px solid black;">低</td>
+<td style="border:1px solid black;">物理的なセキュリティ制御、NTLMv2 認証。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><p>個々のコンピュータのローカル管理者アカウントのパスワードのリセット</p></td>
-<td style="border:1px solid black;"><p>攻撃者は、コンピュータに物理的にアクセスして、ローカル管理者パスワードをリセットします。</p></td>
-<td style="border:1px solid black;"><p>高/単一コンピュータ</p></td>
-<td style="border:1px solid black;"><p>低</p></td>
-<td style="border:1px solid black;"><p>物理的なセキュリティ制御。</p></td>
+<td style="border:1px solid black;">個々のコンピュータのローカル管理者アカウントのパスワードのリセット</td>
+<td style="border:1px solid black;">攻撃者は、コンピュータに物理的にアクセスして、ローカル管理者パスワードをリセットします。</td>
+<td style="border:1px solid black;">高/単一コンピュータ</td>
+<td style="border:1px solid black;">低</td>
+<td style="border:1px solid black;">物理的なセキュリティ制御。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><p>ユーザー アカウントの侵害</p></td>
-<td style="border:1px solid black;"><p>攻撃者は、通常のユーザー アカウントへのアクセスを取得します。</p></td>
-<td style="border:1px solid black;"><p>中/単一コンピュータ</p></td>
-<td style="border:1px solid black;"><p>低</p></td>
-<td style="border:1px solid black;"><p>物理的アクセス制御、SMB 署名、NTLMv2 認証。</p></td>
+<td style="border:1px solid black;">ユーザー アカウントの侵害</td>
+<td style="border:1px solid black;">攻撃者は、通常のユーザー アカウントへのアクセスを取得します。</td>
+<td style="border:1px solid black;">中/単一コンピュータ</td>
+<td style="border:1px solid black;">低</td>
+<td style="border:1px solid black;">物理的アクセス制御、SMB 署名、NTLMv2 認証。</td>
 </tr>
 </tbody>
 </table>
