@@ -25,10 +25,10 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 </colgroup>
 <thead>
 <tr class="header">
-<th>セキュリティの設定</th>
-<th>ローカル セキュリティ ポリシー (Professional および Server/Adv. Server)</th>
-<th>ドメイン コントローラ セキュリティ ポリシー</th>
-<th>ドメイン セキュリティ ポリシー</th>
+<th style="border:1px solid black;" >セキュリティの設定</th>
+<th style="border:1px solid black;" >ローカル セキュリティ ポリシー (Professional および Server/Adv. Server)</th>
+<th style="border:1px solid black;" >ドメイン コントローラ セキュリティ ポリシー</th>
+<th style="border:1px solid black;" >ドメイン セキュリティ ポリシー</th>
 </tr>
 </thead>
 <tbody>

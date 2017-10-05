@@ -24,7 +24,7 @@ The WSUS database stores the following types of information:
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="images/Dd939812.Important(WS.10).gif" />重要</th>
+<th style="border:1px solid black;" ><img src="images/Dd939812.Important(WS.10).gif" />重要</th>
 </tr>
 </thead>
 <tbody>

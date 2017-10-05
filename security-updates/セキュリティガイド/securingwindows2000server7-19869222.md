@@ -104,9 +104,9 @@ Contoso 社の Active Directory 内における GPO の場所は次の図に示�
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI でユーザー権利設定</th>
-<th>割り当てグループ</th>
-<th>推奨</th>
+<th style="border:1px solid black;" >UI でユーザー権利設定</th>
+<th style="border:1px solid black;" >割り当てグループ</th>
+<th style="border:1px solid black;" >推奨</th>
 </tr>
 </thead>
 <tbody>
@@ -189,9 +189,9 @@ Contoso 社のドメイン コントローラでは、Administrators と Server 
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI を使用するセキュリティ オプション設定</th>
-<th>推奨</th>
-<th>コメント</th>
+<th style="border:1px solid black;" >UI を使用するセキュリティ オプション設定</th>
+<th style="border:1px solid black;" >推奨</th>
+<th style="border:1px solid black;" >コメント</th>
 </tr>
 </thead>
 <tbody>
@@ -335,9 +335,9 @@ Windows ドメイン クライアントで、ログオンのキャッシュを�
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI のサービス名</th>
-<th>スタートアップの種類</th>
-<th>コメント</th>
+<th style="border:1px solid black;" >UI のサービス名</th>
+<th style="border:1px solid black;" >スタートアップの種類</th>
+<th style="border:1px solid black;" >コメント</th>
 </tr>
 </thead>
 <tbody>
@@ -382,9 +382,9 @@ Windows ドメイン クライアントで、ログオンのキャッシュを�
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI のサービス名</th>
-<th>スタートアップの種類</th>
-<th>コメント</th>
+<th style="border:1px solid black;" >UI のサービス名</th>
+<th style="border:1px solid black;" >スタートアップの種類</th>
+<th style="border:1px solid black;" >コメント</th>
 </tr>
 </thead>
 <tbody>
@@ -1146,13 +1146,13 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>サービス</th>
-<th>プロトコル</th>
-<th>ソース ポート</th>
-<th>宛先ポート</th>
-<th>ソース アドレス</th>
-<th>宛先アドレス</th>
-<th>動作</th>
+<th style="border:1px solid black;" >サービス</th>
+<th style="border:1px solid black;" >プロトコル</th>
+<th style="border:1px solid black;" >ソース ポート</th>
+<th style="border:1px solid black;" >宛先ポート</th>
+<th style="border:1px solid black;" >ソース アドレス</th>
+<th style="border:1px solid black;" >宛先アドレス</th>
+<th style="border:1px solid black;" >動作</th>
 </tr>
 </thead>
 <tbody>
@@ -1698,9 +1698,9 @@ Contoso 社シナリオにおけるインフラストラクチャ サーバー�
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI のサービス設定</th>
-<th>スタートアップの種類</th>
-<th>コメント</th>
+<th style="border:1px solid black;" >UI のサービス設定</th>
+<th style="border:1px solid black;" >スタートアップの種類</th>
+<th style="border:1px solid black;" >コメント</th>
 </tr>
 </thead>
 <tbody>
@@ -1758,13 +1758,13 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>サービス</th>
-<th>プロトコル</th>
-<th>ソース ポート</th>
-<th>宛先ポート</th>
-<th>ソース アドレス</th>
-<th>宛先アドレス</th>
-<th>動作</th>
+<th style="border:1px solid black;" >サービス</th>
+<th style="border:1px solid black;" >プロトコル</th>
+<th style="border:1px solid black;" >ソース ポート</th>
+<th style="border:1px solid black;" >宛先ポート</th>
+<th style="border:1px solid black;" >ソース アドレス</th>
+<th style="border:1px solid black;" >宛先アドレス</th>
+<th style="border:1px solid black;" >動作</th>
 </tr>
 </thead>
 <tbody>
@@ -2286,13 +2286,13 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 </colgroup>
 <thead>
 <tr class="header">
-<th>サービス</th>
-<th>プロトコル</th>
-<th>ソース ポート</th>
-<th>宛先ポート</th>
-<th>ソース アドレス</th>
-<th>宛先アドレス</th>
-<th>動作</th>
+<th style="border:1px solid black;" >サービス</th>
+<th style="border:1px solid black;" >プロトコル</th>
+<th style="border:1px solid black;" >ソース ポート</th>
+<th style="border:1px solid black;" >宛先ポート</th>
+<th style="border:1px solid black;" >ソース アドレス</th>
+<th style="border:1px solid black;" >宛先アドレス</th>
+<th style="border:1px solid black;" >動作</th>
 </tr>
 </thead>
 <tbody>
@@ -2798,13 +2798,13 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 </colgroup>
 <thead>
 <tr class="header">
-<th>サービス</th>
-<th>プロトコル</th>
-<th>ソース ポート</th>
-<th>宛先ポート</th>
-<th>ソース アドレス</th>
-<th>宛先アドレス</th>
-<th>動作</th>
+<th style="border:1px solid black;" >サービス</th>
+<th style="border:1px solid black;" >プロトコル</th>
+<th style="border:1px solid black;" >ソース ポート</th>
+<th style="border:1px solid black;" >宛先ポート</th>
+<th style="border:1px solid black;" >ソース アドレス</th>
+<th style="border:1px solid black;" >宛先アドレス</th>
+<th style="border:1px solid black;" >動作</th>
 </tr>
 </thead>
 <tbody>
@@ -3715,9 +3715,9 @@ IIS サーバー ロールは、ベースライン Windows 2000 サーバー ポ
 </colgroup>
 <thead>
 <tr class="header">
-<th>サービス設定</th>
-<th>スタートアップの種類</th>
-<th>ポリシー正当化</th>
+<th style="border:1px solid black;" >サービス設定</th>
+<th style="border:1px solid black;" >スタートアップの種類</th>
+<th style="border:1px solid black;" >ポリシー正当化</th>
 </tr>
 </thead>
 <tbody>
@@ -4168,13 +4168,13 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 </colgroup>
 <thead>
 <tr class="header">
-<th>サービス</th>
-<th>プロトコル</th>
-<th>ソース ポート</th>
-<th>宛先ポート</th>
-<th>ソース アドレス</th>
-<th>宛先アドレス</th>
-<th>動作</th>
+<th style="border:1px solid black;" >サービス</th>
+<th style="border:1px solid black;" >プロトコル</th>
+<th style="border:1px solid black;" >ソース ポート</th>
+<th style="border:1px solid black;" >宛先ポート</th>
+<th style="border:1px solid black;" >ソース アドレス</th>
+<th style="border:1px solid black;" >宛先アドレス</th>
+<th style="border:1px solid black;" >動作</th>
 </tr>
 </thead>
 <tbody>

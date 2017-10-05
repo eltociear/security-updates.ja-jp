@@ -119,8 +119,8 @@ Contoso のメンバ サーバーに適用される基本設定を説明しま�
 </colgroup>
 <thead>
 <tr class="header">
-<th>フォルダ</th>
-<th>説明</th>
+<th style="border:1px solid black;" >フォルダ</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -220,8 +220,8 @@ Contoso の外部との接続および周辺ネットワークのセキュリテ
 </colgroup>
 <thead>
 <tr class="header">
-<th>要素</th>
-<th>意味</th>
+<th style="border:1px solid black;" >要素</th>
+<th style="border:1px solid black;" >意味</th>
 </tr>
 </thead>
 <tbody>

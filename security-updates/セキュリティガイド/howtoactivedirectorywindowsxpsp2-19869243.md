@@ -419,9 +419,9 @@ Windows ファイアウォールの設定の構成が完了したら、次に \[
     </colgroup>
     <thead>
     <tr class="header">
-    <th>設定</th>
-    <th>説明</th>
-    <th>注</th>
+    <th style="border:1px solid black;" >設定</th>
+    <th style="border:1px solid black;" >説明</th>
+    <th style="border:1px solid black;" >注</th>
     </tr>
     </thead>
     <tbody>
@@ -472,10 +472,10 @@ Windows ファイアウォールの設定の構成が完了したら、次に \[
     </colgroup>
     <thead>
     <tr class="header">
-    <th>設定</th>
-    <th>説明</th>
-    <th>ドメイン プロファイル</th>
-    <th>標準プロファイル</th>
+    <th style="border:1px solid black;" >設定</th>
+    <th style="border:1px solid black;" >説明</th>
+    <th style="border:1px solid black;" >ドメイン プロファイル</th>
+    <th style="border:1px solid black;" >標準プロファイル</th>
     </tr>
     </thead>
     <tbody>
@@ -834,10 +834,10 @@ Internet Explorer で URL 動作のセキュリティ管理を行うには、**\
     </colgroup>
     <thead>
     <tr class="header">
-    <th>設定</th>
-    <th>説明</th>
-    <th>既定の構成</th>
-    <th>エンタープライズ環境で使用する場合の推奨構成</th>
+    <th style="border:1px solid black;" >設定</th>
+    <th style="border:1px solid black;" >説明</th>
+    <th style="border:1px solid black;" >既定の構成</th>
+    <th style="border:1px solid black;" >エンタープライズ環境で使用する場合の推奨構成</th>
     </tr>
     </thead>
     <tbody>
@@ -960,9 +960,9 @@ Internet Explorer で URL 動作のセキュリティ管理を行うには、**\
         </colgroup>
         <thead>
         <tr class="header">
-        <th>設定</th>
-        <th>推奨構成</th>
-        <th>推奨レベル</th>
+        <th style="border:1px solid black;" >設定</th>
+        <th style="border:1px solid black;" >推奨構成</th>
+        <th style="border:1px solid black;" >推奨レベル</th>
         </tr>
         </thead>
         <tbody>
@@ -1010,9 +1010,9 @@ Internet Explorer で URL 動作のセキュリティ管理を行うには、**\
         </colgroup>
         <thead>
         <tr class="header">
-        <th>設定</th>
-        <th>説明</th>
-        <th>既定の構成</th>
+        <th style="border:1px solid black;" >設定</th>
+        <th style="border:1px solid black;" >説明</th>
+        <th style="border:1px solid black;" >既定の構成</th>
         </tr>
         </thead>
         <tbody>
@@ -1203,9 +1203,9 @@ Windows XP SP2 では、オンラインでのプリントの注文 (**オンラ�
     </colgroup>
     <thead>
     <tr class="header">
-    <th>設定</th>
-    <th>説明</th>
-    <th>推奨設定</th>
+    <th style="border:1px solid black;" >設定</th>
+    <th style="border:1px solid black;" >説明</th>
+    <th style="border:1px solid black;" >推奨設定</th>
     </tr>
     </thead>
     <tbody>
@@ -1348,10 +1348,10 @@ DCOM 要求があるたびに、コンピュータ全体のアクセス制御リ
 </colgroup>
 <thead>
 <tr class="header">
-<th>許可</th>
-<th>Administrator</th>
-<th>Everyone</th>
-<th>Anonymous</th>
+<th style="border:1px solid black;" >許可</th>
+<th style="border:1px solid black;" >Administrator</th>
+<th style="border:1px solid black;" >Everyone</th>
+<th style="border:1px solid black;" >Anonymous</th>
 </tr>
 </thead>
 <tbody>

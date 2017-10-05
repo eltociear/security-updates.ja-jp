@@ -86,10 +86,10 @@ RMS SP1 では多数の改善とパフォーマンスの強化が図られてい
 </colgroup>
 <thead>
 <tr class="header">
-<th>RMS サーバーのバージョン</th>
-<th>v1 クライアントでサポートされている機能</th>
-<th>SP1 クライアントでサポートされている機能</th>
-<th>クライアント混在環境 (v1 と SP1) でサポートされている機能</th>
+<th style="border:1px solid black;" >RMS サーバーのバージョン</th>
+<th style="border:1px solid black;" >v1 クライアントでサポートされている機能</th>
+<th style="border:1px solid black;" >SP1 クライアントでサポートされている機能</th>
+<th style="border:1px solid black;" >クライアント混在環境 (v1 と SP1) でサポートされている機能</th>
 </tr>
 </thead>
 <tbody>

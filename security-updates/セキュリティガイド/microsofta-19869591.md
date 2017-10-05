@@ -41,8 +41,8 @@ Microsoft 仮想プライベート ネットワークでの検疫サービスの
 </colgroup>
 <thead>
 <tr class="header">
-<th>スクリプト名</th>
-<th>説明</th>
+<th style="border:1px solid black;" >スクリプト名</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -111,8 +111,8 @@ RQC の構文は次のとおりです。
 </colgroup>
 <thead>
 <tr class="header">
-<th>パラメータ</th>
-<th>説明</th>
+<th style="border:1px solid black;" >パラメータ</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>

@@ -21,8 +21,8 @@ RMS: ActivationProxy パフォーマンス オブジェクトに対して使用�
 </colgroup>
 <thead>
 <tr class="header">
-<th>カウンタ</th>
-<th>説明</th>
+<th style="border:1px solid black;" >カウンタ</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>

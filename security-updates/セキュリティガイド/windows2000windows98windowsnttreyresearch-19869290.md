@@ -129,10 +129,10 @@ SRMD の目標は、リスクを定量化し、組織の制御範囲内にある
 </colgroup>
 <thead>
 <tr class="header">
-<th>役割</th>
-<th>役割で使用されるオペレーティング システム</th>
-<th>場所</th>
-<th>ハードウェアの種類</th>
+<th style="border:1px solid black;" >役割</th>
+<th style="border:1px solid black;" >役割で使用されるオペレーティング システム</th>
+<th style="border:1px solid black;" >場所</th>
+<th style="border:1px solid black;" >ハードウェアの種類</th>
 </tr>
 </thead>
 <tbody>
@@ -262,11 +262,11 @@ Trey の IT エンジニアは、ネットワーク上に存在する役割お�
 </colgroup>
 <thead>
 <tr class="header">
-<th>脅威</th>
-<th>詳細/攻撃経路</th>
-<th>影響/範囲</th>
-<th>発生の可能性</th>
-<th>使用可能な軽減対策</th>
+<th style="border:1px solid black;" >脅威</th>
+<th style="border:1px solid black;" >詳細/攻撃経路</th>
+<th style="border:1px solid black;" >影響/範囲</th>
+<th style="border:1px solid black;" >発生の可能性</th>
+<th style="border:1px solid black;" >使用可能な軽減対策</th>
 </tr>
 </thead>
 <tbody>
@@ -318,11 +318,11 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
 </colgroup>
 <thead>
 <tr class="header">
-<th>脅威</th>
-<th>詳細/攻撃経路</th>
-<th>影響/範囲</th>
-<th>発生の可能性</th>
-<th>使用可能な軽減対策</th>
+<th style="border:1px solid black;" >脅威</th>
+<th style="border:1px solid black;" >詳細/攻撃経路</th>
+<th style="border:1px solid black;" >影響/範囲</th>
+<th style="border:1px solid black;" >発生の可能性</th>
+<th style="border:1px solid black;" >使用可能な軽減対策</th>
 </tr>
 </thead>
 <tbody>
@@ -395,11 +395,11 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
 </colgroup>
 <thead>
 <tr class="header">
-<th>脅威</th>
-<th>詳細/攻撃経路</th>
-<th>影響/範囲</th>
-<th>発生の可能性</th>
-<th>使用可能な軽減対策</th>
+<th style="border:1px solid black;" >脅威</th>
+<th style="border:1px solid black;" >詳細/攻撃経路</th>
+<th style="border:1px solid black;" >影響/範囲</th>
+<th style="border:1px solid black;" >発生の可能性</th>
+<th style="border:1px solid black;" >使用可能な軽減対策</th>
 </tr>
 </thead>
 <tbody>
@@ -444,11 +444,11 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
 </colgroup>
 <thead>
 <tr class="header">
-<th>脅威</th>
-<th>詳細/攻撃経路</th>
-<th>影響/範囲</th>
-<th>発生の可能性</th>
-<th>使用可能な軽減対策</th>
+<th style="border:1px solid black;" >脅威</th>
+<th style="border:1px solid black;" >詳細/攻撃経路</th>
+<th style="border:1px solid black;" >影響/範囲</th>
+<th style="border:1px solid black;" >発生の可能性</th>
+<th style="border:1px solid black;" >使用可能な軽減対策</th>
 </tr>
 </thead>
 <tbody>
@@ -500,11 +500,11 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
 </colgroup>
 <thead>
 <tr class="header">
-<th>脅威</th>
-<th>詳細/攻撃経路</th>
-<th>影響/範囲</th>
-<th>発生の可能性</th>
-<th>使用可能な軽減対策</th>
+<th style="border:1px solid black;" >脅威</th>
+<th style="border:1px solid black;" >詳細/攻撃経路</th>
+<th style="border:1px solid black;" >影響/範囲</th>
+<th style="border:1px solid black;" >発生の可能性</th>
+<th style="border:1px solid black;" >使用可能な軽減対策</th>
 </tr>
 </thead>
 <tbody>

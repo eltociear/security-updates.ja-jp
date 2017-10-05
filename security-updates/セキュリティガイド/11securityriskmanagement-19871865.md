@@ -43,8 +43,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362920(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th>脅威</th>
-<th>説明</th>
+<th style="border:1px solid black;" >脅威</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>

@@ -54,8 +54,8 @@ Contoso では、ニコラスという勤勉な若手アナリストが家に良
 </colgroup>
 <thead>
 <tr class="header">
-<th>費用項目</th>
-<th>金額</th>
+<th style="border:1px solid black;" >費用項目</th>
+<th style="border:1px solid black;" >金額</th>
 </tr>
 </thead>
 <tbody>

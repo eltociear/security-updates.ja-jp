@@ -58,8 +58,8 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 </colgroup>
 <thead>
 <tr class="header">
-<th></th>
-<th>説明</th>
+<th style="border:1px solid black;" ></th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -482,8 +482,8 @@ Windows 2000 の セットアップ プログラムはコンピュータ上に A
 </colgroup>
 <thead>
 <tr class="header">
-<th>アイコン</th>
-<th>要素</th>
+<th style="border:1px solid black;" >アイコン</th>
+<th style="border:1px solid black;" >要素</th>
 </tr>
 </thead>
 <tbody>
@@ -639,8 +639,8 @@ Service Pack または修正プログラムをインストールする前に、�
         </colgroup>
         <thead>
         <tr class="header">
-        <th>ファイル名</th>
-        <th>内容</th>
+        <th style="border:1px solid black;" >ファイル名</th>
+        <th style="border:1px solid black;" >内容</th>
         </tr>
         </thead>
         <tbody>

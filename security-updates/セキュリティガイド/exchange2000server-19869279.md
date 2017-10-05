@@ -105,8 +105,8 @@ OWA を使用すると、インターネットに接続されたほぼすべて�
 </colgroup>
 <thead>
 <tr class="header">
-<th>利点</th>
-<th>欠点</th>
+<th style="border:1px solid black;" >利点</th>
+<th style="border:1px solid black;" >欠点</th>
 </tr>
 </thead>
 <tbody>
@@ -228,9 +228,9 @@ SMTP 仮想サーバーの構成可能情報には 4 つのタブがあります
 </colgroup>
 <thead>
 <tr class="header">
-<th>プロパティ</th>
-<th>場所</th>
-<th>説明</th>
+<th style="border:1px solid black;" >プロパティ</th>
+<th style="border:1px solid black;" >場所</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -457,8 +457,8 @@ DNS の名前解決は、内部ネットワークでどの ISA クライアン�
 </colgroup>
 <thead>
 <tr class="header">
-<th>ISA Server クライアント</th>
-<th>名前解決方式</th>
+<th style="border:1px solid black;" >ISA Server クライアント</th>
+<th style="border:1px solid black;" >名前解決方式</th>
 </tr>
 </thead>
 <tbody>
@@ -517,8 +517,8 @@ DNS の名前解決は、内部ネットワークでどの ISA クライアン�
 </colgroup>
 <thead>
 <tr class="header">
-<th>トポロジ</th>
-<th>定義する構成</th>
+<th style="border:1px solid black;" >トポロジ</th>
+<th style="border:1px solid black;" >定義する構成</th>
 </tr>
 </thead>
 <tbody>

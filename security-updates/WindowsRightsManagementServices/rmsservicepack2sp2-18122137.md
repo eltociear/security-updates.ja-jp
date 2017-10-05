@@ -85,10 +85,10 @@ RMS SP2 では多数の改善とパフォーマンスの強化が図られてい
 </colgroup>
 <thead>
 <tr class="header">
-<th>RMS サーバーのバージョン</th>
-<th>バージョン 1 クライアントでサポートされている機能</th>
-<th>SP2 クライアントでサポートされている機能</th>
-<th>混在クライアント環境でサポートされている機能</th>
+<th style="border:1px solid black;" >RMS サーバーのバージョン</th>
+<th style="border:1px solid black;" >バージョン 1 クライアントでサポートされている機能</th>
+<th style="border:1px solid black;" >SP2 クライアントでサポートされている機能</th>
+<th style="border:1px solid black;" >混在クライアント環境でサポートされている機能</th>
 </tr>
 </thead>
 <tbody>

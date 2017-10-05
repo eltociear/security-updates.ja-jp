@@ -200,10 +200,10 @@ Office 2003 の設定を構成する GPO には、Windows XP に付属してい�
 </colgroup>
 <thead>
 <tr class="header">
-<th>設定</th>
-<th>ドメイン コントローラの既定の設定</th>
-<th>EC</th>
-<th>SSLF</th>
+<th style="border:1px solid black;" >設定</th>
+<th style="border:1px solid black;" >ドメイン コントローラの既定の設定</th>
+<th style="border:1px solid black;" >EC</th>
+<th style="border:1px solid black;" >SSLF</th>
 </tr>
 </thead>
 <tbody>
@@ -326,10 +326,10 @@ EC 環境では、\[最小パスワード長\] の値を \[8 文字以上\] に�
 </colgroup>
 <thead>
 <tr class="header">
-<th>設定</th>
-<th>ドメイン コントローラの既定の設定</th>
-<th>EC</th>
-<th>SSLF</th>
+<th style="border:1px solid black;" >設定</th>
+<th style="border:1px solid black;" >ドメイン コントローラの既定の設定</th>
+<th style="border:1px solid black;" >EC</th>
+<th style="border:1px solid black;" >SSLF</th>
 </tr>
 </thead>
 <tbody>
@@ -410,10 +410,10 @@ EC 環境では、\[最小パスワード長\] の値を \[8 文字以上\] に�
 </colgroup>
 <thead>
 <tr class="header">
-<th>設定</th>
-<th>ドメイン コントローラの既定の設定</th>
-<th>EC</th>
-<th>SSLF</th>
+<th style="border:1px solid black;" >設定</th>
+<th style="border:1px solid black;" >ドメイン コントローラの既定の設定</th>
+<th style="border:1px solid black;" >EC</th>
+<th style="border:1px solid black;" >SSLF</th>
 </tr>
 </thead>
 <tbody>
@@ -458,10 +458,10 @@ Active Directory ドメインでは、各コンピュータ アカウントは�
 </colgroup>
 <thead>
 <tr class="header">
-<th>設定</th>
-<th>ドメイン コントローラの既定の設定</th>
-<th>EC</th>
-<th>SSLF</th>
+<th style="border:1px solid black;" >設定</th>
+<th style="border:1px solid black;" >ドメイン コントローラの既定の設定</th>
+<th style="border:1px solid black;" >EC</th>
+<th style="border:1px solid black;" >SSLF</th>
 </tr>
 </thead>
 <tbody>

@@ -149,8 +149,8 @@ WSUS 3.0 SP1 のセットアップを実行する前に、WSUS 3.0 SP1 サーバ
 </colgroup>
 <thead>
 <tr class="header">
-<th>要件</th>
-<th>詳細</th>
+<th style="border:1px solid black;" >要件</th>
+<th style="border:1px solid black;" >詳細</th>
 </tr>
 </thead>
 <tbody>
@@ -237,8 +237,8 @@ WSUS コマンドライン セットアップ プログラムを使用して、W
 </colgroup>
 <thead>
 <tr class="header">
-<th>オプション</th>
-<th>説明</th>
+<th style="border:1px solid black;" >オプション</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -277,8 +277,8 @@ WSUS 3.0 SP1 セットアップで使用できるコマンドライン プロパ
 </colgroup>
 <thead>
 <tr class="header">
-<th>プロパティ</th>
-<th>説明</th>
+<th style="border:1px solid black;" >プロパティ</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -529,8 +529,8 @@ WSUS 3.0 SP1 は、32 ビットと 64 ビットのバージョンの Windows Ser
 </colgroup>
 <thead>
 <tr class="header">
-<th>要件</th>
-<th>詳細</th>
+<th style="border:1px solid black;" >要件</th>
+<th style="border:1px solid black;" >詳細</th>
 </tr>
 </thead>
 <tbody>

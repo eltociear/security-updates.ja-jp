@@ -210,8 +210,8 @@ DEP が原因でアプリケーション障害が発生した場合は、アプ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>構成</th>
-<th>説明</th>
+<th style="border:1px solid black;" >構成</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>

@@ -124,12 +124,12 @@ IAS を使用したワイヤレス アクセス管理ソリューションの設
 </colgroup>
 <thead>
 <tr class="header">
-<th>機能</th>
-<th>Windows Server 2003<br />
+<th style="border:1px solid black;" >機能</th>
+<th style="border:1px solid black;" >Windows Server 2003<br />
 ネイティブ モード</th>
-<th>Windows 2000<br />
+<th style="border:1px solid black;" >Windows 2000<br />
 ネイティブ モード</th>
-<th>混合モード
+<th style="border:1px solid black;" >混合モード
 または
 Microsoft Windows NT® 4.0</th>
 </tr>
@@ -206,9 +206,9 @@ IAS サーバーは、次の 3 つの概念的な RADIUS の役割のいずれ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>IAS RADIUS の役割</th>
-<th>機能</th>
-<th>シナリオ</th>
+<th style="border:1px solid black;" >IAS RADIUS の役割</th>
+<th style="border:1px solid black;" >機能</th>
+<th style="border:1px solid black;" >シナリオ</th>
 </tr>
 </thead>
 <tbody>
@@ -260,9 +260,9 @@ RADIUS は、すべての 802.1X ベースの WLAN アクセス管理ソリュ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>フェールオーバーと負荷分散方法</th>
-<th>長所</th>
-<th>短所</th>
+<th style="border:1px solid black;" >フェールオーバーと負荷分散方法</th>
+<th style="border:1px solid black;" >長所</th>
+<th style="border:1px solid black;" >短所</th>
 </tr>
 </thead>
 <tbody>
@@ -374,8 +374,8 @@ RADIUS 要求ログの定期的なクエリ、レポーティング、および�
 </colgroup>
 <thead>
 <tr class="header">
-<th>IAS ログ記録の設計上の決定事項</th>
-<th>コメント</th>
+<th style="border:1px solid black;" >IAS ログ記録の設計上の決定事項</th>
+<th style="border:1px solid black;" >コメント</th>
 </tr>
 </thead>
 <tbody>
@@ -467,9 +467,9 @@ IAS と Active Directory ドメイン コントローラ間の通信は集中的
 </colgroup>
 <thead>
 <tr class="header">
-<th>IAS の場所</th>
-<th>長所</th>
-<th>短所</th>
+<th style="border:1px solid black;" >IAS の場所</th>
+<th style="border:1px solid black;" >長所</th>
+<th style="border:1px solid black;" >短所</th>
 </tr>
 </thead>
 <tbody>
@@ -506,9 +506,9 @@ Active Directory ドメイン コントローラは、慎重な取り扱いが�
 </colgroup>
 <thead>
 <tr class="header">
-<th>検討事項</th>
-<th>事前に必要な処理</th>
-<th>説明</th>
+<th style="border:1px solid black;" >検討事項</th>
+<th style="border:1px solid black;" >事前に必要な処理</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -564,8 +564,8 @@ IAS サーバーの負荷を見積もるには WLAN アクセスを必要とす�
 </colgroup>
 <thead>
 <tr class="header">
-<th>認証の種類</th>
-<th>コメント</th>
+<th style="border:1px solid black;" >認証の種類</th>
+<th style="border:1px solid black;" >コメント</th>
 </tr>
 </thead>
 <tbody>
@@ -610,8 +610,8 @@ IAS で対応できる認証数の概算値を表わす方法としては、1 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>認証の種類</th>
-<th>1 秒あたりの認証数</th>
+<th style="border:1px solid black;" >認証の種類</th>
+<th style="border:1px solid black;" >1 秒あたりの認証数</th>
 </tr>
 </thead>
 <tbody>
@@ -665,8 +665,8 @@ IAS サーバーが、Windows Server 2003 の推奨ハードウェア要件に�
 </colgroup>
 <thead>
 <tr class="header">
-<th>リソース</th>
-<th>構成</th>
+<th style="border:1px solid black;" >リソース</th>
+<th style="border:1px solid black;" >構成</th>
 </tr>
 </thead>
 <tbody>
@@ -744,9 +744,9 @@ IAS は、Windows Server 2003 オペレーティング システムのオプシ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>スタッフの役割</th>
-<th>役割の説明</th>
-<th>タスク</th>
+<th style="border:1px solid black;" >スタッフの役割</th>
+<th style="border:1px solid black;" >役割の説明</th>
+<th style="border:1px solid black;" >タスク</th>
 </tr>
 </thead>
 <tbody>
@@ -787,9 +787,9 @@ RADIUS 認証要求ログが無効の場合、IAS セキュリティ監査人は
 </colgroup>
 <thead>
 <tr class="header">
-<th>タスク</th>
-<th>グループ メンバシップ</th>
-<th>必要なアクセス許可または権利</th>
+<th style="border:1px solid black;" >タスク</th>
+<th style="border:1px solid black;" >グループ メンバシップ</th>
+<th style="border:1px solid black;" >必要なアクセス許可または権利</th>
 </tr>
 </thead>
 <tbody>
@@ -847,9 +847,9 @@ IAS はセキュリティ インフラストラクチャのコンポーネント
 </colgroup>
 <thead>
 <tr class="header">
-<th>脅威/脆弱性</th>
-<th>兆候</th>
-<th>監視ツール</th>
+<th style="border:1px solid black;" >脅威/脆弱性</th>
+<th style="border:1px solid black;" >兆候</th>
+<th style="border:1px solid black;" >監視ツール</th>
 </tr>
 </thead>
 <tbody>
@@ -900,9 +900,9 @@ IAS はセキュリティ インフラストラクチャのコンポーネント
 </colgroup>
 <thead>
 <tr class="header">
-<th>脅威/脆弱性</th>
-<th>兆候</th>
-<th>監査ツール</th>
+<th style="border:1px solid black;" >脅威/脆弱性</th>
+<th style="border:1px solid black;" >兆候</th>
+<th style="border:1px solid black;" >監査ツール</th>
 </tr>
 </thead>
 <tbody>

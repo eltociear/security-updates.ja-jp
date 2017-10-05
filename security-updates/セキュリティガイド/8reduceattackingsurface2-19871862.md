@@ -34,9 +34,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362917(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th>権限の強さ</th>
-<th>アカウント名</th>
-<th>概要</th>
+<th style="border:1px solid black;" >権限の強さ</th>
+<th style="border:1px solid black;" >アカウント名</th>
+<th style="border:1px solid black;" >概要</th>
 </tr>
 </thead>
 <tbody>

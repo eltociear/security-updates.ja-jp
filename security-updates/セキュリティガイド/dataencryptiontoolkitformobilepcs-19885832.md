@@ -132,9 +132,9 @@ Active Directory GPO テンプレートを使用して、いくつかの EFS 関
 </colgroup>
 <thead>
 <tr class="header">
-<th>設定名</th>
-<th>可用性</th>
-<th>既定</th>
+<th style="border:1px solid black;" >設定名</th>
+<th style="border:1px solid black;" >可用性</th>
+<th style="border:1px solid black;" >既定</th>
 </tr>
 </thead>
 <tbody>

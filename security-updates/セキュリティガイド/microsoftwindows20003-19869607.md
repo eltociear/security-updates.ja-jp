@@ -193,12 +193,12 @@ Microsoft セキュリティ構成ツール セットの使い方に関する詳
 </colgroup>
 <thead>
 <tr class="header">
-<th>パスワード ポリシー</th>
-<th>Professional</th>
-<th>Server</th>
-<th>DC</th>
-<th>必須</th>
-<th>推奨</th>
+<th style="border:1px solid black;" >パスワード ポリシー</th>
+<th style="border:1px solid black;" >Professional</th>
+<th style="border:1px solid black;" >Server</th>
+<th style="border:1px solid black;" >DC</th>
+<th style="border:1px solid black;" >必須</th>
+<th style="border:1px solid black;" >推奨</th>
 </tr>
 </thead>
 <tbody>
@@ -361,12 +361,12 @@ Microsoft セキュリティ構成ツール セットの使い方に関する詳
 </colgroup>
 <thead>
 <tr class="header">
-<th>アカウント ロックアウトのポリシー</th>
-<th>Professional</th>
-<th>Server</th>
-<th>DC</th>
-<th>必須</th>
-<th>推奨</th>
+<th style="border:1px solid black;" >アカウント ロックアウトのポリシー</th>
+<th style="border:1px solid black;" >Professional</th>
+<th style="border:1px solid black;" >Server</th>
+<th style="border:1px solid black;" >DC</th>
+<th style="border:1px solid black;" >必須</th>
+<th style="border:1px solid black;" >推奨</th>
 </tr>
 </thead>
 <tbody>
@@ -451,12 +451,12 @@ Microsoft セキュリティ構成ツール セットの使い方に関する詳
 </colgroup>
 <thead>
 <tr class="header">
-<th>Kerberos ポリシー</th>
-<th>Professional</th>
-<th>Server</th>
-<th>DC</th>
-<th>必須</th>
-<th>推奨</th>
+<th style="border:1px solid black;" >Kerberos ポリシー</th>
+<th style="border:1px solid black;" >Professional</th>
+<th style="border:1px solid black;" >Server</th>
+<th style="border:1px solid black;" >DC</th>
+<th style="border:1px solid black;" >必須</th>
+<th style="border:1px solid black;" >推奨</th>
 </tr>
 </thead>
 <tbody>
@@ -582,14 +582,14 @@ Microsoft セキュリティ構成ツール セットの使い方に関する詳
 </colgroup>
 <thead>
 <tr class="header">
-<th>監査ポリシー</th>
-<th>Professional</th>
-<th>Server</th>
-<th>DC</th>
-<th>必須</th>
-<th>推奨</th>
-<th> </th>
-<th> </th>
+<th style="border:1px solid black;" >監査ポリシー</th>
+<th style="border:1px solid black;" >Professional</th>
+<th style="border:1px solid black;" >Server</th>
+<th style="border:1px solid black;" >DC</th>
+<th style="border:1px solid black;" >必須</th>
+<th style="border:1px solid black;" >推奨</th>
+<th style="border:1px solid black;" > </th>
+<th style="border:1px solid black;" > </th>
 </tr>
 </thead>
 <tbody>
@@ -802,14 +802,14 @@ Microsoft セキュリティ構成ツール セットの使い方に関する詳
 </colgroup>
 <thead>
 <tr class="header">
-<th>ユーザー権利と特権の割り当て</th>
-<th>Professional</th>
-<th>Server</th>
-<th>DC</th>
-<th>必須</th>
-<th>推奨</th>
-<th> </th>
-<th> </th>
+<th style="border:1px solid black;" >ユーザー権利と特権の割り当て</th>
+<th style="border:1px solid black;" >Professional</th>
+<th style="border:1px solid black;" >Server</th>
+<th style="border:1px solid black;" >DC</th>
+<th style="border:1px solid black;" >必須</th>
+<th style="border:1px solid black;" >推奨</th>
+<th style="border:1px solid black;" > </th>
+<th style="border:1px solid black;" > </th>
 </tr>
 </thead>
 <tbody>
@@ -1095,12 +1095,12 @@ Power Users</td>
 </colgroup>
 <thead>
 <tr class="header">
-<th>セキュリティ オプション</th>
-<th>Professional</th>
-<th>Server</th>
-<th>DC</th>
-<th>必須</th>
-<th>推奨</th>
+<th style="border:1px solid black;" >セキュリティ オプション</th>
+<th style="border:1px solid black;" >Professional</th>
+<th style="border:1px solid black;" >Server</th>
+<th style="border:1px solid black;" >DC</th>
+<th style="border:1px solid black;" >必須</th>
+<th style="border:1px solid black;" >推奨</th>
 </tr>
 </thead>
 <tbody>
@@ -1662,9 +1662,9 @@ DirectDraw 機能は無効にするには、レジストリを編集して、Tim
 </colgroup>
 <thead>
 <tr class="header">
-<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers</th>
-<th>フォーマット</th>
-<th>値</th>
+<th style="border:1px solid black;" >キーのパス : HKLM\SYSTEM\CurrentControlSet\Control\GraphicsDrivers</th>
+<th style="border:1px solid black;" >フォーマット</th>
+<th style="border:1px solid black;" >値</th>
 </tr>
 </thead>
 <tbody>
@@ -1689,9 +1689,9 @@ DirectDraw 機能は無効にするには、レジストリを編集して、Tim
 </colgroup>
 <thead>
 <tr class="header">
-<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Control\Session Manager</th>
-<th>フォーマット</th>
-<th>値</th>
+<th style="border:1px solid black;" >キーのパス : HKLM\SYSTEM\CurrentControlSet\Control\Session Manager</th>
+<th style="border:1px solid black;" >フォーマット</th>
+<th style="border:1px solid black;" >値</th>
 </tr>
 </thead>
 <tbody>
@@ -1716,9 +1716,9 @@ DirectDraw 機能は無効にするには、レジストリを編集して、Tim
 </colgroup>
 <thead>
 <tr class="header">
-<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services</th>
-<th>フォーマット</th>
-<th>値</th>
+<th style="border:1px solid black;" >キーのパス : HKLM\SYSTEM\CurrentControlSet\Services</th>
+<th style="border:1px solid black;" >フォーマット</th>
+<th style="border:1px solid black;" >値</th>
 </tr>
 </thead>
 <tbody>
@@ -1798,9 +1798,9 @@ DirectDraw 機能は無効にするには、レジストリを編集して、Tim
 </colgroup>
 <thead>
 <tr class="header">
-<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Control</th>
-<th>フォーマット</th>
-<th>値</th>
+<th style="border:1px solid black;" >キーのパス : HKLM\SYSTEM\CurrentControlSet\Control</th>
+<th style="border:1px solid black;" >フォーマット</th>
+<th style="border:1px solid black;" >値</th>
 </tr>
 </thead>
 <tbody>
@@ -1825,9 +1825,9 @@ DirectDraw 機能は無効にするには、レジストリを編集して、Tim
 </colgroup>
 <thead>
 <tr class="header">
-<th>キーのパス : HKLM\SYSTEM\ CurrentControlSet\Services\LanmanServer</th>
-<th>フォーマット</th>
-<th>値</th>
+<th style="border:1px solid black;" >キーのパス : HKLM\SYSTEM\ CurrentControlSet\Services\LanmanServer</th>
+<th style="border:1px solid black;" >フォーマット</th>
+<th style="border:1px solid black;" >値</th>
 </tr>
 </thead>
 <tbody>
@@ -1852,9 +1852,9 @@ DirectDraw 機能は無効にするには、レジストリを編集して、Tim
 </colgroup>
 <thead>
 <tr class="header">
-<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer</th>
-<th>フォーマット</th>
-<th>値</th>
+<th style="border:1px solid black;" >キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\LanmanServer</th>
+<th style="border:1px solid black;" >フォーマット</th>
+<th style="border:1px solid black;" >値</th>
 </tr>
 </thead>
 <tbody>
@@ -1900,9 +1900,9 @@ HKCU\\Control Panel\\Desktop (ユーザー)
 </colgroup>
 <thead>
 <tr class="header">
-<th>キーのパス : HKCU\Software\Policies\Microsoft\Windows\Control Panel</th>
-<th>フォーマット</th>
-<th>値</th>
+<th style="border:1px solid black;" >キーのパス : HKCU\Software\Policies\Microsoft\Windows\Control Panel</th>
+<th style="border:1px solid black;" >フォーマット</th>
+<th style="border:1px solid black;" >値</th>
 </tr>
 </thead>
 <tbody>
@@ -1937,9 +1937,9 @@ Service Pack 3 には、セキュリティ ログが構成可能なしきい値�
 </colgroup>
 <thead>
 <tr class="header">
-<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\Eventlog</th>
-<th>フォーマット</th>
-<th>値</th>
+<th style="border:1px solid black;" >キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\Eventlog</th>
+<th style="border:1px solid black;" >フォーマット</th>
+<th style="border:1px solid black;" >値</th>
 </tr>
 </thead>
 <tbody>
@@ -1968,9 +1968,9 @@ Service Pack 3 には、セキュリティ ログが構成可能なしきい値�
 </colgroup>
 <thead>
 <tr class="header">
-<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\Tcpip</th>
-<th>フォーマット</th>
-<th>値</th>
+<th style="border:1px solid black;" >キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\Tcpip</th>
+<th style="border:1px solid black;" >フォーマット</th>
+<th style="border:1px solid black;" >値</th>
 </tr>
 </thead>
 <tbody>
@@ -2050,9 +2050,9 @@ Service Pack 3 には、セキュリティ ログが構成可能なしきい値�
 </colgroup>
 <thead>
 <tr class="header">
-<th>キーのパス : HKLM\Software\Microsoft\Windows NT\CurrentVersion</th>
-<th>フォーマット</th>
-<th>値</th>
+<th style="border:1px solid black;" >キーのパス : HKLM\Software\Microsoft\Windows NT\CurrentVersion</th>
+<th style="border:1px solid black;" >フォーマット</th>
+<th style="border:1px solid black;" >値</th>
 </tr>
 </thead>
 <tbody>
@@ -2077,9 +2077,9 @@ Service Pack 3 には、セキュリティ ログが構成可能なしきい値�
 </colgroup>
 <thead>
 <tr class="header">
-<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\W32Time</th>
-<th>フォーマット</th>
-<th>値</th>
+<th style="border:1px solid black;" >キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\W32Time</th>
+<th style="border:1px solid black;" >フォーマット</th>
+<th style="border:1px solid black;" >値</th>
 </tr>
 </thead>
 <tbody>
@@ -2104,9 +2104,9 @@ Windows 2000 ベースのサーバーは以前のすべての Windows バージ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Control\Lsa</th>
-<th>フォーマット</th>
-<th>値</th>
+<th style="border:1px solid black;" >キーのパス : HKLM\SYSTEM\CurrentControlSet\Control\Lsa</th>
+<th style="border:1px solid black;" >フォーマット</th>
+<th style="border:1px solid black;" >値</th>
 </tr>
 </thead>
 <tbody>
@@ -2131,9 +2131,9 @@ Windows 2000 ベースのサーバーは以前のすべての Windows バージ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>キーのパス : HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies</th>
-<th>フォーマット</th>
-<th>値</th>
+<th style="border:1px solid black;" >キーのパス : HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies</th>
+<th style="border:1px solid black;" >フォーマット</th>
+<th style="border:1px solid black;" >値</th>
 </tr>
 </thead>
 <tbody>
@@ -2168,9 +2168,9 @@ Service Pack 3 には、オペレーティング システムのセキュリテ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>キーのパス : HKLM\System\CurrentControlSet\Services\NTDS</th>
-<th>フォーマット</th>
-<th>値</th>
+<th style="border:1px solid black;" >キーのパス : HKLM\System\CurrentControlSet\Services\NTDS</th>
+<th style="border:1px solid black;" >フォーマット</th>
+<th style="border:1px solid black;" >値</th>
 </tr>
 </thead>
 <tbody>
@@ -2195,9 +2195,9 @@ Windows 2000 ベースのコンピュータに関するAlerter サービスの�
 </colgroup>
 <thead>
 <tr class="header">
-<th>キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\Alerter</th>
-<th>フォーマット</th>
-<th>値</th>
+<th style="border:1px solid black;" >キーのパス : HKLM\SYSTEM\CurrentControlSet\Services\Alerter</th>
+<th style="border:1px solid black;" >フォーマット</th>
+<th style="border:1px solid black;" >値</th>
 </tr>
 </thead>
 <tbody>
@@ -2261,12 +2261,12 @@ Windows 2000 ベースのコンピュータに関するAlerter サービスの�
 </colgroup>
 <thead>
 <tr class="header">
-<th>監査ポリシーと構成</th>
-<th>Professional</th>
-<th>Server</th>
-<th>DC</th>
-<th>必須</th>
-<th>推奨</th>
+<th style="border:1px solid black;" >監査ポリシーと構成</th>
+<th style="border:1px solid black;" >Professional</th>
+<th style="border:1px solid black;" >Server</th>
+<th style="border:1px solid black;" >DC</th>
+<th style="border:1px solid black;" >必須</th>
+<th style="border:1px solid black;" >推奨</th>
 </tr>
 </thead>
 <tbody>
@@ -2601,14 +2601,14 @@ Windows 2000 ベースのコンピュータに関するAlerter サービスの�
 </colgroup>
 <thead>
 <tr class="header">
-<th>グループ アカウントの修正</th>
-<th> </th>
-<th> </th>
-<th>Professional</th>
-<th>Server</th>
-<th>DC</th>
-<th>必須</th>
-<th>推奨</th>
+<th style="border:1px solid black;" >グループ アカウントの修正</th>
+<th style="border:1px solid black;" > </th>
+<th style="border:1px solid black;" > </th>
+<th style="border:1px solid black;" >Professional</th>
+<th style="border:1px solid black;" >Server</th>
+<th style="border:1px solid black;" >DC</th>
+<th style="border:1px solid black;" >必須</th>
+<th style="border:1px solid black;" >推奨</th>
 </tr>
 </thead>
 <tbody>
@@ -3087,14 +3087,14 @@ INTERACTIVE
 </colgroup>
 <thead>
 <tr class="header">
-<th>ユーザー アカウントの修正</th>
-<th> </th>
-<th> </th>
-<th>Professional</th>
-<th>Server</th>
-<th>DC</th>
-<th>必須</th>
-<th>推奨</th>
+<th style="border:1px solid black;" >ユーザー アカウントの修正</th>
+<th style="border:1px solid black;" > </th>
+<th style="border:1px solid black;" > </th>
+<th style="border:1px solid black;" >Professional</th>
+<th style="border:1px solid black;" >Server</th>
+<th style="border:1px solid black;" >DC</th>
+<th style="border:1px solid black;" >必須</th>
+<th style="border:1px solid black;" >推奨</th>
 </tr>
 </thead>
 <tbody>
@@ -3210,8 +3210,8 @@ Windows 2000 Server または Professional オペレーティング システム
 </colgroup>
 <thead>
 <tr class="header">
-<th>評価されたサービスの一覧</th>
-<th></th>
+<th style="border:1px solid black;" >評価されたサービスの一覧</th>
+<th style="border:1px solid black;" ></th>
 </tr>
 </thead>
 <tbody>
@@ -3318,11 +3318,11 @@ Windows 2000 Server または Professional オペレーティング システム
 </colgroup>
 <thead>
 <tr class="header">
-<th>ファイルおよびフォルダ</th>
-<th>ACL の設定</th>
-<th>継承メソッド (セキュリティ ポリシー ツールを通じて使用)</th>
-<th>必須</th>
-<th>推奨</th>
+<th style="border:1px solid black;" >ファイルおよびフォルダ</th>
+<th style="border:1px solid black;" >ACL の設定</th>
+<th style="border:1px solid black;" >継承メソッド (セキュリティ ポリシー ツールを通じて使用)</th>
+<th style="border:1px solid black;" >必須</th>
+<th style="border:1px solid black;" >推奨</th>
 </tr>
 </thead>
 <tbody>
@@ -3853,9 +3853,9 @@ Windows 2000 Server または Professional オペレーティング システム
 </colgroup>
 <thead>
 <tr class="header">
-<th>レジストリ キー</th>
-<th>サブキー ACL の設定     特殊 (読み取り、書き込み、削除) = 値の照会、値の設定、サブキーの作成、サブキーの列挙、通知、削除、読み取り制御     読み取り = 値の照会、サブキーの列挙、通知、読み取り制御     別に注記しない限り、[このキーとサブキー] に適用します。</th>
-<th>継承メソッド (セキュリティ ポリシー ツールを通じて使用)</th>
+<th style="border:1px solid black;" >レジストリ キー</th>
+<th style="border:1px solid black;" >サブキー ACL の設定     特殊 (読み取り、書き込み、削除) = 値の照会、値の設定、サブキーの作成、サブキーの列挙、通知、削除、読み取り制御     読み取り = 値の照会、サブキーの列挙、通知、読み取り制御     別に注記しない限り、[このキーとサブキー] に適用します。</th>
+<th style="border:1px solid black;" >継承メソッド (セキュリティ ポリシー ツールを通じて使用)</th>
 </tr>
 </thead>
 <tbody>

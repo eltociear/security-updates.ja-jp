@@ -33,10 +33,10 @@ Active Directory キャッシュ設定の変更
 </colgroup>
 <thead>
 <tr class="header">
-<th>名前</th>
-<th>型</th>
-<th>既定値</th>
-<th>説明</th>
+<th style="border:1px solid black;" >名前</th>
+<th style="border:1px solid black;" >型</th>
+<th style="border:1px solid black;" >既定値</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>

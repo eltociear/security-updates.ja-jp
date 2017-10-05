@@ -144,8 +144,8 @@ IT セキュリティ リスク管理における 1 つの重要な側面は、�
 </colgroup>
 <thead>
 <tr class="header">
-<th>コンポーネント</th>
-<th>定義</th>
+<th style="border:1px solid black;" >コンポーネント</th>
+<th style="border:1px solid black;" >定義</th>
 </tr>
 </thead>
 <tbody>
@@ -214,8 +214,8 @@ IT セキュリティ リスク管理における 1 つの重要な側面は、�
 </colgroup>
 <thead>
 <tr class="header">
-<th>脅威</th>
-<th>例</th>
+<th style="border:1px solid black;" >脅威</th>
+<th style="border:1px solid black;" >例</th>
 </tr>
 </thead>
 <tbody>
@@ -316,8 +316,8 @@ ID なりすましによる脅威には、ユーザー名またはパスワー�
 </colgroup>
 <thead>
 <tr class="header">
-<th>攻略手段</th>
-<th>例</th>
+<th style="border:1px solid black;" >攻略手段</th>
+<th style="border:1px solid black;" >例</th>
 </tr>
 </thead>
 <tbody>
@@ -430,8 +430,8 @@ OS の識別<br />
 </colgroup>
 <thead>
 <tr class="header">
-<th>脆弱性</th>
-<th>例</th>
+<th style="border:1px solid black;" >脆弱性</th>
+<th style="border:1px solid black;" >例</th>
 </tr>
 </thead>
 <tbody>

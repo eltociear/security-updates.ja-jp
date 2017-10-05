@@ -30,8 +30,8 @@ Microsoft® Windows® Rights Management サービス (RMS) Service Pack 2 (SP2)
 </colgroup>
 <thead>
 <tr class="header">
-<th>要件</th>
-<th>推奨要件</th>
+<th style="border:1px solid black;" >要件</th>
+<th style="border:1px solid black;" >推奨要件</th>
 </tr>
 </thead>
 <tbody>
@@ -66,8 +66,8 @@ Microsoft® Windows® Rights Management サービス (RMS) Service Pack 2 (SP2)
 </colgroup>
 <thead>
 <tr class="header">
-<th>コンポーネント</th>
-<th>要件</th>
+<th style="border:1px solid black;" >コンポーネント</th>
+<th style="border:1px solid black;" >要件</th>
 </tr>
 </thead>
 <tbody>
@@ -117,8 +117,8 @@ Microsoft® Windows® Rights Management サービス (RMS) Service Pack 2 (SP2)
 </colgroup>
 <thead>
 <tr class="header">
-<th>コンポーネント</th>
-<th>要件</th>
+<th style="border:1px solid black;" >コンポーネント</th>
+<th style="border:1px solid black;" >要件</th>
 </tr>
 </thead>
 <tbody>
@@ -156,8 +156,8 @@ RMS は Microsoft SQL Server 2000 および Microsoft SQL Server 2005 が動�
 </colgroup>
 <thead>
 <tr class="header">
-<th>操作</th>
-<th>アカウントの要件</th>
+<th style="border:1px solid black;" >操作</th>
+<th style="border:1px solid black;" >アカウントの要件</th>
 </tr>
 </thead>
 <tbody>
@@ -204,8 +204,8 @@ RMS をクラスタ導入で使用する場合は、次の表に示された点�
 </colgroup>
 <thead>
 <tr class="header">
-<th>状況</th>
-<th>推奨要件</th>
+<th style="border:1px solid black;" >状況</th>
+<th style="border:1px solid black;" >推奨要件</th>
 </tr>
 </thead>
 <tbody>

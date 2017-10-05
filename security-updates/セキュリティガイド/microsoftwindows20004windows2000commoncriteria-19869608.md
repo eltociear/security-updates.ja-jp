@@ -26,9 +26,9 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 </colgroup>
 <thead>
 <tr class="header">
-<th>テンプレート名</th>
-<th>オペレーティング システムの種類/構成</th>
-<th>テンプレートの説明</th>
+<th style="border:1px solid black;" >テンプレート名</th>
+<th style="border:1px solid black;" >オペレーティング システムの種類/構成</th>
+<th style="border:1px solid black;" >テンプレートの説明</th>
 </tr>
 </thead>
 <tbody>

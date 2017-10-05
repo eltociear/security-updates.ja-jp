@@ -45,13 +45,13 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 </colgroup>
 <thead>
 <tr class="header">
-<th>ユーザー権利/特権</th>
-<th>説明</th>
-<th>スタンドアロンの Windows 2000 Professional において権利を割り当てられているグループ</th>
-<th>スタンドアロンの Windows 2000 Server において権利を割り当てられているグループ</th>
-<th>Windows 2000 のドメイン セキュリティ ポリシー において権利を割り当てられているグループ (ドメイン コントローラ内に所在)</th>
-<th>Windows 2000 ドメイン コントローラ において権利を割り当てられているグループ (ドメイン コントローラ セキュリティ ポリシー)</th>
-<th>適用されるセキュリティ ターゲットの要件 および/または 変更の理由</th>
+<th style="border:1px solid black;" >ユーザー権利/特権</th>
+<th style="border:1px solid black;" >説明</th>
+<th style="border:1px solid black;" >スタンドアロンの Windows 2000 Professional において権利を割り当てられているグループ</th>
+<th style="border:1px solid black;" >スタンドアロンの Windows 2000 Server において権利を割り当てられているグループ</th>
+<th style="border:1px solid black;" >Windows 2000 のドメイン セキュリティ ポリシー において権利を割り当てられているグループ (ドメイン コントローラ内に所在)</th>
+<th style="border:1px solid black;" >Windows 2000 ドメイン コントローラ において権利を割り当てられているグループ (ドメイン コントローラ セキュリティ ポリシー)</th>
+<th style="border:1px solid black;" >適用されるセキュリティ ターゲットの要件 および/または 変更の理由</th>
 </tr>
 </thead>
 <tbody>

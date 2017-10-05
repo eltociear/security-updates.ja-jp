@@ -95,9 +95,9 @@ Windows 2000 環境で動作する Exchange 2000 のセキュリティを向上�
 </colgroup>
 <thead>
 <tr class="header">
-<th>サーバーの役割</th>
-<th>説明</th>
-<th>セキュリティ テンプレート</th>
+<th style="border:1px solid black;" >サーバーの役割</th>
+<th style="border:1px solid black;" >説明</th>
+<th style="border:1px solid black;" >セキュリティ テンプレート</th>
 </tr>
 </thead>
 <tbody>
@@ -129,9 +129,9 @@ Exchange の処理をサポートできるようにドメイン コントロー�
 </colgroup>
 <thead>
 <tr class="header">
-<th>オプション</th>
-<th>Windows 2000 Server のセキュリティ運用</th>
-<th>Exchange 2000 Server のセキュリティ運用</th>
+<th style="border:1px solid black;" >オプション</th>
+<th style="border:1px solid black;" >Windows 2000 Server のセキュリティ運用</th>
+<th style="border:1px solid black;" >Exchange 2000 Server のセキュリティ運用</th>
 </tr>
 </thead>
 <tbody>
@@ -289,9 +289,9 @@ Exchange 2000 バックエンド ポリシーでは、下の表に示すサー�
 </colgroup>
 <thead>
 <tr class="header">
-<th>サービス名</th>
-<th>スタートアップ モード</th>
-<th>理由</th>
+<th style="border:1px solid black;" >サービス名</th>
+<th style="border:1px solid black;" >スタートアップ モード</th>
+<th style="border:1px solid black;" >理由</th>
 </tr>
 </thead>
 <tbody>
@@ -442,10 +442,10 @@ Exchange バックエンド サーバー ポリシーでは、いくつかのデ
 </colgroup>
 <thead>
 <tr class="header">
-<th>ディレクトリ</th>
-<th>変更前の ACL</th>
-<th>変更後の ACL</th>
-<th>サブディレクトリに適用されるか</th>
+<th style="border:1px solid black;" >ディレクトリ</th>
+<th style="border:1px solid black;" >変更前の ACL</th>
+<th style="border:1px solid black;" >変更後の ACL</th>
+<th style="border:1px solid black;" >サブディレクトリに適用されるか</th>
 </tr>
 </thead>
 <tbody>
@@ -493,9 +493,9 @@ OWA フロントエンド ポリシーでは、サービスに関する設定と
 </colgroup>
 <thead>
 <tr class="header">
-<th>サービス名</th>
-<th>スタートアップ モード</th>
-<th>理由</th>
+<th style="border:1px solid black;" >サービス名</th>
+<th style="border:1px solid black;" >スタートアップ モード</th>
+<th style="border:1px solid black;" >理由</th>
 </tr>
 </thead>
 <tbody>
@@ -722,9 +722,9 @@ IIS Lockdown ツールには、IIS サーバーに対するすべての要求を
     </colgroup>
     <thead>
     <tr class="header">
-    <th>種類</th>
-    <th>エントリ</th>
-    <th>状態</th>
+    <th style="border:1px solid black;" >種類</th>
+    <th style="border:1px solid black;" >エントリ</th>
+    <th style="border:1px solid black;" >状態</th>
     </tr>
     </thead>
     <tbody>
@@ -778,9 +778,9 @@ IIS Lockdown ツールには、IIS サーバーに対するすべての要求を
     </colgroup>
     <thead>
     <tr class="header">
-    <th>名前</th>
-    <th>仮想ディレクトリ</th>
-    <th>既定の場所</th>
+    <th style="border:1px solid black;" >名前</th>
+    <th style="border:1px solid black;" >仮想ディレクトリ</th>
+    <th style="border:1px solid black;" >既定の場所</th>
     </tr>
     </thead>
     <tbody>

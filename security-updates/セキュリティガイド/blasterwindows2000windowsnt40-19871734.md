@@ -20,7 +20,7 @@ Blaster ワームへの対策 ‐ Windows 2000/Windows NT 4.0 編
 </colgroup>
 <thead>
 <tr class="header">
-<th>～非常に危険な亜種が発見されました～</th>
+<th style="border:1px solid black;" >～非常に危険な亜種が発見されました～</th>
 </tr>
 </thead>
 <tbody>
@@ -571,7 +571,7 @@ DCOM を無効化したままでは、その他のアプリケーションに影
 </colgroup>
 <thead>
 <tr class="header">
-<th>コンピュータを安全にお使いいただくために</th>
+<th style="border:1px solid black;" >コンピュータを安全にお使いいただくために</th>
 </tr>
 </thead>
 <tbody>

@@ -45,8 +45,8 @@ Contoso では会社の管理グループを担当するテクノロジに基づ
 </colgroup>
 <thead>
 <tr class="header">
-<th>グループ名</th>
-<th>担当</th>
+<th style="border:1px solid black;" >グループ名</th>
+<th style="border:1px solid black;" >担当</th>
 </tr>
 </thead>
 <tbody>
@@ -214,8 +214,8 @@ Contoso の資産の一部に適用された資産の重要度の評価を下の
 </colgroup>
 <thead>
 <tr class="header">
-<th>サーバーの区分</th>
-<th>資産の重要度 (AP)</th>
+<th style="border:1px solid black;" >サーバーの区分</th>
+<th style="border:1px solid black;" >資産の重要度 (AP)</th>
 </tr>
 </thead>
 <tbody>
@@ -290,10 +290,10 @@ Contoso の資産の一部に適用された資産の重要度の評価を下の
 </colgroup>
 <thead>
 <tr class="header">
-<th>サーバーの区分</th>
-<th>物理的な価値</th>
-<th>付加価値</th>
-<th>資産価値 (AV)</th>
+<th style="border:1px solid black;" >サーバーの区分</th>
+<th style="border:1px solid black;" >物理的な価値</th>
+<th style="border:1px solid black;" >付加価値</th>
+<th style="border:1px solid black;" >資産価値 (AV)</th>
 </tr>
 </thead>
 <tbody>
@@ -504,8 +504,8 @@ Contoso では脅威確率 (threat probability: TP) を潜在的な脅威が発�
 </colgroup>
 <thead>
 <tr class="header">
-<th>脅威</th>
-<th>確率</th>
+<th style="border:1px solid black;" >脅威</th>
+<th style="border:1px solid black;" >確率</th>
 </tr>
 </thead>
 <tbody>
@@ -987,15 +987,15 @@ Contoso には最新のセキュリティ修正プログラムをインストー
 </colgroup>
 <thead>
 <tr class="header">
-<th>脅威</th>
-<th>TP</th>
-<th>行為</th>
-<th>CF</th>
-<th>労力</th>
-<th>脆弱性</th>
-<th>VF</th>
-<th>資産</th>
-<th>AP</th>
+<th style="border:1px solid black;" >脅威</th>
+<th style="border:1px solid black;" >TP</th>
+<th style="border:1px solid black;" >行為</th>
+<th style="border:1px solid black;" >CF</th>
+<th style="border:1px solid black;" >労力</th>
+<th style="border:1px solid black;" >脆弱性</th>
+<th style="border:1px solid black;" >VF</th>
+<th style="border:1px solid black;" >資産</th>
+<th style="border:1px solid black;" >AP</th>
 </tr>
 </thead>
 <tbody>
@@ -1415,9 +1415,9 @@ EF = (((TP x (C / E)) x (VF x AP)) / 1000)
 </colgroup>
 <thead>
 <tr class="header">
-<th>脆弱性</th>
-<th>資産</th>
-<th>EF</th>
+<th style="border:1px solid black;" >脆弱性</th>
+<th style="border:1px solid black;" >資産</th>
+<th style="border:1px solid black;" >EF</th>
 </tr>
 </thead>
 <tbody>

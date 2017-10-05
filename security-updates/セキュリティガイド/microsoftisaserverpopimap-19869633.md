@@ -168,15 +168,15 @@ Exchange Server を SecureNAT クライアントとして構成することを�
 </colgroup>
 <thead>
 <tr class="header">
-<th>プロトコル</th>
-<th>定義済みカスタム</th>
-<th>IP プロトコル</th>
-<th>プロトコル番号</th>
-<th>方向</th>
-<th>ローカルポート</th>
-<th>ローカルポート番号</th>
-<th>リモートポート</th>
-<th>リモートポート番号</th>
+<th style="border:1px solid black;" >プロトコル</th>
+<th style="border:1px solid black;" >定義済みカスタム</th>
+<th style="border:1px solid black;" >IP プロトコル</th>
+<th style="border:1px solid black;" >プロトコル番号</th>
+<th style="border:1px solid black;" >方向</th>
+<th style="border:1px solid black;" >ローカルポート</th>
+<th style="border:1px solid black;" >ローカルポート番号</th>
+<th style="border:1px solid black;" >リモートポート</th>
+<th style="border:1px solid black;" >リモートポート番号</th>
 </tr>
 </thead>
 <tbody>

@@ -216,8 +216,8 @@ MBSA がコンピュータに特定の修正プログラムがインストール
 </colgroup>
 <thead>
 <tr class="header">
-<th>スイッチ</th>
-<th>機能</th>
+<th style="border:1px solid black;" >スイッチ</th>
+<th style="border:1px solid black;" >機能</th>
 </tr>
 </thead>
 <tbody>
@@ -407,8 +407,8 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
 </colgroup>
 <thead>
 <tr class="header">
-<th>スイッチ</th>
-<th>機能</th>
+<th style="border:1px solid black;" >スイッチ</th>
+<th style="border:1px solid black;" >機能</th>
 </tr>
 </thead>
 <tbody>
@@ -610,8 +610,8 @@ MBSA を使用して修正プログラムの状況を確認する場合には、
 </colgroup>
 <thead>
 <tr class="header">
-<th>フォルダ</th>
-<th>説明</th>
+<th style="border:1px solid black;" >フォルダ</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -743,10 +743,10 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
 </colgroup>
 <thead>
 <tr class="header">
-<th>コンピュータのタイプ</th>
-<th>重大性のレベル</th>
-<th> </th>
-<th> </th>
+<th style="border:1px solid black;" >コンピュータのタイプ</th>
+<th style="border:1px solid black;" >重大性のレベル</th>
+<th style="border:1px solid black;" > </th>
+<th style="border:1px solid black;" > </th>
 </tr>
 </thead>
 <tbody>
@@ -799,8 +799,8 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
 </colgroup>
 <thead>
 <tr class="header">
-<th>修正プログラムのタイプ</th>
-<th>テスト フェーズ</th>
+<th style="border:1px solid black;" >修正プログラムのタイプ</th>
+<th style="border:1px solid black;" >テスト フェーズ</th>
 </tr>
 </thead>
 <tbody>
@@ -943,8 +943,8 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
 </colgroup>
 <thead>
 <tr class="header">
-<th>スイッチ</th>
-<th>説明</th>
+<th style="border:1px solid black;" >スイッチ</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>

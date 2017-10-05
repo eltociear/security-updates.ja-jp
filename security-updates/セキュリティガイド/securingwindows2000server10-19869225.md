@@ -133,8 +133,8 @@ CSIRT チームの中核以外に、特定の問題の処理や対応を行う�
 </colgroup>
 <thead>
 <tr class="header">
-<th>準メンバ</th>
-<th>役割の説明</th>
+<th style="border:1px solid black;" >準メンバ</th>
+<th style="border:1px solid black;" >役割の説明</th>
 </tr>
 </thead>
 <tbody>
@@ -180,15 +180,15 @@ CSIRT チームの中核以外に、特定の問題の処理や対応を行う�
 </colgroup>
 <thead>
 <tr class="header">
-<th>活動</th>
-<th>役割</th>
-<th><br />
+<th style="border:1px solid black;" >活動</th>
+<th style="border:1px solid black;" >役割</th>
+<th style="border:1px solid black;" ><br />
 </th>
-<th><br />
+<th style="border:1px solid black;" ><br />
 </th>
-<th><br />
+<th style="border:1px solid black;" ><br />
 </th>
-<th><br />
+<th style="border:1px solid black;" ><br />
 </th>
 </tr>
 </thead>
@@ -532,8 +532,8 @@ CSIRT は問題を処理する場合、すべてのプロセスを完全にド�
 </colgroup>
 <thead>
 <tr class="header">
-<th>問題対応の手順</th>
-<th>対処</th>
+<th style="border:1px solid black;" >問題対応の手順</th>
+<th style="border:1px solid black;" >対処</th>
 </tr>
 </thead>
 <tbody>

@@ -25,13 +25,13 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 </colgroup>
 <thead>
 <tr class="header">
-<th>Windows 2000 にあらかじめ組み込まれているユーザーとグループ</th>
-<th>説明</th>
-<th>スタンドアロンの Professional</th>
-<th>スタンドアロンの Server</th>
-<th>ドメイン コントローラ</th>
-<th>既定のメンバ</th>
-<th>適用されるセキュリティ ターゲットの要件 および/または 変更の理由</th>
+<th style="border:1px solid black;" >Windows 2000 にあらかじめ組み込まれているユーザーとグループ</th>
+<th style="border:1px solid black;" >説明</th>
+<th style="border:1px solid black;" >スタンドアロンの Professional</th>
+<th style="border:1px solid black;" >スタンドアロンの Server</th>
+<th style="border:1px solid black;" >ドメイン コントローラ</th>
+<th style="border:1px solid black;" >既定のメンバ</th>
+<th style="border:1px solid black;" >適用されるセキュリティ ターゲットの要件 および/または 変更の理由</th>
 </tr>
 </thead>
 <tbody>

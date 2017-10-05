@@ -248,9 +248,9 @@ SCE をインストールした場合、一組のテンプレートが既定で 
 </colgroup>
 <thead>
 <tr class="header">
-<th>目的</th>
-<th>セキュリティ対象</th>
-<th>使用ファイル</th>
+<th style="border:1px solid black;" >目的</th>
+<th style="border:1px solid black;" >セキュリティ対象</th>
+<th style="border:1px solid black;" >使用ファイル</th>
 </tr>
 </thead>
 <tbody>
@@ -1053,9 +1053,9 @@ Trey シナリオの実装が完了したら、実装を検証して要件を満
 </colgroup>
 <thead>
 <tr class="header">
-<th>内容</th>
-<th>テスト手順</th>
-<th>予想される結果</th>
+<th style="border:1px solid black;" >内容</th>
+<th style="border:1px solid black;" >テスト手順</th>
+<th style="border:1px solid black;" >予想される結果</th>
 </tr>
 </thead>
 <tbody>

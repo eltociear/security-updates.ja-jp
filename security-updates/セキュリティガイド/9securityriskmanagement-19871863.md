@@ -35,8 +35,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362918(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th>重要度</th>
-<th>分類</th>
+<th style="border:1px solid black;" >重要度</th>
+<th style="border:1px solid black;" >分類</th>
 </tr>
 </thead>
 <tbody>

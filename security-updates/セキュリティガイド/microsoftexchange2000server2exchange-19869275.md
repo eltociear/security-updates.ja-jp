@@ -211,8 +211,8 @@ Exchange 2000 には迷惑メールに対する防御機能が組み込まれて
 </colgroup>
 <thead>
 <tr class="header">
-<th>役割</th>
-<th>説明</th>
+<th style="border:1px solid black;" >役割</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -326,10 +326,10 @@ Exchange 2000 を使用して、メールボックス ストア、パブリッ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>名前</th>
-<th>含まれるアイテム</th>
-<th>適用されるポリシー</th>
-<th>アクセス権限</th>
+<th style="border:1px solid black;" >名前</th>
+<th style="border:1px solid black;" >含まれるアイテム</th>
+<th style="border:1px solid black;" >適用されるポリシー</th>
+<th style="border:1px solid black;" >アクセス権限</th>
 </tr>
 </thead>
 <tbody>

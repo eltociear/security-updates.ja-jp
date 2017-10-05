@@ -135,8 +135,8 @@ Microsoftｮ Windowsｮ 2000 は、セキュリティ イベントに関して�
 </colgroup>
 <thead>
 <tr class="header">
-<th>イベント ID</th>
-<th>説明</th>
+<th style="border:1px solid black;" >イベント ID</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -242,8 +242,8 @@ Contoso では、多数のログオン試行の失敗と、多数のアカウン
 </colgroup>
 <thead>
 <tr class="header">
-<th>イベント ID</th>
-<th>説明</th>
+<th style="border:1px solid black;" >イベント ID</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -324,8 +324,8 @@ Contoso は現在、かなり多くのドメイン ログオン試行の失敗�
 </colgroup>
 <thead>
 <tr class="header">
-<th>イベント ID</th>
-<th>説明</th>
+<th style="border:1px solid black;" >イベント ID</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -484,8 +484,8 @@ Windows 2000 での監査は、オブジェクトへのハンドルが開かれ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>イベント ID</th>
-<th>説明</th>
+<th style="border:1px solid black;" >イベント ID</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -524,8 +524,8 @@ Windows 2000 での監査は、オブジェクトへのハンドルが開かれ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>監査操作</th>
-<th>実行方法</th>
+<th style="border:1px solid black;" >監査操作</th>
+<th style="border:1px solid black;" >実行方法</th>
 </tr>
 </thead>
 <tbody>
@@ -602,8 +602,8 @@ Contoso では、すべてのディレクトリ サービス アクセス イベ
 </colgroup>
 <thead>
 <tr class="header">
-<th>イベント ID</th>
-<th>説明</th>
+<th style="border:1px solid black;" >イベント ID</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -662,8 +662,8 @@ Windows 2000 ベースのコンピュータ上で実行されているプロセ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>イベント ID</th>
-<th>説明</th>
+<th style="border:1px solid black;" >イベント ID</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -706,8 +706,8 @@ Contoso では、プロセス追跡イベントを監視してはおらず、ど
 </colgroup>
 <thead>
 <tr class="header">
-<th>イベント ID</th>
-<th>説明</th>
+<th style="border:1px solid black;" >イベント ID</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -779,8 +779,8 @@ Contoso では、コンピュータのシャットダウンや再起動、およ
 </colgroup>
 <thead>
 <tr class="header">
-<th>イベント ID</th>
-<th>説明</th>
+<th style="border:1px solid black;" >イベント ID</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>

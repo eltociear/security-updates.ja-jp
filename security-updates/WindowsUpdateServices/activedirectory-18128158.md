@@ -33,15 +33,15 @@ Windows Update エージェント環境のオプションのレジストリ キ�
 </th>
 </tr>
 <tr>
-<th>
+<th style="border:1px solid black;" >
 エントリ名
 
 </th>
-<th>
+<th style="border:1px solid black;" >
 値
 
 </th>
-<th>
+<th style="border:1px solid black;" >
 データ型
 
 </th>
@@ -144,15 +144,15 @@ Reg\_String
 </th>
 </tr>
 <tr>
-<th>
+<th style="border:1px solid black;" >
 エントリ名
 
 </th>
-<th>
+<th style="border:1px solid black;" >
 値の範囲と意味
 
 </th>
-<th>
+<th style="border:1px solid black;" >
 データ型
 
 </th>

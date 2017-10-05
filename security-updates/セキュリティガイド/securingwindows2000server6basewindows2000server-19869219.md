@@ -66,8 +66,8 @@ baseline.inf と dcbaseline.inf の違いについては、第 7 章「特定サ
 </colgroup>
 <thead>
 <tr class="header">
-<th>ユーザー インターフェイス (UI) に表示されるポリシーの完全名</th>
-<th>コンピュータの設定</th>
+<th style="border:1px solid black;" >ユーザー インターフェイス (UI) に表示されるポリシーの完全名</th>
+<th style="border:1px solid black;" >コンピュータの設定</th>
 </tr>
 </thead>
 <tbody>
@@ -327,8 +327,8 @@ Contoso 社のシナリオでは、管理者がアプリケーションをデバ
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI に表示されるセキュリティ オプションの完全名</th>
-<th>コンピュータの設定</th>
+<th style="border:1px solid black;" >UI に表示されるセキュリティ オプションの完全名</th>
+<th style="border:1px solid black;" >コンピュータの設定</th>
 </tr>
 </thead>
 <tbody>
@@ -1463,10 +1463,10 @@ Contoso 社のネットワークでほかのサーバー タイプが必要に�
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI に表示されるサービスの完全名</th>
-<th>サービス名</th>
-<th>設定の既定値</th>
-<th>起動タイプ</th>
+<th style="border:1px solid black;" >UI に表示されるサービスの完全名</th>
+<th style="border:1px solid black;" >サービス名</th>
+<th style="border:1px solid black;" >設定の既定値</th>
+<th style="border:1px solid black;" >起動タイプ</th>
 </tr>
 </thead>
 <tbody>
@@ -1633,10 +1633,10 @@ Contoso 社のネットワークでほかのサーバー タイプが必要に�
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI に表示されるサービスの完全名</th>
-<th>サービス名</th>
-<th>設定の既定値</th>
-<th>起動タイプ</th>
+<th style="border:1px solid black;" >UI に表示されるサービスの完全名</th>
+<th style="border:1px solid black;" >サービス名</th>
+<th style="border:1px solid black;" >設定の既定値</th>
+<th style="border:1px solid black;" >起動タイプ</th>
 </tr>
 </thead>
 <tbody>
@@ -1807,10 +1807,10 @@ Contoso 社のネットワークでほかのサーバー タイプが必要に�
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI に表示されるサービスの完全名</th>
-<th>サービス名</th>
-<th>設定の既定値</th>
-<th>起動タイプ</th>
+<th style="border:1px solid black;" >UI に表示されるサービスの完全名</th>
+<th style="border:1px solid black;" >サービス名</th>
+<th style="border:1px solid black;" >設定の既定値</th>
+<th style="border:1px solid black;" >起動タイプ</th>
 </tr>
 </thead>
 <tbody>
@@ -2007,10 +2007,10 @@ Contoso 社のネットワークでほかのサーバー タイプが必要に�
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI に表示されるサービスの完全名</th>
-<th>サービス名</th>
-<th>設定の既定値</th>
-<th>起動タイプ</th>
+<th style="border:1px solid black;" >UI に表示されるサービスの完全名</th>
+<th style="border:1px solid black;" >サービス名</th>
+<th style="border:1px solid black;" >設定の既定値</th>
+<th style="border:1px solid black;" >起動タイプ</th>
 </tr>
 </thead>
 <tbody>
@@ -2067,10 +2067,10 @@ Contoso 社のネットワークでほかのサーバー タイプが必要に�
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI に表示されるサービスの完全名</th>
-<th>サービス名</th>
-<th>設定の既定値</th>
-<th>起動タイプ</th>
+<th style="border:1px solid black;" >UI に表示されるサービスの完全名</th>
+<th style="border:1px solid black;" >サービス名</th>
+<th style="border:1px solid black;" >設定の既定値</th>
+<th style="border:1px solid black;" >起動タイプ</th>
 </tr>
 </thead>
 <tbody>
@@ -2394,9 +2394,9 @@ Contoso 社のシナリオでは、グループ ポリシーを使用してこ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>レジストリ値エントリ</th>
-<th>形式</th>
-<th>値 (10進数)</th>
+<th style="border:1px solid black;" >レジストリ値エントリ</th>
+<th style="border:1px solid black;" >形式</th>
+<th style="border:1px solid black;" >値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
@@ -2470,9 +2470,9 @@ Contoso 社のシナリオでは、グループ ポリシーを使用してこ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>レジストリ値エントリ</th>
-<th>形式</th>
-<th>値 (10進数)</th>
+<th style="border:1px solid black;" >レジストリ値エントリ</th>
+<th style="border:1px solid black;" >形式</th>
+<th style="border:1px solid black;" >値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
@@ -2512,9 +2512,9 @@ Contoso 社のシナリオでは、グループ ポリシーを使用してこ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>レジストリ値エントリ</th>
-<th>対策による潜在的影響</th>
-<th>不正利用の可能性</th>
+<th style="border:1px solid black;" >レジストリ値エントリ</th>
+<th style="border:1px solid black;" >対策による潜在的影響</th>
+<th style="border:1px solid black;" >不正利用の可能性</th>
 </tr>
 </thead>
 <tbody>
@@ -2639,9 +2639,9 @@ Contoso 社のシナリオでは、現在でも NetBIOS ネーム サービス�
 </colgroup>
 <thead>
 <tr class="header">
-<th>レジストリ キー</th>
-<th>形式</th>
-<th>値 (10進数)</th>
+<th style="border:1px solid black;" >レジストリ キー</th>
+<th style="border:1px solid black;" >形式</th>
+<th style="border:1px solid black;" >値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
@@ -2688,9 +2688,9 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、**
 </colgroup>
 <thead>
 <tr class="header">
-<th>レジストリ キー</th>
-<th>形式</th>
-<th>値 (10進数)</th>
+<th style="border:1px solid black;" >レジストリ キー</th>
+<th style="border:1px solid black;" >形式</th>
+<th style="border:1px solid black;" >値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
@@ -2735,9 +2735,9 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、�
 </colgroup>
 <thead>
 <tr class="header">
-<th>レジストリ値エントリ</th>
-<th>形式</th>
-<th>値 (16進数)</th>
+<th style="border:1px solid black;" >レジストリ値エントリ</th>
+<th style="border:1px solid black;" >形式</th>
+<th style="border:1px solid black;" >値 (16進数)</th>
 </tr>
 </thead>
 <tbody>
@@ -2810,9 +2810,9 @@ Contoso 社のシナリオでは、テンプレートの **HKLM\\SYSTEM\\Softwar
 </colgroup>
 <thead>
 <tr class="header">
-<th>レジストリ値エントリ</th>
-<th>形式</th>
-<th>値 (10進数)</th>
+<th style="border:1px solid black;" >レジストリ値エントリ</th>
+<th style="border:1px solid black;" >形式</th>
+<th style="border:1px solid black;" >値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
@@ -2853,9 +2853,9 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、�
 </colgroup>
 <thead>
 <tr class="header">
-<th>レジストリ値エントリ</th>
-<th>形式</th>
-<th>値 (10進数)</th>
+<th style="border:1px solid black;" >レジストリ値エントリ</th>
+<th style="border:1px solid black;" >形式</th>
+<th style="border:1px solid black;" >値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
@@ -2896,9 +2896,9 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、�
 </colgroup>
 <thead>
 <tr class="header">
-<th>レジストリ値エントリ</th>
-<th>形式</th>
-<th>値 (10進数)</th>
+<th style="border:1px solid black;" >レジストリ値エントリ</th>
+<th style="border:1px solid black;" >形式</th>
+<th style="border:1px solid black;" >値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
@@ -2966,9 +2966,9 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、�
 </colgroup>
 <thead>
 <tr class="header">
-<th>レジストリ値エントリ</th>
-<th>形式</th>
-<th>値 (10進数)</th>
+<th style="border:1px solid black;" >レジストリ値エントリ</th>
+<th style="border:1px solid black;" >形式</th>
+<th style="border:1px solid black;" >値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
@@ -3013,9 +3013,9 @@ Contoso 社のシナリオでは、グループ ポリシーを使用して、�
 </colgroup>
 <thead>
 <tr class="header">
-<th>レジストリ値エントリ</th>
-<th>形式</th>
-<th>値 (10進数)</th>
+<th style="border:1px solid black;" >レジストリ値エントリ</th>
+<th style="border:1px solid black;" >形式</th>
+<th style="border:1px solid black;" >値 (10進数)</th>
 </tr>
 </thead>
 <tbody>
@@ -3080,9 +3080,9 @@ Windows 2000 サービスは通常 Local System アカウントで実行され�
 </colgroup>
 <thead>
 <tr class="header">
-<th>Windows 2000 Server での認証サービス</th>
-<th>Windows 2000 Server のみのフォレスト間</th>
-<th>ドメイン間の NTLM 信頼関係によるマルチフォレスト</th>
+<th style="border:1px solid black;" >Windows 2000 Server での認証サービス</th>
+<th style="border:1px solid black;" >Windows 2000 Server のみのフォレスト間</th>
+<th style="border:1px solid black;" >ドメイン間の NTLM 信頼関係によるマルチフォレスト</th>
 </tr>
 </thead>
 <tbody>
@@ -3255,13 +3255,13 @@ Contoso 社のシナリオでは、まず各サーバーの役割が必要とす
 </colgroup>
 <thead>
 <tr class="header">
-<th>サービス</th>
-<th>プロトコル</th>
-<th>発信元ポート</th>
-<th>宛先ポート</th>
-<th>発信元アドレス</th>
-<th>宛先アドレス</th>
-<th>アクション</th>
+<th style="border:1px solid black;" >サービス</th>
+<th style="border:1px solid black;" >プロトコル</th>
+<th style="border:1px solid black;" >発信元ポート</th>
+<th style="border:1px solid black;" >宛先ポート</th>
+<th style="border:1px solid black;" >発信元アドレス</th>
+<th style="border:1px solid black;" >宛先アドレス</th>
+<th style="border:1px solid black;" >アクション</th>
 </tr>
 </thead>
 <tbody>

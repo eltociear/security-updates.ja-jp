@@ -32,9 +32,9 @@ BitLocker はWindows Vista の機能ではありますが、2 つのエディシ
 </colgroup>
 <thead>
 <tr class="header">
-<th>Windows Vistaエディション</th>
-<th>BitLocker</th>
-<th>EFS</th>
+<th style="border:1px solid black;" >Windows Vistaエディション</th>
+<th style="border:1px solid black;" >BitLocker</th>
+<th style="border:1px solid black;" >EFS</th>
 </tr>
 </thead>
 <tbody>

@@ -270,8 +270,8 @@ IP トランスポートの場合、一般的にサイト リンクは 2 つの�
 </colgroup>
 <thead>
 <tr class="header">
-<th>ネットワークの種類</th>
-<th>速度</th>
+<th style="border:1px solid black;" >ネットワークの種類</th>
+<th style="border:1px solid black;" >速度</th>
 </tr>
 </thead>
 <tbody>
@@ -316,8 +316,8 @@ IP トランスポートの場合、一般的にサイト リンクは 2 つの�
 </colgroup>
 <thead>
 <tr class="header">
-<th>ネットワークの種類</th>
-<th>コスト値</th>
+<th style="border:1px solid black;" >ネットワークの種類</th>
+<th style="border:1px solid black;" >コスト値</th>
 </tr>
 </thead>
 <tbody>
@@ -461,9 +461,9 @@ IP ネットワークが完全にルートされていない場合、(IP トラ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>サイト リンク</th>
-<th>複製間隔</th>
-<th>スケジュール</th>
+<th style="border:1px solid black;" >サイト リンク</th>
+<th style="border:1px solid black;" >複製間隔</th>
+<th style="border:1px solid black;" >スケジュール</th>
 </tr>
 </thead>
 <tbody>

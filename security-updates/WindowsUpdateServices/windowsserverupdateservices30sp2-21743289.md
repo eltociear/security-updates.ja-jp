@@ -62,7 +62,7 @@ WSUS 3.0 SP2 サーバー インストールのシステム要件
         </colgroup>
         <thead>
         <tr class="header">
-        <th><img src="images/Dd939886.Warning(WS.10).gif" />警告</th>
+        <th style="border:1px solid black;" ><img src="images/Dd939886.Warning(WS.10).gif" />警告</th>
         </tr>
         </thead>
         <tbody>
@@ -97,7 +97,7 @@ WSUS 3.0 SP2 サーバー インストールのシステム要件
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="images/Dd939886.Important(WS.10).gif" />重要</th>
+<th style="border:1px solid black;" ><img src="images/Dd939886.Important(WS.10).gif" />重要</th>
 </tr>
 </thead>
 <tbody>
@@ -134,7 +134,7 @@ WSUS 3.0 SP2 サーバー インストールのシステム要件
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="images/Dd939886.Important(WS.10).gif" />重要</th>
+<th style="border:1px solid black;" ><img src="images/Dd939886.Important(WS.10).gif" />重要</th>
 </tr>
 </thead>
 <tbody>
@@ -176,7 +176,7 @@ WSUS 3.0 SP2 をインストールするとき、ウイルス対策プログラ�
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="images/Dd939886.Caution(WS.10).gif" />注意</th>
+<th style="border:1px solid black;" ><img src="images/Dd939886.Caution(WS.10).gif" />注意</th>
 </tr>
 </thead>
 <tbody>
@@ -326,8 +326,8 @@ WSUS コマンド ライン セットアップ プログラムを使用すると
 </colgroup>
 <thead>
 <tr class="header">
-<th>オプション</th>
-<th>説明</th>
+<th style="border:1px solid black;" >オプション</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -366,8 +366,8 @@ WSUS コマンド ライン セットアップ プログラムを使用すると
 </colgroup>
 <thead>
 <tr class="header">
-<th>プロパティ</th>
-<th>説明</th>
+<th style="border:1px solid black;" >プロパティ</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -446,7 +446,7 @@ WSUSSetup.exe /q DEFAULT\_WEBSITE=0 (ポート 8530 を使用して QUIET モー
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="images/Dd939886.Important(WS.10).gif" />重要</th>
+<th style="border:1px solid black;" ><img src="images/Dd939886.Important(WS.10).gif" />重要</th>
 </tr>
 </thead>
 <tbody>

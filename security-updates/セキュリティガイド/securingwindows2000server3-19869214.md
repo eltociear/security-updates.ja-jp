@@ -622,11 +622,11 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 </colgroup>
 <thead>
 <tr class="header">
-<th>資産</th>
-<th>価値</th>
-<th>危険要因</th>
-<th>直接的影響</th>
-<th>間接的影響</th>
+<th style="border:1px solid black;" >資産</th>
+<th style="border:1px solid black;" >価値</th>
+<th style="border:1px solid black;" >危険要因</th>
+<th style="border:1px solid black;" >直接的影響</th>
+<th style="border:1px solid black;" >間接的影響</th>
 </tr>
 </thead>
 <tbody>
@@ -762,10 +762,10 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 </colgroup>
 <thead>
 <tr class="header">
-<th>範囲</th>
-<th>計算値</th>
-<th>表現</th>
-<th>スコア</th>
+<th style="border:1px solid black;" >範囲</th>
+<th style="border:1px solid black;" >計算値</th>
+<th style="border:1px solid black;" >表現</th>
+<th style="border:1px solid black;" >スコア</th>
 </tr>
 </thead>
 <tbody>
@@ -838,8 +838,8 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 </colgroup>
 <thead>
 <tr class="header">
-<th>スコア</th>
-<th>金銭的な損失</th>
+<th style="border:1px solid black;" >スコア</th>
+<th style="border:1px solid black;" >金銭的な損失</th>
 </tr>
 </thead>
 <tbody>
@@ -906,10 +906,10 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 </colgroup>
 <thead>
 <tr class="header">
-<th>確率 影響</th>
-<th>低 = 1</th>
-<th>中 = 2</th>
-<th>高 = 3</th>
+<th style="border:1px solid black;" >確率 影響</th>
+<th style="border:1px solid black;" >低 = 1</th>
+<th style="border:1px solid black;" >中 = 2</th>
+<th style="border:1px solid black;" >高 = 3</th>
 </tr>
 </thead>
 <tbody>
@@ -969,12 +969,12 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 </colgroup>
 <thead>
 <tr class="header">
-<th>優先順位</th>
-<th>条件</th>
-<th>結果</th>
-<th>確率</th>
-<th>影響</th>
-<th>危険性</th>
+<th style="border:1px solid black;" >優先順位</th>
+<th style="border:1px solid black;" >条件</th>
+<th style="border:1px solid black;" >結果</th>
+<th style="border:1px solid black;" >確率</th>
+<th style="border:1px solid black;" >影響</th>
+<th style="border:1px solid black;" >危険性</th>
 </tr>
 </thead>
 <tbody>
@@ -1036,9 +1036,9 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 </colgroup>
 <thead>
 <tr class="header">
-<th>項目</th>
-<th>目的</th>
-<th>状態</th>
+<th style="border:1px solid black;" >項目</th>
+<th style="border:1px solid black;" >目的</th>
+<th style="border:1px solid black;" >状態</th>
 </tr>
 </thead>
 <tbody>
@@ -1121,8 +1121,8 @@ IT インフラストラクチャは、使命遂行の必要条件を満たす�
 </colgroup>
 <thead>
 <tr class="header">
-<th>項目</th>
-<th>目的</th>
+<th style="border:1px solid black;" >項目</th>
+<th style="border:1px solid black;" >目的</th>
 </tr>
 </thead>
 <tbody>

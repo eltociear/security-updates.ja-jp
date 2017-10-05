@@ -36,8 +36,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362910(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th>各層</th>
-<th>説明</th>
+<th style="border:1px solid black;" >各層</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>

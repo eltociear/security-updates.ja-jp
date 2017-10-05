@@ -32,12 +32,12 @@ hisecws.inf で定義されている ACL は、主に、Windows NT 4.0 ベース
 </colgroup>
 <thead>
 <tr class="header">
-<th>セキュリティで保護されるキー</th>
-<th>適用されるアクセス許可</th>
-<th>継承し構成</th>
-<th>上書きで構成</th>
-<th>上書きしない</th>
-<th>継承</th>
+<th style="border:1px solid black;" >セキュリティで保護されるキー</th>
+<th style="border:1px solid black;" >適用されるアクセス許可</th>
+<th style="border:1px solid black;" >継承し構成</th>
+<th style="border:1px solid black;" >上書きで構成</th>
+<th style="border:1px solid black;" >上書きしない</th>
+<th style="border:1px solid black;" >継承</th>
 </tr>
 </thead>
 <tbody>

@@ -105,7 +105,7 @@ MSDE 2000 が同梱されている製品一覧は、[「よくある質問と回
 </colgroup>
 <thead>
 <tr class="header">
-<th>SQL Critical Update による対策</th>
+<th style="border:1px solid black;" >SQL Critical Update による対策</th>
 </tr>
 </thead>
 <tbody>
@@ -139,7 +139,7 @@ SQL Server 2000 評価版をご利用のお客様も適用可能です。</li>
 </colgroup>
 <thead>
 <tr class="header">
-<th>Step 1: SQL Server が動作しているかを確認する</th>
+<th style="border:1px solid black;" >Step 1: SQL Server が動作しているかを確認する</th>
 </tr>
 </thead>
 <tbody>
@@ -196,7 +196,7 @@ VULNERABLE: server=JPSQL instance=MSSQLSERVER version=RTM language=1041 platform
 </colgroup>
 <thead>
 <tr class="header">
-<th>Step 2: バージョンの確認</th>
+<th style="border:1px solid black;" >Step 2: バージョンの確認</th>
 </tr>
 </thead>
 <tbody>
@@ -231,7 +231,7 @@ VULNERABLE: server=JPSQL instance=MSSQLSERVER version=RTM language=1041 platform
 </colgroup>
 <thead>
 <tr class="header">
-<th>Step 3: セキュリティ修正プログラムの入手</th>
+<th style="border:1px solid black;" >Step 3: セキュリティ修正プログラムの入手</th>
 </tr>
 </thead>
 <tbody>
@@ -277,7 +277,7 @@ Microsoft SQL Server Desktop Engine   Microsoft SQL Server 2000 Desktop Engine (
 </colgroup>
 <thead>
 <tr class="header">
-<th>Step 4: SQL Server の停止</th>
+<th style="border:1px solid black;" >Step 4: SQL Server の停止</th>
 </tr>
 </thead>
 <tbody>
@@ -305,7 +305,7 @@ Microsoft SQL Server Desktop Engine   Microsoft SQL Server 2000 Desktop Engine (
 </colgroup>
 <thead>
 <tr class="header">
-<th>Step 5: ネットワークの切断</th>
+<th style="border:1px solid black;" >Step 5: ネットワークの切断</th>
 </tr>
 </thead>
 <tbody>
@@ -328,7 +328,7 @@ Microsoft SQL Server Desktop Engine   Microsoft SQL Server 2000 Desktop Engine (
 </colgroup>
 <thead>
 <tr class="header">
-<th>Step 6: 対策</th>
+<th style="border:1px solid black;" >Step 6: 対策</th>
 </tr>
 </thead>
 <tbody>
@@ -358,7 +358,7 @@ Microsoft SQL Server Desktop Engine   Microsoft SQL Server 2000 Desktop Engine (
 </colgroup>
 <thead>
 <tr class="header">
-<th>Step 7: SQL Server の開始</th>
+<th style="border:1px solid black;" >Step 7: SQL Server の開始</th>
 </tr>
 </thead>
 <tbody>

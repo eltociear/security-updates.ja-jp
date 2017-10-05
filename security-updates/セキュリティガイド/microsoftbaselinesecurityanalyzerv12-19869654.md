@@ -130,8 +130,8 @@ IE-Rollup.XML および Patch-Rollup.XML というサンプル ファイルが�
 </colgroup>
 <thead>
 <tr class="header">
-<th>チェック ID</th>
-<th>チェック名</th>
+<th style="border:1px solid black;" >チェック ID</th>
+<th style="border:1px solid black;" >チェック名</th>
 </tr>
 </thead>
 <tbody>

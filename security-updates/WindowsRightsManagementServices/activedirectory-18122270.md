@@ -52,9 +52,9 @@ RMS サービスとクライアントは、ローカル レジストリからサ
 </colgroup>
 <thead>
 <tr class="header">
-<th>名前</th>
-<th>型</th>
-<th>値</th>
+<th style="border:1px solid black;" >名前</th>
+<th style="border:1px solid black;" >型</th>
+<th style="border:1px solid black;" >値</th>
 </tr>
 </thead>
 <tbody>
@@ -107,9 +107,9 @@ RMS サービスとクライアントは、ローカル レジストリからサ
 </colgroup>
 <thead>
 <tr class="header">
-<th>名前</th>
-<th>型</th>
-<th>値</th>
+<th style="border:1px solid black;" >名前</th>
+<th style="border:1px solid black;" >型</th>
+<th style="border:1px solid black;" >値</th>
 </tr>
 </thead>
 <tbody>

@@ -100,8 +100,8 @@ Microsoft Windows® 2000 Server (またはそれ以降) についても、次の
 </colgroup>
 <thead>
 <tr class="header">
-<th>タスク名</th>
-<th>サービス管理機能</th>
+<th style="border:1px solid black;" >タスク名</th>
+<th style="border:1px solid black;" >サービス管理機能</th>
 </tr>
 </thead>
 <tbody>
@@ -186,8 +186,8 @@ Microsoft Windows® 2000 Server (またはそれ以降) についても、次の
 </colgroup>
 <thead>
 <tr class="header">
-<th>タスク名</th>
-<th>実行頻度</th>
+<th style="border:1px solid black;" >タスク名</th>
+<th style="border:1px solid black;" >実行頻度</th>
 </tr>
 </thead>
 <tbody>
@@ -252,8 +252,8 @@ Microsoft Windows® 2000 Server (またはそれ以降) についても、次の
 </colgroup>
 <thead>
 <tr class="header">
-<th>項目</th>
-<th>ソース</th>
+<th style="border:1px solid black;" >項目</th>
+<th style="border:1px solid black;" >ソース</th>
 </tr>
 </thead>
 <tbody>
@@ -332,8 +332,8 @@ Microsoft Windows® 2000 Server (またはそれ以降) についても、次の
 </colgroup>
 <thead>
 <tr class="header">
-<th>項目</th>
-<th>ソース</th>
+<th style="border:1px solid black;" >項目</th>
+<th style="border:1px solid black;" >ソース</th>
 </tr>
 </thead>
 <tbody>
@@ -384,9 +384,9 @@ RADIUS インフラストラクチャと WLAN セキュリティの管理にと�
 </colgroup>
 <thead>
 <tr class="header">
-<th>役割名</th>
-<th>範囲</th>
-<th>説明</th>
+<th style="border:1px solid black;" >役割名</th>
+<th style="border:1px solid black;" >範囲</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -428,9 +428,9 @@ RADIUS インフラストラクチャと WLAN セキュリティの管理にと�
 </colgroup>
 <thead>
 <tr class="header">
-<th>役割名</th>
-<th>範囲</th>
-<th>説明</th>
+<th style="border:1px solid black;" >役割名</th>
+<th style="border:1px solid black;" >範囲</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -485,10 +485,10 @@ IAS サーバーの場合は、ドメイン セキュリティ グループを�
 </colgroup>
 <thead>
 <tr class="header">
-<th>役割名</th>
-<th>ドメイン セキュリティ グループ</th>
-<th>ローカル セキュリティ グループ</th>
-<th>機能</th>
+<th style="border:1px solid black;" >役割名</th>
+<th style="border:1px solid black;" >ドメイン セキュリティ グループ</th>
+<th style="border:1px solid black;" >ローカル セキュリティ グループ</th>
+<th style="border:1px solid black;" >機能</th>
 </tr>
 </thead>
 <tbody>
@@ -767,8 +767,8 @@ Remote Access Policy セキュリティ グループを構成して動作可能�
 </colgroup>
 <thead>
 <tr class="header">
-<th>警告カテゴリ</th>
-<th>説明</th>
+<th style="border:1px solid black;" >警告カテゴリ</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -838,9 +838,9 @@ Remote Access Policy セキュリティ グループを構成して動作可能�
 </colgroup>
 <thead>
 <tr class="header">
-<th>パフォーマンス オブジェクト</th>
-<th>パフォーマンス カウンタ</th>
-<th>インスタンス</th>
+<th style="border:1px solid black;" >パフォーマンス オブジェクト</th>
+<th style="border:1px solid black;" >パフォーマンス カウンタ</th>
+<th style="border:1px solid black;" >インスタンス</th>
 </tr>
 </thead>
 <tbody>
@@ -1536,8 +1536,8 @@ SChannel のログ記録はシステム リソースを消費し、イベント 
 </colgroup>
 <thead>
 <tr class="header">
-<th>認証の種類</th>
-<th>1 秒あたりの認証数</th>
+<th style="border:1px solid black;" >認証の種類</th>
+<th style="border:1px solid black;" >1 秒あたりの認証数</th>
 </tr>
 </thead>
 <tbody>
@@ -1640,8 +1640,8 @@ RADIUS および WLAN ソフトウェア コンポーネントに対するセキ
 </colgroup>
 <thead>
 <tr class="header">
-<th>構成項目</th>
-<th>設定</th>
+<th style="border:1px solid black;" >構成項目</th>
+<th style="border:1px solid black;" >設定</th>
 </tr>
 </thead>
 <tbody>
@@ -1676,8 +1676,8 @@ RADIUS および WLAN ソフトウェア コンポーネントに対するセキ
 </colgroup>
 <thead>
 <tr class="header">
-<th>構成項目</th>
-<th>設定</th>
+<th style="border:1px solid black;" >構成項目</th>
+<th style="border:1px solid black;" >設定</th>
 </tr>
 </thead>
 <tbody>

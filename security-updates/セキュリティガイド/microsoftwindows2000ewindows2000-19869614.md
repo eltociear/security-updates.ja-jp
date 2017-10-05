@@ -25,10 +25,10 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 </colgroup>
 <thead>
 <tr class="header">
-<th>完了および検証済み</th>
-<th>WINDOWS 2000 セキュリティ構成チェック リスト (設定は、別途注記されている以外の、すべてのオペレーティング システムのバージョンに当てはまります。)</th>
-<th>必須</th>
-<th>推奨</th>
+<th style="border:1px solid black;" >完了および検証済み</th>
+<th style="border:1px solid black;" >WINDOWS 2000 セキュリティ構成チェック リスト (設定は、別途注記されている以外の、すべてのオペレーティング システムのバージョンに当てはまります。)</th>
+<th style="border:1px solid black;" >必須</th>
+<th style="border:1px solid black;" >推奨</th>
 </tr>
 </thead>
 <tbody>

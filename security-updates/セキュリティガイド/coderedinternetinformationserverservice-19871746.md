@@ -37,7 +37,7 @@ Code Red による深刻な問題に対する防護策と対処方法につい�
 </colgroup>
 <thead>
 <tr class="header">
-<th>Microsoft Windows 95/98/Me をお使いのみなさまへ</th>
+<th style="border:1px solid black;" >Microsoft Windows 95/98/Me をお使いのみなさまへ</th>
 </tr>
 </thead>
 <tbody>
@@ -230,7 +230,7 @@ Microsoft Windows NT 4.0 Option Pack のインストールされている Window
         </colgroup>
         <thead>
         <tr class="header">
-        <th>注 : 8 月 9 日に MS01-033 が再リリースされています。</th>
+        <th style="border:1px solid black;" >注 : 8 月 9 日に MS01-033 が再リリースされています。</th>
         </tr>
         </thead>
         <tbody>
@@ -294,7 +294,7 @@ Microsoft Windows NT 4.0 Option Pack のインストールされている Window
 </colgroup>
 <thead>
 <tr class="header">
-<th>NT 4.0 上で IIS 4.0 をご利用の環境において</th>
+<th style="border:1px solid black;" >NT 4.0 上で IIS 4.0 をご利用の環境において</th>
 </tr>
 </thead>
 <tbody>

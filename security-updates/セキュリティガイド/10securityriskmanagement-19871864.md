@@ -33,8 +33,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362919(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th>危険度</th>
-<th>脆弱性の影響</th>
+<th style="border:1px solid black;" >危険度</th>
+<th style="border:1px solid black;" >脆弱性の影響</th>
 </tr>
 </thead>
 <tbody>
@@ -65,8 +65,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362919(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th>危険度</th>
-<th>経路</th>
+<th style="border:1px solid black;" >危険度</th>
+<th style="border:1px solid black;" >経路</th>
 </tr>
 </thead>
 <tbody>
@@ -99,8 +99,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362919(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th>危険度</th>
-<th>誰が？どのような人が？</th>
+<th style="border:1px solid black;" >危険度</th>
+<th style="border:1px solid black;" >誰が？どのような人が？</th>
 </tr>
 </thead>
 <tbody>

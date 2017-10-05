@@ -140,9 +140,9 @@ WSUS のインストールを既に試みていて、サイトが存在しない
 </colgroup>
 <thead>
 <tr class="header">
-<th>オペレーティング システム</th>
-<th>要件</th>
-<th>ダウンロード</th>
+<th style="border:1px solid black;" >オペレーティング システム</th>
+<th style="border:1px solid black;" >要件</th>
+<th style="border:1px solid black;" >ダウンロード</th>
 </tr>
 </thead>
 <tbody>

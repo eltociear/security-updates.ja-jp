@@ -98,10 +98,10 @@ Windows XP SP 2 の管理用テンプレートは大幅に変更されました�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -132,10 +132,10 @@ Internet Explorer のクラッシュ レポート情報には、コンピュー�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -186,10 +186,10 @@ SP2 では、環境全体で Internet Explorer ゾーン構成のセキュリテ
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -230,10 +230,10 @@ Microsoft ActiveX コントロールとファイル ダウンロードには、�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -272,10 +272,10 @@ MK プロトコルは一般的には使用されていないので、不要な�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -316,10 +316,10 @@ MIME ファイル タイプの偽装は、組織にとって脅威となる可�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -358,10 +358,10 @@ MIME ファイル タイプの偽装は、組織にとって脅威となる可�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -400,10 +400,10 @@ Internet Explorer では、スクリプトのプログラムを使用してさ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -442,10 +442,10 @@ Internet Explorer では、Web ページの場所 (インターネット ゾー�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -488,10 +488,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -530,10 +530,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -566,10 +566,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -600,8 +600,8 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
     </colgroup>
     <thead>
     <tr class="header">
-    <th>値</th>
-    <th>説明</th>
+    <th style="border:1px solid black;" >値</th>
+    <th style="border:1px solid black;" >説明</th>
     </tr>
     </thead>
     <tbody>
@@ -644,10 +644,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -684,10 +684,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -718,10 +718,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -760,10 +760,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -806,10 +806,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -848,10 +848,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -888,10 +888,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -920,10 +920,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -952,10 +952,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -984,10 +984,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1018,10 +1018,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1054,10 +1054,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1088,10 +1088,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1134,10 +1134,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1170,10 +1170,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1206,10 +1206,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1244,10 +1244,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1278,10 +1278,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1318,10 +1318,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1356,10 +1356,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1394,10 +1394,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1432,10 +1432,10 @@ SUS の詳細については、<http://www.microsoft.com/japan/windowsserversyst
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1468,10 +1468,10 @@ UPnP ネットワーク トラフィックをブロックすると、環境内�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1504,10 +1504,10 @@ Windows ファイアウォールは、プログラムの例外一覧にプログ
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1540,10 +1540,10 @@ Windows ファイアウォールは、プログラムの例外一覧にプログ
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1580,10 +1580,10 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1628,10 +1628,10 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1664,10 +1664,10 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1698,10 +1698,10 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1736,10 +1736,10 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1768,10 +1768,10 @@ Windows XP が Network Location Awareness (NLA) を使用して接続先のネ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1808,10 +1808,10 @@ TCP ポート 135 および 445 を悪用する既知の攻撃を回避するた
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1846,10 +1846,10 @@ TCP ポート 135 および 445 を悪用する既知の攻撃を回避するた
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1884,10 +1884,10 @@ TCP ポート 135 および 445 を悪用する既知の攻撃を回避するた
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1922,10 +1922,10 @@ TCP ポート 135 および 445 を悪用する既知の攻撃を回避するた
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1958,10 +1958,10 @@ UPnP ネットワーク トラフィックをブロックすると、コンピ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -1994,10 +1994,10 @@ Windows ファイアウォールは、プログラムの例外一覧にプログ
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -2030,10 +2030,10 @@ Windows ファイアウォールは、プログラムの例外一覧にプログ
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -2070,10 +2070,10 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境 (デスクトップ)</th>
-<th>エンタープライズ クライアント環境 (ラップトップ)</th>
-<th>高セキュリティ環境 (デスクトップ)</th>
-<th>高セキュリティ環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境 (ラップトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (デスクトップ)</th>
+<th style="border:1px solid black;" >高セキュリティ環境 (ラップトップ)</th>
 </tr>
 </thead>
 <tbody>
@@ -2118,8 +2118,8 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境</th>
-<th>高セキュリティ環境</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境</th>
+<th style="border:1px solid black;" >高セキュリティ環境</th>
 </tr>
 </thead>
 <tbody>
@@ -2146,8 +2146,8 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境</th>
-<th>高セキュリティ環境</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境</th>
+<th style="border:1px solid black;" >高セキュリティ環境</th>
 </tr>
 </thead>
 <tbody>
@@ -2176,8 +2176,8 @@ Windows ファイアウォールのポートの例外一覧はグループ ポ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>エンタープライズ クライアント環境</th>
-<th>高セキュリティ環境</th>
+<th style="border:1px solid black;" >エンタープライズ クライアント環境</th>
+<th style="border:1px solid black;" >高セキュリティ環境</th>
 </tr>
 </thead>
 <tbody>

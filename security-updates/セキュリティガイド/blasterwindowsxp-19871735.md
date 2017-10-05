@@ -20,7 +20,7 @@ Blaster ワームへの対策 ‐ Windows XP 編
 </colgroup>
 <thead>
 <tr class="header">
-<th>～非常に危険な亜種が発見されました～</th>
+<th style="border:1px solid black;" >～非常に危険な亜種が発見されました～</th>
 </tr>
 </thead>
 <tbody>
@@ -583,7 +583,7 @@ Blaster ワームの亜種が悪用する MS03-007 のセキュリティ修正�
 </colgroup>
 <thead>
 <tr class="header">
-<th>コンピュータを安全にお使いいただくために</th>
+<th style="border:1px solid black;" >コンピュータを安全にお使いいただくために</th>
 </tr>
 </thead>
 <tbody>

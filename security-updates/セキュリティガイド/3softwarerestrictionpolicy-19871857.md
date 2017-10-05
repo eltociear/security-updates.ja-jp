@@ -68,9 +68,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362912(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th>優先順位</th>
-<th>方法</th>
-<th>概要</th>
+<th style="border:1px solid black;" >優先順位</th>
+<th style="border:1px solid black;" >方法</th>
+<th style="border:1px solid black;" >概要</th>
 </tr>
 </thead>
 <tbody>
@@ -111,8 +111,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362912(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th>イベントID</th>
-<th>内容</th>
+<th style="border:1px solid black;" >イベントID</th>
+<th style="border:1px solid black;" >内容</th>
 </tr>
 </thead>
 <tbody>

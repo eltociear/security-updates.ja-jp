@@ -162,12 +162,12 @@ ISA Server のキャパシティ プランニングは、必ず以下のいず�
 </colgroup>
 <thead>
 <tr class="header">
-<th></th>
-<th>CPU 使用率 75% でのインターネット Mbps</th>
-<th>1.5 Mbps (T1) での CPU 使用率</th>
-<th>4.5 Mbps での CPU 使用率</th>
-<th>15 Mbps での CPU 使用率</th>
-<th>45 Mbps (T3) での CPU 使用率</th>
+<th style="border:1px solid black;" ></th>
+<th style="border:1px solid black;" >CPU 使用率 75% でのインターネット Mbps</th>
+<th style="border:1px solid black;" >1.5 Mbps (T1) での CPU 使用率</th>
+<th style="border:1px solid black;" >4.5 Mbps での CPU 使用率</th>
+<th style="border:1px solid black;" >15 Mbps での CPU 使用率</th>
+<th style="border:1px solid black;" >45 Mbps (T3) での CPU 使用率</th>
 </tr>
 </thead>
 <tbody>
@@ -720,11 +720,11 @@ ISA Server ポリシーを調整する場合は、以下のパフォーマンス
 </colgroup>
 <thead>
 <tr class="header">
-<th>認証方式</th>
-<th>強度</th>
-<th>認証のタイミング</th>
-<th>要求あたりのオーバーヘッド</th>
-<th>バッチあたりのオーバーヘッド</th>
+<th style="border:1px solid black;" >認証方式</th>
+<th style="border:1px solid black;" >強度</th>
+<th style="border:1px solid black;" >認証のタイミング</th>
+<th style="border:1px solid black;" >要求あたりのオーバーヘッド</th>
+<th style="border:1px solid black;" >バッチあたりのオーバーヘッド</th>
 </tr>
 </thead>
 <tbody>

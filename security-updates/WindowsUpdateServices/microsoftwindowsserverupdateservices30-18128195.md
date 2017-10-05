@@ -171,8 +171,8 @@ WSUS 3.0 セットアップを実行する前に、WSUS 3.0 サーバーがこ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>要件</th>
-<th>詳細</th>
+<th style="border:1px solid black;" >要件</th>
+<th style="border:1px solid black;" >詳細</th>
 </tr>
 </thead>
 <tbody>
@@ -255,8 +255,8 @@ WSUS コマンド ライン パラメータを使用すると、WSUS 3.0 の無�
 </colgroup>
 <thead>
 <tr class="header">
-<th>オプション</th>
-<th>説明</th>
+<th style="border:1px solid black;" >オプション</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -295,8 +295,8 @@ WSUS コマンド ライン パラメータを使用すると、WSUS 3.0 の無�
 </colgroup>
 <thead>
 <tr class="header">
-<th>プロパティ</th>
-<th>説明</th>
+<th style="border:1px solid black;" >プロパティ</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -564,8 +564,8 @@ WSUS 3.0 では、32 ビットと 64 ビットの両方のバージョンの Win
 </colgroup>
 <thead>
 <tr class="header">
-<th>要件</th>
-<th>詳細</th>
+<th style="border:1px solid black;" >要件</th>
+<th style="border:1px solid black;" >詳細</th>
 </tr>
 </thead>
 <tbody>

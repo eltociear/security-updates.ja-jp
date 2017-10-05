@@ -302,9 +302,9 @@ GPO が正常に作成された後、該当する章のガイダンスと設定�
 </colgroup>
 <thead>
 <tr class="header">
-<th>深刻度</th>
-<th>最も一般的な種類</th>
-<th>必要な条件</th>
+<th style="border:1px solid black;" >深刻度</th>
+<th style="border:1px solid black;" >最も一般的な種類</th>
+<th style="border:1px solid black;" >必要な条件</th>
 </tr>
 </thead>
 <tbody>

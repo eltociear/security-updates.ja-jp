@@ -18,23 +18,23 @@ Microsoft Windows 2000 セキュリティ構成ガイド
  
 <table style="border:1px solid black;">
 <tr>
-<th>
+<th style="border:1px solid black;" >
 コンポーネント
 
 </th>
-<th>
+<th style="border:1px solid black;" >
 イベント
 
 </th>
-<th>
+<th style="border:1px solid black;" >
 監査イベント
 
 </th>
-<th>
+<th style="border:1px solid black;" >
 必要な設定
 
 </th>
-<th>
+<th style="border:1px solid black;" >
  
 
 </th>

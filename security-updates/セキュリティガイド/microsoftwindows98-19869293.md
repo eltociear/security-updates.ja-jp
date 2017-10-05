@@ -480,9 +480,9 @@ Active Directory Client Extensions をインストールしたら、NTLMv2 認�
 </colgroup>
 <thead>
 <tr class="header">
-<th>説明</th>
-<th>テストの手順</th>
-<th>予測される結果</th>
+<th style="border:1px solid black;" >説明</th>
+<th style="border:1px solid black;" >テストの手順</th>
+<th style="border:1px solid black;" >予測される結果</th>
 </tr>
 </thead>
 <tbody>

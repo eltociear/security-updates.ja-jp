@@ -257,9 +257,9 @@ W32Time サービスは、RFC 1769 で説明されるとおり、簡易ネット
 </colgroup>
 <thead>
 <tr class="header">
-<th>サーバーの役割</th>
-<th>説明</th>
-<th>セキュリティ テンプレート</th>
+<th style="border:1px solid black;" >サーバーの役割</th>
+<th style="border:1px solid black;" >説明</th>
+<th style="border:1px solid black;" >セキュリティ テンプレート</th>
 </tr>
 </thead>
 <tbody>
@@ -317,8 +317,8 @@ Contoso は 上記の推奨事項を応用して、自社 Windows 2000 サーバ
 </colgroup>
 <thead>
 <tr class="header">
-<th>OU 名</th>
-<th>管理グループ</th>
+<th style="border:1px solid black;" >OU 名</th>
+<th style="border:1px solid black;" >管理グループ</th>
 </tr>
 </thead>
 <tbody>
@@ -434,8 +434,8 @@ Contoso は、制限された各グループに対応する GPO を使用して�
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI 内のポリシー セクション名</th>
-<th>説明</th>
+<th style="border:1px solid black;" >UI 内のポリシー セクション名</th>
+<th style="border:1px solid black;" >説明</th>
 </tr>
 </thead>
 <tbody>
@@ -705,8 +705,8 @@ Contoso のパスワード ポリシーの設定を要約して下表に示し�
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI 内でのパスワード ポリシー名</th>
-<th>設定</th>
+<th style="border:1px solid black;" >UI 内でのパスワード ポリシー名</th>
+<th style="border:1px solid black;" >設定</th>
 </tr>
 </thead>
 <tbody>
@@ -833,8 +833,8 @@ Contoso のシナリオでは、\[ロックアウト カウントのリセット
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI 内のアカウント ロックアウト ポリシー名</th>
-<th>設定</th>
+<th style="border:1px solid black;" >UI 内のアカウント ロックアウト ポリシー名</th>
+<th style="border:1px solid black;" >設定</th>
 </tr>
 </thead>
 <tbody>
@@ -875,8 +875,8 @@ Contoso は、自社の Kerberos バージョン 5 のポリシーの既定の�
 </colgroup>
 <thead>
 <tr class="header">
-<th>UI 内の Kerberos ポリシー名</th>
-<th>設定</th>
+<th style="border:1px solid black;" >UI 内の Kerberos ポリシー名</th>
+<th style="border:1px solid black;" >設定</th>
 </tr>
 </thead>
 <tbody>

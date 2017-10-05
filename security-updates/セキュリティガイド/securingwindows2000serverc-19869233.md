@@ -24,9 +24,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Cc751225(v=TechNet.10)'
 </colgroup>
 <thead>
 <tr class="header">
-<th>ファイルおよびフォルダ</th>
-<th>ACL の設定</th>
-<th>継承方法</th>
+<th style="border:1px solid black;" >ファイルおよびフォルダ</th>
+<th style="border:1px solid black;" >ACL の設定</th>
+<th style="border:1px solid black;" >継承方法</th>
 </tr>
 </thead>
 <tbody>

@@ -53,11 +53,11 @@ WSUS サーバーを含むコンピュータの更新プロセスを管理する
 </th>
 </tr>
 <tr>
-<th>
+<th style="border:1px solid black;" >
 ポリシー
 
 </th>
-<th>
+<th style="border:1px solid black;" >
 説明
 
 </th>

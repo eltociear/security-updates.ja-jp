@@ -47,10 +47,10 @@ Microsoft Internet Security and Acceleration (ISA) Server では、以下の 3 �
 </colgroup>
 <thead>
 <tr class="header">
-<th>機能</th>
-<th>SecureNAT クライアント</th>
-<th>ファイアウォール クライアント</th>
-<th>Web Proxy クライアント</th>
+<th style="border:1px solid black;" >機能</th>
+<th style="border:1px solid black;" >SecureNAT クライアント</th>
+<th style="border:1px solid black;" >ファイアウォール クライアント</th>
+<th style="border:1px solid black;" >Web Proxy クライアント</th>
 </tr>
 </thead>
 <tbody>
@@ -101,8 +101,8 @@ DNS (ドメインネームシステム) の名前解決は、内部ネットワ�
 </colgroup>
 <thead>
 <tr class="header">
-<th>ISA Server クライアント</th>
-<th>名前解決方式</th>
+<th style="border:1px solid black;" >ISA Server クライアント</th>
+<th style="border:1px solid black;" >名前解決方式</th>
 </tr>
 </thead>
 <tbody>
