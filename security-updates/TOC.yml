@@ -1,7 +1,7 @@
-- name: Sicherheit und Updates
+- name: セキュリティと更新
   href: index.md
   items:
-- name: Sicherheitsempfehlungen
+- name: セキュリティ アドバイザリ
   href: ./SecurityAdvisories/securityadvisories
   items:
   - name: 2017
@@ -19,6 +19,12 @@
       href: ./SecurityAdvisories/2017/4021279
     - name: 4033453
       href: ./SecurityAdvisories/2017/4033453
+    - name: 4038556
+      href: ./SecurityAdvisories/2017/4038556
+    - name: 4022344
+      href: ./SecurityAdvisories/2017/4022344
+    - name: 4022345
+      href: ./SecurityAdvisories/2017/4022345
   - name: 2016
     href: 
     items:
@@ -36,46 +42,50 @@
       href: ./SecurityAdvisories/2016/3152550
     - name: 3155527
       href: ./SecurityAdvisories/2016/3155527
-- name: Security Bulletin Summarys
+    - name: 2871997
+      href: ./SecurityAdvisories/2017/2871997
+    - name: 3123479
+      href: ./SecurityAdvisories/2017/3123479
+- name: セキュリティ情報の概要
   href: ./SecurityBulletins/securitybulletins
   items:
   - name: 2017
     href: 
     items:
     - name: ms17-feb
-      href: ./SecurityBulletinSummarys/2017/ms17-feb
+      href: ./SecurityBulletinSummaries/2017/ms17-feb
     - name: ms17-jan
-      href: ./SecurityBulletinSummarys/2017/ms17-jan
+      href: ./SecurityBulletinSummaries/2017/ms17-jan
     - name: ms17-mar
-      href: ./SecurityBulletinSummarys/2016/ms17-mar
+      href: ./SecurityBulletinSummaries/2016/ms17-mar
   - name: 2016
     href: 
     items:
     - name: ms16-apr
-      href: ./SecurityBulletinSummarys/2016/MS16-APR
+      href: ./SecurityBulletinSummaries/2016/MS16-APR
     - name: ms16-aug
-      href: ./SecurityBulletinSummarys/2016/MS16-AUG
+      href: ./SecurityBulletinSummaries/2016/MS16-AUG
     - name: ms16-dec
-      href: ./SecurityBulletinSummarys/2016/MS16-DEC
+      href: ./SecurityBulletinSummaries/2016/MS16-DEC
     - name: ms16-feb
-      href: ./SecurityBulletinSummarys/2016/MS16-FEB
+      href: ./SecurityBulletinSummaries/2016/MS16-FEB
     - name: ms16-jan
-      href: ./SecurityBulletinSummarys/2016/MS16-JAN
+      href: ./SecurityBulletinSummaries/2016/MS16-JAN
     - name: ms16-jul
-      href: ./SecurityBulletinSummarys/2016/MS16-JUL
+      href: ./SecurityBulletinSummaries/2016/MS16-JUL
     - name: ms16-jun
-      href: ./SecurityBulletinSummarys/2016/MS16-JUN
+      href: ./SecurityBulletinSummaries/2016/MS16-JUN
     - name: ms16-mar
-      href: ./SecurityBulletinSummarys/2016/MS16-MAR
+      href: ./SecurityBulletinSummaries/2016/MS16-MAR
     - name: ms16-may
-      href: ./SecurityBulletinSummarys/2016/MS16-MAY
+      href: ./SecurityBulletinSummaries/2016/MS16-MAY
     - name: ms16-nov
-      href: ./SecurityBulletinSummarys/2016/MS16-NOV
+      href: ./SecurityBulletinSummaries/2016/MS16-NOV
     - name: ms16-oct
-      href: ./SecurityBulletinSummarys/2016/MS16-OCT
+      href: ./SecurityBulletinSummaries/2016/MS16-OCT
     - name: ms16-sep
-      href: ./SecurityBulletinSummarys/2016/MS16-SEP
-- name: Security Bulletins
+      href: ./SecurityBulletinSummaries/2016/MS16-SEP
+- name: セキュリティ情報
   href: 
   items:
   - name: 2017
