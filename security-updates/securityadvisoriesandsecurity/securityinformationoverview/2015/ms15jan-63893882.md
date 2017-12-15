@@ -28,6 +28,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms15-jan(v=Security.10)
 影響を受けるソフトウェアの詳細については、次のセクション「影響を受けるソフトウェア」を参照してください。
 
  
+<p> </p>  
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -141,6 +142,7 @@ Exploitability Index (悪用可能性指標)
   
 下の表では、このセキュリティ情報の「影響を受けるソフトウェア」および「影響を受けないソフトウェア」の一覧のように、「最新のソフトウェアのリリース」は該当のソフトウェアを示し、「以前のソフトウェアのリリース」は、旧バージョンのすべてのサポートされている該当のソフトウェアのリリースを示しています。
   
+<p> </p>  
 <table style="width:100%;">
 <colgroup>
 <col width="14%" />
@@ -257,6 +259,7 @@ Exploitability Index (悪用可能性指標)
 ### Windows オペレーティング システムおよびコンポーネント
 
  
+<p> </p>  
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="9">
@@ -2241,7 +2244,7 @@ Windows Server 2012 R2 (Server Core インストール)
 </tr>
 </table>
  
-**MS15-005 に関する注意**
+**MS15-005 に関する注意**    
 <sup>[1]</sup>Windows Server 2003 は影響を受けますが、そのための更新プログラムは公開されていません。詳細に関してはセキュリティ情報をご覧ください。
 
  
