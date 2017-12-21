@@ -32,6 +32,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms13-dec(v=Security.10)
 影響を受けるソフトウェアの詳細については、次のセクション「影響を受けるソフトウェア」を参照してください。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -179,6 +180,7 @@ Exploitability Index (悪用可能性指標)
   
 下の表では、このセキュリティ情報の「影響を受けるソフトウェア」および「影響を受けないソフトウェア」の一覧のように、「最新のソフトウェアのリリース」は該当のソフトウェアを示し、「以前のソフトウェアのリリース」は、旧バージョンのすべてのサポートされている該当のソフトウェアのリリースを示しています。
   
+<p> </p>
 <table style="width:100%;">
 <colgroup>
 <col width="14%" />
@@ -439,6 +441,7 @@ Exploitability Index (悪用可能性指標)
 ### Windows オペレーティング システムおよびコンポーネント
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="7">
@@ -2280,6 +2283,7 @@ Windows Server 2012 R2 (Server Core インストール)
 ### Microsoft Office スイートおよびソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="4">
@@ -2791,6 +2795,7 @@ Microsoft PowerPoint 2010 Viewer Service Pack 2
 ### Microsoft サーバー ソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="3">
@@ -3035,6 +3040,7 @@ Microsoft Exchange Server 2013 の累積的な更新プログラム 3
 ### Microsoft Office Services および Web Apps
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -3176,6 +3182,7 @@ Microsoft Office Web Apps Server 2013
 ### Microsoft コミュニケーション プラットフォームおよびソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">
@@ -3339,6 +3346,7 @@ Microsoft Lync Basic 2013
 ### Microsoft 開発者用ツールおよびソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <td style="border:1px solid black;" colspan="2">

@@ -6,7 +6,6 @@ ms:contentKeyID: 61229706
 ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms13-apr(v=Security.10)'
 ---
 
-Security Bulletin Summary
 
 2013 年 4 月のセキュリティ情報
 ==============================
@@ -38,6 +37,7 @@ Security Bulletin Summary
 影響を受けるソフトウェアの詳細については、次のセクション「影響を受けるソフトウェアおよびダウンロード先」を参照してください。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -158,6 +158,7 @@ Exploitability Index (悪用可能性指標)
 下の表では、このセキュリティ情報の「影響を受けるソフトウェア」および「影響を受けないソフトウェア」の一覧のように、「最新のソフトウェアのリリース」は該当のソフトウェアを示し、「以前のソフトウェアのリリース」は、旧バージョンのすべてのサポートされている該当のソフトウェアのリリースを示しています。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -310,6 +311,7 @@ Windows XP、Windows Vista、および Windows Server 2008 では、これはサ
 #### Windows オペレーティング システムおよびコンポーネント
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="7">
@@ -1851,6 +1853,7 @@ MS13-028、MS13-031、および MS13-036 に関する注意事項
 #### Microsoft Office スイートおよびソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -1910,6 +1913,7 @@ MS13-035に関する注意事項
 #### Microsoft サーバー ソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="3">
@@ -2062,6 +2066,7 @@ MS13-035に関する注意事項
 #### Microsoft Office Web Apps
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -2103,6 +2108,7 @@ MS13-035 に関する注意事項
 #### Microsoft セキュリティ ソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">

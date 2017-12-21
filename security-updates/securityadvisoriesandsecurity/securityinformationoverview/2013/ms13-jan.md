@@ -6,7 +6,6 @@ ms:contentKeyID: 61229710
 ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms13-jan(v=Security.10)'
 ---
 
-Security Bulletin Summary
 
 2013 年 1 月のセキュリティ情報
 ==============================
@@ -38,6 +37,7 @@ Security Bulletin Summary
 影響を受けるソフトウェアの詳細については、次のセクション「影響を受けるソフトウェアおよびダウンロード先」を参照してください。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -152,6 +152,7 @@ Exploitability Index (悪用可能性指標)
 下の表では、このセキュリティ情報の「影響を受けるソフトウェア」および「影響を受けないソフトウェア」の一覧のように、「最新のソフトウェアのリリース」は該当のソフトウェアを示し、「以前のソフトウェアのリリース」は、旧バージョンのすべてのサポートされている該当のソフトウェアのリリースを示しています。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -294,6 +295,7 @@ Exploitability Index (悪用可能性指標)
 #### Windows オペレーティング システムおよびコンポーネント
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="8">
@@ -2327,6 +2329,7 @@ MS13-007 に関する注意
 #### Microsoft Office スイートおよびソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -2439,6 +2442,7 @@ MS13-002 に関する注意
 #### Microsoft 開発者用ツールおよびソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -2490,6 +2494,7 @@ MS13-002 に関する注意
 #### Microsoft サーバー ソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="3">

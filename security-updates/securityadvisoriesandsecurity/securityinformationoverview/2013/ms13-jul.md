@@ -6,7 +6,6 @@ ms:contentKeyID: 61229711
 ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms13-jul(v=Security.10)'
 ---
 
-Security Bulletin Summary
 
 2013 年 7 月のセキュリティ情報
 ==============================
@@ -36,6 +35,7 @@ Security Bulletin Summary
 影響を受けるソフトウェアの詳細については、次のセクション「影響を受けるソフトウェア」を参照してください。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -139,6 +139,7 @@ Exploitability Index (悪用可能性指標)
 下の表では、このセキュリティ情報の「影響を受けるソフトウェア」および「影響を受けないソフトウェア」の一覧のように、「最新のソフトウェアのリリース」は該当のソフトウェアを示し、「以前のソフトウェアのリリース」は、旧バージョンのすべてのサポートされている該当のソフトウェアのリリースを示しています。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -496,6 +497,7 @@ Exploitability Index (悪用可能性指標)
 #### Windows オペレーティング システムおよびコンポーネント
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="7">
@@ -2388,10 +2390,10 @@ MS13-054 に関する 注意事項
 
 MS13-057 に関する注意事項
 
-<sup>[1]</sup>この更新プログラムは、WindowsMediaフォーマットランタイム 11 または Windows Media Player 11 にアップグレードされたシステムにのみ提供されます。
-<sup>[2]</sup>この更新プログラムは、WindowsMediaフォーマット ランタイム9.5NL を実行しているシステムにのみ提供されます。
-<sup>[3]</sup>この更新プログラムは、WindowsMediaフォーマット ランタイム9.5L を実行しているシステムにのみ提供されます。
-\[4\]この更新プログラムは、オプションのデスクトップエクスペリエンス機能が有効にされている場合のみ提供されます。
+<sup>[1]</sup>この更新プログラムは、WindowsMediaフォーマットランタイム 11 または Windows Media Player 11 にアップグレードされたシステムにのみ提供されます。  
+<sup>[2]</sup>この更新プログラムは、WindowsMediaフォーマット ランタイム9.5NL を実行しているシステムにのみ提供されます。  
+<sup>[3]</sup>この更新プログラムは、WindowsMediaフォーマット ランタイム9.5L を実行しているシステムにのみ提供されます。  
+\[4\]この更新プログラムは、オプションのデスクトップエクスペリエンス機能が有効にされている場合のみ提供されます。  
 \[5\]この更新プログラムは、オプションのデスクトップエクスペリエンス機能が有効になっていて、wmv9vcm.dllコーデックが存在する場合にのみ提供されます。詳細に関してはセキュリティ情報をご覧ください。
 
 「影響を受けるソフトウェアおよびダウンロード先」のセクションのその他のソフトウェア カテゴリで、同じセキュリティ情報 ID の下の複数の更新ファイルを確認してください。このセキュリティ情報は、複数のソフトウェアを対象にしています。
@@ -2399,6 +2401,7 @@ MS13-057 に関する注意事項
 #### Microsoft Office スイートおよびソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -2470,6 +2473,7 @@ MS13-054 に関する注意事項
 #### Microsoft 開発者用ツールおよびソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="3">
@@ -2586,6 +2590,7 @@ MS13-054 に関する注意事項
 #### Microsoft コミュニケーション プラットフォームおよびソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -2701,6 +2706,7 @@ MS13-054 に関する注意事項
 #### Microsoft セキュリティ ソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">

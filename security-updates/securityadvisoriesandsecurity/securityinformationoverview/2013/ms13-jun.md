@@ -6,7 +6,6 @@ ms:contentKeyID: 61229712
 ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms13-jun(v=Security.10)'
 ---
 
-Security Bulletin Summary
 
 2013 年 6 月のセキュリティ情報
 ==============================
@@ -38,6 +37,7 @@ Security Bulletin Summary
 影響を受けるソフトウェアの詳細については、次のセクション「影響を受けるソフトウェア」を参照してください。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -155,6 +155,7 @@ Exploitability Index (悪用可能性指標)
 #### Windows オペレーティング システムおよびコンポーネント
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="5">
@@ -1113,6 +1114,7 @@ Windows Server 2012 (Server Core インストール)
 #### Microsoft Office スイートおよびソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">

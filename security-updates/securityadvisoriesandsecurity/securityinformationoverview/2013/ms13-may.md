@@ -6,7 +6,6 @@ ms:contentKeyID: 61229714
 ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms13-may(v=Security.10)'
 ---
 
-Security Bulletin Summary
 
 2013 年 5 月のセキュリティ情報
 ==============================
@@ -38,6 +37,7 @@ Security Bulletin Summary
 影響を受けるソフトウェアの詳細については、次のセクション「影響を受けるソフトウェア」を参照してください。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -168,6 +168,7 @@ Exploitability Index (悪用可能性指標)
 下の表では、このセキュリティ情報の「影響を受けるソフトウェア」および「影響を受けないソフトウェア」の一覧のように、「最新のソフトウェアのリリース」は該当のソフトウェアを示し、「以前のソフトウェアのリリース」は、旧バージョンのすべてのサポートされている該当のソフトウェアのリリースを示しています。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -500,6 +501,7 @@ Exploitability Index (悪用可能性指標)
 #### Windows オペレーティング システムおよびコンポーネント
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="6">
@@ -1776,6 +1778,7 @@ MS13-040 に関する注意事項
 #### Microsoft Office スイートおよびソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="4">
@@ -1962,6 +1965,7 @@ Microsoft Visio 2010 Service Pack 1 (64 ビット版) 
 #### Microsoft コミュニケーション プラットフォームおよびソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -2056,6 +2060,7 @@ Microsoft Lync Server 2013
 #### Microsoft コンシューマー ツールおよびソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">

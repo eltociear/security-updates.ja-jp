@@ -6,7 +6,6 @@ ms:contentKeyID: 61229713
 ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms13-mar(v=Security.10)'
 ---
 
-Security Bulletin Summary
 
 2013 年 3 月のセキュリティ情報
 ==============================
@@ -38,6 +37,7 @@ Security Bulletin Summary
 影響を受けるソフトウェアの詳細については、次のセクション「影響を受けるソフトウェアおよびダウンロード先」を参照してください。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <thead>
 <tr class="header">
@@ -173,6 +173,7 @@ Exploitability Index (悪用可能性指標)
 #### Windows オペレーティング システムおよびコンポーネント
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="3">
@@ -915,6 +916,7 @@ MS13-021 に関する注意事項
 #### Microsoft Office スイートおよびソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="4">
@@ -1118,6 +1120,7 @@ MS13-023 に関する注意事項
 #### Microsoft 開発者用ツールおよびソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
@@ -1206,6 +1209,7 @@ Mac にインストールされている [Microsoft Silverlight 5 Developer Runt
 #### Microsoft サーバー ソフトウェア
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <tr>
 <th colspan="2">
