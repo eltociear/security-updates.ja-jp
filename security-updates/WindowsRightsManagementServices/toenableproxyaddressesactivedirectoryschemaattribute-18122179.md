@@ -21,9 +21,8 @@ If you are not using Microsoft Exchange Server in your environment but would lik
 
 This can be done by using the ADSI Edit tool. ADSI Edit is available with Windows Server 2003 Support Tools and allows an Active Directory administrator to modify all Active Directory schema attributes from a central console.
 
-| ![](images/Cc720282.note(WS.10).gif)注                                                                                      |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| The following procedures assume that a user account named User1 is in a domain named cpandl.com. You should substitute these names for your environment. |
+> [!NOTE]
+> The following procedures assume that a user account named User1 is in a domain named cpandl.com. You should substitute these names for your environment. 
 
 First, follow these steps to install ADSI Edit:
 
