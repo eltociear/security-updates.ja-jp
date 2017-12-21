@@ -29,6 +29,7 @@ You can generate three kinds of reports, as described in the following table.
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -82,6 +83,7 @@ The Update Status Summary view contains the elements listed in the following tab
 ### Description of elements displayed in the Update Status Summary view
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -184,6 +186,7 @@ The report has four components, which are described in the following table.
 ### Components of Synchronization Results Report
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
