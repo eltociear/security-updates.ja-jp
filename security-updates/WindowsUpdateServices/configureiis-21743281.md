@@ -23,6 +23,7 @@ If the IIS service (W3SVC) is stopped during WSUS installation, WSUS Setup start
 4.  Click **OK**, click **Next**, and then follow the instructions on the screen.
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -90,6 +91,7 @@ Malicious programs can target port 80 for HTTP traffic. If WSUS is using a cust
 If you already have a Web site on the computer where you intend to install WSUS, you should use the setup option for creating a custom Web site. This option puts the WSUS Web site on port 8530. This port is not configurable.
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -123,6 +125,7 @@ Using host headers
 If you decide to use host headers, you should run the **configuressl** command after configuring WSUS. If you do not do so, WSUS Reporters may not be able to access the WSUS server.
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -155,6 +158,7 @@ If you decide to use host headers, you should run the **configuressl** command a
     **Wsusutil configuressl**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
