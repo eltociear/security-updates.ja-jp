@@ -19,6 +19,7 @@ On the Active Directory domain controllers, the following Windows Firewall excep
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -47,6 +48,7 @@ The following table shows the port exceptions that should be made on the RMS ser
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -75,6 +77,7 @@ If the logging database server is not on a server in the RMS cluster, the follow
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
