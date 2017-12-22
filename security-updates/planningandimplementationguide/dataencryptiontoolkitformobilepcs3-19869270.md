@@ -24,11 +24,11 @@ EFS では、ユーザーと承認された回復エージェントのみがア�
 
 ##### トピック
 
-[](#egaa)[Windows XP での EFS](#egaa)
-[](#efaa)[Windows Vista での EFS](#efaa)
-[](#eeaa)[EFS オプション : ソフトウェア キー ストレージを使用する EFS](#eeaa)
-[](#edaa)[EFS オプション : スマート カードを使用する EFS](#edaa)
-[](#ecaa)[EFS リスク分析の要約](#ecaa)
+[](#egaa)[Windows XP での EFS](#egaa)  
+[](#efaa)[Windows Vista での EFS](#efaa)  
+[](#eeaa)[EFS オプション : ソフトウェア キー ストレージを使用する EFS](#eeaa)  
+[](#edaa)[EFS オプション : スマート カードを使用する EFS](#edaa)  
+[](#ecaa)[EFS リスク分析の要約](#ecaa)  
 [](#ebaa)[関連情報](#ebaa)
 
 ### Windows XP での EFS
