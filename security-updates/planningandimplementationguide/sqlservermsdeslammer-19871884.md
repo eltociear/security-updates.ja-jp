@@ -99,6 +99,7 @@ MSDE 2000 が同梱されている製品一覧は、[「よくある質問と回
 本ワームの対策は、感染の有無にかかわらず同じ対策を行うことで、感染を防ぐことが出来ます。 最新の SQL Server 2000 の累積的修正プログラム [MS02-061](http://www.microsoft.com/japan/technet/security/bulletin/ms02-061.mspx) の適用による対策をご紹介しております。 アプリケーションへの影響等が懸念される場合は、[MS02-039](http://www.microsoft.com/japan/technet/security/bulletin/ms02-039.mspx) のみを適用することでも対策可能です。 可能な限り、 MS02-039 の修正を含む MS02-061 または、[SQL Server 2000 Service Pack 3](http://www.microsoft.com/japan/sql/prodinfo/previousversions/downloads/2000/sp3.mspx) 以降の最新のサービスパックの適用をお勧めいたします。
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -126,6 +127,9 @@ SQL Server 2000 評価版をご利用のお客様も適用可能です。</li>
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
  
 
 **重要 :** Microsoft SQL Server 2000 Service Pack 3 を適用する場合は、お客様のアプリケーションの動作に支障が無いことを十分に検証の上、適用いただきますようお願いいたします。
@@ -133,6 +137,7 @@ SQL Server 2000 評価版をご利用のお客様も適用可能です。</li>
 以下の手順では、MS02-061の修正プログラムの適用方法について解説しています。SQL Server 2000 Service Pack 3 / MSDE 2000 Service Pack 3 の適用に関しては、[SQL Server 2000 SP 3 インストールに関する注意点](http://www.microsoft.com/japan/sql/prodinfo/previousversions/downloads/2000/sp3install.mspx) のページもあわせてご確認ください。
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -187,9 +192,13 @@ VULNERABLE: server=JPSQL instance=MSSQLSERVER version=RTM language=1041 platform
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
  
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -222,9 +231,13 @@ VULNERABLE: server=JPSQL instance=MSSQLSERVER version=RTM language=1041 platform
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
  
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -268,9 +281,13 @@ Microsoft SQL Server Desktop Engine   Microsoft SQL Server 2000 Desktop Engine (
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
  
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -296,9 +313,13 @@ Microsoft SQL Server Desktop Engine   Microsoft SQL Server 2000 Desktop Engine (
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
  
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -319,9 +340,13 @@ Microsoft SQL Server Desktop Engine   Microsoft SQL Server 2000 Desktop Engine (
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
  
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -349,9 +374,13 @@ Microsoft SQL Server Desktop Engine   Microsoft SQL Server 2000 Desktop Engine (
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
  
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -370,6 +399,9 @@ Microsoft SQL Server Desktop Engine   Microsoft SQL Server 2000 Desktop Engine (
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
  
 
 [](#mainsection)[ページのトップへ](#mainsection)
@@ -393,6 +425,7 @@ osql コマンドは、デフォルトでは以下の場所にインストール
 オプションの説明 :
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -423,6 +456,9 @@ osql コマンドは、デフォルトでは以下の場所にインストール
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
  
 
 osql コマンドおよび SQL Server の詳細につきましては、SQL Server に付属する Books Online、ヘルプ、製品マニュアルをご参照ください。

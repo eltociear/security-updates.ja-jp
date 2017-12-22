@@ -77,37 +77,30 @@ QFE (Quick Fix Engineering) は、修正プログラムを作成しているマ�
 
 修正プログラムが組織全体に一貫性のない仕方で適用される、また、それらを展開する理由、時期、および対象についての文書がない、ということはよくあります。環境のセキュリティを適切に管理するには、その現状を詳細に知っておく必要があります。修正プログラムの管理には、最低限、以下のことを知っておかなければなりません。
 
--   お使いの環境に含まれるシステム
+- お使いの環境に含まれるシステム
 
-    -   オペレーティング システムとそのバージョン
+  - オペレーティング システムとそのバージョン
 
-    -   
-    -   使用中の修正プログラム レベル (サービス パックのバージョン、修正プログラム、および他の修正点)
+  - 使用中の修正プログラム レベル (サービス パックのバージョン、修正プログラム、および他の修正点)
 
-    -   
-    -   機能
+  - 機能
 
-    -   
-    -   環境全体で使用中のアプリケーション
+  - 環境全体で使用中のアプリケーション
 
-    -   
-    -   各システムを担当する個人やグループの連絡先情報
+  - 各システムを担当する個人やグループの連絡先情報
 
-    -   
 
--   
--   環境内にどんな資産があるか、およびその相対的な価値
+- 環境内にどんな資産があるか、およびその相対的な価値
 
--   
--   既知の脅威と、新しい脅威や脅威のレベルの変化を察知するために採用しているプロセス
 
--   
--   既知の脆弱性と、新しい脆弱性や脆弱性レベルの変化を察知するために採用しているプロセス
+- 既知の脅威と、新しい脅威や脅威のレベルの変化を察知するために採用しているプロセス
 
--   
--   お使いの環境で導入されてきた対抗手段
 
--   
+- 既知の脆弱性と、新しい脆弱性や脆弱性レベルの変化を察知するために採用しているプロセス
+
+
+- お使いの環境で導入されてきた対抗手段
+
 
 この情報を、修正プログラムの管理プロセスに関係するすべての人が入手できるようにすること、および最新のものに保っておくことを強く推奨します。
 
@@ -155,24 +148,23 @@ SUS の例と実行するサンプル スクリプトについては後述しま
 
 これらのステップについて詳しく調べてみましょう。
 
--   **分析** 現在の環境と脅威の可能性を調べます。環境への脅威を軽減するために展開できる修正プログラムとして、どのようものがあるかを調査します。
+- **分析** 現在の環境と脅威の可能性を調べます。環境への脅威を軽減するために展開できる修正プログラムとして、どのようものがあるかを調査します。
 
--   
--   **計画** 識別した潜在的な脅威と脆弱性を防止するために、どの修正プログラムを展開するか決定します。また、誰がテストや展開、関連する手順を実行するかをも指定します。
 
--   
--   **テスト** 利用可能な修正プログラムを調査し、環境に合わせて分類します。識別された修正プログラムをすべてテストし、お使いの環境で何らかの悪影響を及ぼすことがないかどうかを確認します。修正プログラムが何を行うか、また、環境にどのように影響するかを理解しておきます。また、それが意図したとおりに動作するかどうかを確認します。
+- **計画** 識別した潜在的な脅威と脆弱性を防止するために、どの修正プログラムを展開するか決定します。また、誰がテストや展開、関連する手順を実行するかをも指定します。
 
--   
--   **展開** お使いの環境を保護するために、適切な修正プログラムを展開します。
 
--   
--   **監視** 修正プログラムを展開した後に悪影響がないかどうかを確かめるため、システムをすべてチェックします。
+- **テスト** 利用可能な修正プログラムを調査し、環境に合わせて分類します。識別された修正プログラムをすべてテストし、お使いの環境で何らかの悪影響を及ぼすことがないかどうかを確認します。修正プログラムが何を行うか、また、環境にどのように影響するかを理解しておきます。また、それが意図したとおりに動作するかどうかを確認します。
 
--   
--   **再確認** 継続的なプロセスの一部として、リリースされた新しい修正プログラム、環境、そしてどの修正プログラムが組織に必要かを定期的に調査します。調査中に新しい修正プログラムが必要なことがわかった場合には、最初のステップから再び開始します。
 
--   
+- **展開** お使いの環境を保護するために、適切な修正プログラムを展開します。
+
+
+- **監視** 修正プログラムを展開した後に悪影響がないかどうかを確かめるため、システムをすべてチェックします。
+
+
+- **再確認** 継続的なプロセスの一部として、リリースされた新しい修正プログラム、環境、そしてどの修正プログラムが組織に必要かを定期的に調査します。調査中に新しい修正プログラムが必要なことがわかった場合には、最初のステップから再び開始します。
+
 
 **重要** 修正プログラムを展開する前に、稼動中のすべてのシステムをバックアップすることを強く推奨します。
 
@@ -209,6 +201,7 @@ MBSA がコンピュータに特定の修正プログラムがインストール
 **表 8.1 MBSA スタイルのコマンド ライン スイッチ**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -226,31 +219,31 @@ MBSA がコンピュータに特定の修正プログラムがインストール
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>&lt;オプションなし&gt;</code></pre>
+<td style="border:1px solid black;"><pre>&lt;オプションなし&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">ローカル コンピュータをスキャンします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>/c &lt;ドメイン名&gt;\&lt;コンピュータ名&gt;</code></pre>
+<td style="border:1px solid black;"><pre>/c &lt;ドメイン名&gt;\&lt;コンピュータ名&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">指定された名前のコンピュータをスキャンします。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>/i &lt;xxx.xxx.xxx.xxx&gt;</code></pre>
+<td style="border:1px solid black;"><pre>/i &lt;xxx.xxx.xxx.xxx&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">指定された IP アドレスのコンピュータをスキャンします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>/r &lt;xxx.xxx.xxx.xxx - xxx.xxx.xxx.xxx&gt;</code></pre>
+<td style="border:1px solid black;"><pre>/r &lt;xxx.xxx.xxx.xxx - xxx.xxx.xxx.xxx&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">指定された範囲の IP アドレスのコンピュータをスキャンします。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>/d &lt;ドメイン名&gt;</code></pre>
+<td style="border:1px solid black;"><pre>/d &lt;ドメイン名&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">指定されたドメインのコンピュータをスキャンします。</td>
@@ -260,31 +253,31 @@ MBSA がコンピュータに特定の修正プログラムがインストール
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>/n IIS</code></pre>
+<td style="border:1px solid black;"><pre>/n IIS</pre>
 <br />
 </td>
 <td style="border:1px solid black;">IIS のチェックをスキップします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>/n OS</code></pre>
+<td style="border:1px solid black;"><pre>/n OS</pre>
 <br />
 </td>
 <td style="border:1px solid black;">Windows オペレーティング システム (OS) のチェックをスキップします。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>/n Password</code></pre>
+<td style="border:1px solid black;"><pre>/n Password</pre>
 <br />
 </td>
 <td style="border:1px solid black;">パスワードのチェックをスキップします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>/n SQL</code></pre>
+<td style="border:1px solid black;"><pre>/n SQL</pre>
 <br />
 </td>
 <td style="border:1px solid black;">SQL のチェックをスキップします。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>/n Updates</code></pre>
+<td style="border:1px solid black;"><pre>/n Updates</pre>
 <br />
 </td>
 <td style="border:1px solid black;">セキュリティ更新のチェックをスキップします。</td>
@@ -295,25 +288,25 @@ MBSA がコンピュータに特定の修正プログラムがインストール
 </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>/sus &lt;SUS サーバー&gt;</code></pre>
+<td style="border:1px solid black;"><pre>/sus &lt;SUS サーバー&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">指定された SUS サーバーで承認されたセキュリティ更新だけをチェックします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>/s 1</code></pre>
+<td style="border:1px solid black;"><pre>/s 1</pre>
 <br />
 </td>
 <td style="border:1px solid black;">セキュリティ更新のチェックの注意を抑制します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>/s 2</code></pre>
+<td style="border:1px solid black;"><pre>/s 2</pre>
 <br />
 </td>
 <td style="border:1px solid black;">セキュリティ更新のチェックの注意と警告を抑制します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>/nosum</code></pre>
+<td style="border:1px solid black;"><pre>/nosum</pre>
 <br />
 </td>
 <td style="border:1px solid black;">セキュリティ更新のチェックで、ファイルのチェックサムをテストしません。</td>
@@ -323,7 +316,7 @@ MBSA がコンピュータに特定の修正プログラムがインストール
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>/o %domain%</code></pre>
+<td style="border:1px solid black;"><pre>/o %domain%</pre>
 <br />
 </td>
 <td style="border:1px solid black;">%computername% (%date%)</td>
@@ -333,31 +326,31 @@ MBSA がコンピュータに特定の修正プログラムがインストール
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>/e</code></pre>
+<td style="border:1px solid black;"><pre>/e</pre>
 <br />
 </td>
 <td style="border:1px solid black;">最新のスキャンでのエラーをリスト表示します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>/l</code></pre>
+<td style="border:1px solid black;"><pre>/l</pre>
 <br />
 </td>
 <td style="border:1px solid black;">利用可能なすべてのレポートをリスト表示します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>/ls</code></pre>
+<td style="border:1px solid black;"><pre>/ls</pre>
 <br />
 </td>
 <td style="border:1px solid black;">最新のスキャンでのレポートをリスト表示します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>/lr &lt;レポート名&gt;</code></pre>
+<td style="border:1px solid black;"><pre>/lr &lt;レポート名&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">概要レポートを表示します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>/ld &lt;レポート名&gt;</code></pre>
+<td style="border:1px solid black;"><pre>/ld &lt;レポート名&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">詳細レポートを表示します。</td>
@@ -367,25 +360,25 @@ MBSA がコンピュータに特定の修正プログラムがインストール
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>/?</code></pre>
+<td style="border:1px solid black;"><pre>/?</pre>
 <br />
 </td>
 <td style="border:1px solid black;">使用方法のヘルプを表示します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>/qp</code></pre>
+<td style="border:1px solid black;"><pre>/qp</pre>
 <br />
 </td>
 <td style="border:1px solid black;">進行状況を表示しません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>/qe</code></pre>
+<td style="border:1px solid black;"><pre>/qe</pre>
 <br />
 </td>
 <td style="border:1px solid black;">エラー リストを表示しません。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>/qr</code></pre>
+<td style="border:1px solid black;"><pre>/qr</pre>
 <br />
 </td>
 <td style="border:1px solid black;">レポート リストを表示しません。</td>
@@ -400,6 +393,7 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
 **表 8.2 HFNetChk スタイルのコマンド ライン スイッチ**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -417,43 +411,43 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>-h &lt;ホスト名&gt;</code></pre>
+<td style="border:1px solid black;"><pre>-h &lt;ホスト名&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">指定された NetBIOS 名のコンピュータをスキャンします。既定の場所はローカル ホストです。ホスト名をコンマで区切ることにより、複数のホストをスキャンできます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>-fh &lt;ファイル名&gt;</code></pre>
+<td style="border:1px solid black;"><pre>-fh &lt;ファイル名&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">指定したテキスト ファイル内で指定されている NetBIOS (network basic input/output system) 名のコンピュータをスキャンします。テキスト ファイルには、コンピュータ名を改行で区切って記述します。最大で 256 台まで指定できます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>-i &lt;xxx.xxx.xxx.xxx&gt;</code></pre>
+<td style="border:1px solid black;"><pre>-i &lt;xxx.xxx.xxx.xxx&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">指定された IP アドレスのコンピュータをスキャンします。エントリをコンマで区切ることにより、複数の IP アドレスをスキャンできます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>-fip &lt;ファイル名&gt;</code></pre>
+<td style="border:1px solid black;"><pre>-fip &lt;ファイル名&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">指定したテキスト ファイル内で指定されている IP アドレスをスキャンします。txt ファイルには、IP アドレスを改行で区切って記述します。最大で 256 エントリまで指定できます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>-r &lt;xxx.xxx.xxx.xxx - xxx.xxx.xxx.xxx&gt;</code></pre>
+<td style="border:1px solid black;"><pre>-r &lt;xxx.xxx.xxx.xxx - xxx.xxx.xxx.xxx&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">指定された範囲の IP アドレスのコンピュータをスキャンします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>-d &lt;ドメイン名&gt;</code></pre>
+<td style="border:1px solid black;"><pre>-d &lt;ドメイン名&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">指定されたドメインのコンピュータをスキャンします。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>-n</code></pre>
+<td style="border:1px solid black;"><pre>-n</pre>
 <br />
 </td>
 <td style="border:1px solid black;">ローカル ネットワークのすべてのコンピュータをスキャンします。[ネットワーク コンピュータ] 内の、すべてのドメインのすべてのコンピュータをスキャンします。</td>
@@ -463,25 +457,25 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>-sus &lt;SUS ファイル名 | SUS サーバー&gt;</code></pre>
+<td style="border:1px solid black;"><pre>-sus &lt;SUS ファイル名 | SUS サーバー&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">SUS テキスト ファイル、または SUS ファイルの取得先 SUS URL を指定します。ファイルまたはサーバーを指定しない場合は、エンジンはローカル コンピュータのレジストリに格納されている値を使用しようとします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>-b</code></pre>
+<td style="border:1px solid black;"><pre>-b</pre>
 <br />
 </td>
 <td style="border:1px solid black;">Microsoft Security Response Center により緊急 (baseline critical) と評価された更新だけを対象にして、コンピュータをスキャンします。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>-fq &lt;ファイル名&gt;</code></pre>
+<td style="border:1px solid black;"><pre>-fq &lt;ファイル名&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">出力を抑制する Q 番号を含んでいるファイルの名前を指定します。Q 番号は、改行で区切って記述します。このスイッチは、指定されたアイテムの表示出力だけを抑制します。アイテムをスキャン中の考慮の対象から除外するわけではありません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>-s</code></pre>
+<td style="border:1px solid black;"><pre>-s</pre>
 <br />
 </td>
 <td style="border:1px solid black;">注意 (NOTE) と警告 (WARNING) のメッセージを抑制します。既定では、どちらのメッセージも抑制しません。このスイッチでは、以下のオプションを使用できます。
@@ -489,25 +483,25 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
 (2) 注意と警告のメッセージの両方を抑制</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>-nosum</code></pre>
+<td style="border:1px solid black;"><pre>-nosum</pre>
 <br />
 </td>
 <td style="border:1px solid black;">セキュリティ更新ファイルのチェックサムの確認を行いません。一般的な状況では、このスイッチを使用する必要はありません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>-sum</code></pre>
+<td style="border:1px solid black;"><pre>-sum</pre>
 <br />
 </td>
 <td style="border:1px solid black;">英語以外の言語のシステムをスキャニングする際に、強制的にチェックサム スキャンを行います。このスイッチは、言語固有のチェックサムを持つ、カスタムの XML ファイルがある場合にのみ使用してください。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>-z</code></pre>
+<td style="border:1px solid black;"><pre>-z</pre>
 <br />
 </td>
 <td style="border:1px solid black;">レジストリのチェックを行いません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>-history</code></pre>
+<td style="border:1px solid black;"><pre>-history</pre>
 <br />
 </td>
 <td style="border:1px solid black;">明示的にインストールされた更新、明示的にインストールされなかった更新、またはその両方を表示します。このスイッチは、通常の処理では必要ありません。非常に特殊な状況以外には使用しないでください。このスイッチでは、以下のオプションを使用できます。
@@ -516,7 +510,7 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
 (3) 明示的にインストールされた更新とインストールされなかった更新を表示</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>-v</code></pre>
+<td style="border:1px solid black;"><pre>-v</pre>
 <br />
 </td>
 <td style="border:1px solid black;">テストがラップ モードでは動作しなかった理由を表示します。このスイッチは、セキュリティ更新が「適用されていない」とされた場合、または注意や警告のメッセージが出た場合に、その理由を表示するために使用できます。</td>
@@ -526,7 +520,7 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>-o</code></pre>
+<td style="border:1px solid black;"><pre>-o</pre>
 <br />
 </td>
 <td style="border:1px solid black;">希望する出力形式を指定します。このスイッチでは、以下のオプションを使用できます。
@@ -534,7 +528,7 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
 (wrap) 出力をワードラップ形式で表示</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>-f &lt;ファイル名&gt;</code></pre>
+<td style="border:1px solid black;"><pre>-f &lt;ファイル名&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">結果を保存するファイルの名前を指定します。このスイッチは、ラップとタブ出力のどちらでも使用できます。</td>
@@ -544,50 +538,50 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>-t</code></pre>
+<td style="border:1px solid black;"><pre>-t</pre>
 <br />
 </td>
 <td style="border:1px solid black;">スキャンを実行するために使用されるスレッドの数を表示します。可能な値は 1 ～ 128 で、既定値は 64 です。このスイッチは、スキャンの速度を下げる (または上げる) ために使用できます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>-u &lt;ユーザー名&gt;</code></pre>
+<td style="border:1px solid black;"><pre>-u &lt;ユーザー名&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">ローカルまたはリモートのコンピュータ、またはコンピュータのグループをスキャンする際に使用するユーザー名を指定します。このスイッチは、-p (パスワード) スイッチと共に使用しなければなりません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>-p &lt;パスワード&gt;</code></pre>
+<td style="border:1px solid black;"><pre>-p &lt;パスワード&gt;</pre>
 <br />
 </td>
 <td style="border:1px solid black;">ローカルまたはリモートのコンピュータ、またはコンピュータのグループをスキャンする際に使用するパスワードを指定します。このスイッチは、-u (ユーザー名) スイッチと共に使用しなければなりません。セキュリティ上の理由から、パスワードがクリア テキストでネットワーク上に送られることはありません。代わりに、MBSA は、Windows NT 4.0 以降に組み込まれている challenge-response メカニズムを使用して、認証プロセスを保護します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>-x</code></pre>
+<td style="border:1px solid black;"><pre>-x</pre>
 <br />
 </td>
 <td style="border:1px solid black;">利用可能なセキュリティ更新の情報を含んでいる XML データの出所を指定します。XML ファイル名、圧縮した XML .cab ファイル、または Uniform Resource Locator (URL) を指定できます。既定のファイルは、マイクロソフトの Web サイトにある、Mssecure.cab ファイルです。このスイッチを使用しなかった場合には、マイクロソフトの Web サイトから、mssecure.xml ファイルをダウンロードします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>-ver</code></pre>
+<td style="border:1px solid black;"><pre>-ver</pre>
 <br />
 </td>
 <td style="border:1px solid black;">MBSA の利用可能な最新バージョンを実行しているかどうかをチェックします。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>-trace</code></pre>
+<td style="border:1px solid black;"><pre>-trace</pre>
 <br />
 </td>
 <td style="border:1px solid black;">トラブルシューティングのために、デバッグ ログ (ローカル ディレクトリの hf.log) を作成します。このスイッチは、コマンド ラインの最初のスイッチとして指定することが必要です。他のスイッチと組み合わせて使用することができます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre><code>-about</code></pre>
+<td style="border:1px solid black;"><pre>-about</pre>
 <br />
 </td>
 <td style="border:1px solid black;">MBSA についての情報を表示します。</td>
 </tr>
 </tbody>
 </table>
-  
+
 MBSA を使用して修正プログラムの状況を確認する場合には、定期的に実行するようにしてください。ほとんどの環境では、設定済みの間隔に合わせて実行するようスケジュールを設定するのが最善です。
   
 **注** MBSA の使用方法についての詳細は、<http://www.microsoft.com/japan/technet/security/tools/mbsahome.mspx> を参照してください。
@@ -603,6 +597,7 @@ MBSA を使用して修正プログラムの状況を確認する場合には、
 **表 8.3 修正プログラムの管理スクリプト用のフォルダ構造**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -637,6 +632,9 @@ MBSA を使用して修正プログラムの状況を確認する場合には、
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
   
 **重要** このガイドに含まれるファイルを C ドライブ以外のパーティションにインストールする場合には、そのパーティションを使用するように、MBSAPatchCheck.cmd ファイル内のパスを編集する必要があります。
   
@@ -644,30 +642,29 @@ MBSA を使用して修正プログラムの状況を確認する場合には、
   
 1.  SecurityOps.exe を実行してこのガイドに含まれるスクリプト ファイルを展開し、表 8.3 に示されているフォルダ構造を作成します。SecWin2k.exe という自己展開型実行ファイルから展開すると、このファイルは既定で C:\\SCI\\Scripts に格納されます。
   
-2.  3.  [http://download.microsoft.com/download/c/8/2/c823a585-f5dc-4947-9d92-72652bcd2576/MBSASetup-JA.msi](http://download.microsoft.com/download/c/8/2/c823a585-f5dc-4947-9d92-72652bcd2576/mbsasetup-ja.msi) から MBSA ユーティリティをダウンロードして、既定のフォルダ (C:\\Program Files\\Microsoft Baseline Security Analyzer) にインストールします。
+2.  [http://download.microsoft.com/download/c/8/2/c823a585-f5dc-4947-9d92-72652bcd2576/MBSASetup-JA.msi](http://download.microsoft.com/download/c/8/2/c823a585-f5dc-4947-9d92-72652bcd2576/mbsasetup-ja.msi) から MBSA ユーティリティをダウンロードして、既定のフォルダ (C:\\Program Files\\Microsoft Baseline Security Analyzer) にインストールします。
   
-4.  5.  インターネットに接続していないコンピュータでスクリプトを実行する場合には、Mssecure.xml ファイルをダウンロードして展開することも必要です。Mssecure.xml は MBSA フォルダ内に格納します。
+3.  インターネットに接続していないコンピュータでスクリプトを実行する場合には、Mssecure.xml ファイルをダウンロードして展開することも必要です。Mssecure.xml は MBSA フォルダ内に格納します。
   
-6.  7.  サーバーのリストのテキスト ファイルを作成して、C:\\SecurityOps\\PatchMgmt\\ServerLists に置きます。
+4.  サーバーのリストのテキスト ファイルを作成して、C:\\SecurityOps\\PatchMgmt\\ServerLists に置きます。
   
-    これは、チェックするサーバーの NetBIOS 名を改行で区切ったテキスト ファイルです。
+  これは、チェックするサーバーの NetBIOS 名を改行で区切ったテキスト ファイルです。
   
-8.  9.  コマンド プロンプトを開いて C:\\SecurityOps\\PatchMgmt フォルダに移り、次のコマンド ラインによってスクリプトを開始します。
+5.  コマンド プロンプトを開いて C:\\SecurityOps\\PatchMgmt フォルダに移り、次のコマンド ラインによってスクリプトを開始します。
   
-    <codesnippet language displaylanguage containsmarkup="false"> MBSAPatchCheck.cmd serverlist.txt   
-```
+  ```
+  MBSAPatchCheck.cmd serverlist.txt 
+  ```  
   
-    ここで serverlist.txt は、サーバーのリストのテキスト ファイルの名前です。
+  ここで serverlist.txt は、サーバーのリストのテキスト ファイルの名前です。
   
-    **注** mssecure.xml ファイルをダウンロードするかどうか尋ねるダイアログ ボックスが表示されたら **\[Yes\]** をクリックします。
+  **注** mssecure.xml ファイルをダウンロードするかどうか尋ねるダイアログ ボックスが表示されたら **\[Yes\]** をクリックします。
   
-10. 11. C:\\SecurityOps\\PatchMgmt\\Logs フォルダに移り、今日の日付のフォルダを開いて、serverlist.txt ファイルと同じ名前のファイルを開きます。
+6.  C:\\SecurityOps\\PatchMgmt\\Logs フォルダに移り、今日の日付のフォルダを開いて、serverlist.txt ファイルと同じ名前のファイルを開きます。
   
-12. 13. ログ ファイルを調べて、サーバーに適用されていない修正プログラムを確認します。
+7.  ログ ファイルを調べて、サーバーに適用されていない修正プログラムを確認します。
   
-    **注** 同じ日に修正プログラムの管理スクリプトを 2 回実行した場合には、最初に実行したときのログ ファイルは上書きされます。
-  
-14. 
+  **注** 同じ日に修正プログラムの管理スクリプトを 2 回実行した場合には、最初に実行したときのログ ファイルは上書きされます。
   
 **複数のサーバー リストを使用する**
   
@@ -684,7 +681,8 @@ MBSA を使用して修正プログラムの状況を確認する場合には、
 [拡大表示する](https://technet.microsoft.com/ja-jp/cc751218.08patm02(ja-jp,technet.10).gif)  
 この例では、各タイプのサーバー用のサーバー リスト ファイルに、対応するサーバーの名前が含まれることになります。たとえば、File&Print.txt の内容は次のようになります。
   
-<codesnippet language displaylanguage containsmarkup="false"> FP01 FP02 FP03   
+```
+FP01 FP02 FP03 
 ```  
 5 番目のサーバー リスト ファイル、Servers.txt には環境内にあるすべてのサーバーが含まれています。セキュリティ チームでは、このスキャンの結果を利用して、各グループが最新の修正プログラムによってサーバーを最新の状態にしていることを確認できるでしょう。
   
@@ -704,12 +702,11 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
   
 この情報を集めるために使用できるものとして、マイクロソフトでは以下の 2 つのツールを無償で提供しています。
   
--   **Qfecheck.exe /v** このツールは、サーバーにインストールされているサービス パックのレベルと修正プログラムのバージョンについての情報を表示します。Qfecheck はまた、修正プログラムが環境に適切にインストールされていない場合、そのことを知らせます。
+- **Qfecheck.exe /v** このツールは、サーバーにインストールされているサービス パックのレベルと修正プログラムのバージョンについての情報を表示します。Qfecheck はまた、修正プログラムが環境に適切にインストールされていない場合、そのことを知らせます。
   
--     
--   **Hotfix.exe -l** このツールは、サーバーにインストールされている修正プログラムの数とバージョンを表示します。
-  
--   
+
+- **Hotfix.exe -l** このツールは、サーバーにインストールされている修正プログラムの数とバージョンを表示します。
+
   
 #### 計画
   
@@ -732,8 +729,8 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
 マイクロソフトでは、それぞれの脆弱性について重大性の評価を行っており、それはセキュリティ情報のタイトルに含められます。次の表は、重大性のレベルを示しています。
   
 **表 8.4 マイクロソフトの定義による脆弱性の重大性**
-
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -776,7 +773,7 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
 </tr>
 </tbody>
 </table>
-  
+
 重大性評価システムは、脆弱性が利用された場合に及ぼし得る影響と、そのことが生じる可能性の高さに基づいて分類しています。
   
 重大性評価システムは、修正プログラムの分類のためのガイドとして用いることができます。しかし、マイクロソフトの重大性評価システムは、世界の何百万という顧客に対する潜在的な影響を全体的に評価したものです。重大性の評価は、過去の経験と主観的な判断に基づいています。これらの理由から、それぞれの環境に対する影響については正確な予想とはならない場合があります。どのような場合でも、お使いの環境に基づいて修正プログラムを分類する必要があります。
@@ -790,8 +787,8 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
 どの程度のテストが適切かは、どのように修正プログラムを分類したかに応じて決まります。次の表は、マイクロソフトの分類に基づいて、それぞれの修正プログラム タイプで行なうべきテストの最小限のレベルを示しています。Contoso のシナリオでは、推奨された修正プログラムをインストールした後でも、それぞれのサーバーの役割が適切に機能するという確証が得られることを望みました。このことは、様々なクライアント コンピュータが、それぞれのサーバーで動作しているネットワーク サービスに引き続き接続できるかを検証することと、すべての事柄が期待通り動作するかを確認するための他の基本的なテスト手順を実行することによって、行いました。
   
 **表 8.5 修正プログラムに対する最小限のテスト**
-
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -826,7 +823,6 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
 </tr>
 </tbody>
 </table>
- 
 
 リスク管理の手順の一環として、それぞれの段階をどの程度徹底的に実行するかを決定する必要があるでしょう。緊急を要するためにいくつかの段階をスキップした場合でも、すでに展開したシステムで何らかの問題が生じる前に、その問題の可能性を見つけるために、後でそれらをテスト環境で実行してください。
 
@@ -836,30 +832,30 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
 
 修正プログラムの評価には、少なくとも以下のステップが含まれている必要があります。
 
--   **修正プログラムの所有者を指定する -** どの修正プログラムについても、修正プログラムの評価を担当する所有者を決めておくべきです。
+- **修正プログラムの所有者を指定する -** どの修正プログラムについても、修正プログラムの評価を担当する所有者を決めておくべきです。
 
--   
--   **関連文書をすべて見直す** - どのサービス パック、修正プログラム、またはセキュリティ修正プログラムについても、適用の前にすべての関連文書を読み、同僚に確認してもらうべきです。同僚による確認プロセスは、更新を評価する際、一個人による重要なポイントの見落としというリスクを小さくする上で非常に重要です。
 
--   
--   **修正プログラムの分類を確認する** - 修正プログラムを評価した後に、その分類を変更する必要があるかもしれません。これは、テストの他の面にも影響するでしょう。
+- **関連文書をすべて見直す** - どのサービス パック、修正プログラム、またはセキュリティ修正プログラムについても、適用の前にすべての関連文書を読み、同僚に確認してもらうべきです。同僚による確認プロセスは、更新を評価する際、一個人による重要なポイントの見落としというリスクを小さくする上で非常に重要です。
 
--   
+
+- **修正プログラムの分類を確認する** - 修正プログラムを評価した後に、その分類を変更する必要があるかもしれません。これは、テストの他の面にも影響するでしょう。
+
+
 
 関連文書を読む際には、以下の質問への答えを探してください。
 
--   更新は現在の問題に当てはまり、未解決の問題を解決しますか。
+- 更新は現在の問題に当てはまり、未解決の問題を解決しますか。
 
--   
--   更新の適用は、稼動システムの危険にかかわる他の問題を引き起こしますか。
 
--   
--   更新に関連した依存関係がありますか (たとえば、最新版を有効にするために、特定の機能を有効または無効にする必要があるでしょうか)。
+- 更新の適用は、稼動システムの危険にかかわる他の問題を引き起こしますか。
 
--   
--   更新の展開の前に実行しておかなければならないことがありますか。
 
--   
+- 更新に関連した依存関係がありますか (たとえば、最新版を有効にするために、特定の機能を有効または無効にする必要があるでしょうか)。
+
+
+- 更新の展開の前に実行しておかなければならないことがありますか。
+
+
 
 更新と共にリリースされた文書の確認に加え、マイクロソフトのサポート Web サイトを調べて、更新についての追加のポストリリース情報がないかどうか確かめてください。TechNet では、セキュリティ情報を Web サイト上の (製品名やサービス パックによって) 検索可能なデータベースとしても公開しています。これらの資料は、参照する必要がある重要な情報を提供します。
 
@@ -893,15 +889,11 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
 
 テストが順調に終わったら、組織全体に修正プログラムを展開する用意が整ったことになります。展開には、以下の方法やプロセスを含む多くの方法があります。
 
--   手動による展開
+- 手動による展開
 
--   
--   グループ ポリシー
+- グループ ポリシー
 
--   
--   スクリプト
-
--   
+- スクリプト
 
 **注** 修正プログラムの展開についての補足的な情報は、この章の「詳細情報」でも参照している、TechNet の「Best Practices for Applying Service Packs, Hotfixes and Security Patches」という記事をご覧ください。
 
@@ -913,29 +905,24 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
 
 この場合、名前の各部分には以下のような意味があります。
 
--   [292435](http://support.microsoft.com/default.aspx?scid=kb;en-us;292435) は、サポート技術情報の文書番号で、その修正プログラムについての詳細が記されています。
+- [292435](http://support.microsoft.com/default.aspx?scid=kb;en-us;292435) は、サポート技術情報の文書番号で、その修正プログラムについての詳細が記されています。
 
--   
--   **W2K** は、対象となる製品を表します (Microsoft Windows 2000)。
+- **W2K** は、対象となる製品を表します (Microsoft Windows 2000)。
 
--   
--   **SP3** は、後で含められるサービス パックを示しています。
+- **SP3** は、後で含められるサービス パックを示しています。
 
--   
--   **x86** は、対象となるプロセッサ アーキテクチャです。
+- **x86** は、対象となるプロセッサ アーキテクチャです。
 
--   
--   **en** は、修正プログラムがどの言語でリリースされたかを示しています (この場合は英語)。
+- **en** は、修正プログラムがどの言語でリリースされたかを示しています (この場合は英語)。
 
--   
 
 **注** ファイル名が QXXXXXX.exe などで、W2K\_SP3\_x86 のような記号が含められていない修正プログラムは、Internet Explorer などのアプリケーションに固有のものです。
 
 修正プログラムはまた、インストール プロセスの動作をコントロールするために使用できる、いくつかのコマンドライン スイッチをサポートしています。
 
 **表 8.6 修正プログラム実行ファイルのスイッチ**
-
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -978,7 +965,7 @@ MBSAPatchCheck.cmd を一定の間隔で動作させるため、ツールを定�
 </tr>
 </tbody>
 </table>
-  
+
 **注** QXXXXXX.exe というファイル名のアプリケーション固有の修正プログラムは、通常、上記のスイッチすべてをサポートしてはいません。
   
 スクリプトによって複数の修正プログラムのインストールを行う場合、 **-q** と **-z** スイッチを使用すると、ユーザー インターフェイスを表示せず、また再起動を行わずにインストールできます。
@@ -1114,56 +1101,55 @@ Microsoft Security Best Practices (英語)
   
 ### 目次
   
--   [概要](https://technet.microsoft.com/ja-jp/library/71a89c24-0bfe-4e21-aeac-89ba6f84b06d(v=TechNet.10))  
--     
--     
--   [第 1 章 ‐ Securing Windows 2000 Server 入門](https://technet.microsoft.com/ja-jp/library/18bbfc43-3d1a-4031-bc06-372064ffff72(v=TechNet.10))  
--     
--     
--   [第 2 章 ‐ セキュリティの概要を定義する](https://technet.microsoft.com/ja-jp/library/52d2d069-16f8-4a1f-8fa8-ec6b77571799(v=TechNet.10))  
--     
--     
--   [第 3 章 ‐ セキュリティ リスク管理の統制について理解する](https://technet.microsoft.com/ja-jp/library/81560275-04b7-4e40-8937-699e4b4defea(v=TechNet.10))  
--     
--     
--   [第 4 章 ‐ セキュリティ リスク管理の統制を適用する](https://technet.microsoft.com/ja-jp/library/07ed8438-6264-4e30-9ca9-2235687e62e7(v=TechNet.10))  
--     
--     
--   [第 5 章 ‐ ドメイン インフラストラクチャをセキュリティで保護する](https://technet.microsoft.com/ja-jp/library/83d7ede4-67ea-43d7-93a9-ccff8e5ca4e6(v=TechNet.10))  
--     
--     
--   [第 6 章 ‐ Base Windows 2000 Server のハードニング](https://technet.microsoft.com/ja-jp/library/265d2c3d-5af6-4f6e-85ea-d674d4c314a7(v=TechNet.10))  
--     
--     
--   [第 7 章 ‐ 特定サーバーの役割のハードニング](https://technet.microsoft.com/ja-jp/library/138bac60-132a-4faf-b979-503828583374(v=TechNet.10))  
--     
--     
--   第 8 章 ‐ 修正プログラムの管理  
--     
--     
--   [第 9 章 ‐ 監査と侵入検出](https://technet.microsoft.com/ja-jp/library/f8a8ab2f-f727-459c-aee0-c6a06f7f9fb0(v=TechNet.10))  
--     
--     
--   [第 10 章 ‐ インシデントへの対応](https://technet.microsoft.com/ja-jp/library/4baf189b-f762-4c67-a5bc-f438a1274fec(v=TechNet.10))  
--     
--     
--   [第 11 章 ‐ 結論](https://technet.microsoft.com/ja-jp/library/0deb6d1a-1083-4353-b645-6bdc1cbab83c(v=TechNet.10))  
--     
--     
--   [付録 A ‐ Windows 2000 のサービスの用途](https://technet.microsoft.com/ja-jp/library/13468c13-a3f3-4b75-aadf-fec1c40fe801(v=TechNet.10))  
--     
--     
--   [付録 B ‐ レジストリのアクセス制御の変更](https://technet.microsoft.com/ja-jp/library/132e1a99-29b0-4f66-956c-d009da62a51d(v=TechNet.10))  
--     
--     
--   [付録 C ‐ オプションのファイル システムのアクセス許可](https://technet.microsoft.com/ja-jp/library/af304b67-3190-4a66-b75a-07d8fcd8585d(v=TechNet.10))  
--     
--     
--   [付録 D ‐ 信頼されていないネットワーク内にあるサーバーでの NetBIOS の無効化](https://technet.microsoft.com/ja-jp/library/cac85879-5a6d-419c-bb04-09f0a93fb668(v=TechNet.10))  
--     
--     
--   [付録 E ‐ セキュリティで保護された LDAP および SMTP 複製を行うためのドメイン コントローラでのデジタル証明書の構成](http://www.microsoft.com/japan/technet/security/prodtech/windows2000/secwin2k/a0701.mspx)  
--     
--   
+- [概要](https://technet.microsoft.com/ja-jp/library/71a89c24-0bfe-4e21-aeac-89ba6f84b06d(v=TechNet.10))  
+
+
+- [第 1 章 ‐ Securing Windows 2000 Server 入門](https://technet.microsoft.com/ja-jp/library/18bbfc43-3d1a-4031-bc06-372064ffff72(v=TechNet.10))  
+
+
+- [第 2 章 ‐ セキュリティの概要を定義する](https://technet.microsoft.com/ja-jp/library/52d2d069-16f8-4a1f-8fa8-ec6b77571799(v=TechNet.10))  
+
+
+- [第 3 章 ‐ セキュリティ リスク管理の統制について理解する](https://technet.microsoft.com/ja-jp/library/81560275-04b7-4e40-8937-699e4b4defea(v=TechNet.10))  
+
+
+- [第 4 章 ‐ セキュリティ リスク管理の統制を適用する](https://technet.microsoft.com/ja-jp/library/07ed8438-6264-4e30-9ca9-2235687e62e7(v=TechNet.10))  
+
+
+- [第 5 章 ‐ ドメイン インフラストラクチャをセキュリティで保護する](https://technet.microsoft.com/ja-jp/library/83d7ede4-67ea-43d7-93a9-ccff8e5ca4e6(v=TechNet.10))  
+
+
+- [第 6 章 ‐ Base Windows 2000 Server のハードニング](https://technet.microsoft.com/ja-jp/library/265d2c3d-5af6-4f6e-85ea-d674d4c314a7(v=TechNet.10))  
+
+
+- [第 7 章 ‐ 特定サーバーの役割のハードニング](https://technet.microsoft.com/ja-jp/library/138bac60-132a-4faf-b979-503828583374(v=TechNet.10))  
+
+
+- 第 8 章 ‐ 修正プログラムの管理  
+
+
+- [第 9 章 ‐ 監査と侵入検出](https://technet.microsoft.com/ja-jp/library/f8a8ab2f-f727-459c-aee0-c6a06f7f9fb0(v=TechNet.10))  
+
+
+- [第 10 章 ‐ インシデントへの対応](https://technet.microsoft.com/ja-jp/library/4baf189b-f762-4c67-a5bc-f438a1274fec(v=TechNet.10))  
+
+
+- [第 11 章 ‐ 結論](https://technet.microsoft.com/ja-jp/library/0deb6d1a-1083-4353-b645-6bdc1cbab83c(v=TechNet.10))  
+
+
+- [付録 A ‐ Windows 2000 のサービスの用途](https://technet.microsoft.com/ja-jp/library/13468c13-a3f3-4b75-aadf-fec1c40fe801(v=TechNet.10))  
+
+
+- [付録 B ‐ レジストリのアクセス制御の変更](https://technet.microsoft.com/ja-jp/library/132e1a99-29b0-4f66-956c-d009da62a51d(v=TechNet.10))  
+
+
+- [付録 C ‐ オプションのファイル システムのアクセス許可](https://technet.microsoft.com/ja-jp/library/af304b67-3190-4a66-b75a-07d8fcd8585d(v=TechNet.10))  
+
+
+- [付録 D ‐ 信頼されていないネットワーク内にあるサーバーでの NetBIOS の無効化](https://technet.microsoft.com/ja-jp/library/cac85879-5a6d-419c-bb04-09f0a93fb668(v=TechNet.10))  
+
+
+- [付録 E ‐ セキュリティで保護された LDAP および SMTP 複製を行うためのドメイン コントローラでのデジタル証明書の構成](http://www.microsoft.com/japan/technet/security/prodtech/windows2000/secwin2k/a0701.mspx)  
+
   
 [](#mainsection)[ページのトップへ](#mainsection)

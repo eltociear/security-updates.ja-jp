@@ -19,6 +19,7 @@ On the Active Directory domain controllers, the following Windows Firewall excep
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -47,6 +48,7 @@ The following table shows the port exceptions that should be made on the RMS ser
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -75,6 +77,7 @@ If the logging database server is not on a server in the RMS cluster, the follow
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -100,8 +103,8 @@ If the logging database server is not on a server in the RMS cluster, the follow
   
 In addition to creating these port exceptions, special considerations should be taken when configuring the firewall scope. Unless your RMS environment is used in an extranet scenario, you should restrict all traffic to your organization's network. If your RMS environment needs to be available to client computers outside of your organization's network, you should allow any computer on the Internet to connect only through TCP port 443 or TCP port 80.
   
-| ![](images/Cc747747.Caution(WS.10).gif)注意                                                                                                                                                                                                                                                                                                                                                       |  
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| In an RMS environment, TCP port 445 is used to provision the RMS cluster, but this port is also the file sharing port for all computers that are running Microsoft Windows 2000 or later. Unless you have specific need for other computers on your network to have access to this port, you should restrict the scope so that only the servers in the RMS cluster have access to TCP port 445 on the logging database server. |
+> [!Caution]  
+> In an RMS environment, TCP port 445 is used to provision the RMS cluster, but this port is also the file sharing port for all computers that are running Microsoft Windows 2000 or later. Unless you have specific need for other computers on your network to have access to this port, you should restrict the scope so that only the servers in the RMS cluster have access to TCP port 445 on the logging database server. 
   
 For more information regarding the Windows Firewall, please see the help documentation for Windows Server 2003 with SP1.
+

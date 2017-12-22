@@ -21,14 +21,15 @@ Data Encryption Toolkit for Mobile PCs : 計画および実装ガイド
 
 ##### トピック
 
-[](#e5c)[BitLocker の簡単な概要](#e5c)
-[](#ebd)[EFS の簡単な概要](#ebd)
-[](#e5d)[各章の要約](#e5d)
-[](#eue)[対象読者](#eue)
-[](#ebf)[表記規則](#ebf)
-[](#e1g)[サポートとフィードバック](#e1g)
+[](#e5c)[BitLocker の簡単な概要](#e5c)  
+[](#ebd)[EFS の簡単な概要](#ebd)  
+[](#e5d)[各章の要約](#e5d)  
+[](#eue)[対象読者](#eue)  
+[](#ebf)[表記規則](#ebf)  
+[](#e1g)[サポートとフィードバック](#e1g)  
 [](#eih)[謝辞](#eih)
 <span id="E5C"></span>
+
 BitLocker の簡単な概要
 ----------------------
 
@@ -104,7 +105,7 @@ Windows 2000、Windows XP Professional、Windows Server® 2003、および W
 <td style="border:1px solid black;">斜体と山かっこで示されるプレースホルダ (<em>&lt;filename&gt;</em> など) は変数を表します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>Monospace フォント</code></pre>
+<td style="border:1px solid black;">Monospace フォント
 <br />
 </td>
 <td style="border:1px solid black;">コードとスクリプトのサンプルを示します。</td>

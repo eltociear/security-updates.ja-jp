@@ -9,7 +9,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362365(v=MSDN.10)'
 Exchange Server
 ===============
 
-<table border="0" cellpadding="0" cellspacing="0">
+<p> </p>
+<table cellpadding="0" cellspacing="0" style="border:1px solid black;">
 <tbody>
 <tr>
 <td style="border:1px solid black;" colspan="5">

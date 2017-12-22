@@ -123,6 +123,7 @@ IE-Rollup.XML および Patch-Rollup.XML というサンプル ファイルが�
 サンプル \#3 を使用する場合、有効なチェック ID の値はこの表に示す通りです。このサンプルは、結果の XML 出力の名前を自動的に抽出しますが、ID はロールアップに必要な特定のチェックを指定するために使用される必要があります。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
