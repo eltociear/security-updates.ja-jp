@@ -35,31 +35,31 @@ Exchange のセキュリティ向上を検討する際には、ローカル コ�
 
 -   サービスのセキュリティ
 
--   
+
 -   ファイルのセキュリティ
 
--   
+
 -   IIS のセキュリティ
 
--   
+
 -   レジストリ エントリ
 
--   
+
 -   Windows 2000 の基本セキュリティ機能
 
--   
+
 -   ドメイン コントローラおよびグローバル カタログのセキュリティ
 
--   
+
 -   Active Directory のセキュリティ
 
--   
+
 -   Exchange データベースのセキュリティ
 
--   
+
 -   Exchange のトランスポート メカニズム
 
--   
+
 
 #### Exchange サービスの依存関係
 
@@ -99,16 +99,16 @@ Exchange 2000 の脆弱性は Windows 2000 の場合よりも、その影響が�
 
 -   マイクロソフト セキュリティ情報 購読の詳細については、この章の末尾の「詳細情報」を参照してください。
 
--   
+
 -   Windows 2000 環境における修正プログラム管理に関する詳細情報については、「Microsoft Windows 2000 Server セキュリティ運用ガイド」を参照してください。
 
--   
+
 -   Exchange 2000 の推奨構成とアップデートの詳細については、この章の末尾の「詳細情報」を参照してください。
 
--   
+
 -   Microsoft Baseline Security Analyzer 1.0 は、日本語環境での動作は保障されていません。
 
--   
+
 
 #### クライアント環境のセキュリティを確保する
 
@@ -176,10 +176,10 @@ Exchange 2000 には迷惑メールに対する防御機能が組み込まれて
 
 -   Exchange 2000 Server を使用した迷惑メールのフィルタ処理に関する詳細情報については、マイクロソフト サポート技術情報 JP276321「\[XADM\] Exchange 2000 で不要な電子メールにフィルタを適用する方法」を参照してください。
 
--   
+
 -   メッセージ スクリーナを使用すると、迷惑メールに、より柔軟に対処できます。この内容については、「第 4 章 Exchange の通信セキュリティを強化する」で取り上げています。
 
--   
+
 
 #### サービス拒否 (DoS) 攻撃に対して防御する
 
@@ -235,16 +235,16 @@ Exchange 管理委任ウィザードだけでは、セキュリティの割り�
   
 -   アドレス一覧
   
--     
+
 -   グローバル アドレス一覧
   
--     
+
 -   データベース (メールボックス ストアおよびパブリック フォルダ ストア)
   
--     
+
 -   最上位のパブリック フォルダ階層構造
   
--   
+
   
 通常は、Exchange オブジェクトのセキュリティ オプションを変更する必要はありませんが、すべての Exchange オブジェクトのセキュリティ タブを表示することは可能です。
   
@@ -254,17 +254,17 @@ Exchange 管理委任ウィザードだけでは、セキュリティの割り�
   
 1.  Regedt32.exe を実行します。
   
-2.  3.  レジストリ内の次のキーに移動します。
+2  レジストリ内の次のキーに移動します。
   
     HKEY\_CURRENT\_USER\\Software\\Microsoft\\Exchange\\ExAdmin
   
-4.  5.  \[編集\] メニューの \[値の追加\] をクリックし、次の値をレジストリに追加します。
+3  \[編集\] メニューの \[値の追加\] をクリックし、次の値をレジストリに追加します。
   
     \[値の名前\] : ShowSecurityPage  
     \[データ型\] : REG\_DWORD  
     \[データ\] : 1
   
-6.  7.  レジストリ エディタを終了します。
+4  レジストリ エディタを終了します。
   
 8.  
   
@@ -294,13 +294,13 @@ Exchange 管理委任ウィザードだけでは、セキュリティの割り�
   
 -   集中型管理用のアイテムを含める 1 つ以上の上位管理グループを作成します。
   
--     
+
 -   個別の設定を集中的に管理するための Exchange システム ポリシーを作成します。
   
--     
+
 -   特定の設定を行ったとき、ローカル管理者に警告が発せられないように適切なセキュリティを割り当てます。
   
--   
+
   
 **集中管理のための上位管理グループを作成する**
   
@@ -382,39 +382,39 @@ Exchange 2000 環境のセキュリティ向上を実現するには、多くの
 -   Microsoft Exchange 2000 Server セキュリティ運用ガイド
     [http://technet.microsoft.com/library/dd277322.aspx](http://technet.microsoft.com/library/dd277322)
 
--   
+
 -   Microsoft Exchange 2000 の内部仕様 : アクセス許可ガイド
     <http://technet.microsoft.com/library/dd164274.aspx>
 
--   
+
 -   マイクロソフトのセキュリティ情報が掲載された電子ニュースレターの購読について
     <http://www.microsoft.com/japan/technet/security/bulletin/notify.mspx>
 
--   
+
 -   Microsoft Windows 2000 Server のセキュリティ運用について
     <http://technet.microsoft.com/ja-jp/library/cc723541.aspx>
 
--   
+
 -   Exchange 組織外からのメールが確実に未解決として処理される方法の詳細について
     <http://support.microsoft.com/default.aspx?scid=kb;ja;288635>
 
--   
+
 -   DNS 逆引き参照を使用する方法の詳細について
     <http://support.microsoft.com/default.aspx?scid=kb;ja;319356>
 
--   
+
 -   Outlook 2002 を使用して迷惑メールを防御する方法の詳細について
     [http://office.microsoft.com/ja-jp/outlook/HA010347791041.aspx](http://office.microsoft.com/ja-jp/outlook/ha010347791041.aspx)
 
--   
+
 -   Exchange サーバー上で使用するウイルス対策ソフトウェアの詳細について (英語)
     <http://support.microsoft.com/default.aspx?scid=kb;ja;245822>
 
--   
+
 -   Exchange 2000 Server で迷惑メールをフィルタ処理する方法の詳細について
     <http://support.microsoft.com/default.aspx?scid=kb;ja;276321>
 
--   
+
 -   格納域の制限を設定する方法の詳細について
     <http://support.microsoft.com/default.aspx?scid=kb;ja;319583>
 
@@ -423,14 +423,14 @@ Exchange 2000 環境のセキュリティ向上を実現するには、多くの
 ### 目次
 
 -   [概要](https://technet.microsoft.com/ja-jp/library/5adcd128-c106-4554-96f2-05b737609fd6(v=TechNet.10))
--   
+
 -   [第 1 章 ‐ はじめに](https://technet.microsoft.com/ja-jp/library/2a5c3409-3f1f-48f8-8634-ded56d3667cb(v=TechNet.10))
--   
+
 -   第 2 章 ‐ Exchange 環境のセキュリティを確保する
--   
+
 -   [第 3 章 ‐ 役割に基づいて Exchange 2000 サーバーのセキュリティを強化する](https://technet.microsoft.com/ja-jp/library/b41b1f18-5372-4009-8ef7-49740f56ab32(v=TechNet.10))
--   
+
 -   [第 4 章 ‐ Exchange の通信セキュリティを強化する](https://technet.microsoft.com/ja-jp/library/5c43a166-9c33-403d-ad45-66c51e1897f3(v=TechNet.10))
--   
+
 
 [](#mainsection)[ページのトップへ](#mainsection)
