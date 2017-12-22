@@ -221,19 +221,19 @@ RSVP メッセージは、一定レベルのサービスを保証できないと
 
 -   Echo (ポート 7、RFC 862)
 
--   
+
 -   Discard (ポート 9、RFC 863)
 
--   
+
 -   Character Generator (ポート 19、RFC 864)
 
--   
+
 -   Daytime (ポート 13、RFC 867)
 
--   
+
 -   Quote of the Day (ポート 17、RFC 865)
 
--   
+
 
 **Single Instance Storage (SIS) Groveler** : Remote Installation Services (RIS) の中心的なコンポーネントです。RIS Server のインストール フォルダで使用されるディスク容量を少なくするために、SIS は RIS インストール ディレクトリが格納されているパーティションを詳しく調べて、冗長なファイルを検索し、それらを 1 か所に保存し、シンボリック リンクに置換します。Windows 2000 Server では、既定で SIS Groveler がインストールされていますが、RIS コンポーネントがインストールされるまで、\[Disabled\] に設定されています。
 
@@ -275,16 +275,16 @@ RAS などの他の依存サービスが現在アクティブである場合、�
 
 -   RFC 1350 - TFTP
 
--   
+
 -   RFC 2347 - オプション拡張
 
--   
+
 -   RFC 2348 - ブロックサイズ オプション
 
--   
+
 -   RFC 2349 - タイムアウト間隔、転送サイズ オプション
 
--   
+
 
 このサービスを無効にするには、RIS をアンインストールします。このサービスを直接無効にすると、誤動作の原因となります。
 
@@ -329,38 +329,38 @@ NTP の実装およびタイム プロバイダの統合によって、W32Time �
 ### 目次
 
 -   [概要](https://technet.microsoft.com/ja-jp/library/71a89c24-0bfe-4e21-aeac-89ba6f84b06d(v=TechNet.10))
--   
+
 -   [第 1 章 ‐ Securing Windows 2000 Server 入門](https://technet.microsoft.com/ja-jp/library/18bbfc43-3d1a-4031-bc06-372064ffff72(v=TechNet.10))
--   
+
 -   [第 2 章 ‐ セキュリティの概要を定義する](https://technet.microsoft.com/ja-jp/library/52d2d069-16f8-4a1f-8fa8-ec6b77571799(v=TechNet.10))
--   
+
 -   [第 3 章 ‐ セキュリティ リスク管理の統制について理解する](https://technet.microsoft.com/ja-jp/library/81560275-04b7-4e40-8937-699e4b4defea(v=TechNet.10))
--   
+
 -   [第 4 章 ‐ セキュリティ リスク管理の統制を適用する](https://technet.microsoft.com/ja-jp/library/07ed8438-6264-4e30-9ca9-2235687e62e7(v=TechNet.10))
--   
+
 -   [第 5 章 ‐ ドメイン インフラストラクチャをセキュリティで保護する](https://technet.microsoft.com/ja-jp/library/83d7ede4-67ea-43d7-93a9-ccff8e5ca4e6(v=TechNet.10))
--   
+
 -   [第 6 章 ‐ Base Windows 2000 Server のハードニング](https://technet.microsoft.com/ja-jp/library/265d2c3d-5af6-4f6e-85ea-d674d4c314a7(v=TechNet.10))
--   
+
 -   [第 7 章 ‐ 特定サーバーの役割のハードニング](https://technet.microsoft.com/ja-jp/library/138bac60-132a-4faf-b979-503828583374(v=TechNet.10))
--   
+
 -   [第 8 章 ‐ 修正プログラムの管理](https://technet.microsoft.com/ja-jp/library/c474ed12-f438-4d49-acaa-260df90e5e13(v=TechNet.10))
--   
+
 -   [第 9 章 ‐ 監査と侵入検出](https://technet.microsoft.com/ja-jp/library/f8a8ab2f-f727-459c-aee0-c6a06f7f9fb0(v=TechNet.10))
--   
+
 -   [第 10 章 ‐ インシデントへの対応](https://technet.microsoft.com/ja-jp/library/4baf189b-f762-4c67-a5bc-f438a1274fec(v=TechNet.10))
--   
+
 -   [第 11 章 ‐ 結論](https://technet.microsoft.com/ja-jp/library/0deb6d1a-1083-4353-b645-6bdc1cbab83c(v=TechNet.10))
--   
+
 -   付録 A ‐ Windows 2000 のサービスの用途
--   
+
 -   [付録 B ‐ レジストリのアクセス制御の変更](https://technet.microsoft.com/ja-jp/library/132e1a99-29b0-4f66-956c-d009da62a51d(v=TechNet.10))
--   
+
 -   [付録 C ‐ オプションのファイル システムのアクセス許可](https://technet.microsoft.com/ja-jp/library/cac85879-5a6d-419c-bb04-09f0a93fb668(v=TechNet.10))
--   
+
 -   [付録 D ‐ 信頼されていないネットワーク内にあるサーバーでの NetBIOS の無効化](https://technet.microsoft.com/ja-jp/library/cac85879-5a6d-419c-bb04-09f0a93fb668(v=TechNet.10))
--   
+
 -   [付録 E ‐ セキュリティで保護された LDAP および SMTP 複製を行うためのドメイン コントローラでのデジタル証明書の構成](http://www.microsoft.com/japan/technet/security/prodtech/windows2000/secwin2k/a0701.mspx)
--   
+
 
 [](#mainsection)[ページのトップへ](#mainsection)

@@ -19,6 +19,7 @@ SQL Server および MSDE を標的とした SQL Slammer ワームに関する�
 Q. Slammer ワームとは何ですか?
 ------------------------------
 
+<p></p>
 <table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px" width="100%">
 <tr>
 <td style="border:1px solid black;" valign="top" width="2%">
@@ -29,11 +30,15 @@ Slammer ワームは、SQL Server 2000 および MSDE 2000 の弱点を悪用す
 </td>
 </tr>
 </table>
+
+<p></p>
+
  
 
 Q. Slammer ワームが利用しているのはどのような弱点ですか?
 --------------------------------------------------------
 
+<p></p>
 <table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px" width="100%">
 <tr>
 <td style="border:1px solid black;" valign="top" width="2%">
@@ -44,11 +49,15 @@ Slammer ワームには、既知のセキュリティ上の弱点 [MS02-039「SQ
 </td>
 </tr>
 </table>
+
+<p></p>
+
  
 
 Q. 私のコンピュータに感染するのでしょうか?
 ------------------------------------------
 
+<p></p>
 <table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px" width="100%">
 <tr>
 <td style="border:1px solid black;" valign="top" width="2%">
@@ -94,11 +103,15 @@ ssnetlib.dll のプロパティが開きます。
 </td>
 </tr>
 </table>
+
+<p></p>
+
  
 
 Q. MSDE 2000 はどのような製品に含まれますか?
 --------------------------------------------
 
+<p></p>
 <table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px" width="100%">
 <tr>
 <td style="border:1px solid black;" valign="top" width="2%">
@@ -135,11 +148,15 @@ MSDE 2000 は、以下の製品に同梱されています。
 </td>
 </tr>
 </table>
+
+<p></p>
+
  
 
 Q. MSDE 2000 とは何ですか?
 --------------------------
 
+<p></p>
 <table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px" width="100%">
 <tr>
 <td style="border:1px solid black;" valign="top" width="2%">
@@ -150,11 +167,15 @@ MSDE 2000 とはマイクロソフトおよびサードパーティのいくつ�
 </td>
 </tr>
 </table>
+
+<p></p>
+
  
 
 Q. MSDE を含んだ製品を販売しています。どのような対策をとればよいでしょうか?
 ---------------------------------------------------------------------------
 
+<p></p>
 <table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px" width="100%">
 <tr>
 <td style="border:1px solid black;" valign="top" width="2%">
@@ -165,6 +186,9 @@ MSDE 2000 を含んだ製品を販売されている ISV 様は、[こちら](ht
 </td>
 </tr>
 </table>
+
+<p></p>
+
  
 
 ### 対策編
@@ -172,6 +196,7 @@ MSDE 2000 を含んだ製品を販売されている ISV 様は、[こちら](ht
 Q. MS02-061 に MS02-039 は含まれますか?
 ---------------------------------------
 
+<p></p>
 <table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px" width="100%">
 <tr>
 <td style="border:1px solid black;" valign="top" width="2%">
@@ -182,11 +207,15 @@ Q. MS02-061 に MS02-039 は含まれますか?
 </td>
 </tr>
 </table>
+
+<p></p>
+
  
 
 Q. MSDE 2000 の Service Pack 3 をインストールするとエラーが表示されます。
 -------------------------------------------------------------------------
 
+<p></p>
 <table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px" width="100%">
 <tr>
 <td style="border:1px solid black;" valign="top" width="2%">
@@ -197,11 +226,15 @@ Q. MSDE 2000 の Service Pack 3 をインストールするとエラーが表示
 </td>
 </tr>
 </table>
+
+<p></p>
+
  
 
 Q. SQL Server Service Pack 3 がインストールされたか確認する方法はありますか?
 ----------------------------------------------------------------------------
 
+<p></p>
 <table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px" width="100%">
 <tr>
 <td style="border:1px solid black;" valign="top" width="2%">
@@ -212,11 +245,15 @@ Q. SQL Server Service Pack 3 がインストールされたか確認する方法
 </td>
 </tr>
 </table>
+
+<p></p>
+
  
 
 Q. Application Center 2000 はどのように対策すれば良いのですか?
 --------------------------------------------------------------
 
+<p></p>
 <table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px" width="100%">
 <tr>
 <td style="border:1px solid black;" valign="top" width="2%">
@@ -230,11 +267,15 @@ Application Center 2000 の Slammer ワームの対策については、下記�
 </td>
 </tr>
 </table>
+
+<p></p>
+
  
 
 Q. Application Center 2000 用の MSDE インスタンスに、MSDE SP3 を適用しても問題ないですか?
 -----------------------------------------------------------------------------------------
 
+<p></p>
 <table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px" width="100%">
 <tr>
 <td style="border:1px solid black;" valign="top" width="2%">
@@ -248,11 +289,15 @@ Q. Application Center 2000 用の MSDE インスタンスに、MSDE SP3 を適�
 </td>
 </tr>
 </table>
+
+<p></p>
+
  
 
 Q. Application Center 2000 用の MSDE インスタンスに、MS02-061 を適用しても問題ないですか?
 -----------------------------------------------------------------------------------------
 
+<p></p>
 <table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px" width="100%">
 <tr>
 <td style="border:1px solid black;" valign="top" width="2%">
@@ -266,11 +311,15 @@ Q. Application Center 2000 用の MSDE インスタンスに、MS02-061 を適�
 </td>
 </tr>
 </table>
+
+<p></p>
+
  
 
 Q. BizTalk Server を使用しています。SQL Server 2000 Service Pack 3 のインストール時に以下のエラーが発生してインストールができません。スクリプト実行エラー : sp1\_serv\_uni.sql (1)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<p></p>
 <table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px" width="100%">
 <tr>
 <td style="border:1px solid black;" valign="top" width="2%">
@@ -281,11 +330,15 @@ MDAC 2.7 をインストールしている環境で、BizTalk Server をご使�
 </td>
 </tr>
 </table>
+
+<p></p>
+
  
 
 Q. Microsoft Server Appliance Kit 2.0 Add-On Pack でインストールされる MSDE には、どのように対策すればいいのですか?
 -------------------------------------------------------------------------------------------------------------------
 
+<p></p>
 <table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px" width="100%">
 <tr>
 <td style="border:1px solid black;" valign="top" width="2%">
@@ -296,11 +349,15 @@ Microsoft Server Appliance Kit は、Windows 2000 および MSDE 英語版をベ
 </td>
 </tr>
 </table>
+
+<p></p>
+
  
 
 Q. SQL Server 2000 Service Pack 3a は SQL Slammer ワームの影響を受けますか?
 ---------------------------------------------------------------------------
 
+<p></p>
 <table border="0" cellpadding="0" cellspacing="0" style="margin-top:10px" width="100%">
 <tr>
 <td style="border:1px solid black;" valign="top" width="2%">
@@ -311,6 +368,9 @@ Q. SQL Server 2000 Service Pack 3a は SQL Slammer ワームの影響を受け�
 </td>
 </tr>
 </table>
+
+<p></p>
+
  
 
 [<img src="images/dd362406.arrow_px_up(ja-jp,TechNet.10).gif" alt="ページのトップへ" width="7" height="9" />](#top) [ページのトップへ](#top)

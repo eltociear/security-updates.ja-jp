@@ -19,19 +19,19 @@ RSA SecurID の認証のための Web フィルタでは、RSA SecurID の認証
 
 -   ISA Server を使用した RSA SecurID の認証
 
--   
+
 -   二重認証
 
--   
+
 -   二重配置による認証
 
--   
+
 -   Microsoft インターネットインフォメーションサービス (IIS) サーバーでの RSA SecurID の認証
 
--   
+
 -   RSA SecurID の認証を使用した Microsoft Exchange Outlook Web Access の公開
 
--   
+
 
 ##### トピック
 
@@ -69,16 +69,16 @@ ISA Server コンピュータには、以下がインストールされている
 
 -   Service Pack 3 が適用された Microsoft Windows 2000 Server、Windows 2000 Advanced Server、または Windows Server 2003
 
--   
+
 -   Service Pack 1 が適用された ISA Server
 
--   
+
 -   ISA Server Feature Pack 1
 
--   
+
 -   RSA SecurID の認証に使用する Web フィルタ
 
--   
+
 
 Web サーバーには、Windows 2000 Server、Windows 2000 Advanced Server、または Windows Server 2003 がインストールされている必要があります。Web サイトの公開に使用するインターネットインフォメーションサービス (IIS) は、Windows 2000 Server、Windows 2000 Advanced Server、および Windows Server 2003 に含まれています。
 
@@ -164,13 +164,13 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 
 -   RSA SecurID の認証用 Web フィルタの有効化
 
--   
+
 -   Web 公開ルールの構成
 
--   
+
 -   適切な着信方向の Web 要求リスナの構成
 
--   
+
 
 **RSA SecurID の認証用 Web フィルタを有効にするには**
 
@@ -214,7 +214,7 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 
 -   ACE Server コンピュータで、IIS サーバーのホストレコード上で認証アクセス許可を持つすべてのユーザーを ISA Server のホストレコードに追加します。
 
--   
+
 
 [](#mainsection)[ページのトップへ](#mainsection)
 
@@ -288,7 +288,7 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 
     **重要** この場合、Web サーバーのクライアントは、実際には ISA Server コンピュータです。Cookie に隠されている IP アドレスは、ISA Server から Cookie を受け取ったクライアントの IP アドレスです。したがって、Web サーバーのクライアント (ISA Server コンピュータ) の IP アドレスとは一致しません。
 
--   
+
 
 [](#mainsection)[ページのトップへ](#mainsection)
 
@@ -374,15 +374,15 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 
 -   ACE Server コンピュータで認証サービスが開始されているかどうかを確認します。必要に応じてサービスを開始し、通信が確立されていることを確認します。
 
--   
+
 -   RSA サーバーが LAT に含まれていない場合は、ISA Server のパケットフィルタにより ACE Server コンピュータへの通信がブロックされている可能性があります。通信を許可するパケットフィルタを作成してください。
 
--   
+
 -   イベントビューアのアプリケーションログで、マルチホームホストが検出され、予想されるプライマリ IP が x.x.x.x であることを示すイベントを確認します。
 
     x.x.x.x が、ACE Server コンピュータが ISA Server コンピュータを識別するための IP アドレスでない場合は、REG\_SZ という種類で PrimaryInterfaceIP という名前の値をレジストリキー HKEY\_LOCAL\_MACHINE\\Software\\SDTI\\ACECLIENT に追加します。ACE Server コンピュータと通信する ISA Server コンピュータのインターフェイスの IP アドレスの値を設定します。
 
--   
+
 
 #### ノードの検証が失敗する
 
@@ -404,13 +404,13 @@ RSA SecurID の認証が有効になっている Web 公開ルールに送信さ
 
 -   Extensions\\Web Filters のフィルタが有効になっていることを確認し、Web 公開ルールで SecurID の認証が有効になっていることを確認します。
 
--   
+
 -   Web Proxy サービスを再起動します。
 
--   
+
 -   sdisa.dll フィルタの読み込みに失敗したことを示すエラーコード 0x7e のイベントをイベントログで確認します。この場合は、フィルタを読み込めない原因を調べてみてください。アンインストールしてから再インストールしてください。
 
--   
+
 
 #### OWA サーバーへのアクセス
 
@@ -441,11 +441,11 @@ RSA SecurID の認証が有効になっている Web 公開ルールに送信さ
 
 -   SSL の使用。ISA Server、またはその他の RSA ACE/Agent によって作成された Cookie が悪意のあるユーザーに盗まれた場合、権限のないユーザーがセキュリティで保護された Web コンテンツの受信に使用するおそれがあります。そのため、RSA SecurID 資格情報は、SSL チャネル上で送信することを強くお勧めします。SSL 接続では、クライアントに対して ISA Server コンピュータを認証し、通信を暗号化するために、サーバー証明書が使用されます。RSA SecureID を使用すると、クライアント自体を ISA Server に対して認証できます。Cookie をセキュリティで保護された接続で送信すると、悪意のあるユーザーから保護できます。
 
--   
+
 -   キャッシュの回避。Web 公開ルールの RSA SecurID の \[クライアントで保護されたページをキャッシュしない\] オプションは、ページがクライアントのブラウザにキャッシュされないようにします。ただし、このオプションが有効になっていても、保護されたページは ISA Server にキャッシュされます。
 
     「シナリオ 4 : IIS サーバーでの RSA SecurID の認証」で説明したようなシナリオでシステムのセキュリティを強化するには、IIS サーバーで RSA SecurID 認証によって保護されている Web コンテンツを ISA Server にキャッシュしないようにすることをお勧めします。そのためには、指定された宛先セットへの応答をキャッシュしないルーティングルールを作成します。詳細については、ISA Server のオンラインヘルプを参照してください。
 
--   
+
 
 [](#mainsection)[ページのトップへ](#mainsection)
