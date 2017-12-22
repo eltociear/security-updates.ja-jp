@@ -9,8 +9,6 @@
     items:
     - name: 3123479
       href: ./SecurityAdvisories/2017/3123479
-    - name: 3123479
-      href: ./SecurityAdvisories/2017/3123479
     - name: 3214296
       href: ./SecurityAdvisories/2017/3214296
     - name: 4010323
@@ -82,7 +80,62 @@
     - name: 3119884
       href: ./SecurityAdvisories/2015/3119884
     - name: 3123040
-      href: ./SecurityAdvisories/2015/3123040  
+      href: ./SecurityAdvisories/2015/3123040
+  - name: 2006
+    href: 
+    items:
+    - name: 904420
+      href: ./SecurityAdvisories/2006/904420
+    - name: 912920
+      href: ./SecurityAdvisories/2006/912920
+    - name: 912945
+      href: ./SecurityAdvisories/2006/912945
+    - name: 913333
+      href: ./SecurityAdvisories/2006/913333
+    - name: 914457
+      href: ./SecurityAdvisories/2006/914457
+    - name: 914784
+      href: ./SecurityAdvisories/2006/914784
+    - name: 916208
+      href: ./SecurityAdvisories/2006/916208
+    - name: 917021
+      href: ./SecurityAdvisories/2006/917021
+    - name: 917077
+      href: ./SecurityAdvisories/2006/917077
+    - name: 919637
+      href: ./SecurityAdvisories/2006/919637
+    - name: 921365
+      href: ./SecurityAdvisories/2006/921365
+    - name: 921923
+      href: ./SecurityAdvisories/2006/921923
+    - name: 922437
+      href: ./SecurityAdvisories/2006/922437
+    - name: 922582
+      href: ./SecurityAdvisories/2006/922582
+    - name: 922970
+      href: ./SecurityAdvisories/2006/922970
+    - name: 923762
+      href: ./SecurityAdvisories/2006/923762
+    - name: 925059
+      href: ./SecurityAdvisories/2006/925059
+    - name: 925143
+      href: ./SecurityAdvisories/2006/925143
+    - name: 925444
+      href: ./SecurityAdvisories/2006/925444
+    - name: 925568
+      href: ./SecurityAdvisories/2006/925568
+    - name: 925984
+      href: ./SecurityAdvisories/2006/925984
+    - name: 926043
+      href: ./SecurityAdvisories/2006/926043
+    - name: 927709
+      href: ./SecurityAdvisories/2006/927709
+    - name: 927892
+      href: ./SecurityAdvisories/2006/927892
+    - name: 928604
+      href: ./SecurityAdvisories/2006/928604
+    - name: 929433
+      href: ./SecurityAdvisories/2006/929433
 - name: セキュリティ情報の概要
   href: ./SecurityBulletins/securitybulletins
   items:
