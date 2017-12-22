@@ -156,22 +156,22 @@ Back end server starting configuration:
     1.  Click **Start**, click **Run**, type **regedit**, and then click **OK**.
     2.  Find the following key: **HKLM\\SOFTWARE\\Microsoft\\UpdateServices\\Server\\Setup\\SqlServerName**. In the **Value** data box, type **\[BEName\]\\\[InstanceName\]**, and then click **OK**. If the instance name is the default instance, type **\[BEName\]**.
  
-        <table style="border:1px solid black;">
-        <colgroup>
-        <col width="100%" />
-        </colgroup>
-        <thead>
-        <tr class="header">
-        <th style="border:1px solid black;" ><img src="images/Dd939918.note(WS.10).gif" />メモ</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr class="odd">
-        <td style="border:1px solid black;">When typing [BEName], do not add the domain name before the name.
-        </td>
-        </tr>
-        </tbody>
-        </table>
+    <table style="border:1px solid black;">
+    <colgroup>
+    <col width="100%" />
+    </colgroup>
+    <thead>
+    <tr class="header">
+    <th style="border:1px solid black;" ><img src="images/Dd939918.note(WS.10).gif" />メモ</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr class="odd">
+    <td style="border:1px solid black;">When typing [BEName], do not add the domain name before the name.
+    </td>
+    </tr>
+    </tbody>
+    </table>
  
 
     3.  Find the following key: **HKLM\\Software\\Microsoft\\Update Services\\Server\\Setup\\wYukonInstalled**. In the **Value** box, type **0**, and then click **OK**. This indicates that Windows Internal Database is not used.
@@ -200,7 +200,7 @@ Back end server starting configuration:
     </table>
  
 
-    For more information about the databases that you can use with WSUS, see the following:
-    -   In this guide, see [データベースの管理](https://technet.microsoft.com/d99cdd74-fbf4-4706-b2a2-a58728beef22).
-    -   In [Deploying Microsoft Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=79983), see "Choose the Database Used for WSUS 3.0."
-    -   In [Deploying Microsoft Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=79983), see "Appendix B: Configure Remote SQL" for general information about how to set up WSUS by using a remote SQL server to host the WSUS database.
+For more information about the databases that you can use with WSUS, see the following:
+  -   In this guide, see [データベースの管理](https://technet.microsoft.com/d99cdd74-fbf4-4706-b2a2-a58728beef22).
+  -   In [Deploying Microsoft Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=79983), see "Choose the Database Used for WSUS 3.0."
+  -   In [Deploying Microsoft Windows Server Update Services](http://go.microsoft.com/fwlink/?linkid=79983), see "Appendix B: Configure Remote SQL" for general information about how to set up WSUS by using a remote SQL server to host the WSUS database.
