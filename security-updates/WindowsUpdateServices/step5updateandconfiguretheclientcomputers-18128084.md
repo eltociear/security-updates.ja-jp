@@ -88,7 +88,7 @@ The following policy setting prevents Automatic Updates from restarting the comp
 You have to wait for Group Policy to refresh for the settings to take effect. By default, Group Policy refreshes in the background every 90 minutes, with a random offset of 0 to 30 minutes. If you want to refresh Group Policy sooner, you can go to a command prompt on the client computer and type: **gpupdate /force**.
 
 > [!NOTE]
-> On client computers running Windows 2000, you can type the following at a command prompt:`secedit /refreshpolicy machine_policy /enforce` 
+> On client computers running Windows 2000, you can type the following at a command prompt: secedit /refreshpolicy machine_policy /enforce
 
 After Group Policy refreshes, it can take up to 20 minutes before client computers appear on the **Computers** page in the WSUS console. If you initiate detection manually, you do not have to wait 20 minutes for the client computer to contact WSUS.
 
