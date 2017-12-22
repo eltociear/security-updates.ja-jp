@@ -204,6 +204,7 @@ Exchange 2000 には迷惑メールに対する防御機能が組み込まれて
 **表 2.1 Exchange 2000 の管理役割**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -317,6 +318,7 @@ Exchange 2000 を使用して、メールボックス ストア、パブリッ�
 **表 2.2 Exchange 2000 を使用した混合型管理モデルの例**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
