@@ -25,10 +25,11 @@ Microsoft Data Encryption Toolkit for Mobile PCs は、不注意または単な�
 
 ##### トピック
 
-[](#e1c)[ビジネスのリスク](#e1c)
-[](#exe)[規制によるリスク](#exe)
-[](#elf)[Data Encryption Toolkit を用いてリスクの緩和に役立てる](#elf)
-[](#e6g)[次のステップ](#e6g)
+[](#e1c)[ビジネスのリスク](#e1c)  
+[](#exe)[規制によるリスク](#exe)  
+[](#elf)[Data Encryption Toolkit を用いてリスクの緩和に役立てる](#elf)  
+[](#e6g)[次のステップ](#e6g)  
+
 ビジネスのリスク
 ----------------
 
