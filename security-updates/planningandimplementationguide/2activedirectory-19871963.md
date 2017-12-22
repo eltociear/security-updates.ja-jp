@@ -19,17 +19,17 @@ Windows XP セキュリティ ガイド
 
 ##### トピック
 
-[](#elaa)[概要](#elaa)
-[](#ekaa)[セキュリティ管理をサポートする OU の設計](#ekaa)
-[](#ejaa)[セキュリティ管理をサポートする GPO の設計](#ejaa)
-[](#eiaa)[ドメイン レベルのグループ ポリシー](#eiaa)
-[](#ehaa)[パスワード ポリシーの設定](#ehaa)
-[](#egaa)[アカウント ロックアウト ポリシーの設定](#egaa)
-[](#efaa)[ユーザー権利の割り当ての設定](#efaa)
-[](#eeaa)[セキュリティ オプションの設定](#eeaa)
-[](#edaa)[Kerberos ポリシー](#edaa)
-[](#ecaa)[OU レベルのグループ ポリシー](#ecaa)
-[](#ebaa)[グループ ポリシー ツール](#ebaa)
+[](#elaa)[概要](#elaa)  
+[](#ekaa)[セキュリティ管理をサポートする OU の設計](#ekaa)  
+[](#ejaa)[セキュリティ管理をサポートする GPO の設計](#ejaa)  
+[](#eiaa)[ドメイン レベルのグループ ポリシー](#eiaa)  
+[](#ehaa)[パスワード ポリシーの設定](#ehaa)  
+[](#egaa)[アカウント ロックアウト ポリシーの設定](#egaa)  
+[](#efaa)[ユーザー権利の割り当ての設定](#efaa)  
+[](#eeaa)[セキュリティ オプションの設定](#eeaa)  
+[](#edaa)[Kerberos ポリシー](#edaa)  
+[](#ecaa)[OU レベルのグループ ポリシー](#ecaa)  
+[](#ebaa)[グループ ポリシー ツール](#ebaa)  
 [](#eaaa)[まとめ](#eaaa)
 
 ### 概要
@@ -548,18 +548,27 @@ Active Directory は定期的にグループ ポリシーを更新しますが�
   
 このツールを使用してローカル コンピュータを更新するには、コマンド プロンプトで次のコマンドを実行します。
   
-<codesnippet language displaylanguage containsmarkup="false">gpupdate /force  
-```  
+`gpupdate /force` 
+
+
 Gpupdate を実行すると、次の確認情報が表示されます。
   
-<codesnippet language displaylanguage containsmarkup="false">C:\\Documents and Settings\\administrator.MSSLAB&gt;gpupdate /force ポリシーを最新の情報に更新しています ...User ポリシーの更新が完了しました。 Computer ポリシーの更新が完了しました。 ポリシーの処理でエラーが発生していないかチェックするには、 イベントログを参照してください。 C:\\Documents and Settings\\administrator.MSSLAB&gt;  
-```  
+```
+C:\Documents and Settings\administrator.MSSLAB>gpupdate  
+/force ポリシーを最新の情報に更新しています
+...User ポリシーの更新が完了しました。
+Computer ポリシーの更新が完了しました。
+ポリシーの処理でエラーが発生していないかチェックするには、
+イベントログを参照してください。
+C:\Documents and Settings\administrator.MSSLAB>
+``` 
+
 ユーザーベースのグループ ポリシーの場合、ポリシーのテストに使用するコンピュータから一度ログオフしてから再度ログオンする必要があります。コンピュータのポリシーはただちに更新されます。
   
 Gpupdate で使用できる他のオプションを表示するには、コマンド プロンプトで次のコマンドを実行します。
   
-<codesnippet language displaylanguage containsmarkup="false">gpupdate /?  
-```  
+`gpupdate /? ` 
+ 
 #### ポリシーの結果セットを表示する
   
 Windows XP には、ユーザー環境のコンピュータに適用するポリシー、それらのポリシーの適用時期、および適用順位を確認するためのツールが 2 つ付属しています。

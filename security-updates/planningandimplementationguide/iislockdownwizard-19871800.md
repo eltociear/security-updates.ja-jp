@@ -16,6 +16,7 @@ IIS Lockdown Wizard 2.1 ツール
 **本ツールご使用にあたっての注意**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
