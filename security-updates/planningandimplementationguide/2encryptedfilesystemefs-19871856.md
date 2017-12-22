@@ -51,7 +51,7 @@ P2P によるファイル流出を防ぎたいのであれば、そもそも P2P
 
 -   [The Encrypting File System (英語情報)](https://technet.microsoft.com/ja-jp/library/8a1a6444-0740-4ac7-8dcd-0a27f3e28a89(v=TechNet.10))
 
-[![](images/Dd362911.btn_reg_today(ja-jp,TechNet.10).jpg)](https://technet.microsoft.com/ja-jp/library/d2607610-3137-420b-9bbf-2552bec68922(v=TechNet.10))
+[![](images/Dd362911.btn_reg_today(ja-jp,TechNet.10).jpg)](https://technet.microsoft.com/ja-jp/library/d2607610-3137-420b-9bbf-2552bec68922(v=TechNet.10))  
 この記事は、マイクロソフト セキュリティ ニュースレターで配信しました。
 
 [](#mainsection)[ページのトップへ](#mainsection)
