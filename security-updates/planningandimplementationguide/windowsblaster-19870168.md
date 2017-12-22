@@ -29,7 +29,7 @@ Blaster ワームは、[MS03-026](http://www.microsoft.com/japan/technet/securit
 </td>
 </tr>
 </table>
- 
+
 
 Q. Blaster ワームが利用しているのはどのような弱点ですか?
 --------------------------------------------------------
@@ -337,7 +337,6 @@ Active Directory 等による、修正プログラムの配布</li>
 </tr>
 </tbody>
 </table>
- 
 
 </td>
 </tr>
