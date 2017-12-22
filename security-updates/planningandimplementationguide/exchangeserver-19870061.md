@@ -10,7 +10,7 @@ Exchange Server
 ===============
 
 <p> </p>
-<table border="0" cellpadding="0" cellspacing="0">
+<table cellpadding="0" cellspacing="0" style="border:1px solid black;">
 <tbody>
 <tr>
 <td style="border:1px solid black;" colspan="5">

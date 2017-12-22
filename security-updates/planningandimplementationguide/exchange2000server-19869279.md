@@ -543,8 +543,8 @@ DNS の名前解決は、内部ネットワークでどの ISA クライアン�
   
 ROUTE ADD コマンドの構文は、以下のとおりです。
   
-<codesnippet language displaylanguage containsmarkup="false"> ROUTE ADD &lt;宛先ネットワーク ID&gt; MASK &lt;デフォルトゲートウェイの IP アドレス&gt;   
-```  
+`ROUTE ADD <宛先ネットワーク ID> MASK <デフォルトゲートウェイの IP アドレス>`
+
 [](#mainsection)[ページのトップへ](#mainsection)
   
 ### ISA Server の構成

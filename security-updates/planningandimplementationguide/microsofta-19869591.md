@@ -34,6 +34,7 @@ Microsoft 仮想プライベート ネットワークでの検疫サービスの
 **表 A.1:検疫スクリプトのサンプル**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -104,6 +105,7 @@ RQC の構文は次のとおりです。
 **表 A.2: RQC エージェント パラメータ**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
