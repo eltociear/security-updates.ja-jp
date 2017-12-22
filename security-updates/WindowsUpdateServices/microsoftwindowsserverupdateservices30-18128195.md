@@ -197,9 +197,8 @@ WSUS 3.0 セットアップを実行する前に、WSUS 3.0 サーバーがこ�
 </tbody>
 </table>
   
-| ![](images/Cc708491.note(WS.10).gif)注                                                                                                                                                                                                                                                                    |  
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| 以前に WSUS 2.0 をインストールし、SQL Server 2000 または SQL Server Desktop Engine 2000、または SQL Server 2005 SP 1 (Windows Server 2008 の場合は SQL Server 2005 SP2) 以前の SQL Server データベースを使用している場合は、WSUS 3.0 インストール プログラムは Windows® Internal Database をインストールし、データベースを移行します。 |
+>![!note]  
+>以前に WSUS 2.0 をインストールし、SQL Server 2000 または SQL Server Desktop Engine 2000、または SQL Server 2005 SP 1 (Windows Server 2008 の場合は SQL Server 2005 SP2) 以前の SQL Server データベースを使用している場合は、WSUS 3.0 インストール プログラムは Windows® Internal Database をインストールし、データベースを移行します。
   
 WSUS 3.0 サーバー インストールのディスク領域の最小要件  
 ------------------------------------------------------
@@ -210,9 +209,8 @@ WSUS 3.0 サーバー インストールのディスク領域の最小要件
 -   データベース ファイルの保存に 2 GB のボリューム  
 -   コンテンツの保存に 20 GB のボリューム
   
-| ![](images/Cc708491.Important(WS.10).gif)重要                                  |  
-|-------------------------------------------------------------------------------------------------------------|  
-| WSUS 3.0 は圧縮ドライブにインストールできません。選択したドライブが圧縮されていないことを確認してください。 |
+>[!important]  
+>WSUS 3.0 は圧縮ドライブにインストールできません。選択したドライブが圧縮されていないことを確認してください。
   
 WSUS 3.0 アップグレード要件  
 ---------------------------
@@ -365,9 +363,8 @@ WSUS コマンド ライン パラメータを使用すると、WSUS 3.0 の無�
 ```  
 WSUSSetup.exe /q DEFAULT\_WEBSITE=0 (install in quiet mode using port 8530) WSUSSetup.exe /q /u (uninstall WSUS)  
 ```  
-| ![](images/Cc708491.Important(WS.10).gif)重要                                                                                                                                   |  
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|  
-| WSUS 3.0 を QUIET モード (/q) でインストールし、コンピュータがすべての前提条件を満たしていない場合は、インストールによって WSUSPreReqCheck.xml というファイルが生成され、%TEMP% ディレクトリに保存されます。 |
+>[!Important]  
+>WSUS 3.0 を QUIET モード (/q) でインストールし、コンピュータがすべての前提条件を満たしていない場合は、インストールによって WSUSPreReqCheck.xml というファイルが生成され、%TEMP% ディレクトリに保存されます。
   
 セットアップの問題  
 ------------------
@@ -412,7 +409,13 @@ WSUS 2.0 をインストールした後、および WSUS 3.0 にアップグレ�
 *&lt;DBLocation&gt;* をデータベースがインストールされているフォルダと置き換えて、*&lt;ContentDirectory&gt;* をローカルの保存フォルダと置き換える必要があります。
   
 ```  
-sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "USE SUSDB DECLARE @asplogin varchar(200) SELECT @asplogin=name from sysusers WHERE name like '%ASPNET' EXEC sp\_revokedbaccess @asplogin" sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "USE SUSDB DECLARE @wsusadminslogin varchar(200) SELECT @wsusadminslogin=name from sysusers WHERE name like '%WSUS Administrators' EXEC sp\_revokedbaccess @wsusadminslogin"   sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "USE SUSDB DECLARE @asplogin varchar(200) SELECT @asplogin=HOST\_NAME()+'\\ASPNET' EXEC sp\_grantlogin @asplogin EXEC sp\_grantdbaccess @asplogin EXEC sp\_addrolemember webService,@asplogin" sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "USE SUSDB DECLARE @wsusadminslogin varchar(200) SELECT @wsusadminslogin=HOST\_NAME()+'\\WSUS Administrators' EXEC sp\_grantlogin @wsusadminslogin EXEC sp\_grantdbaccess @wsusadminslogin EXEC sp\_addrolemember webService,@wsusadminslogin"   sqlcmd.exe -S *&lt;DBLocation&gt;* -E -Q "backup database SUSDB to disk=N'*&lt;ContentDirectory&gt;*\\SUSDB.Dat' with init"  
+sqlcmd.exe -S <DBLocation> -E -Q "USE SUSDB DECLARE @asplogin varchar(200) SELECT @asplogin=name from sysusers WHERE name like '%ASPNET' EXEC sp_revokedbaccess @asplogin"
+sqlcmd.exe -S <DBLocation> -E -Q "USE SUSDB DECLARE @wsusadminslogin varchar(200) SELECT @wsusadminslogin=name from sysusers WHERE name like '%WSUS Administrators' EXEC sp_revokedbaccess @wsusadminslogin"
+ 
+sqlcmd.exe -S <DBLocation> -E -Q "USE SUSDB DECLARE @asplogin varchar(200) SELECT @asplogin=HOST_NAME()+'\ASPNET' EXEC sp_grantlogin @asplogin EXEC sp_grantdbaccess @asplogin EXEC sp_addrolemember webService,@asplogin"
+sqlcmd.exe -S <DBLocation> -E -Q "USE SUSDB DECLARE @wsusadminslogin varchar(200) SELECT @wsusadminslogin=HOST_NAME()+'\WSUS Administrators' EXEC sp_grantlogin @wsusadminslogin EXEC sp_grantdbaccess @wsusadminslogin EXEC sp_addrolemember webService,@wsusadminslogin"
+ 
+sqlcmd.exe -S <DBLocation> -E -Q "backup database SUSDB to disk=N'<ContentDirectory>\SUSDB.Dat' with init"
 ```
   
 #### セットアップにより、以前のデータベース バックアップが上書きされる

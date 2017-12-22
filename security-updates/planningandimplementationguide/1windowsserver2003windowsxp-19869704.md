@@ -23,7 +23,6 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Cc163028(v=TechNet.10)'
 
 -   [*Windows Server 2003* *セキュリティガイド*](http://technet.microsoft.com/ja-jp/library/cc163140.aspx)
 
--   
 -   [*Windows XP* *セキュリティガイド*](http://www.microsoft.com/japan/technet/security/prodtech/windowsxp/secwinxp/xpsgch01.mspx)
 
 このガイドに記載されている対策の多くは、関連するガイドの特定のコンピュータの役割を意図するものではなく、場合によっては何の役割も意図していません。これらの対策は、互換性、有用性、管理性、可用性、またはパフォーマンスを保証するのに役立ちます。

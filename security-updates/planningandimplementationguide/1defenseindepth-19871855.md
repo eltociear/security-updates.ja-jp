@@ -28,7 +28,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362910(v=TechNet.10)'
 さて、マイクロソフトでは、多層防御に関して、7 つの層を組み合わせる事を推奨しています。
 では、各層を外側から紹介します。
 
- 
+ <p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
