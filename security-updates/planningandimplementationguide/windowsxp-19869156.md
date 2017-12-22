@@ -41,7 +41,7 @@ Windows XP オペレーティング システムに搭載されているセキ�
 
 ### How-To 記事
 
--   [\[](http://www.microsoft.com/japan/technet/security/prodtech/windowsxp/depcnfxp.mspx)**[HOWTO\] Windows XP SP2 におけるメモリ保護の構成方法](http://www.microsoft.com/japan/technet/security/prodtech/windowsxp/depcnfxp.mspx)**
+-   **[\[ HOWTO\] Windows XP SP2 におけるメモリ保護の構成方法](http://www.microsoft.com/japan/technet/security/prodtech/windowsxp/depcnfxp.mspx)**
 -   **[\[HOWTO\] Active Directory 環境で Windows XP SP2 のネットワーク保護技術を構成する方法](http://www.microsoft.com/japan/technet/security/prodtech/windowsxp/adprtect.mspx)**
 -   **[\[HOWTO\] SMS を使用したパッチ管理の実行](http://www.microsoft.com/japan/technet/security/prodtech/sms/secmod199.mspx)**
 -   **[\[HOWTO\] SUS を使用したパッチ管理の実行](http://www.microsoft.com/japan/technet/security/prodtech/sus/secmod198.mspx)**

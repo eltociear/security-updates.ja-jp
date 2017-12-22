@@ -17,11 +17,11 @@ Microsoft Solutions for Security グループ (MSS) は、「*Microsoft® Window
 
 ##### トピック
 
-[](#efaa)[著者](#efaa)
-[](#eeaa)[テスター](#eeaa)
-[](#edaa)[編集者](#edaa)
-[](#ecaa)[レビュー担当者](#ecaa)
-[](#ebaa)[プログラム マネージャ](#ebaa)
+[](#efaa)[著者](#efaa)  
+[](#eeaa)[テスター](#eeaa)  
+[](#edaa)[編集者](#edaa)  
+[](#ecaa)[レビュー担当者](#ecaa)  
+[](#ebaa)[プログラム マネージャ](#ebaa)  
 [](#eaaa)[貢献者](#eaaa)
 
 ### 著者
