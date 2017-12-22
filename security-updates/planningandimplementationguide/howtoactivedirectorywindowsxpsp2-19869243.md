@@ -13,17 +13,17 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Cc700817(v=TechNet.10)'
 
 ##### トピック
 
-[](#ekaa)[はじめに](#ekaa)
-[](#ejaa)[開始する前に](#ejaa)
-[](#eiaa)[管理ワークステーションと Windows Small Business Server 2003 に修正プログラムを追加する](#eiaa)
-[](#ehaa)[既存のグループ ポリシー オブジェクトを更新する](#ehaa)
-[](#egaa)[セキュリティ センターの設定を構成する](#egaa)
-[](#efaa)[Windows ファイアウォールの設定を構成する](#efaa)
-[](#eeaa)[Internet Explorer のセキュリティ設定を構成する](#eeaa)
-[](#edaa)[インターネット通信の管理の設定を構成する](#edaa)
-[](#ecaa)[DCOM アクセス設定を構成する](#ecaa)
-[](#ebaa)[RPC の設定を構成する](#ebaa)
-[](#eaaa)[関連情報](#eaaa)
+[](#ekaa)[はじめに](#ekaa)  
+[](#ejaa)[開始する前に](#ejaa)  
+[](#eiaa)[管理ワークステーションと Windows Small Business Server 2003 に修正プログラムを追加する](#eiaa)  
+[](#ehaa)[既存のグループ ポリシー オブジェクトを更新する](#ehaa)  
+[](#egaa)[セキュリティ センターの設定を構成する](#egaa)    
+[](#efaa)[Windows ファイアウォールの設定を構成する](#efaa)  
+[](#eeaa)[Internet Explorer のセキュリティ設定を構成する](#eeaa)  
+[](#edaa)[インターネット通信の管理の設定を構成する](#edaa)  
+[](#ecaa)[DCOM アクセス設定を構成する](#ecaa)  
+[](#ebaa)[RPC の設定を構成する](#ebaa)  
+[](#eaaa)[関連情報](#eaaa)  
 
 ### はじめに
 
@@ -409,8 +409,7 @@ Windows ファイアウォールの設定の構成が完了したら、次に \[
     表 1 に、\[認証された IPSec のバイパスを許可する\] のオプションを示します。
 
     **表 1   エンタープライズ環境で使用する \[認証された IPSec のバイパスを許可する\] の設定**
-
- 
+    <p> </p>
     <table style="border:1px solid black;">
     <colgroup>
     <col width="33%" />
@@ -462,7 +461,7 @@ Windows ファイアウォールの設定の構成が完了したら、次に \[
   
     **表 2   エンタープライズ環境で使用する \[Windows ファイアウォール\] の推奨設定**
 
- 
+    <p> </p>
     <table style="border:1px solid black;">
     <colgroup>
     <col width="25%" />
@@ -823,8 +822,7 @@ Internet Explorer で URL 動作のセキュリティ管理を行うには、**\
 9.  表 3 を参考にして、Internet Explorer のセキュリティ設定を構成します。
   
     **表 3   Internet Explorer の \[セキュリティの機能\] の設定**
-
- 
+    <p> </p>   
     <table style="border:1px solid black;">
     <colgroup>
     <col width="25%" />
@@ -947,11 +945,9 @@ Internet Explorer で URL 動作のセキュリティ管理を行うには、**\
   
         または
   
-    -   表 5 を参考にして各セキュリティ ゾーンを個別に構成します。
-  
-        **表 4   \[インターネット コントロール パネル\] のセキュリティ ゾーン別設定**
-
- 
+    -   表 5 を参考にして各セキュリティ ゾーンを個別に構成します。  <br/><br/>
+          **表 4   \[インターネット コントロール パネル\] のセキュリティ ゾーン別設定**
+        <p> </p>
         <table style="border:1px solid black;">
         <colgroup>
         <col width="33%" />
@@ -998,10 +994,9 @@ Internet Explorer で URL 動作のセキュリティ管理を行うには、**\
         </tr>
         </tbody>
         </table>
-  
-        **表 5   \[インターネット コントロール パネル\] のセキュリティ ゾーン別設定**
 
- 
+        **表 5   \[インターネット コントロール パネル\] のセキュリティ ゾーン別設定**
+        <p> </p>
         <table style="border:1px solid black;">
         <colgroup>
         <col width="33%" />
@@ -1193,8 +1188,7 @@ Windows XP SP2 では、オンラインでのプリントの注文 (**オンラ�
 10. 各設定を個別に構成するには、**\[インターネット通信の設定\]** を展開し、表 6 を参考にして設定を構成します。
   
     **表 6   \[インターネット通信の設定\] の推奨設定**
-
- 
+    <p> </p>
     <table style="border:1px solid black;">
     <colgroup>
     <col width="33%" />
@@ -1338,7 +1332,6 @@ DCOM 要求があるたびに、コンピュータ全体のアクセス制御リ
   
 **表 7   既定の DCOM アクセス制御の制限**
 
- 
 <p> </p>
 <table style="border:1px solid black;">
 <colgroup>
