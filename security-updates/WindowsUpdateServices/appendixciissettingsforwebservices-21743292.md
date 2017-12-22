@@ -28,6 +28,7 @@ The following virtual directories (vroots) are created in IIS (in the Default We
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -42,9 +43,9 @@ The following virtual directories (vroots) are created in IIS (in the Default We
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;">ClientWebService</td>
-<td style="border:1px solid black;">Directory: %ProgramFiles%Update Services\WebServices\ClientWebService
-Application Pool: WsusPool
-Security: Anonymous Access Enabled
+<td style="border:1px solid black;">Directory: %ProgramFiles%Update Services\WebServices\ClientWebService<br/>
+Application Pool: WsusPool<br/>
+Security: Anonymous Access Enabled<br/>
 Execute Permissions: Scripts Only</td>
 </tr>
 <tr class="even">
@@ -146,24 +147,8 @@ You can use adsutil to find the paths for different Web services on your compute
 
 **W3SVC/***WebSiteID***/ROOT/SimpleAuthWebService**
 
- 
-<table style="border:1px solid black;">
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="border:1px solid black;" ><img src="images/Dd939903.note(WS.10).gif" />メモ</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="border:1px solid black;">If you have installed WSUS on the default Web site, <em>WebSiteID</em> will be 1, but if you have installed it on another Web site, <em>WebSiteID</em> will be a random number.
-</td>
-</tr>
-</tbody>
-</table>
- 
+> [!NOTE]  
+> If you have installed WSUS on the default Web site, <em>WebSiteID</em> will be 1, but if you have installed it on another Web site, <em>WebSiteID</em> will be a random number.
 
 Checking the properties of a Web service
 ----------------------------------------
@@ -192,6 +177,7 @@ The properties listed below are a partial list.
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -555,8 +541,8 @@ Compiled Templates&quot;</td>
 <tr class="odd">
 <td style="border:1px solid black;">WebSvcExtRestrictionList</td>
 <td style="border:1px solid black;">(LIST) (8 Items)
-&quot;0,*.dll&quot;
-&quot;0,*.exe&quot;&gt;
+&quot;0,&#42;.dll&quot;
+&quot;0,&#42;.exe&quot;&gt;
 &quot;0,&lt;windir&gt;\system32\inetsrv\asp.dll,0,ASP,Active Server Pages&quot;&gt;
 &quot;0,&lt;windir&gt;\system32\inetsrv\httpodbc.dll,0,HTTPODBC,Internet Data
 Connector&quot;
@@ -600,6 +586,7 @@ The properties listed below comprise a partial list.
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -669,6 +656,7 @@ Properties of the API Remoting Web service
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -790,6 +778,7 @@ Properties of the Client Web service
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -911,6 +900,7 @@ Properties of the Downstream Server Authentication Web service
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1032,6 +1022,7 @@ Properties of the Inventory Collection Web service
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1153,6 +1144,7 @@ Checking the properties of the Reporting Web service
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1274,6 +1266,7 @@ Properties of the Selfupdate Web service
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1347,6 +1340,7 @@ Properties of the Server Synchronization Web service
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -1468,6 +1462,7 @@ Properties of the Simple Authorization Web service
 ###  
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
