@@ -25,8 +25,8 @@ Data Encryption Toolkit for Mobile PCs : 計画および実装ガイド第 3 章
 
 ##### トピック
 
-[](#edae)[BitLocker ドライブ暗号化のシナリオ](#edae)
-[](#ecae)[暗号化ファイル システムのシナリオ](#ecae)
+[](#edae)[BitLocker ドライブ暗号化のシナリオ](#edae)   
+[](#ecae)[暗号化ファイル システムのシナリオ](#ecae)  
 [](#ebae)[関連情報](#ebae)
 
 ### BitLocker ドライブ暗号化のシナリオ

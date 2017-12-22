@@ -98,6 +98,7 @@ OWA を使用すると、インターネットに接続されたほぼすべて�
 欠点は機能が限定されていることです。電子メールへのオフラインアクセスはサポートされておらず、予定表のサポートも限定されています。次の表は、Outlook Web Access 2000 の利点と欠点をいくつか示したものです。この表は、OWA が Exchange 2000 SP2 以降で実行され、Internet Explorer 5 以降からアクセスされていることを前提としています。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -220,6 +221,7 @@ SMTP 仮想サーバーは組織からのメールの流れる方向を定義し
 SMTP 仮想サーバーの構成可能情報には 4 つのタブがあります。最も慎重に考慮する必要がある設定、および ISA Server コンピュータの背後で Exchange Server を公開することについて最大の危険を伴う設定に重点を置いてください。以下の表は、Exchange 2000 Server の SMTP 仮想サーバーを構成するときに再確認すべき主なプロパティ設定を定義しています。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -450,6 +452,7 @@ ISA Server にインストールされた Exchange サービスの公開を成�
 DNS の名前解決は、内部ネットワークでどの ISA クライアントを利用するか選択するときに主に考慮すべき項目です。以下の表は、各 ISA クライアントで DNS 名前解決がどのように実行されるかを簡単に説明しています。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -510,6 +513,7 @@ DNS の名前解決は、内部ネットワークでどの ISA クライアン�
 次の表は、正しいルーティングを行うために、ネットワークトポロジに基づくデフォルトゲートウェイを構成する方法を示しています。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />

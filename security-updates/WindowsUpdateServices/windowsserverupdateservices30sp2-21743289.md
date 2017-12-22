@@ -56,22 +56,8 @@ WSUS 3.0 SP2 サーバー インストールのシステム要件
     -   Windows Server 2008 R2
     -   Windows Server 2008 SP1 以降のバージョン
  
-        <table style="border:1px solid black;">
-        <colgroup>
-        <col width="100%" />
-        </colgroup>
-        <thead>
-        <tr class="header">
-        <th style="border:1px solid black;" ><img src="images/Dd939886.Warning(WS.10).gif" />警告</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr class="odd">
-        <td style="border:1px solid black;">Windows Server 2008 R2 へのアップグレード前に WSUS 3.0 SP2 を Windows Server 2008 にインストール済みである場合は、Windows Server 2008 R2 へのアップグレードは失敗します。 詳細については、「<a href="#bkmk_knownissues">既知の問題</a>」セクションを参照してください。
-        </td>
-        </tr>
-        </tbody>
-        </table>
+      >[!WARNING]
+      >Windows Server 2008 R2 へのアップグレード前に WSUS 3.0 SP2 を Windows Server 2008 にインストール済みである場合は、Windows Server 2008 R2 へのアップグレードは失敗します。 詳細については、「既知の問題」セクションを参照してください。
  
 
     -   Windows Server 2003 SP1 以降のバージョン
@@ -90,25 +76,9 @@ WSUS 3.0 SP2 サーバー インストールのシステム要件
 -   Microsoft 管理コンソール 3.0
 -   Microsoft Report Viewer 再頒布可能パッケージ 2008
 
- 
-<table style="border:1px solid black;">
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="border:1px solid black;" ><img src="images/Dd939886.Important(WS.10).gif" />重要</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="border:1px solid black;">Windows Server 2008 R2 では WSUS 3.0 SP2 が必要です。Windows Server 2008 R2 をインストールする場合は、WSUS 3.0 SP2 をインストールする必要があります。Windows Server 2008 R2 に WSUS 3.0 SP1 をインストールしないでください。
-
-リモート SQL 構成のフロントエンド サーバー上のターミナル サービスでの WSUS 3.0 SP2 の使用は、サポートされていません。
-</td>
-</tr>
-</tbody>
-</table>
+>[!Important]   
+>Windows Server 2008 R2 では WSUS 3.0 SP2 が必要です。Windows Server 2008 R2 をインストールする場合は、WSUS 3.0 SP2 をインストールする必要があります。Windows Server 2008 R2 に WSUS 3.0 SP1 をインストールしないでください。
+リモート SQL 構成のフロントエンド サーバー上のターミナル サービスでの WSUS 3.0 SP2 の使用は、サポートされていません。
  
 
 ### WSUS 管理コンソール ソフトウェアの前提条件
@@ -155,25 +125,9 @@ WSUS 3.0 SP2 では、プロキシ サーバーでサポートできるのは HT
 
 WSUS 3.0 SP2 をインストールするとき、ウイルス対策プログラムを無効にしないとインストールを正常に実行できない場合があります。 ウイルス対策ソフトウェアを無効にし、コンピュータを再起動してから WSUS をインストールしてください。 コンピュータを再起動することにより、インストール プロセスでアクセスするファイルがロックされるのを防ぎます。 インストールの完了後、再びウイルス対策ソフトウェアを有効にしてください。 ウイルス対策ソフトウェアとバージョンを無効にしてから再び有効にする方法については、ウイルス対策ソフトウェアのベンダの Web サイトを参照してください。
 
- 
-<table style="border:1px solid black;">
-<colgroup>
-<col width="100%" />
-</colgroup>
-<thead>
-<tr class="header">
-<th style="border:1px solid black;" ><img src="images/Dd939886.Caution(WS.10).gif" />注意</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="border:1px solid black;">この回避策によって、コンピュータやネットワークが悪意のあるユーザーや、ウイルスなどの悪意のあるソフトウェアの攻撃を受けやすくなる可能性があります。 したがって、この回避策を推奨できませんが、ユーザーの判断でこの方法を採用できるように情報を提供しています。 この回避策は各自の責任で使用してください。
-
+>[!Caution] 
+>この回避策によって、コンピュータやネットワークが悪意のあるユーザーや、ウイルスなどの悪意のあるソフトウェアの攻撃を受けやすくなる可能性があります。 したがって、この回避策を推奨できませんが、ユーザーの判断でこの方法を採用できるように情報を提供しています。 この回避策は各自の責任で使用してください。
 ウイルス対策ソフトウェアは、コンピュータをウイルスから保護するのが目的です。 ウイルス対策プログラムが無効のときに、信頼していない発行元からのファイルをダウンロードしたり開いたりしないでください。同様に、信頼していない Web サイトにアクセスしたり、電子メールの添付ファイルを開いたりしないでください。
-</td>
-</tr>
-</tbody>
-</table>
  
 
 ### SQL Server でのトリガのネスト オプション
@@ -271,8 +225,6 @@ WSUS の以前のバージョンから WSUS 3.0 SP2 にアップグレードし�
 WSUS 2.0 をインストールした後、および WSUS 3.0 SP2 にアップグレードする前にコンピュータ名を変更した場合、アップグレードが失敗する場合があります。
 
 次のスクリプトを使用して、ASPNET Administrators および WSUS Administrators グループの削除と再追加を行ってください。 次に、アップグレードを再度実行してください。
-
-        ```
 
 ### WSUS 2.0 上で MSDE から SQL Server 2008 または SQL Server 2005 に移行した場合、レジストリ値の変更が必要
 

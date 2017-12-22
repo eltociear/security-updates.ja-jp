@@ -43,14 +43,14 @@ Internet Explorer 7 (IE7) では、マルウェアがブラウザを通じてパ
 
     保護モードが、効果的な場合もあれば、非効果的な場合があります。保護モードの効果を最大限に生かすためにも、ユーザー自身も「このファイルは大丈夫かな？」というちょっとした警戒心を持つことと、ウイルス対策ソフト、およびスパイウェア対策ソフトを併用する事で、安全な PC 環境が実現されます。
 
-[![](images/Dd362929.btn_reg_today(ja-jp,TechNet.10).jpg)](https://technet.microsoft.com/ja-jp/library/d2607610-3137-420b-9bbf-2552bec68922(v=TechNet.10))
-この記事は、マイクロソフト セキュリティ ニュースレターで配信しました。
+[![](images/Dd362929.btn_reg_today(ja-jp,TechNet.10).jpg)](https://technet.microsoft.com/ja-jp/library/d2607610-3137-420b-9bbf-2552bec68922(v=TechNet.10))  
+この記事は、マイクロソフト セキュリティ ニュースレターで配信しました。 
 
 [](#mainsection)[ページのトップへ](#mainsection)
 
 ##### 購読無料
 
-![](images/Dd362929.subscribe(ja-jp,TechNet.10).gif)
+![](images/Dd362929.subscribe(ja-jp,TechNet.10).gif) 
 
 [セキュリティ ニュースレター](http://www.microsoft.com/japan/technet/security/secnews/default.mspx)では、セキュリティに関する様々な情報を毎月お届けしています。
 セキュリティ ニュースレターを[購読する](https://technet.microsoft.com/ja-jp/library/d2607610-3137-420b-9bbf-2552bec68922(v=TechNet.10))。

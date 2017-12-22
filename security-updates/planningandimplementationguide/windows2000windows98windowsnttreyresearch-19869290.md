@@ -119,7 +119,7 @@ SRMD の目標は、リスクを定量化し、組織の制御範囲内にある
 
 **表 2.1: Trey のコンピュータの役割**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -251,7 +251,7 @@ Trey の IT エンジニアは、ネットワーク上に存在する役割お�
   
 **表 2.2: 物理的なセキュリティの脅威および軽減対策**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -307,7 +307,7 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
   
 **表 2.3: サービス拒否の脅威および軽減対策**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -384,7 +384,7 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
   
 **表 2.4: 悪意のあるコードの脅威および軽減対策**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -433,7 +433,7 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
   
 **表 2.5: 情報の漏えいの脅威および軽減対策**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -489,7 +489,7 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
   
 **表 2.6: アカウント侵害の脅威および軽減対策**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />

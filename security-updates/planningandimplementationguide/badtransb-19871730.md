@@ -32,16 +32,16 @@ BadTrans.B ワームに関する情報
 
 また、以下の Web サイトにて本ワームに関する情報が公開されておりますので併せてご参照ください。
 
--   IPA
+-   IPA  
     <http://www.ipa.go.jp/security/topics/newvirus/badtrans-b.html>![](images/Dd362784.leave-ms(ja-jp,TechNet.10).gif)
 
--   株式会社シマンテック
+-   株式会社シマンテック  
     <http://www.symantec.com/region/jp/sarcj/data/w/w32.badtrans.b@mm.html>![](images/Dd362784.leave-ms(ja-jp,TechNet.10).gif)
 
--   トレンドマイクロ株式会社 バッドトランスB対策Web
+-   トレンドマイクロ株式会社 バッドトランスB対策Web  
     [http://www.trendmicro.co.jp/vinfo/virusencyclo/default5.asp?VName=WORM\_BADTRANS.B](http://www.trendmicro.co.jp/vinfo/virusencyclo/default5.asp?vname=worm_badtrans.b)![](images/Dd362784.leave-ms(ja-jp,TechNet.10).gif)
 
--   マカフィー株式会社
+-   マカフィー株式会社  
     [http://www.mcafee.com/japan/security/virB2001.asp?v=W32/Badtrans@MM](http://www.mcafee.com/japan/security/virb2001.asp?v=w32/badtrans@mm)![](images/Dd362784.leave-ms(ja-jp,TechNet.10).gif)
 
 本ワームへの対策に関する情報を以下に記載いたします。
@@ -76,17 +76,17 @@ Internet Explorer の Web ブラウザコントロールを利用している以
 
 企業において大規模インストールを実施する場合、インストール後の設定 (Proxy 情報、ホームページの設定等) も含めて展開をすることが可能な Internet Explorer 管理者キット の利用をお勧めします。展開におけるコスト削減、効率化に役立ちます。
 
--   Internet Explorer 管理者キット
+-   Internet Explorer 管理者キット  
     <http://www.microsoft.com/japan/ieak/>
 
--   Internet Explorer を複数の PC に効率的に展開するためのガイド
+-   Internet Explorer を複数の PC に効率的に展開するためのガイド  
     <http://technet.microsoft.com/library/cc709377.aspx>
 
 ### Internet Explorer ダウンロード対応プロバイダからダウンロードする
 
 Internet Explorer をより高速にダウンロードすることが可能なプロバイダをご紹介します。対応プロバイダに関しては下記のページで紹介していますのでご確認ください。
 
--   Internet Explorer ダウンロード対応 ISP 一覧
+-   Internet Explorer ダウンロード対応 ISP 一覧  
     http://www.microsoft.com/japan/ie/downloads/isp/
 
 ### マイクロソフトのサイトからダウンロードする
@@ -99,7 +99,7 @@ Internet Explorer をより高速にダウンロードすることが可能な�
 
 -   Internet Explorer 6
 
-最新バージョンの Internet Explorer は次の Web サイトから入手できます。
+最新バージョンの Internet Explorer は次の Web サイトから入手できます。  
 <http://www.microsoft.com/japan/windows/downloads/default.mspx>
 
 **重要 :** IE 6 をセットアップする場合は、必ず Outlook Express を含む標準構成以上でセットアップしてください。

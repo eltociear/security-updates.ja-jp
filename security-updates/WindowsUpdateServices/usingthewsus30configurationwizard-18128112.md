@@ -59,9 +59,8 @@ Specify the proxy server
 
 3.  At this point you are finished with proxy server configuration. Click **Next** to go to the **Connect to Upstream Server** page.
 
-| ![](images/Cc720475.Important(WS.10).gif)重要     |
-|--------------------------------------------------------------------------------|
-| The proxy server should be configured to accept both HTTP and HTTPS resources. |
+>[!Important]
+>The proxy server should be configured to accept both HTTP and HTTPS resources. |
 
 <span id="BKMK_connectupstream"></span>
 Connect to the upstream server
