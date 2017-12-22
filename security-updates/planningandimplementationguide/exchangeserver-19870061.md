@@ -9,6 +9,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362365(v=MSDN.10)'
 Exchange Server
 ===============
 
+<p> </p>
 <table border="0" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
