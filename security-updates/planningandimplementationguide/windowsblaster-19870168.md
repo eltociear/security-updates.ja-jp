@@ -151,7 +151,7 @@ Q. マイクロソフトはセキュリティ問題について何か告知活�
 <td style="border:1px solid black;" rowspan="2" valign="top" width="98%">
 はい。マイクロソフトは 7 月に入り、いくつかの緊急対応をご検討いただきたいセキュリティ修正プログラムを公開させていただきました。お客様に緊急レベルの修正プログラムの意味と、適用を行っていただくお願いのために以下の情報を 7 月に公開し、マイクロソフト製品の登録ユーザーおよび各種ニュースレター購読ユーザーに、このことをお知らせするメールを配信いたしました。
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -294,7 +294,7 @@ Q. 修正プログラムを社内のコンピュータに配布する方法を�
 **A.**
 </td>
 <td style="border:1px solid black;" rowspan="2" valign="top" width="98%">
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -304,7 +304,7 @@ Q. 修正プログラムを社内のコンピュータに配布する方法を�
 <tr class="odd">
 <td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">セキュリティ修正プログラムは、配布の範囲が社内である場合自由に配布可能です。配布の方法は数多くあります。
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -371,7 +371,7 @@ Q. ISA Server でこのウイルスから保護することはできますか?
 はい。ISA Server によって、Blaster ワームの外部からの攻撃を防ぐことができます。  
 設定方法など詳細については、次のサイトをご参照ください。
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />

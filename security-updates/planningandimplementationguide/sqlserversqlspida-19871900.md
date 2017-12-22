@@ -249,6 +249,7 @@ osql コマンドは、デフォルトでは以下の場所にインストール
 オプションの説明 :
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -275,6 +276,9 @@ osql コマンドは、デフォルトでは以下の場所にインストール
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
  
 
 osql コマンドおよび SQL Server の詳細につきましては、SQL Server に付属する Books Online、ヘルプ、製品マニュアルをご参照ください。

@@ -9,6 +9,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362371(v=MSDN.10)'
 SQL Server
 ==========
 
+<p></p>
 <table border="0" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
@@ -28,6 +29,9 @@ SQL Server
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
  
 
 ------------------------------------------------------------------------

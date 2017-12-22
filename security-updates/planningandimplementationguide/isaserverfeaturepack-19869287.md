@@ -43,55 +43,53 @@ ISA Server Feature Pack 1 のドキュメントには、お客様のニーズや
 
 -   [Exchange 2000 Server の公開](https://technet.microsoft.com/ja-jp/library/c3ed9e14-fb54-4424-a017-07f7ee6d9d3b(v=TechNet.10))
 
--   
+
 -   [IP パケット フィルタの使用](https://technet.microsoft.com/ja-jp/library/822bd148-6689-470a-9baf-a0f8cb8010fe(v=TechNet.10))
 
--   
+
 -   [ISA Server および公開されているサーバーのデジタル証明書](https://technet.microsoft.com/ja-jp/library/444fd7e6-5b5e-44f0-a06e-edbafc33a82a(v=TechNet.10))
 
--   
+
 -   [ISA Server クライアントの種類](https://technet.microsoft.com/ja-jp/library/daaa0e95-338b-466c-8118-9d0fdb3ecbfb(v=TechNet.10))
 
--   
+
 -   [ISA Server で Exchange を公開する場合のトラブル シューティング](https://technet.microsoft.com/ja-jp/library/baba010d-9111-46f8-9f08-4f74afcdfc64(v=TechNet.10))
 
--   
+
 -   [ISA Server での Web 公開に関するトラブル シューティング](https://technet.microsoft.com/ja-jp/library/e43e2222-e4fb-4e37-a5b9-61a983d28674(v=TechNet.10))
 
--   
+
 -   [ISA サーバー上の Web サーバーの公開](https://technet.microsoft.com/ja-jp/library/bc59113d-fc75-4793-aec4-c635ab0ba2ad(v=TechNet.10))
 
--   
+
 -   [Microsoft ISA Server による MAPI クライアントと Exchange メールの接続](https://technet.microsoft.com/ja-jp/library/66d2bcdc-7451-423c-a5a8-357fa5f8916b(v=TechNet.10))
 
--   
+
 -   [Microsoft ISA Server を使用した POP および IMAP サービスの公開](https://technet.microsoft.com/ja-jp/library/ca60edf3-41dc-44e6-b877-a90800c59618(v=TechNet.10))
 
--   
+
 -   [Outlook Web Access サーバー公開のシナリオ](https://technet.microsoft.com/ja-jp/library/0dfd23ca-1fc3-4581-9c60-6fee28e901cc(v=TechNet.10))
 
--   
+
 -   [SMTP Filter を使用した SMTP トラフィックのフィルタ処理](https://technet.microsoft.com/ja-jp/library/a43231fa-a773-49ae-be97-d03857dd6f34(v=TechNet.10))
 
--   
+
 -   [SSL ブリッジとトンネリング](https://technet.microsoft.com/ja-jp/library/71e5fa4b-e4f0-4032-a459-447014ec5567(v=TechNet.10))
 
--   
+
 -   [Web サーバーを公開するときのリンク変換の使用](https://technet.microsoft.com/ja-jp/library/778bef2c-3e0f-4fc7-ad66-63d0b73900dd(v=TechNet.10))
 
--   
+
 -   [Web フィルタを使用した RSA SecurID の認証](https://technet.microsoft.com/ja-jp/library/58273446-6a00-4aae-8c69-eead60686e9e(v=TechNet.10))
 
--   
+
 -   [境界領域のネットワークでの Web サーバーの公開](https://technet.microsoft.com/ja-jp/library/3b975fb5-cdec-4389-9460-13fe6177c60d(v=TechNet.10))
 
--   
+
 -   [内部 Web サーバーの公開](https://technet.microsoft.com/ja-jp/library/ec702d50-f1a5-4c2a-b0b1-63d5bfbabab9(v=TechNet.10))
 
--   
--   [並列境界領域のネットワークでの Web サーバーの公開](https://technet.microsoft.com/ja-jp/library/60a74e10-0ce6-44d6-b4b6-53a17588aa85(v=TechNet.10))
 
--   
+-   [並列境界領域のネットワークでの Web サーバーの公開](https://technet.microsoft.com/ja-jp/library/60a74e10-0ce6-44d6-b4b6-53a17588aa85(v=TechNet.10))
 
 © 2002 Microsoft Corporation
 

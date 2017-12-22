@@ -29,16 +29,16 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Cc751217(v=TechNet.10)'
 
 -   Microsoft Active Directory ディレクトリ サービスのドメイン コントローラ
 
--   
+
 -   DHCP (Dynamic Host Configuration Protocol) と WINS (Windows Internet Naming Services) サービスを提供するインフラストラクチャ サーバー
 
--   
+
 -   ファイル サーバーとプリント サーバー
 
--   
+
 -   IIS (Internet Information Services)
 
--   
+
 
 このような環境の各サーバーでは、一連のアプリケーション サービスを提供しており、このサービスの指示により、最大限の可用性と信頼性を保証するうえでサービスに適用が必要な、補完的セキュリティ設定を定めています。このようなセキュリティ設定を適用することによって、サーバーからアクセス可能なデータの保護が保証されます。
 
@@ -86,16 +86,17 @@ Contoso 社の Active Directory 内における GPO の場所は次の図に示�
 
 -   ローカル ログオン
 
--   
+
 -   システムのシャットダウン
 
--   
+
 
 これらの権利の推奨設定を次の表に示します。
 
 **表 7.1 ドメイン コントローラ ベースライン ポリシーのユーザー権利設定**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -125,6 +126,9 @@ Server Operators</td>
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
   
 **ローカル ログオン**
   
@@ -181,6 +185,7 @@ Contoso 社のドメイン コントローラでは、Administrators と Server 
 **表 7.2 ドメイン コントローラ ベースライン ポリシーのセキュリティ オプション設定**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -232,6 +237,9 @@ Contoso 社のドメイン コントローラでは、Administrators と Server 
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
   
 表 7.2 に示したセキュリティ オプションにはさらに説明を加えた方が良いものがあります。以下に、Contoso 社向けシナリオに合わせたドメイン コントローラに実装した設定の背景となる事柄を説明します。
   
@@ -241,16 +249,16 @@ Contoso 社のドメイン コントローラでは、Administrators と Server 
   
 -   フォレスト間の信頼関係
   
--     
+
 -   Windows NT 4.0 ドメインとの信頼関係
   
--     
+
 -   ドメイン ユーザー アカウントのグループ メンバシップを参照するための Windows NT 4.0 RRAS (Routing and Remote Access Services) サーバー
   
--     
+
 -   ドメイン ログオンのためにセキュリティで保護された接続を有する Windows 98 SE と Windows NT 4.0 クライアント
   
--   
+
   
 **サーバー オペレータによるタスクのスケジュールを許可 (ドメイン コントローラのみ)**
   
@@ -312,13 +320,13 @@ Windows ドメイン クライアントで、ログオンのキャッシュを�
   
 -   すべての Windows 9*x* クライアントがドメインから削除されている。
   
--     
+
 -   (信頼関係にあるドメインまたは信頼しているドメインの) すべての Windows NT 4.0 クライアント、サーバー、およびドメイン コントローラが SP6a にアップグレードされている。
   
--     
+
 -   すべての Windows クライアントが、「セキュリティで保護されているチャネル： 可能ならデジタル暗号化でデジタル保護されているチャネル データ」または、「セキュリティで保護されているチャネル：可能ならデジタル暗号化でデジタル保護されているチャネル データ」を有効にする構成となっています。これらの設定のいずれかまたは両方をドメイン コントローラで有効にする必要があります。
   
--   
+
   
 **システム サービス**
   
@@ -327,6 +335,7 @@ Windows ドメイン クライアントで、ログオンのキャッシュを�
 **表 7.3 ベースライン ポリシーで必須のドメイン コントローラ サービス**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -368,12 +377,16 @@ Windows ドメイン クライアントで、ログオンのキャッシュを�
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
   
 この他にも Windows 2000 ドメイン コントローラで一般的に有効にするサービスがありますが、すべての組織で必須ではありません。これらのサービス向けに推奨される設定は、Contoso 社向けシナリオには適していますが、議論の対象となることが多く、検討中の環境には適用可能ではない場合があります。
   
 **表 7.4 ドメイン コントローラ サービスの追加検討項目**
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -410,6 +423,9 @@ Windows ドメイン クライアントで、ログオンのキャッシュを�
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
   
 **注 :** Windows 2000 サポート ツールから DCDiag.exe ユーティリティを作動すると、現在の環境のドメイン コントローラから作動できる全サービスをチェックします。IISADMIN、SMTPSVC、および TrkSvr を始め、ドメイン コントローラ ベースライン ポリシーで無効になっているサービスがあるため、DCDiag.exe はエラーを報告します。これは既に分かっていることなので、現在の構成では問題ありません。
   
@@ -499,7 +515,7 @@ NTLM SSPI を使用すると、RPC アプリケーションは NTLMv2 認証プ�
   
 -   [147706](http://support.microsoft.com/kb/147706) 「Windows NT 上の LM 認証を無効にする方法」
   
--     
+
 -   [239869](http://support.microsoft.com/kb/239869) 「Windows 95/98/2000 および NT で NTLM-2 認証を有効にする方法」
   
 **予想される影響**
@@ -578,9 +594,7 @@ MSBP で推奨されているレジストリ ACL (Access Control List) を超え
   
 2.  **cacls e:\\ /t /g administrators:F system:F "creator/owner":F** というコマンドを入力します。
   
-3.  4.  先へ進むためにプロンプトで **Y** と入力します。
-  
-5.  
+3.  先へ進むためにプロンプトで **Y** と入力します。
   
 #### セキュリティ設定の追加 — ディレクトリ サービス
   
@@ -626,10 +640,10 @@ Active Directory ドメイン コントローラのインストール中に、**
   
     **注 :** 以前にファイル アクセス コントロール リスト (ACL) の ACL を設定した場合、この作業は必要ありません。より高度なセキュリティで保護された ACL がルート フォルダ アクセス許可から伝播されるためです。
   
--     
+
 -   コンピュータの再起動構成を保護する boot.ini ファイルの ACL を変更することによって、攻撃者がディレクトリ サービスの復元モードを既定の再起動選択としてサーバーを再起動することを防ぎます。
   
--   
+
   
 **予想される影響**
   
@@ -647,31 +661,29 @@ Contoso 社環境では、データベースとログはインストール プ�
   
 1.  **Dcpromo.exe** を起動し、**\[データベースとログの場所\]** ダイアログ ボックスで望ましい構成を設定します。
   
-2.  3.  データベースの場所の変更先 (たとえば **D:\\NTDS**)、およびログの場所の変更先 (たとえば **E:\\NTDSLogs**) を入力します。
+2.  データベースの場所の変更先 (たとえば **D:\\NTDS**)、およびログの場所の変更先 (たとえば **E:\\NTDSLogs**) を入力します。
   
-4.  5.  DCPROMO の残りの手順に進みます。
+3.  DCPROMO の残りの手順に進みます。
   
 **既存のドメイン コントローラにあるデータベースとログを移動する方法**
   
 1.  **ドメイン コントローラ**を再起動します。
   
-2.  3.  **\[スタートアップ\]** メニューで **\[F8\]** を押し、**\[ディレクトリ サービス復元モード\]** をクリックして、表示されたプロンプトで管理者としてログオンします。
+2.  **\[スタートアップ\]** メニューで **\[F8\]** を押し、**\[ディレクトリ サービス復元モード\]** をクリックして、表示されたプロンプトで管理者としてログオンします。
   
-4.  5.  **ntdsutil.exe** ユーティリティを起動し、**ntdsutil** プロンプトで **files** と入力します。
+3.  **ntdsutil.exe** ユーティリティを起動し、**ntdsutil** プロンプトで **files** と入力します。
   
-6.  7.  **File Maintenance** プロンプトで、次のいずれかまたは両方の手順を実行します。
+4.  **File Maintenance** プロンプトで、次のいずれかまたは両方の手順を実行します。
   
     1.  データベースを移すために、**move db to %s** (ここで **%s** は、データベースの移動先のドライブとフォルダを示します) と入力します。
   
-    2.  3.  ログ ファイルを移すために、**move logs to %s** (ここで **%s** は、ログ ファイルの移動先のドライブとフォルダを示します) と入力します。
+    2.  ログ ファイルを移すために、**move logs to %s** (ここで **%s** は、ログ ファイルの移動先のドライブとフォルダを示します) と入力します。
   
-8.  9.  ログ ファイルまたはデータベースを表示するには、**info** と入力し、新しい場所でデータベースの整合性を確認するには、**integrity** と入力します。
+5.  ログ ファイルまたはデータベースを表示するには、**info** と入力し、新しい場所でデータベースの整合性を確認するには、**integrity** と入力します。
   
-10. **quit** と入力し、再び **quit** と入力してコマンド プロンプトに戻ります。
+6. **quit** と入力し、再び **quit** と入力してコマンド プロンプトに戻ります。
   
-11. 12. **通常** モードでシステムを再起動します。
-  
-13. 
+7. **通常** モードでシステムを再起動します。
   
 **注 :** 処理が正常に終了したドメイン コントローラの場合は、既定で Ntds フォルダ構造に **Administrators** および **SYSTEM = Full Control** アクセス許可が割り当てられます。これらのファイルにこれ以上のロックダウンを行わないことをお勧めします。
   
@@ -699,14 +711,14 @@ Active Directory に匿名アクセスが必要なアプリケーションは、
   
 -   Windows NT 4.0 のバックアップ ドメイン コントローラ (BDC) で動作する RAS (Remote Access Service)。
   
--     
+
 -   Windows NT 4.0 サーバーで動作する RRAS (Routing and Remote Access Service)。
   
 -   ユーザーのグループ メンバシップをバッチ モードで解決する Microsoft SQL Server 2000
   
     **注 :** Active Directory のメンバ サーバーで動作する SQL Server 2000 は、Everyone グループを追加するのではなく、Windows 2000 以前の互換アクセス グループにメンバ サーバーのコンピュータ アカウントを設定することで必要とするアクセスを得ることができます。
   
--     
+
 -   信頼関係があるドメインからユーザーとグループ リストを表示する手順 — これができなければ、グループ名を手動で入力する必要があります。
   
 **Contoso 社のシナリオ**
@@ -717,18 +729,24 @@ Contoso 社のシナリオでは、次の手順に従って、各ドメインの
   
 1.  グループを削除するドメインのドメイン コントローラでコマンド プロンプトを起動します。
   
-2.  3.  **net localgroup "Pre-Windows 2000 Compatible Access" Everyone /DELETE** というコマンドを入力します。
+2.  **net localgroup "Pre-Windows 2000 Compatible Access" Everyone /DELETE** というコマンドを入力します。
   
-4.  5.  現時点でグループが空であることを確認するために **net localgroup "Pre-Windows 2000 Compatible Access"** というコマンドを入力します。
+3.  現時点でグループが空であることを確認するために **net localgroup "Pre-Windows 2000 Compatible Access"** というコマンドを入力します。
   
     結果は次のようになります。
   
-    <codesnippet language displaylanguage containsmarkup="false"> C:\\&gt;net localgroup "pre-windows 2000 compatible access" Alias name pre-windows 2000 compatible access Comment A backward compatibility group which allows read access on all users and groups in the domain Members -------------------------------------------------------------------- ----------- The command completed successfully.   
+```  
+    C:\>net localgroup "pre-windows 2000 compatible access"
+Alias name     pre-windows 2000 compatible access
+Comment        A backward compatibility group which allows read
+access on all users and groups in the domain
+Members
+--------------------------------------------------------------------
+-----------
+The command completed successfully.   
 ```
   
-6.  7.  この設定を有効にするために、ドメイン内の全ドメイン コントローラを再起動します。
-  
-8.  
+4.  この設定を有効にするために、ドメイン内の全ドメイン コントローラを再起動します。
   
 **ドメインにワークステーションを追加する権利を削除**
   
@@ -774,19 +792,17 @@ Authenticated Users グループは、以下の手順に従う MSS DCBaseline Ro
   
 1.  既定のドメイン コントローラ ポリシー GPO を編集する許可を持つユーザーとして **\[Active Directory ユーザーとコンピュータ\]** を開始します。
   
-2.  3.  **\[ドメイン コントローラ\]** OU を右クリックし、**\[プロパティ\]** を選択します。
+2.  **\[ドメイン コントローラ\]** OU を右クリックし、**\[プロパティ\]** を選択します。
   
-4.  5.  **\[グループ ポリシー\]** タブを選択し、**\[Default Domain Controllers Policy GPO\]** をクリックし、次に **\[編集\]** ボタンをクリックします。
+3.  **\[グループ ポリシー\]** タブを選択し、**\[Default Domain Controllers Policy GPO\]** をクリックし、次に **\[編集\]** ボタンをクリックします。
   
-6.  7.  **\[Windows の設定\]** フォルダをダブルクリックし、**\[セキュリティの設定\]**、**\[ローカル ポリシー\]**、および **\[ユーザー権利の割り当て\]** の順に選択します。
+4.  **\[Windows の設定\]** フォルダをダブルクリックし、**\[セキュリティの設定\]**、**\[ローカル ポリシー\]**、および **\[ユーザー権利の割り当て\]** の順に選択します。
   
-8.  **\[ドメインにワークステーションを追加\]** 設定をダブルクリックします。
+5.  **\[ドメインにワークステーションを追加\]** 設定をダブルクリックします。
   
-9.  メンバを削除するには、対象メンバ (たとえば **Authenticated Users**) をクリックし、次に **\[削除\]** ボタンをクリックします。
+6.  メンバを削除するには、対象メンバ (たとえば **Authenticated Users**) をクリックし、次に **\[削除\]** ボタンをクリックします。
   
-10. 11. メンバを追加するには、**\[追加\]** ボタンをクリックし、ユーザーまたはグループを選択し、次に **\[OK\]** をクリックします。
-  
-12. 
+7.  メンバを追加するには、**\[追加\]** ボタンをクリックし、ユーザーまたはグループを選択し、次に **\[OK\]** をクリックします。
   
 **Kerberos/TCP へのサービス拒否攻撃から保護**
   
@@ -824,9 +840,7 @@ Contoso 社のシナリオでは、ログオン時間と内部ネットワーク
   
 1.  マイクロソフト プロダクト サポートまたはプレミア サポートのヘルプ デスクに連絡し、サポート技術情報記事 320903 で指示されている**修正プログラム**を要求します。
   
-2.  3.  組織で規定されている修正プログラムのテストと導入プロセスに従い、**修正プログラム**をテストおよび導入します。
-  
-4.  
+2.  組織で規定されている修正プログラムのテストと導入プロセスに従い、**修正プログラム**をテストおよび導入します。
   
 #### セキュリティの追加設定 — Active Directory 統合 DNS
   
@@ -863,53 +877,52 @@ Contoso 社の北米ドメインの DNS サーバー (ドメイン コントロ�
 ドメイン コントローラと DNS サーバーのパフォーマンスは、MOM (Microsoft Operations Manager) を使って監視しました。
   
 **セキュリティで保護された動的更新の構成**
-  
+ 
 **脆弱性**
-  
+ 
 Windows 2000 の DNS サーバーとクライアントは、DDNS 更新をサポートしているので、クライアント システムは DNS サーバーをサポートするデータベースに DNS レコードを直接追加できます。
-  
+ 
 次の条件がそろえば、Windows 2000 DNS サーバーに対して未承認の DDNS 更新を行うことができます。
-  
--   攻撃者は DDNS プロトコルを使用するクライアントを操作します。
-  
--     
--   DNS サーバーは、セキュリティで保護されていない更新を受け取る構成となっています。
-  
--   
-  
+ 
+- 攻撃者は DDNS プロトコルを使用するクライアントを操作します。
+ 
+
+- DNS サーバーは、セキュリティで保護されていない更新を受け取る構成となっています。
+ 
+
+ 
 少なくとも、攻撃者は DNS データベースに偽のエントリを追加することができ、最悪の場合、DNS データベースを上書きしたり、正式なエントリを削除することができます。この種の攻撃結果としては、次のようなものがあります。
-  
--   未承認ドメイン コントローラにクライアントを誘導。
-  
-    クライアントがドメイン コントローラのアドレスを尋ねる DNS クエリを送信すると、正常な応答ができない DNS サーバーは未承認サーバーのアドレスを返却する指示を与えられます。次に DNS とは関係のない他の攻撃を仕掛けることで、クライアントがだまされ、偽のサーバーにセキュリティ保護された情報を流すようになります。
-  
--   DNS クエリに不正なアドレスで応答。
-  
-    これによりクライアントとサーバーはお互いの場所が分からなくなります。クライアントはサーバーを探せず、ディレクトリにアクセスできません。ドメイン コントローラが他のドメイン コントローラを探せなくなると、ディレクトリの複製は停止します。
-  
--     
--   サービス拒否攻撃状態を作り出すことで、次のいずれかの状態が発生します。
-  
-    -   ダミー レコードを詰め込んだ巨大なゾーン ファイルが生成され、サーバーのディスク スペースが枯渇します。
-  
-    -     
-    -   たとえば 50,000 エントリ以上の大量のエントリがディレクトリのゾーン コンテナに作成され、複製作業の速度を低下させます。
-  
+ 
+- 未承認ドメイン コントローラにクライアントを誘導。
+ 
+ クライアントがドメイン コントローラのアドレスを尋ねる DNS クエリを送信すると、正常な応答ができない DNS サーバーは未承認サーバーのアドレスを返却する指示を与えられます。次に DNS とは関係のない他の攻撃を仕掛けることで、クライアントがだまされ、偽のサーバーにセキュリティ保護された情報を流すようになります。
+ 
+- DNS クエリに不正なアドレスで応答。
+ 
+ これによりクライアントとサーバーはお互いの場所が分からなくなります。クライアントはサーバーを探せず、ディレクトリにアクセスできません。ドメイン コントローラが他のドメイン コントローラを探せなくなると、ディレクトリの複製は停止します。
+ 
+
+- サービス拒否攻撃状態を作り出すことで、次のいずれかの状態が発生します。
+ 
+ - ダミー レコードを詰め込んだ巨大なゾーン ファイルが生成され、サーバーのディスク スペースが枯渇します。
+ 
+ - たとえば 50,000 エントリ以上の大量のエントリがディレクトリのゾーン コンテナに作成され、複製作業の速度を低下させます。
+ 
 **対応策**
-  
+ 
 攻撃者が不正なレコードを登録することを防ぐため、セキュリティで保護された動的更新を使用することをお勧めします。セキュリティで保護された DDNS 更新を使用することで、登録要求はフォレスト内の正当なクライアントから送信された場合にのみ処理されます。これにより、攻撃者はこの種の攻撃を仕掛けることがより困難となります。こうなると攻撃者はまず、フォレストのメンバであるワークステーションへのアクセスを獲得しなければなりません。
-  
+ 
 あるいは、DDNS 更新を無効にすることもできます。これにより上で述べたような種類の搾取を防げます。ただし、すべての更新作業を手作業で行わなければならないため、DNS レコードを最新状態に維持するコストが大幅に増大します。Windows 2000 環境では、維持しなければならない DNS レコード数は、Windows 2000 以前の環境に慣れている DNS 管理者にとっては、かなり大きなものとなります。
-  
+ 
 このトピックに関する詳細については、次のサポート技術情報記事を参照してください。
-  
--   [246804](http://support.microsoft.com/kb/246804) 「\[NT\] Windows 2000 で DNS の動的更新を有効/無効にする方法」
-  
--     
--   [198767](http://support.microsoft.com/kb/198767) 「ドメイン コントローラが DNS 名を動的に登録するのを防ぐ方法」
-  
--   
-  
+ 
+- [246804](http://support.microsoft.com/kb/246804) 「\[NT\] Windows 2000 で DNS の動的更新を有効/無効にする方法」
+ 
+
+- [198767](http://support.microsoft.com/kb/198767) 「ドメイン コントローラが DNS 名を動的に登録するのを防ぐ方法」
+ 
+
+ 
 **予想される影響**
   
 Active Directory 統合 DNS ゾーンがセキュリティ保護されると、非 Windows 2000 システムから、このゾーンに DDNS エントリを記録できない場合があります。この問題は、Windows 2000 DHCP サーバーが、DHCP クライアントの代わりに DNS レコードを登録すれば、DHCP (Dynamic Host Configuration Protocol) クライアントのケースでは緩和されます。
@@ -927,8 +940,6 @@ Contoso 社のシナリオにおける Active Directory 統合 DNS サーバー�
 2.  処理したいゾーン (たとえば、northamerica.corp.contoso.com) を右クリックし、**\[プロパティ\]** を選択します。
   
 3.  **\[一般\]** タブから開く **\[動的更新を使用可能にしますか\]** ダイアログ ボックスで、**\[セキュリティで保護された更新のみ\]** を選択していることを確認します。
-  
-4.  
   
 **注 :** この手順では目的とするゾーンの一般タブで、**\[種類\]** が **\[Active Directory 統合\]** として構成されていると仮定しています。
   
@@ -960,9 +971,7 @@ Contoso 社シナリオにおけるマイクロソフト DNS および従属ゾ�
   
 1.  **\[DNS サーバー\]** MMC を開き、**\[DNS サーバー\]** を右クリックし、**\[プロパティ\]** を選択します。
   
-2.  3.  **\[セキュリティ\]** タブをクリックし、**\[詳細\]** ボタンをクリックします。
-  
-4.  
+2.  **\[セキュリティ\]** タブをクリックし、**\[詳細\]** ボタンをクリックします。
   
 **DNS キャッシュ汚染に対する保護の構成**
   
@@ -988,7 +997,7 @@ Active Directory 統合 DNS サーバーは、Contoso 社シナリオではキ�
   
 1.  **\[DNS サーバー\]** MMC を開き、**\[DNS サーバー\]** を右クリックし、**\[プロパティ\]** を選択します。
   
-2.  3.  **\[詳細\]** タブを選択し、**\[Secure cache against pollution\]** チェック ボックスがオンになっていることを確認します。
+2.  **\[詳細\]** タブを選択し、**\[Secure cache against pollution\]** チェック ボックスがオンになっていることを確認します。
   
 **DNS データとログ ディレクトリのセキュリティ保護**
   
@@ -1020,11 +1029,11 @@ Contoso 社のシナリオでは、すべての DNS データは Active Director
   
 1.  コマンド プロンプトを開きます。
   
-2.  3.  **cacls.exe %systemroot%\\system32\\dns /t /**
+2.  **cacls.exe %systemroot%\\system32\\dns /t /**
   
     g administrators:F system:F というコマンドを入力します。
   
-4.  プロンプトで **Y** と入力し、先に進みます。
+3.  プロンプトで **Y** と入力し、先に進みます。
   
 **注 :** DNS ファイルを新しいディレクトリに移していても、セキュリティ保護をまだ行っていない場合は、上記 cacls.exe コマンドで指定しているディレクトリを変更することを忘れないでください。
   
@@ -1058,17 +1067,17 @@ Contoso 社のシナリオでは、DNS サービスのデバッグ ロギング�
   
 1.  **Regedit.exe** を起動し、HKLM\\System\\CurrentControlSet\\Services\\DNS\\Parameters を表示します。
   
-2.  3.  **\[編集\]** メニューから **\[新規\]**、**\[文字列\]** を選択し、「DatabaseDirectory」という名前を付けます。
+2.  **\[編集\]** メニューから **\[新規\]**、**\[文字列\]** を選択し、「DatabaseDirectory」という名前を付けます。
   
-4.  5.  この新しい **DatabaseDirectory** 値のエントリをダブルクリックし、**\[値のデータ\]** テキストボックスに、ゾーン データ ファイルを格納するフォルダへのフル パス名を入力します。
+3.  この新しい **DatabaseDirectory** 値のエントリをダブルクリックし、**\[値のデータ\]** テキストボックスに、ゾーン データ ファイルを格納するフォルダへのフル パス名を入力します。
   
     **注 :** レジストリでこの変更を行っても、DNS は元のデータベースを移動させたり変更することはありません。
   
-6.  7.  **DNS サーバー**を停止します。
+4.  **DNS サーバー**を停止します。
   
-8.  Systemroot\\System32\\Dns フォルダにすでに DNS データベースが存在している場合は、新しい場所に手作業で移動させる必要があります。%systemroot%\\system32\\dns にあるファイルとフォルダを新しいドライブ フォルダ (たとえば d:\\DNS) に移動させます。
+5.  Systemroot\\System32\\Dns フォルダにすでに DNS データベースが存在している場合は、新しい場所に手作業で移動させる必要があります。%systemroot%\\system32\\dns にあるファイルとフォルダを新しいドライブ フォルダ (たとえば d:\\DNS) に移動させます。
   
-9.  10. **DNS サーバー**を開始します。
+6. **DNS サーバー**を開始します。
   
 **DNS デバッグ ファイルを移動する方法**
   
@@ -1076,9 +1085,9 @@ Contoso 社のシナリオでは、DNS サービスのデバッグ ロギング�
   
 2.  **\[編集\]** メニューから **\[新規\]**、**\[文字列\]** を選択し、「LogFilePath」という名前を付けます。
   
-3.  4.  新しい **LogFilePath** 値のエントリをダブルクリックし、**\[値のデータ\]** テキストボックスに、デバッグ ログ ファイルを格納するフォルダへのフル パス名を入力します。
+3.  新しい **LogFilePath** 値のエントリをダブルクリックし、**\[値のデータ\]** テキストボックスに、デバッグ ログ ファイルを格納するフォルダへのフル パス名を入力します。
   
-5.  6.  **DNS サーバー**を再開します。
+4.  **DNS サーバー**を再開します。
   
 **ゾーン転送先を認証システムのみに制限**
   
@@ -1106,11 +1115,11 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
   
 1.  **\[DNS administrative tool\]** を起動し、ゾーン転送を構成する **\[zone\]** を右クリックし、**\[プロパティ\]** をクリックします。
   
-2.  3.  **\[ゾーン転送を許可するサーバー\]** が有効になっていることを確認し、**\[次のサーバーのみ\]** または **\[ネーム サーバー タブの一覧にあるサーバーのみ\]** のいずれかを選択します。
+2.  **\[ゾーン転送を許可するサーバー\]** が有効になっていることを確認し、**\[次のサーバーのみ\]** または **\[ネーム サーバー タブの一覧にあるサーバーのみ\]** のいずれかを選択します。
   
     1.  **\[次のサーバーのみ\]** を選択する場合は、認証されている DNS サーバーの IP アドレスをダイアログ ボックスに入力します (これは Contoso 社向けに選択した設定であり、子ドメインのドメイン コントローラの IP アドレスが追加されています)。
   
-    2.  3.  **\[ネーム サーバー タブの一覧にあるサーバーのみ\]** タブを選んだ場合は、**\[ネーム サーバー\]** タブを選択し、このゾーンで認証されているだけでなく、この DNS サーバーからセカンダリ ゾーン転送を要求することを認証されているネーム サーバー (DNS サーバー) の情報を入力します。
+    2.  **\[ネーム サーバー タブの一覧にあるサーバーのみ\]** タブを選んだ場合は、**\[ネーム サーバー\]** タブを選択し、このゾーンで認証されているだけでなく、この DNS サーバーからセカンダリ ゾーン転送を要求することを認証されているネーム サーバー (DNS サーバー) の情報を入力します。
   
 **IPSec フィルタでポートをブロック**
   
@@ -1134,6 +1143,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
   
 **表 7.5 ドメイン コントローラ IPSec ネットワークのトラフィック マップ**
   
+<p></p>
 <table style="width:100%;">
 <colgroup>
 <col width="14%" />
@@ -1608,7 +1618,7 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
 </tr>
 </tbody>
 </table>
-  
+
 **注 :** 表 7.5 にリストされているホスト IP 宛先アドレスは、サーバーで構成している IP アドレスに設定します。
   
 重要な注記事項として、Kerberos フィルタはサポート技術情報記事 [254728](http://support.microsoft.com/kb/254728) 「IPSec Does Not Secure Kerberos Traffic Between Domain Controllers」で指定されている NoDefaultExempt 設定を実装した場合にのみ必要です。
@@ -1623,11 +1633,9 @@ Contoso 社のシナリオでは、子ドメインのドメイン コントロ�
   
 1.  セキュリティで妥協すると、攻撃者が Local Administrator または Local System アクセスを握ることになり、IPSec ポリシーを無効にするかまたは変更できるようになります。
   
-2.  3.  ターゲットのコンピュータが適切にロックダウンされていることを保証するために、**NoDefaultExempt** のレジストリ値は **1** に設定しておく*必要があります*。この設定は、このセキュリティのガイダンスで使用するすべての IPSec フィルタリング シナリオで必要です。この IPSec ガイダンスでは、シナリオごとに NoDefaultExempt を設定したテストを実施していませんが、この設定の構成の違いで、動作に大きな差は出ません。このガイドは構成変更を反映して、可能な限り早く更新していきます。NoDefaultExempt 設定の構成に関する指示については、サポート技術情報記事 [254728](http://support.microsoft.com/kb/254728) 「IPSec がドメイン コントローラ間の Kerberos トラフィックをセキュリティで保護されません。」を参照してください。
+2.  ターゲットのコンピュータが適切にロックダウンされていることを保証するために、**NoDefaultExempt** のレジストリ値は **1** に設定しておく*必要があります*。この設定は、このセキュリティのガイダンスで使用するすべての IPSec フィルタリング シナリオで必要です。この IPSec ガイダンスでは、シナリオごとに NoDefaultExempt を設定したテストを実施していませんが、この設定の構成の違いで、動作に大きな差は出ません。このガイドは構成変更を反映して、可能な限り早く更新していきます。NoDefaultExempt 設定の構成に関する指示については、サポート技術情報記事 [254728](http://support.microsoft.com/kb/254728) 「IPSec がドメイン コントローラ間の Kerberos トラフィックをセキュリティで保護されません。」を参照してください。
   
-4.  5.  IPSec では出力方向の接続に多様なフィルタリング機能を提供していません。このため、このセキュリティ ガイダンスの一環で、静的な入力フィルタが作成され、出力情報への応答を受信できるように保証しています。これにより、攻撃者が現在のシステムのサーバーのオープン ポートを走査し、接続を試みたとしても、その多くは効果的にブロックされます。ただし、攻撃者が IPSec 入力許可フィルタを通じて接続を可能にする特殊なツールを使う可能性はまだ存在しています。任意の宛先の IP (Internet Protocol) アドレスへの出力許可フィルタが必要な場合 (たとえば、出力フィルタリングを使用すれば、SMTP (Simple Mail Transfer Protocol) サーバーはインターネットに接続されている他の宛先 SMTP サーバーに電子メールを送信できます)、ファイアウォールまたは多様な機能を提供するフィルタリング装置をホスト コンピュータとインターネットの間に設置する*必要があります*。可能であれば、出力許可フィルタは、トラフィックの受信に必要な IP アドレスに対応させることをお勧めします。
-  
-6.  
+3.  IPSec では出力方向の接続に多様なフィルタリング機能を提供していません。このため、このセキュリティ ガイダンスの一環で、静的な入力フィルタが作成され、出力情報への応答を受信できるように保証しています。これにより、攻撃者が現在のシステムのサーバーのオープン ポートを走査し、接続を試みたとしても、その多くは効果的にブロックされます。ただし、攻撃者が IPSec 入力許可フィルタを通じて接続を可能にする特殊なツールを使う可能性はまだ存在しています。任意の宛先の IP (Internet Protocol) アドレスへの出力許可フィルタが必要な場合 (たとえば、出力フィルタリングを使用すれば、SMTP (Simple Mail Transfer Protocol) サーバーはインターネットに接続されている他の宛先 SMTP サーバーに電子メールを送信できます)、ファイアウォールまたは多様な機能を提供するフィルタリング装置をホスト コンピュータとインターネットの間に設置する*必要があります*。可能であれば、出力許可フィルタは、トラフィックの受信に必要な IP アドレスに対応させることをお勧めします。
   
 **重要 :** IPSec であっても、コンピュータ起動中は完全なセキュリティを提供できません。TCP/IP (Transmission Control Protocol/Internet Protocol) スタックの応答が良い場合もまれにあり、IPSec ポリシーでブロックするアプリケーション ポートに自動攻撃でアクセスできてしまう場合があります。多くの場合、アプリケーションが接続処理を開始できないうちに、IPSec フィルタリングが有効になります。IPSec ポリシー エージェント サービスの開始と同期を取っても、フィルタがタイミング良く有効になることを保証するものではありません。
   
@@ -1639,7 +1647,59 @@ IPSec フィルタを使って最高レベルのセキュリティを実現す�
   
 このコマンドのセットは、このガイドに付属するバッチ ファイルにも含まれています。
   
-<codesnippet language displaylanguage containsmarkup="false"> ipsecpol -w REG -p "Packet Filter" -r "DNS Client" -f 192.168.100.11+\*:53:TCP -f 192.168.100.11+\*:53:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "SNMP Server" -f \*+192.168.100.11:161:TCP -f \*+192.168.100.11:161:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "CIFS/SMB Client" -f 192.168.100.11+\*:445:TCP -f 192.168.100.11+\*:445:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "CIFS/SMB Server" -f \*+192.168.100.11:445:TCP -f \*+192.168.100.11:445:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "RPC Client" -f 192.168.100.11+\*:135:TCP -f 192.168.100.11+\*:135:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "RPC Server" -f \*+192.168.100.11:135:TCP -f \*+192.168.100.11:135:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "RPC Ports IN" -f \*+192.168.100.11:57951:TCP -f \*+192.168.100.11:57952:TCP -n PASS ipsecpol -w REG -p "Packet Filter" -r "RPC Ports OUT" -f 192.168.100.11+\*:57951:TCP -f 192.168.100.11:+\*:57952:TCP -n PASS ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Client" -f 192.168.100.11+\*:137:TCP -f 192.168.100.11+\*:137:UDP -f 192.168.100.11+\*:139:TCP -f 192.168.100.11+\*:138:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Server" -f \*+192.168.100.11:137:TCP -f \*+192.168.100.11:137:UDP -f \*+192.168.100.11:139:TCP -f \*+192.168.100.11:138:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "NTP Client" -f 192.168.100.11+\*:123:TCP -f 192.168.100.11+\*:123:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Monitoring" -f 192.168.100.31+192.168.100.73 -n PASS ipsecpol -w REG -p "Packet Filter" -r "LDAP Client" -f 192.168.100.11+\*:389:TCP -f 192.168.100.11+\*:389:UDP -f 192.168.100.11+\*:636:TCP -f 192.168.100.11+\*:636:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Kerberos Client" -f 192.168.100.11+\*:88:TCP -f 192.168.100.11+\*:88:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Terminal Server" -f \*+192.168.100.11:3389:TCP -n PASS ipsecpol -w REG -p "Packet Filter" -r "GC Client" -f 192.168.100.11+\*:3268:TCP -f 192.168.100.11+\*:3269:TCP -n PASS ipsecpol -w REG -p "Packet Filter" -r "ICMP" -f 192.168.100.11+\*:\*:ICMP -n PASS ipsecpol -w REG -p "Packet Filter" -r "GC Server" -f \*+192.168.100.11:3268:TCP -f \*+192.168.100.11:3269:TCP -n PASS ipsecpol -w REG -p "Packet Filter" -r "DNS Server" -f \*+192.168.100.11:53:TCP -f \*+192.168.100.11:53:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Kerberos Server" -f \*+192.168.100.11:88:TCP -f \*+192.168.100.11:88:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "LDAP Server" -f \*+192.168.100.11:389:TCP -f \*+192.168.100.11:389:UDP -f \*+192.168.100.11:636:TCP -f \*+192.168.100.11:636:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "NTP Server" -f \*+192.168.100.11:123:TCP -f \*+192.168.100.11:123:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "All Inbound Traffic" -f \*+192.168.100.11 -n BLOCK ipsecpol -w REG -p "Packet Filter" -x   
+```
+ipsecpol -w REG -p "Packet Filter" -r "DNS Client"
+   -f 192.168.100.11+*:53:TCP -f 192.168.100.11+*:53:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "SNMP Server"
+   -f *+192.168.100.11:161:TCP -f *+192.168.100.11:161:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "CIFS/SMB Client"
+   -f 192.168.100.11+*:445:TCP -f 192.168.100.11+*:445:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "CIFS/SMB Server"
+   -f *+192.168.100.11:445:TCP -f *+192.168.100.11:445:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "RPC Client"
+   -f 192.168.100.11+*:135:TCP -f 192.168.100.11+*:135:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "RPC Server"
+   -f *+192.168.100.11:135:TCP -f *+192.168.100.11:135:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "RPC Ports IN"
+   -f *+192.168.100.11:57951:TCP -f *+192.168.100.11:57952:TCP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "RPC Ports OUT"
+   -f 192.168.100.11+*:57951:TCP -f 192.168.100.11:+*:57952:TCP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Client"
+   -f 192.168.100.11+*:137:TCP -f 192.168.100.11+*:137:UDP
+   -f 192.168.100.11+*:139:TCP -f 192.168.100.11+*:138:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Server"
+   -f *+192.168.100.11:137:TCP -f *+192.168.100.11:137:UDP
+   -f *+192.168.100.11:139:TCP -f *+192.168.100.11:138:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "NTP Client"
+   -f 192.168.100.11+*:123:TCP -f 192.168.100.11+*:123:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Monitoring"
+   -f 192.168.100.31+192.168.100.73 -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "LDAP Client"
+   -f 192.168.100.11+*:389:TCP -f 192.168.100.11+*:389:UDP
+   -f 192.168.100.11+*:636:TCP -f 192.168.100.11+*:636:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Kerberos Client"
+   -f 192.168.100.11+*:88:TCP -f 192.168.100.11+*:88:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Terminal Server"
+   -f *+192.168.100.11:3389:TCP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "GC Client"
+   -f 192.168.100.11+*:3268:TCP -f 192.168.100.11+*:3269:TCP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "ICMP"
+   -f 192.168.100.11+*:*:ICMP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "GC Server"
+   -f *+192.168.100.11:3268:TCP -f *+192.168.100.11:3269:TCP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "DNS Server"
+   -f *+192.168.100.11:53:TCP -f *+192.168.100.11:53:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Kerberos Server"
+   -f *+192.168.100.11:88:TCP -f *+192.168.100.11:88:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "LDAP Server"
+   -f *+192.168.100.11:389:TCP -f *+192.168.100.11:389:UDP
+   -f *+192.168.100.11:636:TCP -f *+192.168.100.11:636:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "NTP Server"
+   -f *+192.168.100.11:123:TCP -f *+192.168.100.11:123:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "All Inbound Traffic"
+   -f *+192.168.100.11 -n BLOCK
+ipsecpol -w REG -p "Packet Filter" -x
+   
 ```  
 **予想される影響**
   
@@ -1688,8 +1748,8 @@ Contoso 社シナリオにおけるインフラストラクチャ サーバー�
 次の表には、Windows 2000 インフラストラクチャ サーバーで無効か有効かを事前に決めてあるシステム サービスの要約を提供します。このサービスは MSS Infrastructure Role.inf のポリシー テンプレートで構成され、ドメイン コントローラ ポリシーの GPO にインポートされます。
   
 **表 7.6 インフラストラクチャ サーバーの増分ポリシー サービス設定**
-
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -1721,7 +1781,7 @@ Contoso 社シナリオにおけるインフラストラクチャ サーバー�
 </tr>
 </tbody>
 </table>
-  
+
 **注 :** Contoso 社シナリオでは、DNS サーバーはドメイン コントローラで実行されるため、インフラストラクチャ サーバーの役割としては無効になっています。
   
 Active Directory 統合 DNS を使用しない組織の中には、インフラストラクチャ サーバーでのプライマリ DNS サーバーとセカンダリ DNS サーバーの実行を望む組織もあります。
@@ -1746,6 +1806,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
   
 **表 7.7 WINS サーバーの IPSec ネットワーク トラフィック マップ**
   
+<p></p>
 <table style="width:100%;">
 <colgroup>
 <col width="14%" />
@@ -2139,7 +2200,7 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
 </tr>
 </tbody>
 </table>
-  
+
 **注 :** 表 7.7 にリストされているホスト IP 宛先アドレスは、サーバーで構成している IP アドレスに設定します。
   
 ここにあげたすべての規則は、実装時に反映することをお勧めします。これにより、サーバーに着信するどのようなトラフィックも、発信元サーバーに戻ることができます。
@@ -2152,11 +2213,9 @@ Active Directory 統合 DNS を使用しない組織の中には、インフラ�
   
 1.  セキュリティで妥協すると、攻撃者が Local Administrator または Local System アクセスを握ることになり、IPSec ポリシーを無効にするかまたは変更できるようになります。
   
-2.  3.  ターゲットのコンピュータが適切にロックダウンされていることを保証するには、**NoDefaultExempt** のレジストリの値は **1** に設定しておく*必要があります*。この設定は、このセキュリティのガイダンスで使用するすべての IPSec フィルタリング シナリオで必要です。この IPSec ガイダンスでは、シナリオごとに NoDefaultExempt を設定したテストを実施していませんが、この設定の構成の違いで、動作に大きな差は出ません。このガイドは構成変更を反映して、可能な限り早く更新していきます。NoDefaultExempt 設定の構成に関する指示については、サポート技術情報記事 [254728](http://support.microsoft.com/kb/254728) 「IPSec がドメイン コントローラ間の Kerberos トラフィックをセキュリティで保護されません。」を参照してください。
+2.  ターゲットのコンピュータが適切にロックダウンされていることを保証するには、**NoDefaultExempt** のレジストリの値は **1** に設定しておく*必要があります*。この設定は、このセキュリティのガイダンスで使用するすべての IPSec フィルタリング シナリオで必要です。この IPSec ガイダンスでは、シナリオごとに NoDefaultExempt を設定したテストを実施していませんが、この設定の構成の違いで、動作に大きな差は出ません。このガイドは構成変更を反映して、可能な限り早く更新していきます。NoDefaultExempt 設定の構成に関する指示については、サポート技術情報記事 [254728](http://support.microsoft.com/kb/254728) 「IPSec がドメイン コントローラ間の Kerberos トラフィックをセキュリティで保護されません。」を参照してください。
   
-4.  5.  IPSec では出力方向の接続に多様なフィルタリング機能を提供していません。このため、このセキュリティ ガイダンスの一環で、静的な入力フィルタが作成され、出力情報への応答を受信できるように保証しています。これにより、攻撃者が現在のシステムのサーバーのオープン ポートを走査し、接続を試みたとしても、その多くは効果的にブロックされます。ただし、攻撃者が IPSec 入力許可フィルタを通じて接続を可能にする特殊なツールを使う可能性はまだ存在しています。任意の宛先の IP (Internet Protocol) アドレスへの出力許可フィルタが必要ば場合 (たとえば、出力フィルタリングを使用すれば、SMTP (Simple Mail Transfer Protocol) サーバーはインターネットに接続されている他の宛先 SMTP サーバーに電子メールを送信できます)、ファイアウォールまたは多様な機能を持つフィルタリング装置をホスト コンピュータとインターネットの間に設置する*必要があります*。可能であれば、出力許可フィルタは、トラフィックの受信に必要な IP アドレスに対応させることをお勧めします。
-  
-6.  
+3.  IPSec では出力方向の接続に多様なフィルタリング機能を提供していません。このため、このセキュリティ ガイダンスの一環で、静的な入力フィルタが作成され、出力情報への応答を受信できるように保証しています。これにより、攻撃者が現在のシステムのサーバーのオープン ポートを走査し、接続を試みたとしても、その多くは効果的にブロックされます。ただし、攻撃者が IPSec 入力許可フィルタを通じて接続を可能にする特殊なツールを使う可能性はまだ存在しています。任意の宛先の IP (Internet Protocol) アドレスへの出力許可フィルタが必要ば場合 (たとえば、出力フィルタリングを使用すれば、SMTP (Simple Mail Transfer Protocol) サーバーはインターネットに接続されている他の宛先 SMTP サーバーに電子メールを送信できます)、ファイアウォールまたは多様な機能を持つフィルタリング装置をホスト コンピュータとインターネットの間に設置する*必要があります*。可能であれば、出力許可フィルタは、トラフィックの受信に必要な IP アドレスに対応させることをお勧めします。
   
 **重要 :** IPSec であっても、コンピュータを起動中は完全なセキュリティを提供できません。TCP/IP (Transmission Control Protocol/Internet Protocol) スタックの応答が良い場合もまれにあり、IPSec ポリシーでブロックするアプリケーション ポートに自動攻撃でアクセスできてしまう場合があります。多くの場合、アプリケーションが接続処理を開始できないうちに、IPSec フィルタリングが有効になります。IPSec ポリシー エージェント サービスの開始と同期を取っても、フィルタがタイミング良く有効になることを保証するものではありません。
   
@@ -2166,7 +2225,52 @@ IPSec フィルタを使って最高レベルのセキュリティを実現す�
   
 次のコマンドの実装は、サーバーで実行することをお勧めします。これらのコマンドでは、特別に許可しているネットワーク トラフィック以外のトラフィックをすべてブロックします。このコマンドのセットは、このガイドに付属するバッチ ファイルにも含まれています。
   
-<codesnippet language displaylanguage containsmarkup="false"> ipsecpol -w REG -p "Packet Filter" -r "DNS Client" -f 192.168.100.22+\*:53:TCP -f 192.168.100.22+\*:53:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "SNMP Server" -f \*+192.168.100.22:161:TCP -f \*+192.168.100.22:161:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "CIFS Client" -f 192.168.100.22+\*:445:TCP -f 192.168.100.22+\*:445:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "CIFS Server" -f \*+192.168.100.22:445:TCP -f \*+192.168.100.22:445:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "RPC Client" -f 192.168.100.22+\*:135:TCP -f 192.168.100.22+\*:135:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "RPC Server" -f \*+192.168.100.22:135:TCP -f \*+192.168.100.22:135:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "RPC Ports" -f 192.168.100.22+\*:57952:TCP -n PASS ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Client" -f 192.168.100.22+\*:137:TCP -f 192.168.100.22+\*:137:UDP -f 192.168.100.22+\*:139:TCP -f 192.168.100.22+\*:138:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Server" -f \*+192.168.100.22:137:TCP -f \*+192.168.100.22:137:UDP -f \*+192.168.100.22:139:TCP -f \*+192.168.100.22:138:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "NTP Client" -f 192.168.100.22+\*:123:TCP -f 192.168.100.22+\*:123:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Monitoring" -f 192.168.100.22+192.168.100.73 -n PASS ipsecpol -w REG -p "Packet Filter" -r "LDAP Client" -f 192.168.100.22+\*:389:TCP -f 192.168.100.22+\*:389:UDP -f 192.168.100.22+\*:636:TCP -f 192.168.100.22+\*:636:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Kerberos Client" -f 192.168.100.22+\*:88:TCP -f 192.168.100.22+\*:88:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Terminal Server" -f \*+192.168.100.22:3389:TCP -f -n PASS ipsecpol -w REG -p "Packet Filter" -r "GC Client" -f 192.168.100.22+\*:3268:TCP -f 192.168.100.22+\*:3269:TCP -n PASS ipsecpol -w REG -p "Packet Filter" -r "ICMP" -f 192.168.100.22+\*:\*:ICMP -f \*+192.168.100.22:\*:ICMP -n PASS ipsecpol -w REG -p "Packet Filter" -r "WINS Resolution Server" -f \*+192.168.100.22:1512:TCP -f \*+192.168.100.22:1512:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "WINS Replication Client" -f 192.168.100.22+\*:42:TCP -f 192.168.100.22+\*:42:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "WINS Replication Server" -f \*+192.168.100.22:42:TCP -f \*+192.168.100.22:42:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "All Inbound Traffic" -f \*+192.168.100.22 -n BLOCK ipsecpol -w REG -p "Packet Filter" -x   
+```
+ipsecpol -w REG -p "Packet Filter" -r "DNS Client"
+   -f 192.168.100.22+*:53:TCP -f 192.168.100.22+*:53:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "SNMP Server"
+   -f *+192.168.100.22:161:TCP -f *+192.168.100.22:161:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "CIFS Client"
+   -f 192.168.100.22+*:445:TCP -f 192.168.100.22+*:445:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "CIFS Server"
+   -f *+192.168.100.22:445:TCP -f *+192.168.100.22:445:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "RPC Client"
+   -f 192.168.100.22+*:135:TCP -f 192.168.100.22+*:135:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "RPC Server"
+   -f *+192.168.100.22:135:TCP -f *+192.168.100.22:135:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "RPC Ports"
+   -f 192.168.100.22+*:57952:TCP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Client"
+   -f 192.168.100.22+*:137:TCP -f 192.168.100.22+*:137:UDP -f
+   192.168.100.22+*:139:TCP -f 192.168.100.22+*:138:UDP -n
+   PASS
+ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Server"
+   -f *+192.168.100.22:137:TCP -f *+192.168.100.22:137:UDP
+   -f *+192.168.100.22:139:TCP -f *+192.168.100.22:138:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "NTP Client"
+   -f 192.168.100.22+*:123:TCP -f 192.168.100.22+*:123:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Monitoring"
+   -f 192.168.100.22+192.168.100.73 -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "LDAP Client"
+   -f 192.168.100.22+*:389:TCP -f 192.168.100.22+*:389:UDP
+   -f 192.168.100.22+*:636:TCP -f 192.168.100.22+*:636:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Kerberos Client"
+   -f 192.168.100.22+*:88:TCP -f 192.168.100.22+*:88:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Terminal Server"
+   -f *+192.168.100.22:3389:TCP -f -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "GC Client"
+   -f 192.168.100.22+*:3268:TCP -f 192.168.100.22+*:3269:TCP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "ICMP"
+   -f 192.168.100.22+*:*:ICMP -f *+192.168.100.22:*:ICMP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "WINS Resolution Server"
+   -f *+192.168.100.22:1512:TCP -f *+192.168.100.22:1512:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "WINS Replication Client"
+   -f 192.168.100.22+*:42:TCP -f 192.168.100.22+*:42:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "WINS Replication Server"
+   -f *+192.168.100.22:42:TCP -f *+192.168.100.22:42:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "All Inbound Traffic"
+   -f *+192.168.100.22 -n BLOCK
+ipsecpol -w REG -p "Packet Filter" -x   
 ```  
 **予想される影響**
   
@@ -2208,13 +2312,11 @@ Contoso 社シナリオでは、この情報には実害はなく、ユーザー
   
 1.  **\[DHCP Manager snap-in\]** を開始します。
   
-2.  3.  サーバー名を右クリックし、**\[プロパティ\]** をクリックし、**\[一般\]** タブをクリックします。
+2.  サーバー名を右クリックし、**\[プロパティ\]** をクリックし、**\[一般\]** タブをクリックします。
   
-4.  5.  **\[Enable Audit Log\]** のチェック ボックスをオンにし、監査ログを有効にします。
+3.  **\[Enable Audit Log\]** のチェック ボックスをオンにし、監査ログを有効にします。
   
-6.  7.  **DHCP サーバー**を再開します。
-  
-8.  
+4.  **DHCP サーバー**を再開します。
   
 **DHCP へのサービス拒否攻撃から保護**
   
@@ -2254,9 +2356,9 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
   
 1.  **\[DHCP Manager snap-in\]** を開始します。
   
-2.  3.  リース期間を変更する範囲を右クリックし、**\[プロパティ\]** をクリックします。
+2.  リース期間を変更する範囲を右クリックし、**\[プロパティ\]** をクリックします。
   
-4.  5.  **\[一般\]** タブにある **\[Lease duration for DHCP clients\]** ダイアログ ボックスで、**\[期間:\]** の値を実装したい時間幅に変更します。
+3.  **\[一般\]** タブにある **\[Lease duration for DHCP clients\]** ダイアログ ボックスで、**\[期間:\]** の値を実装したい時間幅に変更します。
   
     **\[無期限\]** リース期間オプションを選択することもできますが、制限された状況でのみこの設定を推奨できます。エンタープライズの DHCP の一般導入用には推奨しません。
   
@@ -2274,6 +2376,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
   
 **表 7.8 DHCP サーバーの IPSec ネットワーク トラフィック マップ**
   
+<p></p>
 <table style="width:100%;">
 <colgroup>
 <col width="14%" />
@@ -2622,7 +2725,7 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
 </tr>
 </tbody>
 </table>
-  
+
 **注 :** 表 7.8 にリストされているホスト IP 宛先アドレスは、サーバーで構成している IP アドレスに設定します。
   
 ここにあげたすべての規則は、実装時に反映することをお勧めします。これにより、サーバーに着信するどのようなトラフィックも、発信元サーバーに戻ることができます。
@@ -2635,11 +2738,9 @@ Contoso 社シナリオでは、各サイトは 80/20 ルールに従って IP �
   
 1.  セキュリティで妥協すると、攻撃者が Local Administrator または Local System アクセスを握ることになり、IPSec ポリシーを無効にするかまたは変更できるようになります。
   
-2.  3.  ターゲットのコンピュータが適切にロックダウンされていることを保証するには、**NoDefaultExempt** のレジストリの値は **1** に設定しておく*必要があります*。この設定は、このセキュリティのガイダンスで使用するすべての IPSec フィルタリング シナリオで必要です。この IPSec ガイダンスでは、シナリオごとに NoDefaultExempt を設定してテストを実施していませんが、この設定の構成の違いによって、動きに大きな差は出ません。このガイドはこの構成変更を反映して、できるだけ早く更新していきます。NoDefaultExempt 設定の構成に関する指示については、サポート技術情報記事 [254728](http://support.microsoft.com/kb/254728) 「IPSec がドメイン コントローラ間の Kerberos トラフィックをセキュリティで保護されません。」を参照してください。
+2.  ターゲットのコンピュータが適切にロックダウンされていることを保証するには、**NoDefaultExempt** のレジストリの値は **1** に設定しておく*必要があります*。この設定は、このセキュリティのガイダンスで使用するすべての IPSec フィルタリング シナリオで必要です。この IPSec ガイダンスでは、シナリオごとに NoDefaultExempt を設定してテストを実施していませんが、この設定の構成の違いによって、動きに大きな差は出ません。このガイドはこの構成変更を反映して、できるだけ早く更新していきます。NoDefaultExempt 設定の構成に関する指示については、サポート技術情報記事 [254728](http://support.microsoft.com/kb/254728) 「IPSec がドメイン コントローラ間の Kerberos トラフィックをセキュリティで保護されません。」を参照してください。
   
-4.  5.  IPSec では出力方向の接続に多様なフィルタリング機能を提供していません。このため、このセキュリティ ガイダンスの一環で、静的な入力フィルタが作成され、出力情報への応答を受信できるように保証しています。これにより、攻撃者が現在のシステムのサーバーのオープン ポートを走査し、接続を試みたとしても、その多くは効果的にブロックされます。ただし、攻撃者が IPSec 入力許可フィルタを通じて接続を可能にする特殊なツールを使う可能性はまだ存在しています。任意の宛先の IP (Internet Protocol) アドレスへの出力許可フィルタが必要な場合は (たとえば、出力フィルタリングを使用すれば、SMTP (Simple Mail Transfer Protocol) サーバーはインターネットに接続されている他の宛先 SMTP サーバーに電子メールを送信できます)、ファイアウォールまたは多様な機能を持つフィルタリング装置をホスト コンピュータとインターネットの間に設置する*必要があります*。可能であれば、出力許可フィルタは、トラフィックの受信に必要な IP アドレスに対応させることをお勧めします。
-  
-6.  
+3.  IPSec では出力方向の接続に多様なフィルタリング機能を提供していません。このため、このセキュリティ ガイダンスの一環で、静的な入力フィルタが作成され、出力情報への応答を受信できるように保証しています。これにより、攻撃者が現在のシステムのサーバーのオープン ポートを走査し、接続を試みたとしても、その多くは効果的にブロックされます。ただし、攻撃者が IPSec 入力許可フィルタを通じて接続を可能にする特殊なツールを使う可能性はまだ存在しています。任意の宛先の IP (Internet Protocol) アドレスへの出力許可フィルタが必要な場合は (たとえば、出力フィルタリングを使用すれば、SMTP (Simple Mail Transfer Protocol) サーバーはインターネットに接続されている他の宛先 SMTP サーバーに電子メールを送信できます)、ファイアウォールまたは多様な機能を持つフィルタリング装置をホスト コンピュータとインターネットの間に設置する*必要があります*。可能であれば、出力許可フィルタは、トラフィックの受信に必要な IP アドレスに対応させることをお勧めします。
   
 **重要 :** IPSec であっても、コンピュータ起動中は完全なセキュリティを提供できません。TCP/IP (Transmission Control Protocol/Internet Protocol) スタックの応答が良い場合もまれにあり、IPSec ポリシーでブロックするアプリケーション ポートに自動攻撃でアクセスできてしまう場合があります。多くの場合、アプリケーションが接続処理を開始できないうちに、IPSec フィルタリングが有効になります。IPSec ポリシー エージェント サービスの開始と同期を取っても、フィルタがタイミング良く有効になることを保証するものではありません。
   
@@ -2651,7 +2752,47 @@ IPSec フィルタを使って最高レベルのセキュリティを実現す�
   
 このコマンドのセットは、このガイドに付属するバッチ ファイルにも含まれています。
   
-<codesnippet language displaylanguage containsmarkup="false"> ipsecpol -w REG -p "Packet Filter" -r "DNS Client" -f 192.168.100.21+\*:53:TCP -f 192.168.100.21+\*:53:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "SNMP Server" -f \*+192.168.100.21:161:TCP -f \*+192.168.100.21:161:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "CIFS/SMB Client" -f 192.168.100.21+\*:445:TCP -f 192.168.100.21+\*:445:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "CIFS/SMB Server" -f \*+192.168.100.21:445:TCP -f \*+192.168.100.21:445:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "RPC Client" -f 192.168.100.21+\*:135:TCP -f 192.168.100.21+\*:135:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "RPC Server" -f \*+192.168.100.21:135:TCP -f \*+192.168.100.21:135:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "RPC Ports" -f 192.168.100.21+\*:57952:TCP -n PASS ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Client" -f 192.168.100.21+\*:137:TCP -f 192.168.100.21+\*:137:UDP -f 192.168.100.21+\*:139:TCP -f 192.168.100.21+\*:138:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Server" -f \*+192.168.100.21:137:TCP -f \*+192.168.100.21:137:UDP -f \*+192.168.100.21:139:TCP -f \*+192.168.100.21:138:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "NTP Client" -f 192.168.100.21+\*:123:TCP -f 192.168.100.21+\*:123:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Monitoring" -f 192.168.100.31+192.168.100.73 -n PASS ipsecpol -w REG -p "Packet Filter" -r "LDAP Client" -f 192.168.100.21+\*:389:TCP -f 192.168.100.21+\*:389:UDP -f 192.168.100.21+\*:636:TCP -f 192.168.100.21+\*:636:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Kerberos Client" -f 192.168.100.21+\*:88:TCP -f 192.168.100.21+\*:88:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Terminal Server" -f \*+192.168.100.21:3389:TCP -f -n PASS ipsecpol -w REG -p "Packet Filter" -r "GC Client" -f 192.168.100.21+\*:3268:TCP -f 192.168.100.21+\*:3269:TCP -n PASS ipsecpol -w REG -p "Packet Filter" -r "ICMP IN OUT" -f 192.168.100.21+\*:\*:ICMP -n PASS ipsecpol -w REG -p "Packet Filter" -r "DHCP Server" -f \*:68:UDP+192.168.100.21:67:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "All Inbound Traffic" -f \*+192.168.100.21 -n BLOCK ipsecpol -w REG -p "Packet Filter" -x   
+```
+ipsecpol -w REG -p "Packet Filter" -r "DNS Client"
+   -f 192.168.100.21+*:53:TCP -f 192.168.100.21+*:53:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "SNMP Server"
+   -f *+192.168.100.21:161:TCP -f *+192.168.100.21:161:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "CIFS/SMB Client"
+   -f 192.168.100.21+*:445:TCP -f 192.168.100.21+*:445:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "CIFS/SMB Server"
+   -f *+192.168.100.21:445:TCP -f *+192.168.100.21:445:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "RPC Client"
+   -f 192.168.100.21+*:135:TCP -f 192.168.100.21+*:135:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "RPC Server"
+   -f *+192.168.100.21:135:TCP -f *+192.168.100.21:135:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "RPC Ports"
+   -f 192.168.100.21+*:57952:TCP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Client"
+   -f 192.168.100.21+*:137:TCP -f 192.168.100.21+*:137:UDP
+      -f 192.168.100.21+*:139:TCP -f 192.168.100.21+*:138:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Server"
+   -f *+192.168.100.21:137:TCP -f *+192.168.100.21:137:UDP
+   -f *+192.168.100.21:139:TCP -f *+192.168.100.21:138:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "NTP Client"
+   -f 192.168.100.21+*:123:TCP -f 192.168.100.21+*:123:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Monitoring"
+   -f 192.168.100.31+192.168.100.73 -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "LDAP Client"
+   -f 192.168.100.21+*:389:TCP -f 192.168.100.21+*:389:UDP
+   -f 192.168.100.21+*:636:TCP -f 192.168.100.21+*:636:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Kerberos Client"
+   -f 192.168.100.21+*:88:TCP -f 192.168.100.21+*:88:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Terminal Server"
+   -f *+192.168.100.21:3389:TCP -f -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "GC Client"
+   -f 192.168.100.21+*:3268:TCP -f 192.168.100.21+*:3269:TCP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "ICMP IN OUT"
+   -f 192.168.100.21+*:*:ICMP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "DHCP Server"
+   -f *:68:UDP+192.168.100.21:67:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "All Inbound Traffic"
+   -f *+192.168.100.21 -n BLOCK
+ipsecpol -w REG -p "Packet Filter" -x   
 ```  
 **予想される影響**
   
@@ -2675,10 +2816,10 @@ Contoso 社では、DHCP サーバー用に上記仕様の IPSec フィルタを
   
 -   スプーラ サービスを**有効**にします。これは印刷に使用されます。
   
--     
+
 -   **\[常にデジタル署名によるサーバー通信\]** のセキュリティ オプション設定を**無効**にします。この設定を無効にしておかないと、クライアントは印刷できてもプリント キューを表示できません。プリント キューの表示を試みると、「接続できません。アクセス拒否」のメッセージを受け取ります。
   
--   
+
   
 **注 :** Windows 2000 ファイルとプリント サーバーで、印刷クライアント向けにプリント キューの表示サポートを行うには、クライアント コンピュータ側で **\[常にデジタル署名によるクライアント通信\]** を**無効**に設定しておくことをお勧めします。
   
@@ -2734,11 +2875,11 @@ NTFRS は、Contoso 社シナリオにおけるファイルとプリント ロ�
   
 2.  **\[共有\]** を右クリックし、**\[新しいファイル共有\]** を選択し、**\[参照\]** ボタンをクリックし、**\[共有するフォルダ\]** (たとえば、E:\\Users) を探します。**\[共有名\]** ダイアログ ボックスで共有に名前を付けます。
   
-3.  4.  **\[共有フォルダの作成\]** ウィンドウで、**\[共有とフォルダのアクセス許可をカスタマイズする\]** のラジオ ボタンを選択し、**\[カスタム\]** ボタンをクリックします。
+3.  **\[共有フォルダの作成\]** ウィンドウで、**\[共有とフォルダのアクセス許可をカスタマイズする\]** のラジオ ボタンを選択し、**\[カスタム\]** ボタンをクリックします。
   
-5.  6.  **\[Everyone\]** をリストから削除するため、**\[削除\]** ボタンをクリックします。**\[追加\]** ボタンをクリックし、下部のテキスト領域で **\[Authenticated Users\]** と入力 (名前をセミコロンで区切って入力、またはリストから選択) し、**\[OK\]** ボタンをクリックします。
+4.  **\[Everyone\]** をリストから削除するため、**\[削除\]** ボタンをクリックします。**\[追加\]** ボタンをクリックし、下部のテキスト領域で **\[Authenticated Users\]** と入力 (名前をセミコロンで区切って入力、またはリストから選択) し、**\[OK\]** ボタンをクリックします。
   
-7.  **\[許可\]** 列にある **\[変更\]** チェック ボックスにチェックを付け、**\[OK\]** をクリックし、次に **\[完了\]** ボタンをクリックします。プロンプトで **\[No\]** を選択します。
+5.  **\[許可\]** 列にある **\[変更\]** チェック ボックスにチェックを付け、**\[OK\]** をクリックし、次に **\[完了\]** ボタンをクリックします。プロンプトで **\[No\]** を選択します。
   
 **既存ファイルの共有許可の監査**
   
@@ -2786,6 +2927,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
   
 **表 7.9 ファイルとプリント サーバーの IPSec ネットワーク トラフィック マップ**
   
+<p></p>
 <table style="width:100%;">
 <colgroup>
 <col width="14%" />
@@ -3134,7 +3276,7 @@ Contoso 社環境には以前から存在するファイル サーバーがな�
 </tr>
 </tbody>
 </table>
-  
+
 **注 :** 表 7.9 にリストされているホスト IP 宛先アドレスは、サーバーで設定している IP アドレスに構成します。
   
 クライアントがファイルとプリント リソースにアクセスできるようにするには、ファイルとプリント サーバー に多数の RPC 接続が必要なので、RPC 専用として使用するポート範囲を指定することをお勧めします。環境内で RPC が一定数のポートに制限されるのであれば、選択するポート範囲は 50,000 以上のポートにすることをお勧めします。これは次のレジストリ設定により設定可能です。
@@ -3161,11 +3303,9 @@ HKEY\_LOCAL\_MACHINE\\Software\\Microsoft\\RPC\\Internet\\UseInternetPorts は Y
   
 1.  セキュリティで妥協すると、攻撃者が Local Administrator または Local System アクセスを握ることになり、IPSec ポリシーを無効にするかまたは変更できるようになります。
   
-2.  3.  ターゲットのコンピュータが適切にロックダウンされていることを保証するには、**NoDefaultExempt** のレジストリの値は **1** に設定しておく*必要があります*。この設定は、このセキュリティのガイダンスで使用するすべての IPSec フィルタリング シナリオで必要です。この IPSec ガイダンスでは、シナリオごとに NoDefaultExempt を設定してテストされていませんが、この設定の構成の違いで、動きに大きな差は出ません。このガイドはこの構成変更を反映して、できるだけ早く更新していきます。NoDefaultExempt 設定の構成に関する指示については、サポート技術情報記事 [254728、「IPSec がドメイン コントローラ間の Kerberos トラフィックをセキュリティで保護されません。」](http://support.microsoft.com/kb/254728)を参照してください。
+2.  ターゲットのコンピュータが適切にロックダウンされていることを保証するには、**NoDefaultExempt** のレジストリの値は **1** に設定しておく*必要があります*。この設定は、このセキュリティのガイダンスで使用するすべての IPSec フィルタリング シナリオで必要です。この IPSec ガイダンスでは、シナリオごとに NoDefaultExempt を設定してテストされていませんが、この設定の構成の違いで、動きに大きな差は出ません。このガイドはこの構成変更を反映して、できるだけ早く更新していきます。NoDefaultExempt 設定の構成に関する指示については、サポート技術情報記事 [254728、「IPSec がドメイン コントローラ間の Kerberos トラフィックをセキュリティで保護されません。」](http://support.microsoft.com/kb/254728)を参照してください。
   
-4.  5.  IPSec では出力方向の接続に多様なフィルタリング機能を提供していません。このため、このセキュリティ ガイダンスの一環で、静的な入力フィルタが作成され、出力情報への応答を受信できるように保証しています。これにより、攻撃者が現在のシステムのサーバーのオープン ポートを走査し、接続を試みたとしても、その多くは効果的にブロックされます。ただし、攻撃者が IPSec 入力許可フィルタを通じて接続を可能にする特殊なツールを使う可能性はまだ存在しています。任意の宛先の IP (Internet Protocol) アドレスへの出力許可フィルタが必要な場合は (たとえば、出力フィルタリングを使用すれば、SMTP (Simple Mail Transfer Protocol) サーバーはインターネットに接続されている他の宛先 SMTP サーバーに電子メールを送信できます)、ファイアウォールまたは多様な機能を持つフィルタリング装置をホスト コンピュータとインターネットの間に設置する*必要があります*。可能であれば、出力許可フィルタは、トラフィックの受信に必要な IP アドレスに対応させることをお勧めします。
-  
-6.  
+3.  IPSec では出力方向の接続に多様なフィルタリング機能を提供していません。このため、このセキュリティ ガイダンスの一環で、静的な入力フィルタが作成され、出力情報への応答を受信できるように保証しています。これにより、攻撃者が現在のシステムのサーバーのオープン ポートを走査し、接続を試みたとしても、その多くは効果的にブロックされます。ただし、攻撃者が IPSec 入力許可フィルタを通じて接続を可能にする特殊なツールを使う可能性はまだ存在しています。任意の宛先の IP (Internet Protocol) アドレスへの出力許可フィルタが必要な場合は (たとえば、出力フィルタリングを使用すれば、SMTP (Simple Mail Transfer Protocol) サーバーはインターネットに接続されている他の宛先 SMTP サーバーに電子メールを送信できます)、ファイアウォールまたは多様な機能を持つフィルタリング装置をホスト コンピュータとインターネットの間に設置する*必要があります*。可能であれば、出力許可フィルタは、トラフィックの受信に必要な IP アドレスに対応させることをお勧めします。
   
 **重要 :** IPSec であっても、コンピュータ起動中は完全なセキュリティを提供できません。TCP/IP (Transmission Control Protocol/Internet Protocol) スタックの応答が良い場合もまれにあり、IPSec ポリシーでブロックするアプリケーション ポートに自動攻撃でアクセスできてしまう場合があります。多くの場合、アプリケーションが接続処理を開始できないうちに、IPSec フィルタリングが有効になります。IPSec ポリシー エージェント サービスの開始と同期を取っても、フィルタがタイミング良く有効になることを保証するものではありません。
   
@@ -3177,13 +3317,96 @@ IPSecPol は 1 度に 1 ポートしか追加できないという点で制約�
   
 以下のサンプル コードは、IPSec ポリシーに追加すべきポートごとに別のリストを含む c:\\ipsec.bat というファイルを生成します。PORT\_START 変数は RPC 範囲で最初に定義するポートを定義し、PORT\_END は範囲の終わりを定義します。POLICY\_NAME は IPSec ポリシーの名前で、ポート フィルタの追加先です。IP\_ADDR の値は、ポリシーを実装するサーバーの IP アドレスを反映して修正する必要があります。
   
-<codesnippet language displaylanguage containsmarkup="false"> PORT\_START = 57901 PORT\_END = 57950 POLICY\_NAME = "Packet Filter" RULE\_NAME = "RPC Ports" IP\_ADDR = "192.168.100.31" BATCH\_FILE = "c:\\ipsec.bat" Dim fso Dim tf Const ForWriting = 2 Set fso = CreateObject("Scripting.FileSystemObject") Set tf = fso.OpenTextFile(BATCH\_FILE, ForWriting, True) tf.Write "ipsecpol -w REG -p " & chr(34) & POLICY\_NAME & chr(34) & " -r " & chr(34) & RULE\_NAME & chr(34) For i = PORT\_START TO PORT\_END tf.Write " -f \*+" & IP\_ADDR & ":" & i & ":TCP" Next tf.WriteLine " -n PASS" tf.Close   
+```
+PPORT_START = 57901
+PORT_END = 57950
+POLICY_NAME = "Packet Filter"
+RULE_NAME = "RPC Ports"
+IP_ADDR = "192.168.100.31"
+BATCH_FILE = "c:\ipsec.bat"
+Dim fso
+Dim tf
+Const ForWriting = 2
+Set fso = CreateObject("Scripting.FileSystemObject")
+Set tf = fso.OpenTextFile(BATCH_FILE, ForWriting, True)
+tf.Write "ipsecpol -w REG -p " & chr(34) & 
+POLICY_NAME & chr(34) & " -r " 
+& chr(34) & RULE_NAME & chr(34)
+For i = PORT_START TO PORT_END
+tf.Write " -f *+" & IP_ADDR & ":" & i & ":TCP"
+Next
+tf.WriteLine " -n PASS"
+tf.Close   
 ```  
 同様のコードを使用し、あまり手間をかけずに IPSec ポリシーを実行および確立するバッチ ファイルを生成できます。このバッチ ファイルはテーブル中の「RPC 範囲」という印より上の領域を扱います。ポートの残りについては、他のサーバー の役割で議論したものと同じ方法で扱う必要があります。
   
 ポート範囲を決定し、フィルタを実装する IPSecPol ステートメントを作成してから、これらのものと残りのコマンドを組み合わせてサーバー上で実行することをお勧めします。以下にコマンドを 1 つにまとめたサンプルを記載します。このコマンドのセットは、このガイドに付属するバッチ ファイルにも含まれています。
   
-<codesnippet language displaylanguage containsmarkup="false"> ipsecpol -w REG -p "Packet Filter" -r "DNS Client" -f 192.168.100.31+\*:53:TCP -f 192.168.100.31+\*:53:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "SNMP Server" -f \*+192.168.100.31:161:TCP -f \*+192.168.100.31:161:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "CIFS Client" -f 192.168.100.31+\*:445:TCP -f 192.168.100.31+\*:445:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "CIFS Server" -f \*+192.168.100.31:445:TCP -f \*+192.168.100.31:445:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "RPC Client" -f 192.168.100.31+\*:135:TCP -f 192.168.100.31+\*:135:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "RPC Server" -f \*+192.168.100.31:135:TCP -f \*+192.168.100.31:135:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "RPC Ports" -f \*+192.168.100.31:57901:TCP -f \*+192.168.100.31:57902:TCP -f \*+192.168.100.31:57903:TCP -f \*+192.168.100.31:57904:TCP -f \*+192.168.100.31:57905:TCP -f \*+192.168.100.31:57906:TCP -f \*+192.168.100.31:57907:TCP -f \*+192.168.100.31:57908:TCP -f \*+192.168.100.31:57909:TCP -f \*+192.168.100.31:57910:TCP -f \*+192.168.100.31:57911:TCP -f \*+192.168.100.31:57912:TCP -f \*+192.168.100.31:57913:TCP -f \*+192.168.100.31:57914:TCP -f \*+192.168.100.31:57915:TCP -f \*+192.168.100.31:57916:TCP -f \*+192.168.100.31:57917:TCP -f \*+192.168.100.31:57918:TCP -f \*+192.168.100.31:57919:TCP -f \*+192.168.100.31:57920:TCP -f \*+192.168.100.31:57921:TCP -f \*+192.168.100.31:57922:TCP -f \*+192.168.100.31:57923:TCP -f \*+192.168.100.31:57924:TCP -f \*+192.168.100.31:57925:TCP -f \*+192.168.100.31:57926:TCP -f \*+192.168.100.31:57927:TCP -f \*+192.168.100.31:57928:TCP -f \*+192.168.100.31:57929:TCP -f \*+192.168.100.31:57930:TCP -f \*+192.168.100.31:57931:TCP -f \*+192.168.100.31:57932:TCP -f \*+192.168.100.31:57933:TCP -f \*+192.168.100.31:57934:TCP -f \*+192.168.100.31:57935:TCP -f \*+192.168.100.31:57936:TCP -f \*+192.168.100.31:57937:TCP -f \*+192.168.100.31:57938:TCP -f \*+192.168.100.31:57939:TCP -f \*+192.168.100.31:57940:TCP -f \*+192.168.100.31:57941:TCP -f \*+192.168.100.31:57942:TCP -f \*+192.168.100.31:57943:TCP -f \*+192.168.100.31:57944:TCP -f \*+192.168.100.31:57945:TCP -f \*+192.168.100.31:57946:TCP -f \*+192.168.100.31:57947:TCP -f \*+192.168.100.31:57948:TCP -f \*+192.168.100.31:57949:TCP -f \*+192.168.100.31:57950:TCP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Additional RPC Ports" -f 192.168.100.31+\*:57952:TCP -n PASS ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Client" -f 192.168.100.31+\*:137:TCP -f 192.168.100.31+\*:137:UDP -f 192.168.100.31+\*:139:TCP -f 192.168.100.31+\*:138:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Server" -f \*+192.168.100.31:137:TCP -f \*+192.168.100.31:137:UDP -f \*+192.168.100.31:139:TCP -f \*+192.168.100.31:138:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "NTP Client" -f 192.168.100.31+\*:123:TCP -f 192.168.100.31+\*:123:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Monitoring" -f 192.168.100.31+192.168.100.73 -n PASS ipsecpol -w REG -p "Packet Filter" -r "LDAP Client" -f 192.168.100.31+\*:389:TCP -f 192.168.100.31+\*:389:UDP -f 192.168.100.31+\*:636:TCP -f 192.168.100.31+\*:636:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Kerberos Client" -f 192.168.100.31+\*:88:TCP -f 192.168.100.31+\*:88:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Terminal Server" -f \*+192.168.100.31:3389:TCP -f -n PASS ipsecpol -w REG -p "Packet Filter" -r "GC Client" -f 192.168.100.31+\*:3268:TCP -f 192.168.100.31+\*:3269:TCP -n PASS ipsecpol -w REG -p "Packet Filter" -r "ICMP" -f 192.168.100.31+\*:\*:ICMP -f \*+192.168.100.31:\*:ICMP -n PASS ipsecpol -w REG -p "Packet Filter" -r "All Inbound Traffic" -f \*+192.168.100.31 -n BLOCK ipsecpol -w REG -p "Packet Filter" -x   
+```
+ipsecpol -w REG -p "Packet Filter" -r "DNS Client"
+   -f 192.168.100.31+*:53:TCP -f 192.168.100.31+*:53:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "SNMP Server"
+   -f *+192.168.100.31:161:TCP -f *+192.168.100.31:161:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "CIFS Client"
+   -f 192.168.100.31+*:445:TCP -f 192.168.100.31+*:445:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "CIFS Server"
+   -f *+192.168.100.31:445:TCP -f *+192.168.100.31:445:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "RPC Client"
+   -f 192.168.100.31+*:135:TCP -f 192.168.100.31+*:135:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "RPC Server"
+   -f *+192.168.100.31:135:TCP -f *+192.168.100.31:135:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "RPC Ports"
+   -f *+192.168.100.31:57901:TCP -f *+192.168.100.31:57902:TCP
+   -f *+192.168.100.31:57903:TCP -f *+192.168.100.31:57904:TCP
+      -f *+192.168.100.31:57905:TCP -f *+192.168.100.31:57906:TCP
+      -f *+192.168.100.31:57907:TCP -f *+192.168.100.31:57908:TCP
+      -f *+192.168.100.31:57909:TCP -f *+192.168.100.31:57910:TCP
+      -f *+192.168.100.31:57911:TCP -f *+192.168.100.31:57912:TCP
+      -f *+192.168.100.31:57913:TCP -f *+192.168.100.31:57914:TCP
+      -f *+192.168.100.31:57915:TCP -f *+192.168.100.31:57916:TCP
+      -f *+192.168.100.31:57917:TCP -f *+192.168.100.31:57918:TCP
+      -f *+192.168.100.31:57919:TCP -f *+192.168.100.31:57920:TCP
+      -f *+192.168.100.31:57921:TCP -f *+192.168.100.31:57922:TCP
+      -f *+192.168.100.31:57923:TCP -f *+192.168.100.31:57924:TCP
+      -f *+192.168.100.31:57925:TCP -f *+192.168.100.31:57926:TCP
+      -f *+192.168.100.31:57927:TCP -f *+192.168.100.31:57928:TCP
+      -f *+192.168.100.31:57929:TCP -f *+192.168.100.31:57930:TCP
+      -f *+192.168.100.31:57931:TCP -f *+192.168.100.31:57932:TCP
+      -f *+192.168.100.31:57933:TCP -f *+192.168.100.31:57934:TCP
+      -f *+192.168.100.31:57935:TCP -f *+192.168.100.31:57936:TCP
+      -f *+192.168.100.31:57937:TCP -f *+192.168.100.31:57938:TCP
+      -f *+192.168.100.31:57939:TCP -f *+192.168.100.31:57940:TCP
+      -f *+192.168.100.31:57941:TCP -f *+192.168.100.31:57942:TCP
+      -f *+192.168.100.31:57943:TCP -f *+192.168.100.31:57944:TCP
+      -f *+192.168.100.31:57945:TCP -f *+192.168.100.31:57946:TCP
+      -f *+192.168.100.31:57947:TCP -f *+192.168.100.31:57948:TCP
+      -f *+192.168.100.31:57949:TCP -f *+192.168.100.31:57950:TCP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Additional RPC Ports"
+   -f 192.168.100.31+*:57952:TCP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Client"
+   -f 192.168.100.31+*:137:TCP -f 192.168.100.31+*:137:UDP
+   -f 192.168.100.31+*:139:TCP -f 192.168.100.31+*:138:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Server"
+   -f *+192.168.100.31:137:TCP -f *+192.168.100.31:137:UDP
+   -f *+192.168.100.31:139:TCP -f *+192.168.100.31:138:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "NTP Client"
+   -f 192.168.100.31+*:123:TCP -f 192.168.100.31+*:123:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Monitoring"
+   -f 192.168.100.31+192.168.100.73 -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "LDAP Client"
+   -f 192.168.100.31+*:389:TCP -f 192.168.100.31+*:389:UDP
+   -f 192.168.100.31+*:636:TCP -f 192.168.100.31+*:636:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Kerberos Client"
+   -f 192.168.100.31+*:88:TCP -f 192.168.100.31+*:88:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Terminal Server"
+   -f *+192.168.100.31:3389:TCP -f -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "GC Client"
+   -f 192.168.100.31+*:3268:TCP -f 192.168.100.31+*:3269:TCP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "ICMP"
+   -f 192.168.100.31+*:*:ICMP -f *+192.168.100.31:*:ICMP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "All Inbound Traffic"
+   -f *+192.168.100.31 -n BLOCK
+ipsecpol -w REG -p "Packet Filter" -x   
 ```  
 **予想される影響**
   
@@ -3229,20 +3452,16 @@ IIS Lockdown Tool は、対話的に IIS サーバーが果たすアプリケー
   
 IIS Lockdown Tool では、セキュリティ保護されている Web サーバーで役立つ多数のステップを実行可能です。これには次のようなものがあります。
   
--   サービスとコンポーネントの無効化
-  
--     
--   URLScan のインストール
-  
--     
+-   サービスとコンポーネントの無効化  
+
+-   URLScan のインストール  
+
 -   不要な ISAPI DLL スクリプト マッピングの削除
   
--   不要なディレクトリの削除
-  
--     
--   ファイルとフォルダ ACL の変更
-  
--   
+-   不要なディレクトリの削除  
+
+-   ファイルとフォルダ ACL の変更  
+
   
 IIS ロックダウンは、多くの種類の IIS サーバー の役割をセキュリティで保護するために利用可能です。環境に応じて各 IIS サーバーでホスティングしているアプリケーションの種類に最も適した役割を選択することをお勧めします。
   
@@ -3254,21 +3473,21 @@ Contoso 社環境では、IIS は ASP (Active Server Pages) の利用をサポ�
   
 1.  **iislockd.exe** を開始します。
   
-2.  3.  **\[次へ\]** をクリックします。
+2.  **\[次へ\]** をクリックします。
   
-4.  5.  **\[同意します\]** をクリックし、**\[次へ\]** をクリックします。
+3.  **\[同意します\]** をクリックし、**\[次へ\]** をクリックします。
   
-6.  7.  **\[Dynamic Web server (ASP enabled)\]** をクリックし、**\[次へ\]** をクリックします。
+4.  **\[Dynamic Web server (ASP enabled)\]** をクリックし、**\[次へ\]** をクリックします。
   
-8.  **\[Install URLScan filter on the server\]** が選択されていることを確認し、**\[次へ\]** をクリックします。
+5.  **\[Install URLScan filter on the server\]** が選択されていることを確認し、**\[次へ\]** をクリックします。
   
-9.  10. **\[次へ\]** をクリックします。
+6. **\[次へ\]** をクリックします。
   
-11. 12. **\[デジタル署名が見つかりませんでした\]** ダイアログ ボックスが表示されたら **\[はい\]** をクリックします。
+7. **\[デジタル署名が見つかりませんでした\]** ダイアログ ボックスが表示されたら **\[はい\]** をクリックします。
   
-13. 14. **\[次へ\]** をクリックします。
+8. **\[次へ\]** をクリックします。
   
-15. 16. **\[完了\]** をクリックします。
+9. **\[完了\]** をクリックします。
   
 **注 :** IIS Lockdown Tool は、選択した設定の導入を自動化する無人モードでも動作可能です。詳細については、iislockd.exe の自動解凍型 zip ファイルに含まれている RunLockdUnattended.doc のヘルプ ファイルを参照してください。
   
@@ -3276,56 +3495,42 @@ Contoso 社環境では、IIS は ASP (Active Server Pages) の利用をサポ�
   
 -   FTP サービスが無効となります。
   
--   電子メール (SMTP) サービスが無効となります。
-  
--     
--   NNTP (Network News Transport Protocol) サービスが無効となります。
-  
--     
+-   電子メール (SMTP) サービスが無効となります。  
+
+-   NNTP (Network News Transport Protocol) サービスが無効となります。  
+
 -   Index Server Web インターフェイス (.idq、.htw、.ida) スクリプト マップが無効になります。
   
--   サーバー サイド インクルード (.shtml、.shtm、.stm) であるスクリプト マップが無効になります。
-  
--     
--   Internet Data Connector (.idc) スクリプト マップが無効になります。
-  
--     
--   HTR スクリプティング (.htr) スクリプト マップが無効になります。
-  
--     
--   インターネット印刷 (.printer) スクリプト マップが無効になります。
-  
--     
--   プリンタ仮想ディレクトリが削除されます。
-  
--     
--   IIS サンプル仮想ディレクトリが削除されます。
-  
--     
--   スクリプト仮想ディレクトリが削除されます。
-  
--     
--   MSADC 仮想ディレクトリが削除されます。
-  
--     
--   IISAdmin 仮想ディレクトリが削除されます。
-  
--     
--   IISAdmin Web サイトが削除されます。
-  
--     
+-   サーバー サイド インクルード (.shtml、.shtm、.stm) であるスクリプト マップが無効になります。  
+
+-   Internet Data Connector (.idc) スクリプト マップが無効になります。  
+
+-   HTR スクリプティング (.htr) スクリプト マップが無効になります。  
+
+-   インターネット印刷 (.printer) スクリプト マップが無効になります。  
+
+-   プリンタ仮想ディレクトリが削除されます。  
+
+-   IIS サンプル仮想ディレクトリが削除されます。  
+
+-   スクリプト仮想ディレクトリが削除されます。  
+
+-   MSADC 仮想ディレクトリが削除されます。  
+
+-   IISAdmin 仮想ディレクトリが削除されます。  
+
+-   IISAdmin Web サイトが削除されます。  
+
 -   IISHelp 仮想ディレクトリが削除されます。
   
 -   匿名 IIS ユーザーがシステム ユーティリティを実行しないようにファイル アクセス許可が設定されます。
   
 -   匿名 IIS ユーザーがコンテンツ ディレクトリに書き込まないようにファイル アクセス許可が設定されます。
   
--   WebDAV (Web Distributed Authoring and Versioning) が無効になります。
-  
--     
--   URLScan フィルタは、サーバーにインストールされます。
-  
--   
+-   WebDAV (Web Distributed Authoring and Versioning) が無効になります。  
+
+-   URLScan フィルタは、サーバーにインストールされます。  
+
   
 **注 :** 別の IIS ロックダウン セキュリティ テンプレートが必要な場合、または選択した設定のカスタマイズが必要な場合は、MSBP により無効にした追加サービスを再び有効にする必要があるかもしれません。これに含まれるものとしては、SMTP、NNTP、または FTP があります。
   
@@ -3355,19 +3560,17 @@ iislockd.ini ファイルの UninstallServices 設定は慎重に検討する必
   
 1.  WinZip のような解凍ユーティリティを使って **IISLockd.exe** ファイルを開き、すべてのファイルをハードディスクに取り出します。
   
-2.  3.  **Notepad.exe** で **iislockd.ini** を開きます。
+2.  **Notepad.exe** で **iislockd.ini** を開きます。
   
-4.  5.  設定する役割に対応する場所 (たとえば、動的 Web サーバー の役割に対する dynamicweb) を探し、その場所にある **UninstallServices** 設定を **TRUE** の値に変更します。
+3.  設定する役割に対応する場所 (たとえば、動的 Web サーバー の役割に対する dynamicweb) を探し、その場所にある **UninstallServices** 設定を **TRUE** の値に変更します。
   
-6.  7.  **Info** で、使用するサーバー テンプレートに適合する名前を入力し、**UnattendedServerType** 設定を構成します。たとえば、動的 Web テンプレートを適用したいのであれば、UnattendedServerType を **dynamicweb** に等しくします。
+4.  **Info** で、使用するサーバー テンプレートに適合する名前を入力し、**UnattendedServerType** 設定を構成します。たとえば、動的 Web テンプレートを適用したいのであれば、UnattendedServerType を **dynamicweb** に等しくします。
   
-8.  9.  **\[無人\]** 設定を **TRUE** の値に変更します。
+5.  **\[無人\]** 設定を **TRUE** の値に変更します。
   
-10. 11. **iislockd.ini** ファイルを保存します。
+6.  **iislockd.ini** ファイルを保存します。
   
-12. 13. **iislockd.exe** をコマンド ラインまたはスクリプト内から実行します。
-  
-14. 
+7.  **iislockd.exe** をコマンド ラインまたはスクリプト内から実行します。
   
 **スクリプト マッピングの無効化**
   
@@ -3375,18 +3578,14 @@ iislockd.ini ファイルの UninstallServices 設定は慎重に検討する必
   
 IIS 関連のスクリプト マッピングは、機能性向上がセキュリティ低下を引き起こす原理を非常に良く示している例です。スクリプト マッピングは、Web サイトに多大な価値を与えてくれる非常に強力な仕掛けですが、ほとんどのマッピングは、Windows 2000 の提供開始後のある時点から、セキュリティの脅威にさらされ続けてきました。
   
--   .ida と .idq のスクリプト マッピングは、インデックス サーバーに拡張機能を提供する ISAPI 拡張です。数ある脆弱性の中でも、idq.dll ファイルのバッファをチェックしないことにより、攻撃者がサーバーのコントロールを完全に奪える弱点を含んでいます。この脆弱性が、Code Red ワームで利用されたのは非常に有名な話です。詳細については、マイクロソフト セキュリティ情報 MS01-033 を参照してください。
-  
--     
--   .htw ISAPI フィルタは、マイクロソフト インデックス サーバーに追加機能を提供します。関連する webhits.dll ファイルの脆弱性は、ブラウザや HTML 準拠の電子メール クライアントを通じ、攻撃的なリンクを開く可能性を作り出しました。これにより、Javascript などのアクティブ コンテンツの実行が引き起こされます。詳細については、マイクロソフト セキュリティ情報 MS01-025 を参照してください。
-  
--     
--   .shtml マッピングは Smart HTML インタープリタであり、サーバー サイド インクルードをサポートするために使用する Microsoftｮ FrontPageｮ Server Extensions の一部です。ssiinc.dll ファイルには、Web サーバー上にある攻撃者指定のコンテンツをブラウザに返すために利用される脆弱性が含まれていました。詳細についてはマイクロソフト セキュリティ情報 MS00-060 を参照してください。
-  
--     
--   .idc マッピングではエラー ページの URL 全体を返すという、クロス サイト間のスクリプティング脆弱性を利用される可能性があり、攻撃者はサーバーで任意のスクリプト コードを実行できます。この問題は Windows 2000 SP3 で解決されました。
-  
--     
+-   .ida と .idq のスクリプト マッピングは、インデックス サーバーに拡張機能を提供する ISAPI 拡張です。数ある脆弱性の中でも、idq.dll ファイルのバッファをチェックしないことにより、攻撃者がサーバーのコントロールを完全に奪える弱点を含んでいます。この脆弱性が、Code Red ワームで利用されたのは非常に有名な話です。詳細については、マイクロソフト セキュリティ情報 MS01-033 を参照してください。  
+
+-   .htw ISAPI フィルタは、マイクロソフト インデックス サーバーに追加機能を提供します。関連する webhits.dll ファイルの脆弱性は、ブラウザや HTML 準拠の電子メール クライアントを通じ、攻撃的なリンクを開く可能性を作り出しました。これにより、Javascript などのアクティブ コンテンツの実行が引き起こされます。詳細については、マイクロソフト セキュリティ情報 MS01-025 を参照してください。  
+
+-   .shtml マッピングは Smart HTML インタープリタであり、サーバー サイド インクルードをサポートするために使用する Microsoftｮ FrontPageｮ Server Extensions の一部です。ssiinc.dll ファイルには、Web サーバー上にある攻撃者指定のコンテンツをブラウザに返すために利用される脆弱性が含まれていました。詳細についてはマイクロソフト セキュリティ情報 MS00-060 を参照してください。  
+
+-   .idc マッピングではエラー ページの URL 全体を返すという、クロス サイト間のスクリプティング脆弱性を利用される可能性があり、攻撃者はサーバーで任意のスクリプト コードを実行できます。この問題は Windows 2000 SP3 で解決されました。  
+
 -   .htr ISAPI 拡張は、ASP 開発向けに用意された第一世代のスクリプティング技術でしたが、広く採用されることはありませんでした。ファイルの脆弱性は、ASP ファイルのソース コードを公開するために利用可能でした。詳細については、マイクロソフト セキュリティ情報 MS00-031 と MS01-014 を参照してください。
   
 -   プリンタ ISAPI 拡張は、インターネット プロトコルで印刷を利用するために作成されました。msw3prt.dll の脆弱性は、攻撃者にターゲットの IIS システムのリモート コンソールを提供するために利用可能でした。詳細については、マイクロソフト セキュリティ情報 MS01-023 を参照してください。
@@ -3415,23 +3614,21 @@ IIS Lockdown Tool は、Contoso 社シナリオで使用され、すべての不
   
 1.  **\[Internet Services Manager MMC snap-in\]** を開始します。
   
-2.  3.  左側のウィンドウで、サーバー (別名マスター サイト) を右クリックし、**\[プロパティ\]** をクリックします。
+2.  左側のウィンドウで、サーバー (別名マスター サイト) を右クリックし、**\[プロパティ\]** をクリックします。
   
-4.  5.  **\[Master Properties\]** のドロップ ダウン リスト ボックスで、**\[WWWService\]** が選択されていることを確認し、隣にある **\[編集\]** ボタンをクリックします。
+3.  **\[Master Properties\]** のドロップ ダウン リスト ボックスで、**\[WWWService\]** が選択されていることを確認し、隣にある **\[編集\]** ボタンをクリックします。
   
-6.  7.  **\[ホーム ディレクトリ\]** タブをクリックします。
+4.  **\[ホーム ディレクトリ\]** タブをクリックします。
   
-8.  9.  **\[構成\]** をクリックします。
+5.  **\[構成\]** をクリックします。
   
-10. 11. マッピングのリストから拡張を 1 つ選択し、**\[編集\]** をクリックします。
+6.  マッピングのリストから拡張を 1 つ選択し、**\[編集\]** をクリックします。
   
-12. 13. **\[参照\]** をクリックし、c:\\winnt\\system32\\inetsrv\\404.dll へ移動します。
+7.  **\[参照\]** をクリックし、c:\\winnt\\system32\\inetsrv\\404.dll へ移動します。
   
-14. 15. **\[開く\]** をクリックし、次に **\[OK\]** をクリックします。
+8.  **\[開く\]** をクリックし、次に **\[OK\]** をクリックします。
   
-16. 17. 残りのファイル拡張のすべてに対して、**ステップ 6**、**7**、および **8** を繰り返します。
-  
-18. 
+9.  残りのファイル拡張のすべてに対して、**ステップ 6**、**7**、および **8** を繰り返します。
   
 **インターネット印刷**
   
@@ -3463,13 +3660,13 @@ IIS Lockdown Tool を使い、Contoso 社環境でインターネット印刷を
   
 1.  IPP を無効とする GPO を編集する許可を持つユーザーとして **\[Active Directory ユーザーとコンピュータ\]** を開始します。
   
-2.  3.  GPO が格納されている **OU** を右クリックし、**\[プロパティ\]** をクリックします。
+2.  GPO が格納されている **OU** を右クリックし、**\[プロパティ\]** をクリックします。
   
-4.  5.  **\[グループ ポリシー\]** タブをクリックし、編集する **GPO** をクリックし、次に **\[編集\]** ボタンをクリックします。
+3.  **\[グループ ポリシー\]** タブをクリックし、編集する **GPO** をクリックし、次に **\[編集\]** ボタンをクリックします。
   
-6.  7.  **\[コンピュータ構成\]** フォルダ、次に **\[管理用テンプレート\]** をダブルクリックし、**\[プリンタ\]** をダブルクリックします。
+4.  **\[コンピュータ構成\]** フォルダ、次に **\[管理用テンプレート\]** をダブルクリックし、**\[プリンタ\]** をダブルクリックします。
   
-8.  **\[Web-based Printing\]** 設定をダブルクリックし、**\[無効\]** ラジオ ボタンを選択し、**\[OK\]** をクリックします。
+5.  **\[Web-based Printing\]** 設定をダブルクリックし、**\[無効\]** ラジオ ボタンを選択し、**\[OK\]** をクリックします。
   
 **仮想ディレクトリとサンプル アプリケーションの削除**
   
@@ -3489,19 +3686,15 @@ IIS 5.0 の既定のインストールに含まれていたサンプル アプ�
   
 1.  **\[MMC の IIS スナップイン\]** を使用し、適切な仮想ディレクトリを削除します。
   
-2.  3.  **\[エクスプローラ\]** を使用し、配下のフォルダを物理的に削除します。
-  
-4.  
+2.  **\[エクスプローラ\]** を使用し、配下のフォルダを物理的に削除します。
   
 **リモート IIS 管理アプリケーションを削除する方法**
   
 1.  **\[MMC の IIS スナップイン\]** を使用し、管理用 Web サイトを停止します。
   
-2.  3.  **\[スナップイン\]** を使用し、仮想ディレクトリを削除します。
+2.  **\[スナップイン\]** を使用し、仮想ディレクトリを削除します。
   
-4.  5.  **\[エクスプローラ\]** を使用し、配下のフォルダを物理的に削除します。
-  
-6.  
+3.  **\[エクスプローラ\]** を使用し、配下のフォルダを物理的に削除します。
   
 **予想される影響**
   
@@ -3513,21 +3706,15 @@ Contoso 社シナリオで IIS Lockdown Tool を使用し、すべての仮想�
   
 サンプル アプリケーションとその他の不要なファイルは手作業で削除しました。次のディレクトリを削除しました。
   
--   C:\\inetpub\\scripts
-  
--     
--   C:\\inetpub\\iissamples
-  
--     
--   C:\\Program Files\\Common files\\system\\msadc
-  
--     
--   C:\\winnt\\help\\iishelp
-  
--     
+-   C:\\inetpub\\scripts  
+
+-   C:\\inetpub\\iissamples  
+
+-   C:\\Program Files\\Common files\\system\\msadc  
+
+-   C:\\winnt\\help\\iishelp  
+
 -   C:\\Winnt\\system32\\inetsrv\\iisadmin
-  
--   
   
 **IIS ユーザーのファイルアクセス許可のロックダウン**
   
@@ -3539,12 +3726,10 @@ Contoso 社シナリオで IIS Lockdown Tool を使用し、すべての仮想�
   
 次の 2 つの対応策を実施します。
   
--   **C:\\WINNT** とすべての**サブフォルダ**にある**すべての実行可能ファイル**に **ACE (Access Control Entry)** を追加します (つまり既存の ACL に ACE を追加します)。この ACE は、(IUSR\_computername を含めて) コンピュータに設定されたすべての匿名ユーザー アカウントだけでなく、(IWAM\_computername を含めて) Web アプリケーションの実行に使用する全ユーザー アカウントでサーバー上に定義されているものに対して、実行特権を拒否します。
-  
--     
--   **ACE** を**仮想ディレクトリで参照されるすべてのファイルとフォルダの既存 ACL** に追加し、リモート コンピュータに存在するファイルとフォルダを含めます。この ACE は、(IUSR\_computername を含めて) コンピュータに設定されたすべての匿名ユーザー アカウントだけでなく、(IWAM\_computername を含めて) Web アプリケーションの実行に使用する全ユーザー アカウントでサーバー上に定義されているものに対して、書き込み特権を拒否します。
-  
--   
+-   **C:\\WINNT** とすべての**サブフォルダ**にある**すべての実行可能ファイル**に **ACE (Access Control Entry)** を追加します (つまり既存の ACL に ACE を追加します)。この ACE は、(IUSR\_computername を含めて) コンピュータに設定されたすべての匿名ユーザー アカウントだけでなく、(IWAM\_computername を含めて) Web アプリケーションの実行に使用する全ユーザー アカウントでサーバー上に定義されているものに対して、実行特権を拒否します。  
+
+-   **ACE** を**仮想ディレクトリで参照されるすべてのファイルとフォルダの既存 ACL** に追加し、リモート コンピュータに存在するファイルとフォルダを含めます。この ACE は、(IUSR\_computername を含めて) コンピュータに設定されたすべての匿名ユーザー アカウントだけでなく、(IWAM\_computername を含めて) Web アプリケーションの実行に使用する全ユーザー アカウントでサーバー上に定義されているものに対して、書き込み特権を拒否します。  
+
   
 これらのアクションは両方とも、IIS Lockdown Tool で自動的に実施可能です。
   
@@ -3595,52 +3780,36 @@ URLScan の大部分は、%systemroot%\\system32\\inetsrv\\urlscan ディレク�
 urlscan.ini ファイルの Options セクションには、URLScan が使用する 16 種類の設定が含まれます。このような設定では urlscan.ini ファイル内のサブ設定で使用する設定を参照する場合があります。これらの設定には次のものがあります。
   
 -   UseAllowVerbs
-  
--   UseAllowExtensions
-  
--     
--   NormalizeUrlBeforeScan
-  
--     
--   VerifyNormalization
-  
--     
--   AllowHighBitCharacters
-  
--     
--   AllowDotInPath
-  
--     
--   RemoveServerHeader
-  
--     
--   AlternateServerName
-  
--     
--   EnableLogging
-  
--     
--   PerProcessLogging
-  
--     
--   PerDayLogging
-  
--     
--   LogLongUrls
-  
--     
--   LoggingDirectory
-  
--     
--   AllowLateScanning
-  
--     
--   RejectResponseUrl
-  
--     
+
+-   UseAllowExtensions  
+
+-   NormalizeUrlBeforeScan  
+
+-   VerifyNormalization  
+
+-   AllowHighBitCharacters  
+
+-   AllowDotInPath  
+
+-   RemoveServerHeader  
+
+-   AlternateServerName  
+
+-   EnableLogging  
+
+-   PerProcessLogging  
+
+-   PerDayLogging  
+
+-   LogLongUrls  
+
+-   LoggingDirectory  
+
+-   AllowLateScanning  
+
+-   RejectResponseUrl  
+
 -   UseFastPathReject.
-  
--   
   
 これらの設定のほとんどは、1 (真) または 0 (偽) で設定します。詳細設定が必要なものについては以下で説明します。詳細については、マイクロソフト サポート技術情報 [326444](http://support.microsoft.com/kb/326444) 「\[HOW TO\] Configure the URLScan Tool」を参照してください。
   
@@ -3705,8 +3874,8 @@ IIS サーバー ロールは、ベースライン Windows 2000 サーバー ポ
 このようなサービスは増分 IIS ポリシーで有効としました。
   
 **表 7.10 増分 IIS ポリシー サービス設定**
-
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -3733,35 +3902,27 @@ IIS サーバー ロールは、ベースライン Windows 2000 サーバー ポ
 </tr>
 </tbody>
 </table>
-  
+
 #### 手動セキュリティ設定
   
 増分 IIS ポリシーに加えて、手作業で実装すべき改善ステップがいくつかあります。これには次のものがあります。
   
--   Web コンテンツ ディレクトリの再配置
-  
--     
--   ログ ファイルの再配置とセキュリティ保護
-  
--     
--   メタベース許可の強化
-  
--     
--   HTTP 応答でのコンテンツ場所の無効化
-  
--     
--   詳細 ASP エラー メッセージの無効化
-  
--     
--   FrontPage 2000 Server Extensions の削除
-  
--     
--   追加仮想サーバーの削除
-  
--     
--   IPSec フィルタの設定
-  
--   
+-   Web コンテンツ ディレクトリの再配置  
+
+-   ログ ファイルの再配置とセキュリティ保護  
+
+-   メタベース許可の強化  
+
+-   HTTP 応答でのコンテンツ場所の無効化  
+
+-   詳細 ASP エラー メッセージの無効化  
+
+-   FrontPage 2000 Server Extensions の削除  
+
+-   追加仮想サーバーの削除  
+
+-   IPSec フィルタの設定 
+
   
 **Web コンテンツ ディレクトリの再配置**
   
@@ -3789,21 +3950,19 @@ Contoso 社の Research Web サイトがこの典型的な例として使用さ�
   
 1.  **\[MMC の IIS スナップイン\]** を開始します。
   
-2.  3.  **\[Web サイト\]** を右クリックし、**\[停止\]** を選択します (これによりロックされたファイルをすべて解除します)。
+2.  **\[Web サイト\]** を右クリックし、**\[停止\]** を選択します (これによりロックされたファイルをすべて解除します)。
   
-4.  5.  コマンド プロンプトを開始します。
+3.  コマンド プロンプトを開始します。
   
-6.  7.  次のコマンドを入力します: **xcopy c:\\inetpub\\wwwroot\\research d:\\wwwroot\\research /s /i /o**
+4.  次のコマンドを入力します: **xcopy c:\\inetpub\\wwwroot\\research d:\\wwwroot\\research /s /i /o**
   
-8.  9.  **\[MMC の IIS** スナップイン\] に戻ります。
+5.  **\[MMC の IIS** スナップイン\] に戻ります。
   
-10. 11. **\[Web サイト\]** を右クリックし、**\[プロパティ\]** を選択します。
+6.  **\[Web サイト\]** を右クリックし、**\[プロパティ\]** を選択します。
   
-12. 13. **\[ホーム ディレクトリ\]** タブをクリックし、**\[参照\]** ボタンをクリックし、ファイルをコピーする新ディレクトリを選択します (たとえば、d:\\wwwroot\\research)。
+7.  **\[ホーム ディレクトリ\]** タブをクリックし、**\[参照\]** ボタンをクリックし、ファイルをコピーする新ディレクトリを選択します (たとえば、d:\\wwwroot\\research)。
   
-14. 15. **\[Web サイト\]** を右クリックし、**\[スタート\]** を選択します。
-  
-16. 
+8.  **\[Web サイト\]** を右クリックし、**\[スタート\]** を選択します。
   
 **ログ ファイルの再配置とセキュリティ保護**
   
@@ -3819,19 +3978,18 @@ IIS ログ ファイル ディレクトリを Web サイト データ ファイ�
   
 -   IIS ログ ファイルのオフライン分析を便利にするため、セキュリティ保護を行いながら各 IIS サーバーからログ ファイルを自動削除するスクリプトを利用できます。ログ ファイルは最低でも 24 時間ごとに削除し、中央サーバーに集めることをお勧めします。
   
--     
+
 -   コンピュータからログ ファイルを転送する際に利用する FTP、SMTP、HTTP、または SMB プロトコルを使用するため、自動化スクリプトを作成しますが、この作業はセキュリティによる保護を行いながら実施し、別の攻撃機会を作ることを防止する必要があります。IPSec ポリシーを使って、プロトコルで利用するポートと許可ホストのセキュリティ保護を行います。
   
--     
+
 -   IIS ログ ファイルは、同一メディアに何度も書き込める最新の CD-RW ドライブを使い、CD-R に蓄積可能です。これにより、書き込まれると削除できない記憶域に IIS エントリをロギングすることができます。このようにすれば、攻撃者は自分の足跡を消すことはできません。
   
--     
+
 -   IIS ログ ファイルは中央にある UNC (Universal Naming Convention) 共有にも格納可能です (たとえば、ログ ディレクトリは \\\\server\\share\\iislogs rather than %Windir%\\system32\\logfiles にすることができます)。こうすることで、1 か所の中央レポジトリから毎日ログ ファイルをバックアップすることができます。
   
--     
--   最後に、IIS ログ エントリは ODBC (Open Database Connectivity) に準拠するデータベースに蓄積可能です。これにより、IIS ログ エントリを中央の場所に蓄積することが可能となり、よりきめ細かいアクセス許可を有効にすることができます (たとえば、読み出し/書き込みはできても削除することはできなくするなど)。このログ エントリは既に分析に理想的なフォーマットで格納されています。
-  
--   
+
+-   最後に、IIS ログ エントリは ODBC (Open Database Connectivity) に準拠するデータベースに蓄積可能です。これにより、IIS ログ エントリを中央の場所に蓄積することが可能となり、よりきめ細かいアクセス許可を有効にすることができます (たとえば、読み出し/書き込みはできても削除することはできなくするなど)。このログ エントリは既に分析に理想的なフォーマットで格納されています。  
+
   
 **予想される影響**
   
@@ -3845,15 +4003,15 @@ Contoso 社の Web サーバー上の IIS ログ ファイルは、セキュリ�
   
 1.  **\[MMC の IIS スナップイン\]** を開始します。
   
-2.  3.  **\[Web サイト\]** を右クリックし、**\[プロパティ\]** を選択します。
+2.  **\[Web サイト\]** を右クリックし、**\[プロパティ\]** を選択します。
   
-4.  5.  **\[Web サイト\]** タブの **\[ログの記録を有効にする\]** フレームの **\[プロパティ\]** ボタンをクリックします。
+3.  **\[Web サイト\]** タブの **\[ログの記録を有効にする\]** フレームの **\[プロパティ\]** ボタンをクリックします。
   
-6.  7.  **\[全般プロパティ\]** タブで、**\[参照\]** ボタンをクリックし、IIS ログ ファイルを蓄積したい場所 (たとえば、E:\\IISLogs) の **\[ドライブ\]** と **\[フォルダ\]** を選択します。
+4.  **\[全般プロパティ\]** タブで、**\[参照\]** ボタンをクリックし、IIS ログ ファイルを蓄積したい場所 (たとえば、E:\\IISLogs) の **\[ドライブ\]** と **\[フォルダ\]** を選択します。
   
     **注 :** ステップの一部で選択操作を行うには、あらかじめフォルダを作成しておく必要があります。
   
-8.  9.  **\[OK\]** をクリックし、次に再び **\[OK\]** をクリックします。
+5.  **\[OK\]** をクリックし、次に再び **\[OK\]** をクリックします。
   
     **注 :** 既に元の場所 (%Windir%\\System32\\logfiles) に IIS ログ ファイルがある場合は、これらのファイルを手作業で新しい場所に移す必要があります。IIS が、自動的にファイルを移行することはありません。
   
@@ -3861,35 +4019,31 @@ Contoso 社の Web サーバー上の IIS ログ ファイルは、セキュリ�
   
 1.  コマンド プロンプトを開きます。
   
-2.  3.  次のコマンドを入力します: **cacls e:\\iislogs /t /g administrators:F system:F everyone:R**
+2.  次のコマンドを入力します: **cacls e:\\iislogs /t /g administrators:F system:F everyone:R**
   
-4.  5.  プロンプトで **Y** と入力します。
-  
-6.  
+3.  プロンプトで **Y** と入力します。
   
 **IIS W3C 拡張ログ ファイル フォーマット (監査用) を設定する方法**
   
 1.  \[MMC の IIS マネージャ スナップイン\] を開始します。
   
-2.  3.  左側のウィンドウで、サーバーを右クリックし、**\[プロパティ\]** をクリックします。
+2.  左側のウィンドウで、サーバーを右クリックし、**\[プロパティ\]** をクリックします。
   
-4.  5.  **\[Master Properties\]** のドロップ ダウン リスト ボックスで、**\[WWWService\]** が選択されていることを確認し、隣にある **\[編集\]** ボタンをクリックします。
+3.  **\[Master Properties\]** のドロップ ダウン リスト ボックスで、**\[WWWService\]** が選択されていることを確認し、隣にある **\[編集\]** ボタンをクリックします。
   
-6.  7.  **\[ログの記録を有効にする\]** を選択し、**\[Active log format\]** のドロップダウン リストボックスが **\[W3C 拡張ログ ファイル フォーマット\]** に設定されていることを確認します。
+4.  **\[ログの記録を有効にする\]** を選択し、**\[Active log format\]** のドロップダウン リストボックスが **\[W3C 拡張ログ ファイル フォーマット\]** に設定されていることを確認します。
   
-8.  9.  **\[プロパティ\]** をクリックします。
+5.  **\[プロパティ\]** をクリックします。
   
-10. 11. **\[When file size reaches\]** のラジオ ボタンを選択し、**\[500 MB\]** のログ ファイル サイズを指定します。
+6.  **\[When file size reaches\]** のラジオ ボタンを選択し、**\[500 MB\]** のログ ファイル サイズを指定します。
   
-12. 既定の **\[ログ ファイル ディレクトリ\]** を変更します。現在の Web サイトとは異なるシステム外パーティションを使用することを推奨します。
+7. 既定の **\[ログ ファイル ディレクトリ\]** を変更します。現在の Web サイトとは異なるシステム外パーティションを使用することを推奨します。
   
-13. 14. **\[拡張プロパティ\]** タブをクリックします。
+8. **\[拡張プロパティ\]** タブをクリックします。
   
-15. 16. IIS が選択した既定フィールドに加えて、**\[Win32 status entry\]** も選択します。
+9. IIS が選択した既定フィールドに加えて、**\[Win32 status entry\]** も選択します。
   
-17. 18. **\[OK\]** を 3 回クリックし、**\[properties dialog list boxes\]** を閉じます。
-  
-19. 
+10. **\[OK\]** を 3 回クリックし、**\[properties dialog list boxes\]** を閉じます。
   
 **注 :** このような監査ではシステム攻撃を防止できませんが、侵入者、進行中の攻撃を識別し、攻撃の足跡を診断する上で重要な手がかりとなります。
   
@@ -3915,15 +4069,13 @@ Contoso 社の Web サーバー上の IIS ログ ファイルは、セキュリ�
   
 1.  コマンド プロンプトを開きます。
   
-2.  3.  次のコマンドを入力します: **cacls %systemroot%\\system32\\inetsrv\\metabase.bin /g administrators:F system:F**
+2.  次のコマンドを入力します: **cacls %systemroot%\\system32\\inetsrv\\metabase.bin /g administrators:F system:F**
   
-4.  5.  プロンプトで **Y** と入力します。
+3.  プロンプトで **Y** と入力します。
   
-6.  7.  次のコマンドを入力します: **cacls %systemroot%\\system32\\inetsrv\\metaback /g administrators:F system:F**
+4.  次のコマンドを入力します: **cacls %systemroot%\\system32\\inetsrv\\metaback /g administrators:F system:F**
   
-8.  9.  プロンプトで **Y** と入力します。
-  
-10. 
+5.  プロンプトで **Y** と入力します。
   
 このような設定は、このガイドの MSS IIS Role.inf ポリシー テンプレートに含まれています。
   
@@ -3945,7 +4097,8 @@ ASP ページではない静的な HTML ページが取得されると、IIS が
   
 Contoso 社シナリオでは、Adsutil.vbs スクリプトを使用し、UseHostName 設定の値を**真**に再設定しました。このステップを実行するシンタックスは次のとおりです。
   
-<codesnippet language displaylanguage containsmarkup="false"> cscript Adsutil.vbs set w3svc/UseHostName True   
+```
+cscript Adsutil.vbs set w3svc/UseHostName True   
 ```  
 ADSUtil.vbs スクリプトは、IIS サーバーの IIS Adminscripts ディレクトリにあります。このディレクトリは既定では、C:\\Inetpub\\Adminscripts です。
   
@@ -3973,27 +4126,26 @@ Research と HR の運用 IIS サーバーでは、以下に詳細を示す adsu
   
 1.  **\[Internet Services Manager MMC snap-in\]** を開始します。
   
-2.  3.  左側のウィンドウで、サーバー (別名マスター サイト) を右クリックし、**\[プロパティ\]** をクリックします。
+2.  左側のウィンドウで、サーバー (別名マスター サイト) を右クリックし、**\[プロパティ\]** をクリックします。
   
-4.  5.  **\[Master Properties\]** のドロップ ダウン リスト ボックスで、**\[WWWService\]** が選択されていることを確認し、次に隣にある **\[編集\]** ボタンをクリックします。
+3.  **\[Master Properties\]** のドロップ ダウン リスト ボックスで、**\[WWWService\]** が選択されていることを確認し、次に隣にある **\[編集\]** ボタンをクリックします。
   
-6.  7.  **\[ホーム ディレクトリ\]** タブをクリックします。
+4.  **\[ホーム ディレクトリ\]** タブをクリックします。
   
-8.  **\[構成\]** をクリックします。
+5.  **\[構成\]** をクリックします。
   
-9.  10. リストから拡張を 1 つ選択し、**\[編集\]** をクリックします。
+6. リストから拡張を 1 つ選択し、**\[編集\]** をクリックします。
   
-11. 12. **\[参照\]** をクリックし、c:\\winnt\\system32\\inetsrv\\404.dll へ移動します。
+7. **\[参照\]** をクリックし、c:\\winnt\\system32\\inetsrv\\404.dll へ移動します。
   
-13. 14. **\[開く\]** をクリックし、次に **\[OK\]** をクリックします。
+8. **\[開く\]** をクリックし、次に **\[OK\]** をクリックします。
   
-15. 16. 残りのファイル拡張のすべてに対して、ステップ 6**、**7、および **8** を繰り返します。
-  
-17. 
+9. 残りのファイル拡張のすべてに対して、ステップ 6**、**7、および **8** を繰り返します。
   
 または、このプロセスで Adsutil.vbs スクリプトを使用します。このステップを実行するシンタックスは次のとおりです。
   
-<codesnippet language displaylanguage containsmarkup="false"> cscript Adsutil.vbs set w3svc/AspScriptErrorSentToBrowser False   
+```
+cscript Adsutil.vbs set w3svc/AspScriptErrorSentToBrowser False   
 ```  
 **FrontPage 2000 Server Extensions の削除**
   
@@ -4017,38 +4169,31 @@ Contoso 社環境では、IIS Web サイトはすべて、少数の IT スタッ
   
 1.  **\[プログラムの追加と削除\]** の**アプレット**を開始し、**\[Windows コンポーネントの追加と削除\]** を選択します。
   
-2.  3.  **\[インターネット インフォメーション サービス (IIS)\]** を選択し、**\[詳細\]** ボタンをクリックします。
+2.  **\[インターネット インフォメーション サービス (IIS)\]** を選択し、**\[詳細\]** ボタンをクリックします。
   
-4.  5.  **\[FrontPage 2000 Server Extensions\]** チェック ボックスをオフにし、**\[OK\]** をクリックし、次に **\[次へ\]** をクリックします。
+3.  **\[FrontPage 2000 Server Extensions\]** チェック ボックスをオフにし、**\[OK\]** をクリックし、次に **\[次へ\]** をクリックします。
   
-6.  7.  ターミナル サービス セットアップのダイアログ ボックスが表示されたら、**\[次へ\]** をクリックします。
+4.  ターミナル サービス セットアップのダイアログ ボックスが表示されたら、**\[次へ\]** をクリックします。
   
     - または -
   
     1.  **\[ファイルが必要\]** ダイアログ ボックスが表示された場合は、Windows 2000 をインストールした場所に **\[参照\]** を使って移動し、**\[OK\]** をクリックします。
   
-8.  プロンプトで **\[完了\]** をクリックします。
+5.  プロンプトで **\[完了\]** をクリックします。
   
-9.  10. 必要に応じて、次のディレクトリを含め、FrontPage サーバーのディレクトリを削除します。
+6. 必要に応じて、次のディレクトリを含め、FrontPage サーバーのディレクトリを削除します。
   
     -   C:\\Program Files\\Common Files\\Microsoft Shared\\Web Server Extensions\\40
   
-    -     
     -   C:\\Inetpub\\wwwroot\\\_private
   
-    -     
     -   C:\\Inetpub\\wwwroot\\\_vti\_cnf
   
-    -     
     -   C:\\Inetpub\\wwwroot\\\_vti\_log
   
-    -     
     -   C:\\Inetpub\\wwwroot\\\_vti\_pvt
   
-    -     
     -   C:\\Inetpub\\wwwroot\\\_vti\_script
-  
-11. 
   
 **追加仮想サーバーの削除**
   
@@ -4072,25 +4217,19 @@ Contoso 社環境では、運用機能をサポートするために既定の We
   
 1.  **\[Internet Services Manager MMC snap-in\]** を開始します。
   
-2.  3.  **\[既定 FTP サイト\]** を右クリックし、**\[削除\]** を選択し、**\[はい\]** をクリックします。
-  
-4.  
+2.  **\[既定 FTP サイト\]** を右クリックし、**\[削除\]** を選択し、**\[はい\]** をクリックします。
   
 **管理用 Web サイトを手作業で削除する方法**
   
 1.  **\[Internet Services Manager MMC snap-in\]** を開始します。
   
-2.  3.  **\[管理 Web サイト\]** を右クリックし、**\[削除\]** を選択し、**\[はい\]** をクリックします。
-  
-4.  
+2.  **\[管理 Web サイト\]** を右クリックし、**\[削除\]** を選択し、**\[はい\]** をクリックします。
   
 **既定の Web サイトを手作業で停止する方法**
   
 1.  **\[Internet Services Manager MMC snap-in\]** を開始します。
   
-2.  3.  **\[既定の Web サイト\]** を右クリックし、**\[停止\]** を選択します。
-  
-4.  
+2.  **\[既定の Web サイト\]** を右クリックし、**\[停止\]** を選択します。
   
 #### 追加 IIS サーバー設定の検討
   
@@ -4114,13 +4253,9 @@ Contoso 社環境では、運用機能をサポートするために既定の We
   
     -   Server Operators のような特権グループの認証メンバをカタログします。
   
-    -   
-  
 -   グループ メンバシップを定期的に監視します。
   
 -   厳密な雇用ポリシーと面接を適用してから、管理者グループに追加するようにします。
-  
--   
   
 **ASP の親のパス設定を無効化します**
   
@@ -4130,15 +4265,13 @@ Contoso 社環境では、運用機能をサポートするために既定の We
   
 1.  セキュリティ保護を施す **\[Web サイト\]** の **\[ルート\]** を右クリックし、**\[プロパティ\]** をクリックします。
   
-2.  3.  **\[ホーム ディレクトリ\]** タブをクリックします。
+2.  **\[ホーム ディレクトリ\]** タブをクリックします。
   
-4.  5.  **\[構成\]** をクリックします。
+3.  **\[構成\]** をクリックします。
   
-6.  **\[App Options\]** タブをクリックします。
+4.  **\[App Options\]** タブをクリックします。
   
-7.  8.  **\[Enable parent paths\]** チェック ボックスをオフにします。
-  
-9.  
+5.  **\[Enable parent paths\]** チェック ボックスをオフにします。
   
 **注 :** Application Center 2002 Admin Site を使用している場合は、マイクロソフト サポート技術情報記事 [288309](http://support.microsoft.com/kb/288309) 「\[PRB\] ユーザー インターフェイスを区切り親パスの無効化」を参照してください。
   
@@ -4156,6 +4289,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
   
 **表 7.11 増分 IIS サーバーの IPSec ネットワーク トラフィック マップ**
   
+<p></p>
 <table style="width:100%;">
 <colgroup>
 <col width="14%" />
@@ -4513,7 +4647,7 @@ Contoso 社環境では、運用機能をサポートするために既定の We
 </tr>
 </tbody>
 </table>
-  
+
 **注 :** 表 7.11 にリストされているホスト IP 宛先アドレスは、サーバーで構成している IP アドレスに設定します。
   
 ここにあげたすべての規則は、実装時に反映することをお勧めします。これにより、サーバーに着信するどのようなトラフィックも、発信元サーバーに戻ることができます。
@@ -4526,11 +4660,9 @@ Contoso 社環境では、運用機能をサポートするために既定の We
   
 1.  セキュリティで妥協すると、攻撃者が Local Administrator または Local System アクセスを握ることになり、IPSec ポリシーを無効にするかまたは変更できるようになります。
   
-2.  3.  ターゲットのコンピュータが適切にロックダウンされていることを保証するには、**NoDefaultExempt** のレジストリの値を **1** に設定しておく*必要があります*。この設定は、このセキュリティのガイダンスで使用するすべての IPSec フィルタリング シナリオで必要です。この IPSec ガイダンスでは、シナリオごとに NoDefaultExempt を設定してテストを実施していませんが、この設定の構成の違いで、動きに大きな差は出ません。このガイドはこの構成変更を反映して、できるだけ早く更新していきます。NoDefaultExempt 設定の構成に関する指示については、サポート技術情報記事 [254728](http://support.microsoft.com/kb/254728) 「IPSec がドメイン コントローラ間の Kerberos トラフィックをセキュリティで保護されません。」を参照してください。
+2.  ターゲットのコンピュータが適切にロックダウンされていることを保証するには、**NoDefaultExempt** のレジストリの値を **1** に設定しておく*必要があります*。この設定は、このセキュリティのガイダンスで使用するすべての IPSec フィルタリング シナリオで必要です。この IPSec ガイダンスでは、シナリオごとに NoDefaultExempt を設定してテストを実施していませんが、この設定の構成の違いで、動きに大きな差は出ません。このガイドはこの構成変更を反映して、できるだけ早く更新していきます。NoDefaultExempt 設定の構成に関する指示については、サポート技術情報記事 [254728](http://support.microsoft.com/kb/254728) 「IPSec がドメイン コントローラ間の Kerberos トラフィックをセキュリティで保護されません。」を参照してください。
   
-4.  5.  IPSec では出力方向の接続に多様なフィルタリング機能を提供していません。このため、このセキュリティ ガイダンスの一環で、静的な入力フィルタが作成され、出力情報への応答を受信できるように保証しています。これにより、攻撃者が現在のシステムのサーバーのオープン ポートを走査し、接続を試みたとしても、その多くは効果的にブロックされます。ただし、攻撃者が IPSec 入力許可フィルタを通じて接続を可能にする特殊なツールを使う可能性はまだ存在しています。任意の宛先の IP (Internet Protocol) アドレスへの出力許可フィルタが必要な場合は (たとえば、出力フィルタリングを使用すれば、SMTP (Simple Mail Transfer Protocol) サーバーはインターネットに接続されている他の宛先 SMTP サーバーに電子メールを送信できます)、ファイアウォールまたは多様な機能を持つフィルタリング装置をホスト コンピュータとインターネットの間に設置する*必要があります*。可能であれば、出力許可フィルタは、トラフィックの受信に必要な IP アドレスに対応させることをお勧めします。
-  
-6.  
+3.  IPSec では出力方向の接続に多様なフィルタリング機能を提供していません。このため、このセキュリティ ガイダンスの一環で、静的な入力フィルタが作成され、出力情報への応答を受信できるように保証しています。これにより、攻撃者が現在のシステムのサーバーのオープン ポートを走査し、接続を試みたとしても、その多くは効果的にブロックされます。ただし、攻撃者が IPSec 入力許可フィルタを通じて接続を可能にする特殊なツールを使う可能性はまだ存在しています。任意の宛先の IP (Internet Protocol) アドレスへの出力許可フィルタが必要な場合は (たとえば、出力フィルタリングを使用すれば、SMTP (Simple Mail Transfer Protocol) サーバーはインターネットに接続されている他の宛先 SMTP サーバーに電子メールを送信できます)、ファイアウォールまたは多様な機能を持つフィルタリング装置をホスト コンピュータとインターネットの間に設置する*必要があります*。可能であれば、出力許可フィルタは、トラフィックの受信に必要な IP アドレスに対応させることをお勧めします。
   
 **重要 :** IPSec であっても、コンピュータ起動中は完全なセキュリティを提供できません。TCP/IP (Transmission Control Protocol/Internet Protocol) スタックの応答が良い場合もまれにあり、IPSec ポリシーでブロックするアプリケーション ポートに自動攻撃でアクセスできてしまう場合があります。多くの場合、アプリケーションが接続処理を開始できないうちに、IPSec フィルタリングが有効になります。IPSec ポリシー エージェント サービスの開始と同期を取っても、フィルタがタイミング良く有効になることを保証するものではありません。
   
@@ -4542,7 +4674,48 @@ IPSec フィルタを使って最高レベルのセキュリティを実現す�
   
 このコマンドのセットは、このガイドに付属するバッチ ファイルにも含まれています。
   
-<codesnippet language displaylanguage containsmarkup="false"> ipsecpol -w REG -p "Packet Filter" -r "DNS Client" -f 192.168.100.41+\*:53:TCP -f 192.168.100.41+\*:53:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "SNMP Server" -f \*+192.168.100.41:161:TCP -f \*+192.168.100.41:161:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "CIFS Client" -f 192.168.100.41+\*:445:TCP -f 192.168.100.41+\*:445:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "CIFS Server" -f \*+192.168.100.41:445:TCP -f \*+192.168.100.41:445:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "RPC Client" -f 192.168.100.41+\*:135:TCP -f 192.168.100.41+\*:135:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "RPC Server" -f \*+192.168.100.41:135:TCP -f \*+192.168.100.41:135:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Addl RPC Ports Out" -f 192.168.100.41+\*:57952:TCP -n PASS ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Client" -f 192.168.100.41+\*:137:TCP -f 192.168.100.41+\*:137:UDP -f 192.168.100.41+\*:139:TCP -f 192.168.100.41+\*:138:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Server" -f \*+192.168.100.41:137:TCP -f \*+192.168.100.41:137:UDP -f \*+192.168.100.41:139:TCP -f \*+192.168.100.41:138:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "NTP Client" -f 192.168.100.41+\*:123:TCP -f 192.168.100.41+\*:123:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Monitoring" -f 192.168.100.41+192.168.100.73 -n PASS ipsecpol -w REG -p "Packet Filter" -r "LDAP Client" -f 192.168.100.41+\*:389:TCP -f 192.168.100.41+\*:389:UDP -f 192.168.100.41+\*:636:TCP -f 192.168.100.41+\*:636:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Kerberos Client" -f 192.168.100.41+\*:88:TCP -f 192.168.100.41+\*:88:UDP -n PASS ipsecpol -w REG -p "Packet Filter" -r "Terminal Server" -f \*+192.168.100.41:3389:TCP -f -n PASS ipsecpol -w REG -p "Packet Filter" -r "GC Client" -f 192.168.100.41+\*:3268:TCP -f 192.168.100.41+\*:3269:TCP -n PASS ipsecpol -w REG -p "Packet Filter" -r "ICMP" -f \*+192.168.100.41:\*:ICMP -n PASS ipsecpol -w REG -p "Packet Filter" -r "HTTP Server" -f \*+192.168.100.41:80:TCP -n PASS ipsecpol -w REG -p "Packet Filter" -r "HTTPS Server" -f \*+192.168.100.41:443:TCP -n PASS ipsecpol -w REG -p "Packet Filter" -r "All Inbound Traffic" -f \*+192.168.100.41 -n BLOCK ipsecpol -w REG -p "Packet Filter" -x   
+```
+ipsecpol -w REG -p "Packet Filter" -r "DNS Client"
+   -f 192.168.100.41+*:53:TCP -f 192.168.100.41+*:53:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "SNMP Server"
+   -f *+192.168.100.41:161:TCP -f *+192.168.100.41:161:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "CIFS Client"
+   -f 192.168.100.41+*:445:TCP -f 192.168.100.41+*:445:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "CIFS Server"
+   -f *+192.168.100.41:445:TCP -f *+192.168.100.41:445:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "RPC Client"
+   -f 192.168.100.41+*:135:TCP -f 192.168.100.41+*:135:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "RPC Server"
+   -f *+192.168.100.41:135:TCP -f *+192.168.100.41:135:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Addl RPC Ports Out"
+   -f 192.168.100.41+*:57952:TCP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Client"
+   -f 192.168.100.41+*:137:TCP -f 192.168.100.41+*:137:UDP
+   -f 192.168.100.41+*:139:TCP -f 192.168.100.41+*:138:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "NetBIOS Server"
+   -f *+192.168.100.41:137:TCP -f *+192.168.100.41:137:UDP
+      -f *+192.168.100.41:139:TCP -f *+192.168.100.41:138:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "NTP Client"
+   -f 192.168.100.41+*:123:TCP -f 192.168.100.41+*:123:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Monitoring"
+   -f 192.168.100.41+192.168.100.73 -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "LDAP Client"
+   -f 192.168.100.41+*:389:TCP -f 192.168.100.41+*:389:UDP
+      -f 192.168.100.41+*:636:TCP -f 192.168.100.41+*:636:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Kerberos Client"
+   -f 192.168.100.41+*:88:TCP -f 192.168.100.41+*:88:UDP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "Terminal Server"
+   -f *+192.168.100.41:3389:TCP -f -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "GC Client"
+   -f 192.168.100.41+*:3268:TCP -f 192.168.100.41+*:3269:TCP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "ICMP" -f *+192.168.100.41:*:ICMP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "HTTP Server"
+   -f *+192.168.100.41:80:TCP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "HTTPS Server"
+   -f *+192.168.100.41:443:TCP -n PASS
+ipsecpol -w REG -p "Packet Filter" -r "All Inbound Traffic"
+   -f *+192.168.100.41 -n BLOCK
+ipsecpol -w REG -p "Packet Filter" -x   
 ```  
 **予想される影響**
   
@@ -4562,24 +4735,17 @@ Contoso 社では、IIS サーバー用に上記仕様の IPSec フィルタを�
   
 ここでは、IIS サーバーを実装し、セキュリティで保護するための一般的なベスト プラクティスを記載します。
   
--   IIS はドメイン コントロールにはインストールしません。
-  
--     
--   (ネットワークのドメイン コントロールから指示される) グループ ポリシー変更の場合を除き、IIS サーバーに完全にパッチを適用し、可能な限り強化してからネットワークに接続します。
-  
--     
--   Web サーバーには専用コンピュータを使用します。
-  
--     
--   Web サーバー コンピュータはセキュリティ保護されたコンピュータ　ルームに入れて物理的に保護します。
-  
--     
--   管理者を除き、ローカル ログオンは誰にも許可しません。
-  
--     
+-   IIS はドメイン コントロールにはインストールしません。  
+
+-   (ネットワークのドメイン コントロールから指示される) グループ ポリシー変更の場合を除き、IIS サーバーに完全にパッチを適用し、可能な限り強化してからネットワークに接続します。  
+
+-   Web サーバーには専用コンピュータを使用します。  
+
+-   Web サーバー コンピュータはセキュリティ保護されたコンピュータ　ルームに入れて物理的に保護します。  
+
+-   管理者を除き、ローカル ログオンは誰にも許可しません。  
+
 -   管理者にはネットワークを超えてコンピュータにログオンすることを許可しません。ローカル管理ポリシーを採用します。
-  
--   
   
 [](#mainsection)[ページのトップへ](#mainsection)
   
@@ -4624,38 +4790,38 @@ IIS のセキュリティ保護と保守に関する詳細については、以�
 -   ### 目次
   
 -   [概要](https://technet.microsoft.com/ja-jp/library/71a89c24-0bfe-4e21-aeac-89ba6f84b06d(v=TechNet.10))  
--     
+
 -   [第 1 章 ‐ Securing Windows 2000 Server 入門](https://technet.microsoft.com/ja-jp/library/18bbfc43-3d1a-4031-bc06-372064ffff72(v=TechNet.10))  
--     
+
 -   [第 2 章 ‐ セキュリティの概要を定義する](https://technet.microsoft.com/ja-jp/library/52d2d069-16f8-4a1f-8fa8-ec6b77571799(v=TechNet.10))  
--     
+
 -   [第 3 章 ‐ セキュリティ リスク管理の統制について理解する](https://technet.microsoft.com/ja-jp/library/81560275-04b7-4e40-8937-699e4b4defea(v=TechNet.10))  
--     
+
 -   [第 4 章 ‐ セキュリティ リスク管理の統制を適用する](https://technet.microsoft.com/ja-jp/library/07ed8438-6264-4e30-9ca9-2235687e62e7(v=TechNet.10))  
--     
+
 -   [第 5 章 ‐ ドメイン インフラストラクチャをセキュリティで保護する](https://technet.microsoft.com/ja-jp/library/83d7ede4-67ea-43d7-93a9-ccff8e5ca4e6(v=TechNet.10))  
--     
+
 -   [第 6 章 ‐ Base Windows 2000 Server のハードニング](https://technet.microsoft.com/ja-jp/library/265d2c3d-5af6-4f6e-85ea-d674d4c314a7(v=TechNet.10))  
--     
+
 -   第 7 章 ‐ 特定サーバーの役割のハードニング  
--     
+
 -   [第 8 章 ‐ 修正プログラムの管理](https://technet.microsoft.com/ja-jp/library/c474ed12-f438-4d49-acaa-260df90e5e13(v=TechNet.10))  
--     
+
 -   [第 9 章 ‐ 監査と侵入検出](https://technet.microsoft.com/ja-jp/library/f8a8ab2f-f727-459c-aee0-c6a06f7f9fb0(v=TechNet.10))  
--     
+
 -   [第 10 章 ‐ インシデントへの対応](https://technet.microsoft.com/ja-jp/library/4baf189b-f762-4c67-a5bc-f438a1274fec(v=TechNet.10))  
--     
+
 -   [付録 A ‐ Windows 2000 のサービスの用途](https://technet.microsoft.com/ja-jp/library/13468c13-a3f3-4b75-aadf-fec1c40fe801(v=TechNet.10))  
--     
+
 -   [付録 A ‐ Windows 2000 のサービスの用途](http://www.microsoft.com/japan/technet/security/prodtech/windows2000/secwin2k/12intro.mspx)  
--     
+
 -   [付録 B ‐ レジストリのアクセス制御の変更](https://technet.microsoft.com/ja-jp/library/132e1a99-29b0-4f66-956c-d009da62a51d(v=TechNet.10))  
--     
+
 -   [付録 C ‐ オプションのファイル システムのアクセス許可](https://technet.microsoft.com/ja-jp/library/af304b67-3190-4a66-b75a-07d8fcd8585d(v=TechNet.10))  
--     
+
 -   [付録 D ‐ 信頼されていないネットワーク内にあるサーバーでの NetBIOS の無効化](https://technet.microsoft.com/ja-jp/library/af304b67-3190-4a66-b75a-07d8fcd8585d(v=TechNet.10))  
--     
+
 -   [付録 E ‐ セキュリティで保護された LDAP および SMTP 複製を行うためのドメイン コントローラでのデジタル証明書の構成](http://www.microsoft.com/japan/technet/security/prodtech/windows2000/secwin2k/a0701.mspx)  
--   
+
   
 [](#mainsection)[ページのトップへ](#mainsection)
