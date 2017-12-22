@@ -9,7 +9,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362364(v=MSDN.10)'
 .NET Framework
 ==============
 
-<table border="0" cellpadding="0" cellspacing="0">
+<p> </p> <table border="0" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
 <td style="border:1px solid black;" colspan="5">
