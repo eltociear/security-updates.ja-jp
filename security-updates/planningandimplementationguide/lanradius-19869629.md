@@ -115,6 +115,7 @@ IAS を使用したワイヤレス アクセス管理ソリューションの設
 **表 5.1: ソリューションで活用される Windows ドメインの機能**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -198,6 +199,7 @@ IAS サーバーは、次の 3 つの概念的な RADIUS の役割のいずれ�
 **表 5.2: IAS RADIUS の役割**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -252,6 +254,7 @@ RADIUS は、すべての 802.1X ベースの WLAN アクセス管理ソリュ�
 **表 5.3: EAP-RADIUS フェールオーバーと負荷分散オプション**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -367,6 +370,7 @@ RADIUS 要求ログの定期的なクエリ、レポーティング、および�
 **表 5.4: IAS ログ記録の設計上の決定事項**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -459,6 +463,7 @@ IAS と Active Directory ドメイン コントローラ間の通信は集中的
 **表 5.5: IAS とドメイン コントローラを同じ場所に配置した場合の検討事項**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -498,6 +503,7 @@ Active Directory ドメイン コントローラは、慎重な取り扱いが�
 **表 5.6: Windows Server 2003 ドメイン コントローラに対して事前に必要な処理**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -557,6 +563,7 @@ IAS サーバーの負荷を見積もるには WLAN アクセスを必要とす�
 **表 5.7: EAP–TLS 認証動作**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -603,6 +610,7 @@ IAS で対応できる認証数の概算値を表わす方法としては、1 �
 **表 5.8: 1 秒あたりの認証数**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -658,6 +666,7 @@ IAS サーバーが、Windows Server 2003 の推奨ハードウェア要件に�
 **表 5.9: テスト済みのサーバーのハードウェア**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -736,6 +745,7 @@ IAS は、Windows Server 2003 オペレーティング システムのオプシ�
 **表 5.10: IAS 役割の説明とタスク**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -779,6 +789,7 @@ RADIUS 認証要求ログが無効の場合、IAS セキュリティ監査人は
 **表 5.11: IAS サーバー タスクの実行に必要なアクセス許可**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -839,6 +850,7 @@ IAS はセキュリティ インフラストラクチャのコンポーネント
 **表 5.12: IAS サーバー インフラストラクチャの脅威**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -892,6 +904,7 @@ IAS はセキュリティ インフラストラクチャのコンポーネント
 **表 5.13: 予防的な監査の対象となる IAS サーバー インフラストラクチャの脅威**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
