@@ -23,18 +23,18 @@ MBSA 1.1.1 以前用の XMLDB の更新は 2004 年 7 月 14 日をもって終�
 
 ##### 目次
 
-[](#edaa)[ダウンロード サイト](#edaa)
-[](#ecaa)[MBSA バージョン 1.2.1 の新しい向上点](#ecaa)
-[](#ebaa)[よく寄せられる質問 (FAQ)](#ebaa)
+[](#edaa)[ダウンロード サイト](#edaa)  
+[](#ecaa)[MBSA バージョン 1.2.1 の新しい向上点](#ecaa)  
+[](#ebaa)[よく寄せられる質問 (FAQ)](#ebaa)  
 [](#eaaa)[その他のリソース](#eaaa)
 
 ### ダウンロード サイト
 
-以下のバージョンの MBSA を以下のサイトからダウンロードすることができます。
-日本語: [http://download.microsoft.com/download/c/8/2/c823a585-f5dc-4947-9d92-72652bcd2576/MBSASetup-JA.msi](http://download.microsoft.com/download/c/8/2/c823a585-f5dc-4947-9d92-72652bcd2576/mbsasetup-ja.msi)
-英語 : [http://download.microsoft.com/download/9/0/7/90769f0c-c025-48bf-a9c7-60072d0cb717/MBSASetup-EN.msi](http://download.microsoft.com/download/9/0/7/90769f0c-c025-48bf-a9c7-60072d0cb717/mbsasetup-en.msi)
-フランス語 : [http://download.microsoft.com/download/9/5/9/959a3e95-2d0f-46ac-8418-ec057d1b3bc1/MBSASetup-FR.msi](http://download.microsoft.com/download/9/5/9/959a3e95-2d0f-46ac-8418-ec057d1b3bc1/mbsasetup-fr.msi)
-ドイツ語 : [http://download.microsoft.com/download/0/3/1/0313a008-9dbd-4cb1-ac4d-47bec92bbebd/MBSASetup-DE.msi](http://download.microsoft.com/download/0/3/1/0313a008-9dbd-4cb1-ac4d-47bec92bbebd/mbsasetup-de.msi)
+以下のバージョンの MBSA を以下のサイトからダウンロードすることができます。  
+日本語: [http://download.microsoft.com/download/c/8/2/c823a585-f5dc-4947-9d92-72652bcd2576/MBSASetup-JA.msi](http://download.microsoft.com/download/c/8/2/c823a585-f5dc-4947-9d92-72652bcd2576/mbsasetup-ja.msi)  
+英語 : [http://download.microsoft.com/download/9/0/7/90769f0c-c025-48bf-a9c7-60072d0cb717/MBSASetup-EN.msi](http://download.microsoft.com/download/9/0/7/90769f0c-c025-48bf-a9c7-60072d0cb717/mbsasetup-en.msi)  
+フランス語 : [http://download.microsoft.com/download/9/5/9/959a3e95-2d0f-46ac-8418-ec057d1b3bc1/MBSASetup-FR.msi](http://download.microsoft.com/download/9/5/9/959a3e95-2d0f-46ac-8418-ec057d1b3bc1/mbsasetup-fr.msi)  
+ドイツ語 : [http://download.microsoft.com/download/0/3/1/0313a008-9dbd-4cb1-ac4d-47bec92bbebd/MBSASetup-DE.msi](http://download.microsoft.com/download/0/3/1/0313a008-9dbd-4cb1-ac4d-47bec92bbebd/mbsasetup-de.msi)  
 
 インストールをすぐに開始するには、\[このプログラムを現在の場所から実行する\] を選択してください。後でインストールをする場合、または、ダウンロードしたファイルをコンピュータにコピーするには、\[このプログラムをディスクに保存する\] を選択してください。
 

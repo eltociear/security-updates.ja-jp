@@ -253,21 +253,24 @@ Exchange 管理委任ウィザードだけでは、セキュリティの割り�
   
 **すべての Exchange オブジェクトにセキュリティ タブを表示させる方法**
   
-1.  Regedt32.exe を実行します。
+1. Regedt32.exe を実行します。
   
 2  レジストリ内の次のキーに移動します。
   
-    HKEY\_CURRENT\_USER\\Software\\Microsoft\\Exchange\\ExAdmin
+ ``` 
+   HKEY\_CURRENT\_USER\\Software\\Microsoft\\Exchange\\ExAdmin
+ ```  
   
 3  \[編集\] メニューの \[値の追加\] をクリックし、次の値をレジストリに追加します。
   
-    \[値の名前\] : ShowSecurityPage  
-    \[データ型\] : REG\_DWORD  
-    \[データ\] : 1
+ ``` 
+   \[値の名前\] : ShowSecurityPage  
+   \[データ型\] : REG\_DWORD  
+   \[データ\] : 1
+ ```  
   
 4  レジストリ エディタを終了します。
   
-8.  
   
 この変更は直ちに有効になるので、Exchange システム マネージャを開き直す必要はありません。
   
