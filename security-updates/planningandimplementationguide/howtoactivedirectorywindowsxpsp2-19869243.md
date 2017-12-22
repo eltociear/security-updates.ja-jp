@@ -1339,6 +1339,7 @@ DCOM 要求があるたびに、コンピュータ全体のアクセス制御リ
 **表 7   既定の DCOM アクセス制御の制限**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />

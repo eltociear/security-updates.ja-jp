@@ -38,6 +38,7 @@ Microsoft Internet Security and Acceleration (ISA) Server では、以下の 3 �
 次の表は、ISA Server クライアントの比較の一覧です。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -94,6 +95,7 @@ Microsoft Internet Security and Acceleration (ISA) Server では、以下の 3 �
 DNS (ドメインネームシステム) の名前解決は、内部ネットワークでどの ISA クライアントを利用するかを選択するときに主に考慮すべき項目です。以下の表は、各 ISA クライアントで DNS 名前解決がどのように実行されるかを簡単に説明しています。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
