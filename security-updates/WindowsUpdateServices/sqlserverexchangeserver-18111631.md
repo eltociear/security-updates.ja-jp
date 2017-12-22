@@ -29,5 +29,3 @@ Microsoft SQL Server と Microsoft Exchange Server はいずれも "クラスタ
 
 > [!NOTE]
 > 1 台のサーバー上に、スタンドアロン インスタンスとクラスタ インスタンスの両方の SQL Server をインストールすることができます。この場合、アクティブ クラスタ ノードを更新すると、製品、更新プログラムのクラス、言語などの同期オプションを正しく指定している場合は、同じサーバー上のスタンドアロン インスタンスの SQL Server も更新されます。同期オプションの設定の詳細については、「[同期のセットアップと実行](http://www.microsoft.com/japan/technet/prodtechnol/windowsserver2003/library/wsus/wsusoperationsguidetc/a5a006b4-24f6-49d9-bf9b-ceb05934c7ec.mspx)」を参照してください。
-
-![](images/Cc720484.arrow_px_up(ja-jp,WS.10).gif) [ページのトップへ](#ctl00_rs1_eb1_panel1)

@@ -13,11 +13,14 @@ The following is a list of required software for the Windows Server operating sy
 
 For a complete list of system requirements, refer to the Release Notes for Windows Server Update Services 3.0 SP2.
 
+
 WSUS Server Software Prerequisites
 ----------------------------------
 
 -   One of the following supported operating systems: Windows Server 2008 R2, Windows Server 2008 SP1 or later, Windows Server 2003 SP2 or later, or Windows Small Business Server 2008 or 2003. Note that additional prerequisites apply for Windows Small Business Server. See the “Windows Small Business Server Prerequisites” section for details.
+    
     WSUS 3.0 is also supported for use in virtual operating system environments.
+
 -   IIS 6.0 or later
 -   Microsoft .NET Framework 2.0 or later
 -   One of the following supported databases: Microsoft SQL Server 2008, SQL Server 2005 SP2, or Windows Internal Database. If one of these versions of SQL Server is not installed, the WSUS 3.0 SP2 Setup Wizard will install Windows Internal Database.
