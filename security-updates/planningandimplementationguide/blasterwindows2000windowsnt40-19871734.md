@@ -157,9 +157,9 @@ Blaster ワームに悪用されてしまうセキュリティ上の弱点は、
 <img src="images/Dd362788.green_arrow_sml(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">Ctrl + Shift キーを押しながら Esc キーを押し、タスクマネージャを実行します。
 次に [プロセス] タブを表示します。
-イメージ名の欄に、&quot;msblast.exe&quot; (<strong>*1</strong>) プログラムがあれば、そのファイル名をマウスでクリックし、[プロセスの終了] ボタンをクリックします。
-<strong>注意 :</strong> Blaster ワームが動作していない場合には &quot;msblast.exe&quot; (<strong>*1</strong>) は動作していません。タスクマネージャ右上の [×] ボタンをクリックしタスクマネージャを終了してください。タスクマネージャを終了させた後は、<strong>4. ネットワークケーブルをコンピュータに接続します</strong> へ進んでください。
-(<strong>*1</strong>) Blasterワームは現在いくつかの亜種が報告されています。亜種の場合は msblast.exe と表示されず別の名前になります。
+イメージ名の欄に、&quot;msblast.exe&quot; (<strong>\*1</strong>) プログラムがあれば、そのファイル名をマウスでクリックし、[プロセスの終了] ボタンをクリックします。
+<strong>注意 :</strong> Blaster ワームが動作していない場合には &quot;msblast.exe&quot; (<strong>\*1</strong>) は動作していません。タスクマネージャ右上の [×] ボタンをクリックしタスクマネージャを終了してください。タスクマネージャを終了させた後は、<strong>4. ネットワークケーブルをコンピュータに接続します</strong> へ進んでください。
+(<strong>\*1</strong>) Blasterワームは現在いくつかの亜種が報告されています。亜種の場合は msblast.exe と表示されず別の名前になります。
 <strong>その亜種</strong><br />
 既に Blaster ワームとその亜種に感染している場合、下記のいずれかが動作していますので、”msblast.exe” とこれらのプログラムを停止します。
 <ul>
@@ -578,7 +578,9 @@ DCOM を無効化したままでは、その他のアプリケーションに影
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;">Blaster ワームの対策はこれで終了ですが、コンピュータ ウイルスには<a href="https://technet.microsoft.com/ja-jp/library/207c8deb-8e10-49e1-a7de-b8e8d8c9be9e(v=TechNet.10)">亜種</a>と呼ばれるものがあり、お客様のコンピュータが他のウイルスに感染していないとは限りません。
+
 残念ながら、コンピュータ ウイルスは日々作成され、進化しています。感染を防ぐために、ウイルス対策プログラムをご利用いただくことを強くお勧めします。
+
 コンピュータを安全にお使いいただくため、<a href="http://www.microsoft.com/japan/security/protect/">こちら</a>のページをご覧いただき、ぜひ実践してください。</td>
 </tr>
 </tbody>
