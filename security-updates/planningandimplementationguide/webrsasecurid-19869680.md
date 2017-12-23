@@ -19,18 +19,13 @@ RSA SecurID の認証のための Web フィルタでは、RSA SecurID の認証
 
 -   ISA Server を使用した RSA SecurID の認証
 
-
 -   二重認証
-
 
 -   二重配置による認証
 
-
 -   Microsoft インターネットインフォメーションサービス (IIS) サーバーでの RSA SecurID の認証
 
-
 -   RSA SecurID の認証を使用した Microsoft Exchange Outlook Web Access の公開
-
 
 
 ##### トピック
@@ -100,7 +95,7 @@ Web サーバーには、Windows 2000 Server、Windows 2000 Advanced Server、�
 
 1.  ISA Server を RSA ACE/Agent としてセットアップする
 
-3.  RSA ACE/Agent の ISA Server ホストレコードにユーザーを追加する
+2.  RSA ACE/Agent の ISA Server ホストレコードにユーザーを追加する
 
 3.  ACE Server コンピュータを使用して接続をテストする
 
@@ -108,23 +103,19 @@ Web サーバーには、Windows 2000 Server、Windows 2000 Advanced Server、�
 
 5.  クライアントと ISA Server コンピュータ間のセキュリティで保護された接続を構成する
 
-10. 
-
 **手順 1. ISA Server を RSA ACE/Agent としてセットアップする**
 
 **ISA Server を RSA ACE/Agent としてセットアップするには**
 
 1.  ACE Server コンピュータで、\[スタート\] ボタンをクリックし、\[プログラム\] をポイントします。次に、\[RSA ACE Server\] をポイントし、\[Database Administration - Host Mode\] をクリックします。
 
-3.  \[Agent Host\] メニューの \[Add Agent Host\] をクリックします。
+2.  \[Agent Host\] メニューの \[Add Agent Host\] をクリックします。
 
 3.  \[Name\] に ISA Server コンピュータの名前を入力します。
 
 4.  \[Network address\] に ISA Server コンピュータの IP アドレスが表示されていない場合は入力します (この IP アドレスをメモしておきます)。
 
 5.  RSA ACE/Server コンピュータの ACE\\Data フォルダにある Sdconf.rec ファイルを ISA Server コンピュータの %windir%\\system32 フォルダにコピーします。
-
-10. 
 
 **手順 2. ACE Server コンピュータの ISA Server ホストレコードにユーザーを追加する**
 
@@ -136,7 +127,7 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 
 1.  コマンドプロンプトで、「&lt;ISA のインストールディレクトリ&gt;\\sdtest.exe」と入力します。
 
-3.  \[RSA SecurID Authentication Information\] で、\[RSA ACE/Server Test Directly\] をクリックします(英語)。
+2.  \[RSA SecurID Authentication Information\] で、\[RSA ACE/Server Test Directly\] をクリックします(英語)。
 
 3.  \[RSA SecurID Authentication\] で \[Enter User Name\] にユーザー名を入力し、\[Enter PASSCODE\] にパスコードを入力します。
 
@@ -144,19 +135,15 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 
     **ヒント** ACE Server コンピュータに接続できない場合は、このマニュアルの「トラブルシューティング」を参照してください。
 
-8.  
-
 **手順 4. Web サイトの Web 公開ルールを作成する**
 
 **Web 公開ルールを構成するには**
 
 1.  \[ISA の管理\] コンソールツリーで、\[Internet Security and Acceleration Server\]、\[サーバーとアレイ\]、目的のアレイ、\[公開\]、\[Web 公開ルール\] の順にクリックします。
 
-3.  詳細ペインで、目的の Web 公開ルールを右クリックし、\[Properties\] をクリックします。
+2.  詳細ペインで、目的の Web 公開ルールを右クリックし、\[Properties\] をクリックします。
 
 3.  \[SecurID\] タブで、\[Enable authentication\] を選択します。
-
-6.  
 
 **手順 5. クライアントと ISA Server コンピュータ間のセキュリティで保護された接続を構成する**
 
@@ -164,33 +151,25 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 
 -   RSA SecurID の認証用 Web フィルタの有効化
 
-
 -   Web 公開ルールの構成
 
-
 -   適切な着信方向の Web 要求リスナの構成
-
-
 
 **RSA SecurID の認証用 Web フィルタを有効にするには**
 
 1.  \[ISA の管理\] コンソールツリーで、\[Internet Security and Acceleration Server\]、\[サーバーとアレイ\]、目的のアレイ、\[拡張\]、\[Web フィルタ\] の順にクリックします。
 
-3.  詳細ペインで、\[Web Filter for RSA SecurID\] を右クリックし、\[有効化\] をクリックします。
+2.  詳細ペインで、\[Web Filter for RSA SecurID\] を右クリックし、\[有効化\] をクリックします。
 
 3.  Web Proxy サービスを再起動します。
-
-6.  
 
 **Web 公開ルールを構成するには**
 
 1.  \[ISA の管理\] コンソールツリーで、\[Internet Security and Acceleration Server\]、\[サーバーとアレイ\]、目的のアレイ、\[公開\]、\[Web 公開ルール\] の順にクリックします。
 
-3.  詳細ペインで、目的のルールを右クリックし、\[Properties\] をクリックします。
+2.  詳細ペインで、目的のルールを右クリックし、\[Properties\] をクリックします。
 
 3.  \[ブリッジ\] タブで、\[公開されたサイト用には保護されたチャネル (SSL) を要求する\] チェックボックスをオンにします。
-
-6.  
 
 **着信方向の Web 要求リスナを構成するには**
 
@@ -214,8 +193,6 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 
 -   ACE Server コンピュータで、IIS サーバーのホストレコード上で認証アクセス許可を持つすべてのユーザーを ISA Server のホストレコードに追加します。
 
-
-
 [](#mainsection)[ページのトップへ](#mainsection)
 
 ### シナリオ 3: 二重配置による認証
@@ -230,11 +207,9 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 
 1.  ISA Server と IIS サーバーの両方で同じ Cookie を使用する
 
-3.  ブラウザの IP アドレスを無視するように ISA Server を構成する
+2.  ブラウザの IP アドレスを無視するように ISA Server を構成する
 
 3.  ブラウザの IP アドレスを無視するように IIS サーバーを構成する
-
-6.  
 
 **手順 1. ISA Server と IIS サーバーの両方で同じ Cookie を使用する**
 
@@ -244,7 +219,7 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 
 1.  \[ISA の管理\] コンソールツリーで、\[Internet Security and Acceleration Server\]、\[サーバーとアレイ\]、目的のアレイ、\[公開\]、\[Web 公開ルール\] の順にクリックします。
 
-3.  Web 公開ルールの詳細ペインで、目的の Web 公開ルールを右クリックし、\[Properties\] をクリックします。
+2.  Web 公開ルールの詳細ペインで、目的の Web 公開ルールを右クリックし、\[Properties\] をクリックします。
 
 3.  \[RSA SecurID\] タブで、\[このルールに対し、RSA Web Access Authentication Feature Set を有効にする\] チェックボックスをオンにします。
 
@@ -264,21 +239,17 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 
 10.  IIS サーバーで、ドメインシークレットファイルをインポートします。
 
-20. 
-
 **手順 2. ブラウザの IP アドレスを無視するように ISA Server を構成する**
 
 **ブラウザの IP アドレスを無視するように ISA Server を構成するには**
 
 1.  \[ISA の管理\] コンソールツリーで、\[Internet Security and Acceleration Server\]、\[サーバーとアレイ\]、目的のアレイ、\[公開\]、\[Web 公開ルール\] の順にクリックします。
 
-3.  詳細ペインで、目的の Web 公開ルールを右クリックし、\[Properties\] をクリックします。
+2.  詳細ペインで、目的の Web 公開ルールを右クリックし、\[Properties\] をクリックします。
 
 3.  \[RSA SecurID\] タブで、\[このルールに対し、RSA Web Access Authentication Feature Set を有効にする\] チェックボックスをオンにします。
 
 4.  \[RSA SecurID\] タブで、\[Cookie の検証時にブラウザの IP アドレスを無視する\] チェックボックスをオンにします。
-
-8.  
 
 **手順 3. ブラウザの IP アドレスを無視するように IIS サーバーを構成する**
 
@@ -287,7 +258,6 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 -   \[Web サーバーの公開のプロパティ\] ダイアログボックスの \[RSA SecurID\] タブで、\[Cookie の検証時にブラウザの IP アドレスを無視する\] チェックボックスをオンにします。
 
     **重要** この場合、Web サーバーのクライアントは、実際には ISA Server コンピュータです。Cookie に隠されている IP アドレスは、ISA Server から Cookie を受け取ったクライアントの IP アドレスです。したがって、Web サーバーのクライアント (ISA Server コンピュータ) の IP アドレスとは一致しません。
-
 
 
 [](#mainsection)[ページのトップへ](#mainsection)
@@ -304,9 +274,7 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 
 1.  宛先セットを作成する
 
-3.  Web 公開ルールを作成する
-
-4.  
+2.  Web 公開ルールを作成する
 
 **手順 1. 宛先セットを作成する**
 
@@ -314,13 +282,11 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 
 1.  \[ISA の管理\] コンソールツリーで、\[Internet Security and Acceleration Server\]、\[サーバーとアレイ\]、目的のアレイ、\[ポリシーの要素\] の順にクリックし、\[宛先セット\] を右クリックして、\[新規作成\]、\[セット\] の順にクリックします。
 
-3.  \[名前\] に、「MyDocs」と入力します。次に、\[追加\] をクリックします。
+2.  \[名前\] に、「MyDocs」と入力します。次に、\[追加\] をクリックします。
 
 3.  \[宛先\] に「www.microsoft.com」と入力します。
 
 4.  \[パス\] に「/WebID/\*」と入力します。
-
-8.  
 
 **手順 2. Web 公開ルールを作成する**
 
@@ -328,7 +294,7 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 
 1.  \[ISA の管理\] コンソールツリーで、\[Internet Security and Acceleration Server\]、\[サーバーとアレイ\]、目的のアレイ、\[公開\] の順にクリックし、\[Web 公開ルール\] を右クリックして、\[新規作成\]、\[ルール\] の順にクリックします。
 
-3.  \[名前\] に、「My Rule」と入力します。次に、\[次へ\] をクリックします。
+2.  \[名前\] に、「My Rule」と入力します。次に、\[次へ\] をクリックします。
 
 3.  \[宛先セット\] で、\[指定された宛先セット\] を選択します。
 
@@ -339,8 +305,6 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 6.  \[ルールの動作\] ページで \[要求をこの内部 Web サーバーへリダイレクトする (名前または IP アドレス)\] を選択します。テキストボックスに「localfs.microsoft.com」と入力します。
 
 7.  \[次へ\]、\[完了\] の順にクリックします。
-
-14. 
 
 さらに、RSA SecurID 資格情報を ISA Server から Web サーバーへ渡せるように、www.microsoft.com およびパス /WebID/\* を含み、すべてのユーザー (または特定のクライアントアドレスセット) に適用される宛先セットに適用される Web 公開ルールを構成する必要があります。
 
@@ -354,13 +318,11 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 
 1.  \[ISA の管理\] コンソールツリーで、\[Internet Security and Acceleration Server\]、\[サーバーとアレイ\]、目的のアレイ、\[公開\] の順にクリックし、\[Web 公開ルール\] を右クリックして、\[新規作成\]、\[Outlook Web Access サーバーの公開\] の順にクリックします。
 
-3.  \[公開されたサーバーの名前\] ページで \[ISA Server から Outlook Web Access サーバーへ SSL 接続を使う\] チェックボックスをオンにします。
+2.  \[公開されたサーバーの名前\] ページで \[ISA Server から Outlook Web Access サーバーへ SSL 接続を使う\] チェックボックスをオンにします。
 
 3.  \[クライアントからの接続をセキュリティで保護する\] ページで \[SSL を有効にする: クライアントは SSL を使って ISA Server に接続しなくてはなりません\] チェックボックスをオンにします。
 
 4.  ウィザードで作成された Web 公開ルールの RSA SecurID を有効にします。
-
-8.  
 
 [](#mainsection)[ページのトップへ](#mainsection)
 
@@ -374,14 +336,11 @@ ACE Server コンピュータで、有効な認証の資格情報を持つユー
 
 -   ACE Server コンピュータで認証サービスが開始されているかどうかを確認します。必要に応じてサービスを開始し、通信が確立されていることを確認します。
 
-
 -   RSA サーバーが LAT に含まれていない場合は、ISA Server のパケットフィルタにより ACE Server コンピュータへの通信がブロックされている可能性があります。通信を許可するパケットフィルタを作成してください。
-
 
 -   イベントビューアのアプリケーションログで、マルチホームホストが検出され、予想されるプライマリ IP が x.x.x.x であることを示すイベントを確認します。
 
     x.x.x.x が、ACE Server コンピュータが ISA Server コンピュータを識別するための IP アドレスでない場合は、REG\_SZ という種類で PrimaryInterfaceIP という名前の値をレジストリキー HKEY\_LOCAL\_MACHINE\\Software\\SDTI\\ACECLIENT に追加します。ACE Server コンピュータと通信する ISA Server コンピュータのインターフェイスの IP アドレスの値を設定します。
-
 
 
 #### ノードの検証が失敗する
@@ -390,13 +349,11 @@ ACE Server コンピュータのログに「Node Verification Failed」という
 
 1.  ISA Server コンピュータで、レジストリから HKEY\_LOCAL\_MACHINE\\SOFTWARE\\SDTI\\ACECLIENT\\NodeSecret キーを削除します。
 
-3.  ACE Server コンピュータで、\[Agent Host\] メニューの \[Edit Agent Host\] をクリックします。
+2.  ACE Server コンピュータで、\[Agent Host\] メニューの \[Edit Agent Host\] をクリックします。
 
 3.  問題が発生している ISA Server コンピュータを選択し、\[Sent Node Secret\] が選択されていないことを確認します。
 
 4.  ISA Server コンピュータで、sdtest を正常に使用できることを確認します。
-
-8.  
 
 #### 要求が匿名で渡される
 
@@ -404,13 +361,9 @@ RSA SecurID の認証が有効になっている Web 公開ルールに送信さ
 
 -   Extensions\\Web Filters のフィルタが有効になっていることを確認し、Web 公開ルールで SecurID の認証が有効になっていることを確認します。
 
-
 -   Web Proxy サービスを再起動します。
 
-
 -   sdisa.dll フィルタの読み込みに失敗したことを示すエラーコード 0x7e のイベントをイベントログで確認します。この場合は、フィルタを読み込めない原因を調べてみてください。アンインストールしてから再インストールしてください。
-
-
 
 #### OWA サーバーへのアクセス
 
@@ -418,18 +371,13 @@ RSA SecurID の認証が有効になっている Web 公開ルールに送信さ
 
 1.  \[リンク変換 Web\] フィルタを有効にします。
 
-3.  OWA サーバーへのアクセスを許可する公開ルールのリンク変換を有効にします。
+2.  OWA サーバーへのアクセスを許可する公開ルールのリンク変換を有効にします。
 
 3.  OWA Web 公開ルールの \[リンクの変換\] タブに次の辞書項目を追加します。
 
     -   応答の文字列 : https://mail.myorg.com
 
-    -   
-    -   置換する文字列 : https://mail.myorg.com:443
-
-    -   
-
-6.  
+    -   置換する文字列 : https://mail.myorg.com:443   
 
 着信方向の Web 要求リスナが 443 以外のセキュリティで保護されたポートでリッスンするよう構成されている場合は、443 を特定のポート番号に置き換えてください。
 

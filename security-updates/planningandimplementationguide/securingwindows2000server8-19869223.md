@@ -219,31 +219,31 @@ MBSA がコンピュータに特定の修正プログラムがインストール
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>&lt;オプションなし&gt;</pre>
+<td style="border:1px solid black;">&lt;オプションなし&gt;
 <br />
 </td>
 <td style="border:1px solid black;">ローカル コンピュータをスキャンします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>/c &lt;ドメイン名&gt;\&lt;コンピュータ名&gt;</pre>
+<td style="border:1px solid black;">/c &lt;ドメイン名&gt;\&lt;コンピュータ名&gt;
 <br />
 </td>
 <td style="border:1px solid black;">指定された名前のコンピュータをスキャンします。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>/i &lt;xxx.xxx.xxx.xxx&gt;</pre>
+<td style="border:1px solid black;">/i &lt;xxx.xxx.xxx.xxx&gt;
 <br />
 </td>
 <td style="border:1px solid black;">指定された IP アドレスのコンピュータをスキャンします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>/r &lt;xxx.xxx.xxx.xxx - xxx.xxx.xxx.xxx&gt;</pre>
+<td style="border:1px solid black;">/r &lt;xxx.xxx.xxx.xxx - xxx.xxx.xxx.xxx&gt;
 <br />
 </td>
 <td style="border:1px solid black;">指定された範囲の IP アドレスのコンピュータをスキャンします。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>/d &lt;ドメイン名&gt;</pre>
+<td style="border:1px solid black;">/d &lt;ドメイン名&gt;
 <br />
 </td>
 <td style="border:1px solid black;">指定されたドメインのコンピュータをスキャンします。</td>
@@ -253,31 +253,31 @@ MBSA がコンピュータに特定の修正プログラムがインストール
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>/n IIS</pre>
+<td style="border:1px solid black;">/n IIS
 <br />
 </td>
 <td style="border:1px solid black;">IIS のチェックをスキップします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>/n OS</pre>
+<td style="border:1px solid black;">/n OS
 <br />
 </td>
 <td style="border:1px solid black;">Windows オペレーティング システム (OS) のチェックをスキップします。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>/n Password</pre>
+<td style="border:1px solid black;">/n Password
 <br />
 </td>
 <td style="border:1px solid black;">パスワードのチェックをスキップします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>/n SQL</pre>
+<td style="border:1px solid black;">/n SQL
 <br />
 </td>
 <td style="border:1px solid black;">SQL のチェックをスキップします。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>/n Updates</pre>
+<td style="border:1px solid black;">/n Updates
 <br />
 </td>
 <td style="border:1px solid black;">セキュリティ更新のチェックをスキップします。</td>
@@ -288,25 +288,25 @@ MBSA がコンピュータに特定の修正プログラムがインストール
 </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>/sus &lt;SUS サーバー&gt;</pre>
+<td style="border:1px solid black;">/sus &lt;SUS サーバー&gt;
 <br />
 </td>
 <td style="border:1px solid black;">指定された SUS サーバーで承認されたセキュリティ更新だけをチェックします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>/s 1</pre>
+<td style="border:1px solid black;">/s 1
 <br />
 </td>
 <td style="border:1px solid black;">セキュリティ更新のチェックの注意を抑制します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>/s 2</pre>
+<td style="border:1px solid black;">/s 2
 <br />
 </td>
 <td style="border:1px solid black;">セキュリティ更新のチェックの注意と警告を抑制します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>/nosum</pre>
+<td style="border:1px solid black;">/nosum
 <br />
 </td>
 <td style="border:1px solid black;">セキュリティ更新のチェックで、ファイルのチェックサムをテストしません。</td>
@@ -316,7 +316,7 @@ MBSA がコンピュータに特定の修正プログラムがインストール
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>/o %domain%</pre>
+<td style="border:1px solid black;">/o %domain%
 <br />
 </td>
 <td style="border:1px solid black;">%computername% (%date%)</td>
@@ -326,31 +326,31 @@ MBSA がコンピュータに特定の修正プログラムがインストール
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>/e</pre>
+<td style="border:1px solid black;">/e
 <br />
 </td>
 <td style="border:1px solid black;">最新のスキャンでのエラーをリスト表示します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>/l</pre>
+<td style="border:1px solid black;">/l
 <br />
 </td>
 <td style="border:1px solid black;">利用可能なすべてのレポートをリスト表示します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>/ls</pre>
+<td style="border:1px solid black;">/ls
 <br />
 </td>
 <td style="border:1px solid black;">最新のスキャンでのレポートをリスト表示します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>/lr &lt;レポート名&gt;</pre>
+<td style="border:1px solid black;">/lr &lt;レポート名&gt;
 <br />
 </td>
 <td style="border:1px solid black;">概要レポートを表示します。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>/ld &lt;レポート名&gt;</pre>
+<td style="border:1px solid black;">/ld &lt;レポート名&gt;
 <br />
 </td>
 <td style="border:1px solid black;">詳細レポートを表示します。</td>
@@ -360,25 +360,25 @@ MBSA がコンピュータに特定の修正プログラムがインストール
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>/?</pre>
+<td style="border:1px solid black;">/?
 <br />
 </td>
 <td style="border:1px solid black;">使用方法のヘルプを表示します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>/qp</pre>
+<td style="border:1px solid black;">/qp
 <br />
 </td>
 <td style="border:1px solid black;">進行状況を表示しません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>/qe</pre>
+<td style="border:1px solid black;">/qe
 <br />
 </td>
 <td style="border:1px solid black;">エラー リストを表示しません。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>/qr</pre>
+<td style="border:1px solid black;">/qr
 <br />
 </td>
 <td style="border:1px solid black;">レポート リストを表示しません。</td>
@@ -411,43 +411,43 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>-h &lt;ホスト名&gt;</pre>
+<td style="border:1px solid black;">-h &lt;ホスト名&gt;
 <br />
 </td>
 <td style="border:1px solid black;">指定された NetBIOS 名のコンピュータをスキャンします。既定の場所はローカル ホストです。ホスト名をコンマで区切ることにより、複数のホストをスキャンできます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>-fh &lt;ファイル名&gt;</pre>
+<td style="border:1px solid black;">-fh &lt;ファイル名&gt;
 <br />
 </td>
 <td style="border:1px solid black;">指定したテキスト ファイル内で指定されている NetBIOS (network basic input/output system) 名のコンピュータをスキャンします。テキスト ファイルには、コンピュータ名を改行で区切って記述します。最大で 256 台まで指定できます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>-i &lt;xxx.xxx.xxx.xxx&gt;</pre>
+<td style="border:1px solid black;">-i &lt;xxx.xxx.xxx.xxx&gt;
 <br />
 </td>
 <td style="border:1px solid black;">指定された IP アドレスのコンピュータをスキャンします。エントリをコンマで区切ることにより、複数の IP アドレスをスキャンできます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>-fip &lt;ファイル名&gt;</pre>
+<td style="border:1px solid black;">-fip &lt;ファイル名&gt;
 <br />
 </td>
 <td style="border:1px solid black;">指定したテキスト ファイル内で指定されている IP アドレスをスキャンします。txt ファイルには、IP アドレスを改行で区切って記述します。最大で 256 エントリまで指定できます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>-r &lt;xxx.xxx.xxx.xxx - xxx.xxx.xxx.xxx&gt;</pre>
+<td style="border:1px solid black;">-r &lt;xxx.xxx.xxx.xxx - xxx.xxx.xxx.xxx&gt;
 <br />
 </td>
 <td style="border:1px solid black;">指定された範囲の IP アドレスのコンピュータをスキャンします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>-d &lt;ドメイン名&gt;</pre>
+<td style="border:1px solid black;">-d &lt;ドメイン名&gt;
 <br />
 </td>
 <td style="border:1px solid black;">指定されたドメインのコンピュータをスキャンします。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>-n</pre>
+<td style="border:1px solid black;">-n
 <br />
 </td>
 <td style="border:1px solid black;">ローカル ネットワークのすべてのコンピュータをスキャンします。[ネットワーク コンピュータ] 内の、すべてのドメインのすべてのコンピュータをスキャンします。</td>
@@ -457,25 +457,25 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>-sus &lt;SUS ファイル名 | SUS サーバー&gt;</pre>
+<td style="border:1px solid black;">-sus &lt;SUS ファイル名 | SUS サーバー&gt;
 <br />
 </td>
 <td style="border:1px solid black;">SUS テキスト ファイル、または SUS ファイルの取得先 SUS URL を指定します。ファイルまたはサーバーを指定しない場合は、エンジンはローカル コンピュータのレジストリに格納されている値を使用しようとします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>-b</pre>
+<td style="border:1px solid black;">-b
 <br />
 </td>
 <td style="border:1px solid black;">Microsoft Security Response Center により緊急 (baseline critical) と評価された更新だけを対象にして、コンピュータをスキャンします。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>-fq &lt;ファイル名&gt;</pre>
+<td style="border:1px solid black;">-fq &lt;ファイル名&gt;
 <br />
 </td>
 <td style="border:1px solid black;">出力を抑制する Q 番号を含んでいるファイルの名前を指定します。Q 番号は、改行で区切って記述します。このスイッチは、指定されたアイテムの表示出力だけを抑制します。アイテムをスキャン中の考慮の対象から除外するわけではありません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>-s</pre>
+<td style="border:1px solid black;">-s
 <br />
 </td>
 <td style="border:1px solid black;">注意 (NOTE) と警告 (WARNING) のメッセージを抑制します。既定では、どちらのメッセージも抑制しません。このスイッチでは、以下のオプションを使用できます。
@@ -483,25 +483,25 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
 (2) 注意と警告のメッセージの両方を抑制</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>-nosum</pre>
+<td style="border:1px solid black;">-nosum
 <br />
 </td>
 <td style="border:1px solid black;">セキュリティ更新ファイルのチェックサムの確認を行いません。一般的な状況では、このスイッチを使用する必要はありません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>-sum</pre>
+<td style="border:1px solid black;">-sum
 <br />
 </td>
 <td style="border:1px solid black;">英語以外の言語のシステムをスキャニングする際に、強制的にチェックサム スキャンを行います。このスイッチは、言語固有のチェックサムを持つ、カスタムの XML ファイルがある場合にのみ使用してください。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>-z</pre>
+<td style="border:1px solid black;">-z
 <br />
 </td>
 <td style="border:1px solid black;">レジストリのチェックを行いません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>-history</pre>
+<td style="border:1px solid black;">-history
 <br />
 </td>
 <td style="border:1px solid black;">明示的にインストールされた更新、明示的にインストールされなかった更新、またはその両方を表示します。このスイッチは、通常の処理では必要ありません。非常に特殊な状況以外には使用しないでください。このスイッチでは、以下のオプションを使用できます。
@@ -510,7 +510,7 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
 (3) 明示的にインストールされた更新とインストールされなかった更新を表示</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>-v</pre>
+<td style="border:1px solid black;">-v
 <br />
 </td>
 <td style="border:1px solid black;">テストがラップ モードでは動作しなかった理由を表示します。このスイッチは、セキュリティ更新が「適用されていない」とされた場合、または注意や警告のメッセージが出た場合に、その理由を表示するために使用できます。</td>
@@ -520,7 +520,7 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>-o</pre>
+<td style="border:1px solid black;">-o
 <br />
 </td>
 <td style="border:1px solid black;">希望する出力形式を指定します。このスイッチでは、以下のオプションを使用できます。
@@ -528,7 +528,7 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
 (wrap) 出力をワードラップ形式で表示</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>-f &lt;ファイル名&gt;</pre>
+<td style="border:1px solid black;">-f &lt;ファイル名&gt;
 <br />
 </td>
 <td style="border:1px solid black;">結果を保存するファイルの名前を指定します。このスイッチは、ラップとタブ出力のどちらでも使用できます。</td>
@@ -538,43 +538,43 @@ HFNetChk スタイルのスキャンは、スタンド アロンの HFNetChk ツ
 <td style="border:1px solid black;"> </td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>-t</pre>
+<td style="border:1px solid black;">-t
 <br />
 </td>
 <td style="border:1px solid black;">スキャンを実行するために使用されるスレッドの数を表示します。可能な値は 1 ～ 128 で、既定値は 64 です。このスイッチは、スキャンの速度を下げる (または上げる) ために使用できます。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>-u &lt;ユーザー名&gt;</pre>
+<td style="border:1px solid black;">-u &lt;ユーザー名&gt;
 <br />
 </td>
 <td style="border:1px solid black;">ローカルまたはリモートのコンピュータ、またはコンピュータのグループをスキャンする際に使用するユーザー名を指定します。このスイッチは、-p (パスワード) スイッチと共に使用しなければなりません。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>-p &lt;パスワード&gt;</pre>
+<td style="border:1px solid black;">-p &lt;パスワード&gt;
 <br />
 </td>
 <td style="border:1px solid black;">ローカルまたはリモートのコンピュータ、またはコンピュータのグループをスキャンする際に使用するパスワードを指定します。このスイッチは、-u (ユーザー名) スイッチと共に使用しなければなりません。セキュリティ上の理由から、パスワードがクリア テキストでネットワーク上に送られることはありません。代わりに、MBSA は、Windows NT 4.0 以降に組み込まれている challenge-response メカニズムを使用して、認証プロセスを保護します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>-x</pre>
+<td style="border:1px solid black;">-x
 <br />
 </td>
 <td style="border:1px solid black;">利用可能なセキュリティ更新の情報を含んでいる XML データの出所を指定します。XML ファイル名、圧縮した XML .cab ファイル、または Uniform Resource Locator (URL) を指定できます。既定のファイルは、マイクロソフトの Web サイトにある、Mssecure.cab ファイルです。このスイッチを使用しなかった場合には、マイクロソフトの Web サイトから、mssecure.xml ファイルをダウンロードします。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>-ver</pre>
+<td style="border:1px solid black;">-ver
 <br />
 </td>
 <td style="border:1px solid black;">MBSA の利用可能な最新バージョンを実行しているかどうかをチェックします。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre>-trace</pre>
+<td style="border:1px solid black;">-trace
 <br />
 </td>
 <td style="border:1px solid black;">トラブルシューティングのために、デバッグ ログ (ローカル ディレクトリの hf.log) を作成します。このスイッチは、コマンド ラインの最初のスイッチとして指定することが必要です。他のスイッチと組み合わせて使用することができます。</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><pre>-about</pre>
+<td style="border:1px solid black;">-about
 <br />
 </td>
 <td style="border:1px solid black;">MBSA についての情報を表示します。</td>

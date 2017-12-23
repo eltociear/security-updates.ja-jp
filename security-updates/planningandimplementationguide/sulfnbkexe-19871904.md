@@ -26,16 +26,16 @@ Published: 1月 10, 2002 | Updated : 4月 24, 2002
 
 また、以下の Web サイトにて本件に関する情報が公開されておりますので併せてご参照ください。
 
--   IPA
+-   IPA   
     <http://www.ipa.go.jp/security/topics/alert140108.html>![](images/Dd362959.leave-ms(ja-jp,TechNet.10).gif)
 
--   株式会社シマンテック
+-   株式会社シマンテック   
     <http://www.symantec.com/region/jp/sarcj/data/s/sulfnbk.exe_warning.html>![](images/Dd362959.leave-ms(ja-jp,TechNet.10).gif)
 
--   トレンドマイクロ株式会社
+-   トレンドマイクロ株式会社   
     [http://www.trendmicro.co.jp/vinfo/virusencyclo/default5.asp?VName=SULFNBK&VSect=T](http://www.trendmicro.co.jp/vinfo/virusencyclo/default5.asp?vname=sulfnbk&vsect=t)![](images/Dd362959.leave-ms(ja-jp,TechNet.10).gif)
 
--   日本ネットワークアソシエイツ株式会社
+-   日本ネットワークアソシエイツ株式会社   
     [http://www.mcafee.com/japan/security/virHOAX.asp?v=SULFNBK&a=HOAX](http://www.mcafee.com/japan/security/virhoax.asp?v=sulfnbk&a=hoax)![](images/Dd362959.leave-ms(ja-jp,TechNet.10).gif)
 
 [](#mainsection)[ページのトップへ](#mainsection)
@@ -78,18 +78,27 @@ Windows Meをご使用の場合、システム設定ユーティリティを使�
 
     -   Windows Me (パッケージ版) をインスールした場合
         ```
+        c:\windows\options\install
+        ```
 
     -   Windows Me (プレインストール) をインストールした場合
+        ```
+        c:\windows\options\cabs
         ```
 
     プレインストールマシンによっては、フォルダが異なる場合があります。この場合は、プレインストールマシンの製造元様にお問い合わせください。
 
 6.  \[ファイルの保存先\] ボックスに、抽出したファイルを保存するフォルダまでのパスを入力しファイルを抽出します。
         ```
+        c:\windows\command
+        ```
 
     注: インストールしたフォルダによって、異なる場合があります。
 
 7.  ファイルが抽出されると以下のメッセージが表示されるので、\[OK\] ボタンをクリックします。
+        ```
+        ファイルの抽出
+        ファイルの抽出が完了しました
         ```
 
 8.  手順 6 で指定したフォルダにファイルが抽出されていることを確認してください。
@@ -106,6 +115,8 @@ Windows 98、Windows 98 Second Edition をご利用のお客様は、システ�
 
 4.  \[復元したいシステム ファイルを指定してください\] で、下記の文字を入力し、\[開始\] をクリックします。
         ```
+        c:\windows\command\sulfnbk.exe
+        ```
 
         注: インストールしたフォルダによって、異なる場合があります。
 
@@ -114,6 +125,9 @@ Windows 98、Windows 98 Second Edition をご利用のお客様は、システ�
 6.  OK をクリックします。
 
 7.  ファイルが抽出されると、以下のメッセージが表示されるので、\[OK\] ボタンをクリックします。
+        ```
+        ファイルの抽出
+        ファイルの抽出が完了しました
         ```
 
 詳細は、下記の弊社サポート技術情報をご覧ください。
