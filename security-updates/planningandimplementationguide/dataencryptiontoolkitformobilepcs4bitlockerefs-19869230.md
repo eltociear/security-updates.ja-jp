@@ -13,7 +13,7 @@ Data Encryption Toolkit for Mobile PCs – セキュリティ分析
 
 公開日: 2007年8月20日
 
-**ダウンロード**
+**ダウンロード**  
 [Data Encryption Toolkit for Mobile PCs を入手する (英語)](http://www.microsoft.com/downloads/details.aspx?familyid=1a99576a-fe67-418f-88b1-81e2055fe977&displaylang=en)
 
 Microsoft® BitLocker™ ドライブ暗号化 (BitLocker) と暗号化ファイル システム (EFS) は 2 つの独立したテクノロジであり、これらを併用することでデータ セキュリティのために非常に強力な包括的ソリューションを確立できます。 BitLocker と EFS を併用した暗号化ソリューションでは、BitLocker が提供するコンピュータ単位の強力な暗号化と、EFS が提供するユーザー単位の暗号化を利用できます。
@@ -149,6 +149,7 @@ TPM と PIN を使用する BitLocker と、キャッシュ キー モードで�
 **表 4.1 BitLocker と EFS によるリスク軽減**
 
 ![](images/Cc162807.53d5723f-6e99-4b7a-9dde-4c45fd75288c(ja-jp,TechNet.10).gif)
+
 [](#mainsection)[ページのトップへ](#mainsection)
 
 ##### 目次

@@ -11,9 +11,9 @@ Install the WSUS 3.0 Administration Console
 
 After installing WSUS 3.0 on a server, you can manage WSUS 3.0 from any computer on your network, as long as the domain of that computer has a trust relationship with the domain of the server. You will need to perform a separate installation, from the same downloaded installation package, on every machine from which you want to run the WSUS 3.0 administration console.
 
-| ![](images/Cc720498.Important(WS.10).gif)重要                                                                        |
-|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| The WSUS 3.0 administration console can be used to manage any WSUS server that has a trust relationship with the administration console computer. |
+> [!IMPORTANT]
+> The WSUS 3.0 administration console can be used to manage any WSUS server that has a trust relationship with the administration console computer. 
+
 
 Supported operating systems for console-only installation
 ---------------------------------------------------------

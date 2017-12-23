@@ -14,6 +14,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362954(v=TechNet.10)'
 最終更新日 : 2003 年 2 月 19 日
 
  
+<p></p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -330,6 +331,9 @@ Sharepoint Portal Server 環境での MSDE 2000 のインストール方法 (Sha
 </tr>
 </tbody>
 </table>
+
+<p></p>
+
  
 
 [](#mainsection)[ページのトップへ](#mainsection)

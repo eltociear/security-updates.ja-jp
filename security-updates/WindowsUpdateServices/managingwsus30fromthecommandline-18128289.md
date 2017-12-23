@@ -20,7 +20,7 @@ Using the wsusutil utility
 You must be an administrator to run the **wsusutil** utility. This utility is installed only on WSUS server machines, not on console-only installations.
 
 > [!NOTE]
-> To see all **wsusutil** parameters, type **wsusutil help** on the command line. To see usage for each of the parameters, type **wsusutil help ** *parameterName*. 
+> To see all **wsusutil** parameters, type **wsusutil help** on the command line. To see usage for each of the parameters, type **wsusutil help***parameterName*. 
 
 ### Summary of wsusutil Commands
 
@@ -156,7 +156,7 @@ Description
 </tr>
 <tr>
 <td style="border:1px solid black;" colspan="2">
-**IntervalsInMinutes** *[DetectInterval\] \[RefreshInterval\]*
+**IntervalsInMinutes** *[DetectInterval\]* *\[RefreshInterval\]*
 
 </td>
 <td style="border:1px solid black;" colspan="2">
@@ -529,7 +529,7 @@ If the drive where WSUS stores update files is full, you can do one of the follo
 If the hard disk fails, you must do the following:
   
 1.  Install the new disk on your computer, and then restore the update files from your backup files. Note: If you have not backed up your update files, WSUSutil.exe downloads the missing files at the end of the content move operation.  
-2.  Run **wsusutil movecontent  ** *newLocation*, specifying the location for the new disk. In addition, you specify the -**skipcopy** parameter, because you are either putting the files in the new folder through the backup utility or the source folder does not exist; the update files will be downloaded at the end of this process.  
+2.  Run **wsusutil movecontent** *newLocation*, specifying the location for the new disk. In addition, you specify the -**skipcopy** parameter, because you are either putting the files in the new folder through the backup utility or the source folder does not exist; the update files will be downloaded at the end of this process.  
 3.  When the move operation is complete, all the missing files are downloaded.
   
 #### Syntax
@@ -639,13 +639,13 @@ See the explanation above for a description of situations in which you might nee
   
 If you set this value to **true**, WSUS Setup will use port 8530 for its Default Web site. If you set it to **false**, WSUS will use port 80.
   
->[Important]  
+>[!Important]  
 >You must use this command before you configure SSL.
   
->[Important]  
+>[!Important]  
 >If you are installing SharePoint on the same machine as WSUS, the value of **usecustomwebsite** should be set to **true** before the install.
   
->[Important]  
+>[!Important]  
 >Using this command after running WSUS Setup will fail if the index of the default Web site is set to a value other than 1.
   
 #### Syntax

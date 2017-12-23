@@ -23,10 +23,10 @@ SRMD に関する詳細な説明はこのガイドの対象外であり、ここ
 
 ##### トピック
 
-[](#eeaa)[シナリオの詳細](#eeaa)
-[](#edaa)[セキュリティ リスク管理の統制を適用する](#edaa)
-[](#ecaa)[リスクを評価する](#ecaa)
-[](#ebaa)[リスクを決定する](#ebaa)
+[](#eeaa)[シナリオの詳細](#eeaa)  
+[](#edaa)[セキュリティ リスク管理の統制を適用する](#edaa)  
+[](#ecaa)[リスクを評価する](#ecaa)  
+[](#ebaa)[リスクを決定する](#ebaa)  
 [](#eaaa)[要約](#eaaa)
 
 ### シナリオの詳細
@@ -119,7 +119,7 @@ SRMD の目標は、リスクを定量化し、組織の制御範囲内にある
 
 **表 2.1: Trey のコンピュータの役割**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="25%" />
@@ -251,7 +251,7 @@ Trey の IT エンジニアは、ネットワーク上に存在する役割お�
   
 **表 2.2: 物理的なセキュリティの脅威および軽減対策**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -307,7 +307,7 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
   
 **表 2.3: サービス拒否の脅威および軽減対策**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -384,7 +384,7 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
   
 **表 2.4: 悪意のあるコードの脅威および軽減対策**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -433,7 +433,7 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
   
 **表 2.5: 情報の漏えいの脅威および軽減対策**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -489,7 +489,7 @@ DoS の脅威には、偽のトラフィックを使用してネットワーク�
   
 **表 2.6: アカウント侵害の脅威および軽減対策**
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="20%" />
@@ -560,8 +560,8 @@ SRMD をエンタープライズ環境に適用する方法の詳細について
 -   Microsoft TechNet [http://technet.microsoft.com/library/cc163143.aspx](https://technet.microsoft.com/ja-jp/library/b3e09f12-b0dc-4a9d-946c-ac092c2994eb(v=TechNet.10))  
     の「セキュリティ リスク管理 : セキュリティ リスク管理の統制について理解する」モジュール
   
--   Microsoft TechNet [http://technet.microsoft.com/library/cc163143.aspx  
-    ](https://technet.microsoft.com/ja-jp/library/b3e09f12-b0dc-4a9d-946c-ac092c2994eb(v=TechNet.10)) の「セキュリティ リスク管理 : セキュリティ リスク管理の統制を適用する」モジュール
+-   Microsoft TechNet [http://technet.microsoft.com/library/cc163143.aspx](https://technet.microsoft.com/ja-jp/library/b3e09f12-b0dc-4a9d-946c-ac092c2994eb(v=TechNet.10))  
+    の「セキュリティ リスク管理 : セキュリティ リスク管理の統制を適用する」モジュール
   
 [](#mainsection)[ページのトップへ](#mainsection)
   

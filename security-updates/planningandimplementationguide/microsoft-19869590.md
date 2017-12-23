@@ -21,12 +21,12 @@ Microsoft Solutions for Security グループ (MSS) および Security Center of
 
 ##### トピック
 
-[](#egaa)[著者](#egaa)
-[](#efaa)[レビュー担当者](#efaa)
-[](#eeaa)[テスター](#eeaa)
-[](#edaa)[編集者](#edaa)
-[](#ecaa)[プログラム マネージャ](#ecaa)
-[](#ebaa)[リリース マネージャ](#ebaa)
+[](#egaa)[著者](#egaa)  
+[](#efaa)[レビュー担当者](#efaa)  
+[](#eeaa)[テスター](#eeaa)  
+[](#edaa)[編集者](#edaa)  
+[](#ecaa)[プログラム マネージャ](#ecaa)  
+[](#ebaa)[リリース マネージャ](#ebaa)  
 [](#eaaa)[貢献者](#eaaa)
 
 ### 著者

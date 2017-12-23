@@ -74,6 +74,7 @@ MBSA はどのようなアプリケーションやプログラムをスキャン
 
 MBSA V1.2.1 は Windows NT 4.0、Windows 2000、Windows XP、Windows Server 2003、Microsoft Internet Information Services (IIS) 4.0、5.0、5.1 および 6.0、Microsoft Internet Explorer (IE) 5.01 およびそれ以降のバージョン、Microsoft SQL Server 7.0 および 2000、Microsoft Office 2000、XP、および 2003 のセキュリティ上の誤った構成がないかスキャンします。
 
+<p> </p>
 <table border="1" bordercolor="#CCCCCC" cellpadding="3" cellspacing="0" id="EDE">
 <thead>
 <tr valign="top">
