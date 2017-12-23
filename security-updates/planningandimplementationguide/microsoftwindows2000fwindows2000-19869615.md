@@ -24,8 +24,8 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 [](#ebaa)[G-7. 高セキュリティ Windows 2000 ドメイン セキュリティ ポリシーのテンプレート](#ebaa)  
 [](#eaaa)[G-8. 高セキュリティ Windows 2000 ドメイン コントローラ セキュリティ ポリシーのテンプレート](#eaaa)  
   
-### G-1. ベースライン Windows 2000 Server セキュリティ構成テンプレート  
-<p> </p>  
+### G-1. ベースライン Windows 2000 Server セキュリティ構成テンプレート
+<p> </p>
 <table style="border:1px; solid black;">  
 <tr>  
 <td>  
@@ -326,8 +326,8 @@ Description=Evaluated Configuration minimum required security policy settings fo
   
 [](#mainsection)[ページのトップへ](#mainsection)  
   
-### G-2. ベースライン Windows 2000 Professional セキュリティのテンプレート  
-  
+### G-2. ベースライン Windows 2000 Professional セキュリティのテンプレート
+<p></p>
 <table style="border:1px; solid black;">  
 <tr>  
 <td>  
@@ -414,7 +414,7 @@ MACHINE\System\CurrentControlSet\Control\Lsa\RestrictAnonymous=4,1
 ;評価された構成に必須のセキュリティの設定。下に列挙するその他の  
 ;レジストリ値の設定は Common Criteria (共通基準) に基づく評価された構成に必須です。  
 ;これらの設定はセキュリティ ポリシーのインターフェイスには表示されません。  
-=========================================================================  
+ =========================================================================  
 ;--------------------------------------------------------------------------------  
 ;DirectDraw を無効にする。ここでは、アプリケーションからグラフィックス  
 ;ハードウェアに直接アクセスされることを防止するために、DirectDraw を  
@@ -631,14 +631,13 @@ Windows 2000 Professional computers.
 </td>  
 </tr>  
 </table>   
-<p> </p>  
-  
+<p> </p>
 [](#mainsection)[ページのトップへ](#mainsection)  
   
-### G-3. ベースライン Windows 2000 ドメイン セキュリティ ポリシーのテンプレート  
-  
-<table style="border:1px; solid black;">  
-<tr>  
+### G-3. ベースライン Windows 2000 ドメイン セキュリティ ポリシーのテンプレート
+<p> </p>
+<table style="border:1px; solid black;">
+<tr>
 <td>  
 ; (c) Microsoft Corporation 1997-2000  
 ;  
@@ -733,7 +732,7 @@ MACHINE\System\CurrentControlSet\Control\Lsa\RestrictAnonymous=4,1
 ;評価された構成に必須のセキュリティの設定。下に列挙するその他の  
 ;レジストリ値の設定は Common Criteria (共通基準) に基づく評価された構成に必須です。  
 ;これらの設定はセキュリティ ポリシーのインターフェイスには表示されません。  
-=========================================================================  
+ =========================================================================  
 ;--------------------------------------------------------------------------------  
 ;DirectDraw を無効にする。ここでは、アプリケーションからグラフィックス  
 ;ハードウェアに直接アクセスされることを防止するために、DirectDraw を  
@@ -951,12 +950,11 @@ Description=Evaluated Configuration minimum required security policy settings fo
 </tr>  
 </table>   
 <p> </p>  
-  
 [](#mainsection)[ページのトップへ](#mainsection)  
   
-### G-4. ベースライン Windows 2000 ドメイン コントローラ セキュリティ ポリシーのテンプレート  
-  
-<table style="border:1px; solid black;">  
+### G-4. ベースライン Windows 2000 ドメイン コントローラ セキュリティ ポリシーのテンプレート
+<p> </p>
+<table style="border:1px; solid black;">
 <tr>  
 <td>  
 ; (c) Microsoft Corporation 1997-2000  
@@ -1207,7 +1205,7 @@ MACHINE\Software\Microsoft\Driver Signing\Policy=3,1
 ;評価された構成に必須のセキュリティの設定。下に列挙するその他の  
 ;レジストリ値の設定は Common Criteria (共通基準) に基づく評価された構成に必須です。  
 ;これらの設定はセキュリティ ポリシーのインターフェイスには表示されません。  
-=========================================================================  
+ =========================================================================  
 ;--------------------------------------------------------------------------------  
 ;DirectDraw を無効にする。ここでは、アプリケーションからグラフィックス  
 ;ハードウェアに直接アクセスされることを防止するために、DirectDraw を  
@@ -1515,14 +1513,13 @@ SceInfUsers = Users
 Description=Evaluated Configuration high security policy settings for Windows 2000 Servers.  
 </td>  
 </tr>  
-</table>   
+</table>
 <p> </p>  
+[](#mainsection)[ページのトップへ](#mainsection)
   
-[](#mainsection)[ページのトップへ](#mainsection)  
-  
-### G-6. 高セキュリティ Windows 2000 Professional セキュリティのテンプレート  
-  
-<table style="border:1px; solid black;">  
+### G-6. 高セキュリティ Windows 2000 Professional セキュリティのテンプレート
+<p> </p>
+<table style="border:1px; solid black;">
 <tr>  
 <td>  
 ; (c) Microsoft Corporation 1997-2000  
@@ -1676,7 +1673,7 @@ MACHINE\Software\Microsoft\Driver Signing\Policy=3,1
 ;評価された構成に必須のセキュリティの設定。下に列挙するその他の  
 ;レジストリ値の設定は Common Criteria (共通基準) に基づく評価された構成に必須です。  
 ;これらの設定はセキュリティ ポリシーのインターフェイスには表示されません。  
-=========================================================================  
+ =========================================================================  
 ;--------------------------------------------------------------------------------  
 ;DirectDraw を無効にする。ここでは、アプリケーションからグラフィックス  
 ;ハードウェアに直接アクセスされることを防止するために、DirectDraw を  
@@ -1986,14 +1983,14 @@ SceInfUsers = Users
 Description=Evaluated Configuration high security policy settings for Windows 2000 Professional computers.  
 </td>  
 </tr>  
-</table>   
-<p> </p>  
-  
+</table>
+<p> </p>
+ 
 [](#mainsection)[ページのトップへ](#mainsection)  
   
-### G-7. 高セキュリティ Windows 2000 ドメイン セキュリティ ポリシーのテンプレート  
-  
-<table style="border:1px; solid black;">  
+### G-7. 高セキュリティ Windows 2000 ドメイン セキュリティ ポリシーのテンプレート
+<p> </p>
+<table style="border:1px; solid black;">
 <tr>  
 <td>  
 ; (c) Microsoft Corporation 1997-2000  
@@ -2157,7 +2154,7 @@ MACHINE\Software\Microsoft\Windows NT\CurrentVersion\Winlogon\ScRemoveOption=1,1
 ;評価された構成に必須のセキュリティの設定。下に列挙するその他の  
 ;レジストリ値の設定は Common Criteria (共通基準) に基づく評価された構成に必須です。  
 ;これらの設定はセキュリティ ポリシーのインターフェイスには表示されません。  
-=========================================================================  
+ =========================================================================  
 ;--------------------------------------------------------------------------------  
 ;DirectDraw を無効にする。ここでは、アプリケーションからグラフィックス  
 ;ハードウェアに直接アクセスされることを防止するために、DirectDraw を  
@@ -2465,14 +2462,14 @@ SceInfUsers = Users
 Description=Evaluated Configuration high security policy settings for Windows 2000 Domains.  
 </td>  
 </tr>  
-</table>   
-<p> </p>  
-  
+</table>
+<p> </p>
+ 
 [](#mainsection)[ページのトップへ](#mainsection)  
   
-### G-8. 高セキュリティ Windows 2000 ドメイン コントローラ セキュリティ ポリシーのテンプレート  
-  
-<table style="border:1px; solid black;">  
+### G-8. 高セキュリティ Windows 2000 ドメイン コントローラ セキュリティ ポリシーのテンプレート
+<p> </p>
+<table style="border:1px; solid black;">
 <tr>  
 <td>  
 ; (c) Microsoft Corporation 1997-2000  
