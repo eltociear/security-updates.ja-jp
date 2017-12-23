@@ -96,9 +96,8 @@ If you are configuring a downstream server, use the following procedure.
 
 2.  If the upstream server will download update files in all languages, and you want the downstream server to do the same, select **Download updates in all languages supported by the upstream server**. This setting will cause the upstream server to download updates in all languages, including languages that were not originally set up for the upstream server.
 
-| ![](images/Cc720475.Important(WS.10).gif)重要                                                                                                                                                         |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Selecting the **Download updates in all languages** option on a download server will modify the upstream server's behavior to download update files in all languages, no matter how the upstream server was originally configured. |
+> [!IMPORTANT]  
+> Selecting the **Download updates in all languages** option on a download server will modify the upstream server's behavior to download update files in all languages, no matter how the upstream server was originally configured.
 
 <span id="BKMK_products"></span>
 Choose update products
