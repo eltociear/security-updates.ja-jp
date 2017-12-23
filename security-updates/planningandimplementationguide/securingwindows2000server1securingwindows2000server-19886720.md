@@ -13,15 +13,15 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Cc751211(v=TechNet.10)'
 
 ##### トピック
 
-[](#eeaa)[各章の概要](#eeaa)
+[](#eeaa)[各章の概要](#eeaa)  
 
-[](#edaa)[対象読者](#edaa)
+[](#edaa)[対象読者](#edaa)  
 
-[](#ecaa)[Securing Windows 2000 Server ソリューションのシナリオ](#ecaa)
+[](#ecaa)[Securing Windows 2000 Server ソリューションのシナリオ](#ecaa)  
+ 
+[](#ebaa)[スタイル凡例](#ebaa)  
 
-[](#ebaa)[スタイル凡例](#ebaa)
-
-[](#eaaa)[まとめ](#eaaa)
+[](#eaaa)[まとめ](#eaaa)  
 
 Securing Microsoft Windows 2000 Server ソリューション ガイドへようこそ! このガイドは、ご使用の環境における Windows 2000 Server に固有のセキュリティ リスクの評価に利用できる最善の情報と分析ツールについてお知らせする目的で書かれたものです。このガイドは、識別したリスクを軽減するために Windows 2000 Server において可能なあらゆる場所に、高度なセキュリティ設定と機能を組み込む作業について、詳しいガイダンスを提供します。最後に、サーバーをセキュリティで保護するための詳しい説明が掲載されています。このガイドは、Windows 2000 Server の環境に携るコンサルタント、設計者、システム エンジニアを対象として書かれたものです。
 
@@ -29,16 +29,16 @@ Securing Microsoft Windows 2000 Server ソリューション ガイドへよう�
 
 -   実証性 - フィールドでの豊富な経験
 
--   
+
 -   信頼性 - 利用可能な最善のアドバイスを提供
 
--   
+
 -   正確性 - 技術的に検査/試験済み
 
--   
+
 -   実現性 - 成功への手順を提供
 
--   
+
 -   関連性 - 実環境の問題に対処
 
 社内で Windows 2000 Server をセキュリティで保護するために利用できるさまざまな手法をすべて解説するのではなく、検討事項を最善に説明するために、極めて現実的な技術シナリオを持つ架空の会社をモデルに話を進めます。Windows 2000 Server の展開のうち、かなりの割合がここに紹介されています。Windows 2000 Server をさまざまな環境で実装してきたコンサルタントやシステム エンジニアとの協同作業を通じて、このサーバーをセキュリティで保護するための最新のベスト プラクティスが確立されます。Windows 2000 Server は、現在の状態に調整を施して、ユーザーの希望する状態に変えていただく必要があります。第 2 章から第 10 章には、このために行うべきタスクのリストを提供するための、ステップバイステップのセキュリティ手続きが説明されています。この資料の背後にある概念についてさらに詳しい説明を希望される方は、*Microsoft Windows 2000 Resource* および *Security Resource Kits*、または Microsoft TechNet などのリソースを参照してください。
@@ -151,13 +151,13 @@ Contoso のメンバ サーバーに適用される基本設定を説明しま�
   
 -   社内の設計業務を推進する責任を持つ設計者と立案者
   
--     
+
 -   社内のプラットフォーム全体にわたってセキュリティを提供する業務に専ら従事する IT セキュリティの専門家
   
--     
+
 -   IT の支援を必要とする重要性の極めて高い目的と要件を持つ企業アナリストと管理職 (BDM)
   
--     
+
 -   企業の顧客とパートナー向けに知識を移転するツールを必要とするコンサルタント (マイクロソフトのサービスとパートナーの両方)
   
 もちろん、インフラストラクチャ プロジェクトの計画、設計、および実装に関わる他の読者に対しても、このガイドは有用な関連情報を提供します。インフラストラクチャ開発には多くの役割があり、プロジェクトに関わる各人は、それぞれタイプもレベルも異なる情報を必要とします。
@@ -263,38 +263,38 @@ Contoso の外部との接続および周辺ネットワークのセキュリテ
 ### 目次
   
 -   [概要](https://technet.microsoft.com/ja-jp/library/71a89c24-0bfe-4e21-aeac-89ba6f84b06d(v=TechNet.10))  
--     
+
 -   第 1 章 ‐ Securing Windows 2000 Server 入門  
--     
+
 -   [第 2 章 ‐ セキュリティの概要を定義する](https://technet.microsoft.com/ja-jp/library/52d2d069-16f8-4a1f-8fa8-ec6b77571799(v=TechNet.10))  
--     
+
 -   [第 3 章 ‐ セキュリティ リスク管理の統制について理解する](https://technet.microsoft.com/ja-jp/library/81560275-04b7-4e40-8937-699e4b4defea(v=TechNet.10))  
--     
+
 -   [第 4 章 ‐ セキュリティ リスク管理の統制を適用する](https://technet.microsoft.com/ja-jp/library/07ed8438-6264-4e30-9ca9-2235687e62e7(v=TechNet.10))  
--     
+
 -   [第 5 章 ‐ ドメイン インフラストラクチャをセキュリティで保護する](https://technet.microsoft.com/ja-jp/library/83d7ede4-67ea-43d7-93a9-ccff8e5ca4e6(v=TechNet.10))  
--     
+
 -   [第 6 章 ‐ Base Windows 2000 Server のハードニング](https://technet.microsoft.com/ja-jp/library/265d2c3d-5af6-4f6e-85ea-d674d4c314a7(v=TechNet.10))  
--     
+
 -   [第 7 章 ‐ 特定サーバーの役割のハードニング](https://technet.microsoft.com/ja-jp/library/138bac60-132a-4faf-b979-503828583374(v=TechNet.10))  
--     
+
 -   [第 8 章 ‐ 修正プログラムの管理](https://technet.microsoft.com/ja-jp/library/c474ed12-f438-4d49-acaa-260df90e5e13(v=TechNet.10))  
--     
+
 -   [第 9 章 ‐ 監査と侵入検出](https://technet.microsoft.com/ja-jp/library/f8a8ab2f-f727-459c-aee0-c6a06f7f9fb0(v=TechNet.10))  
--     
+
 -   [第 10 章 ‐ インシデントへの対応](https://technet.microsoft.com/ja-jp/library/4baf189b-f762-4c67-a5bc-f438a1274fec(v=TechNet.10))  
--     
+
 -   [第 11 章 ‐ 結論](https://technet.microsoft.com/ja-jp/library/0deb6d1a-1083-4353-b645-6bdc1cbab83c(v=TechNet.10))  
--     
+
 -   [付録 A ‐ Windows 2000 のサービスの用途](https://technet.microsoft.com/ja-jp/library/13468c13-a3f3-4b75-aadf-fec1c40fe801(v=TechNet.10))  
--     
+
 -   [付録 B ‐ レジストリのアクセス制御の変更](https://technet.microsoft.com/ja-jp/library/132e1a99-29b0-4f66-956c-d009da62a51d(v=TechNet.10))  
--     
+
 -   [付録 C ‐ オプションのファイル システムのアクセス許可](https://technet.microsoft.com/ja-jp/library/af304b67-3190-4a66-b75a-07d8fcd8585d(v=TechNet.10))  
--     
+
 -   [付録 D ‐ 信頼されていないネットワーク内にあるサーバーでの NetBIOS の無効化](https://technet.microsoft.com/ja-jp/library/cac85879-5a6d-419c-bb04-09f0a93fb668(v=TechNet.10))  
--     
+
 -   [付録 E ‐ セキュリティで保護された LDAP および SMTP 複製を行うためのドメイン コントローラでのデジタル証明書の構成](http://www.microsoft.com/japan/technet/security/prodtech/windows2000/secwin2k/a0701.mspx)  
--   
+
   
 [](#mainsection)[ページのトップへ](#mainsection)

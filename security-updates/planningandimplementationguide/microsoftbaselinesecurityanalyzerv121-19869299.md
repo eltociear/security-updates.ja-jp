@@ -17,21 +17,21 @@ MBSA は、Windows 2000、Windows XP および Windows Server 2003 システム�
 
 ##### トピック
 
-[](#egaa)[ダウンロード サイト](#egaa)
-[](#efaa)[MBSA バージョン 1.2.1 の新しい向上点](#efaa)
-[](#eeaa)[よく寄せられる質問 (FAQ)](#eeaa)
-[](#edaa)[MBSA とスクリプト](#edaa)
-[](#ecaa)[SMS 2003 Software Update Scanning Toolsをお使いの場合](#ecaa)
-[](#ebaa)[SMS 2.0 Software Update Services Feature Pack をお使いの場合](#ebaa)
+[](#egaa)[ダウンロード サイト](#egaa)  
+[](#efaa)[MBSA バージョン 1.2.1 の新しい向上点](#efaa)  
+[](#eeaa)[よく寄せられる質問 (FAQ)](#eeaa)  
+[](#edaa)[MBSA とスクリプト](#edaa)  
+[](#ecaa)[SMS 2003 Software Update Scanning Toolsをお使いの場合](#ecaa)  
+[](#ebaa)[SMS 2.0 Software Update Services Feature Pack をお使いの場合](#ebaa)  
 [](#eaaa)[その他のリソース](#eaaa)
 
 ### ダウンロード サイト
 
-以下のバージョンの MBSA を以下のサイトからダウンロードすることができます。
-日本語: [http://download.microsoft.com/download/c/8/2/c823a585-f5dc-4947-9d92-72652bcd2576/MBSASetup-JA.msi](http://download.microsoft.com/download/c/8/2/c823a585-f5dc-4947-9d92-72652bcd2576/mbsasetup-ja.msi)
-英語 : [http://download.microsoft.com/download/9/0/7/90769f0c-c025-48bf-a9c7-60072d0cb717/MBSASetup-EN.msi](http://download.microsoft.com/download/9/0/7/90769f0c-c025-48bf-a9c7-60072d0cb717/mbsasetup-en.msi)
-フランス語 : [http://download.microsoft.com/download/9/5/9/959a3e95-2d0f-46ac-8418-ec057d1b3bc1/MBSASetup-FR.msi](http://download.microsoft.com/download/9/5/9/959a3e95-2d0f-46ac-8418-ec057d1b3bc1/mbsasetup-fr.msi)
-ドイツ語 : [http://download.microsoft.com/download/0/3/1/0313a008-9dbd-4cb1-ac4d-47bec92bbebd/MBSASetup-DE.msi](http://download.microsoft.com/download/0/3/1/0313a008-9dbd-4cb1-ac4d-47bec92bbebd/mbsasetup-de.msi)
+以下のバージョンの MBSA を以下のサイトからダウンロードすることができます。  
+日本語: [http://download.microsoft.com/download/c/8/2/c823a585-f5dc-4947-9d92-72652bcd2576/MBSASetup-JA.msi](http://download.microsoft.com/download/c/8/2/c823a585-f5dc-4947-9d92-72652bcd2576/mbsasetup-ja.msi)  
+英語 : [http://download.microsoft.com/download/9/0/7/90769f0c-c025-48bf-a9c7-60072d0cb717/MBSASetup-EN.msi](http://download.microsoft.com/download/9/0/7/90769f0c-c025-48bf-a9c7-60072d0cb717/mbsasetup-en.msi)  
+フランス語 : [http://download.microsoft.com/download/9/5/9/959a3e95-2d0f-46ac-8418-ec057d1b3bc1/MBSASetup-FR.msi](http://download.microsoft.com/download/9/5/9/959a3e95-2d0f-46ac-8418-ec057d1b3bc1/mbsasetup-fr.msi)  
+ドイツ語 : [http://download.microsoft.com/download/0/3/1/0313a008-9dbd-4cb1-ac4d-47bec92bbebd/MBSASetup-DE.msi](http://download.microsoft.com/download/0/3/1/0313a008-9dbd-4cb1-ac4d-47bec92bbebd/mbsasetup-de.msi)  
 
 インストールをすぐに開始するには、\[このプログラムを現在の場所から実行する\] を選択してください。後でインストールをする場合、または、ダウンロードしたファイルをコンピュータにコピーするには、\[このプログラムをディスクに保存する\] を選択してください。
 
@@ -97,28 +97,28 @@ MBSA では、以下の製品のセキュリティ修正プログラムのスキ
 
 ### よく寄せられる質問 (FAQ)
 
-MBSA および他のマイクロソフト セキュリティ ツールに関してよく寄せられる質問と答えは以下のページをご覧ください。
+MBSA および他のマイクロソフト セキュリティ ツールに関してよく寄せられる質問と答えは以下のページをご覧ください。  
 [http://www.microsoft.com/japan/technet/security/tools/Tools/mbsa1/qa.mspx](http://www.microsoft.com/japan/technet/security/tools/mbsa1/qa.mspx)
 
 [](#mainsection)[ページのトップへ](#mainsection)
 
 ### MBSA とスクリプト
 
-MBSA とスクリプトを組み合わせた活用方法は、以下のページをご覧ください。
+MBSA とスクリプトを組み合わせた活用方法は、以下のページをご覧ください。  
 [http://www.microsoft.com/japan/technet/security/tools /Tools/mbsa1/script.mspx](https://technet.microsoft.com/ja-jp/library/6d3b8c34-dd2d-456b-ab3a-a902883d410d(v=TechNet.10))
 
 [](#mainsection)[ページのトップへ](#mainsection)
 
 ### SMS 2003 Software Update Scanning Toolsをお使いの場合
 
-MBSA 1.2 のデータベースを利用可能な新しいSMS Software Update Scanning Tools に更新していただく必要がございます。詳細は、以下のサイトをご覧下さい。
+MBSA 1.2 のデータベースを利用可能な新しいSMS Software Update Scanning Tools に更新していただく必要がございます。詳細は、以下のサイトをご覧下さい。  
 [SMS 2003 Software Update Scanning Tools](http://www.microsoft.com/japan/smserver/downloads/2003/featurepacks/suspack/)
 
 [](#mainsection)[ページのトップへ](#mainsection)
 
 ### SMS 2.0 Software Update Services Feature Pack をお使いの場合
 
-MBSA 1.2 のデータベースを利用可能な新しいSMS Software Update Services Feature Pack に更新していただく必要がございます。詳細は、以下のサイトをご覧下さい。
+MBSA 1.2 のデータベースを利用可能な新しいSMS Software Update Services Feature Pack に更新していただく必要がございます。詳細は、以下のサイトをご覧下さい。  
 [SMS Software Update Services Feature Pack](http://www.microsoft.com/japan/smserver/downloads/20/featurepacks/suspack/)
 
 [](#mainsection)[ページのトップへ](#mainsection)

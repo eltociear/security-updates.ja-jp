@@ -9,10 +9,10 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362377(v=MSDN.10)'
 Windows プラットフォームの Common Criteria Certification
 ========================================================
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="1" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
-<td style="border:1px solid black;" colspan="5">
+<td>
 マイクロソフトは製品およびサービスのセキュリティを最適化することをお約束しています。そのお約束の一部として、マイクロソフトは Common Criteria 認定プログラムを積極的にサポートし、製品が Common Criteria Protection Profiles および、これまでにマイクロソフト製品が達成した Common Criteria 認定の要求するすべての特徴と機能を、確実に実装することに引き続き重点的に取り組んでまいります。
 
 </td>
