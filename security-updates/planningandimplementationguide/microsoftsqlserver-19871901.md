@@ -13,14 +13,14 @@ Microsoft SQL Server を狙ったワームに関する情報
 
 ##### トピック
 
-[](#ehaa)[はじめに](#ehaa)
-[](#egaa)[Microsoft SQL Server を狙ったワームの影響を受ける恐れのある製品](#egaa)
-[](#efaa)[ワームの影響](#efaa)
-[](#eeaa)[確認方法](#eeaa)
-[](#edaa)[詳細](#edaa)
-[](#ecaa)[対策](#ecaa)
-[](#ebaa)[対策による影響](#ebaa)
-[](#eaaa)[osql コマンドについて](#eaaa)
+[](#ehaa)[はじめに](#ehaa)  
+[](#egaa)[Microsoft SQL Server を狙ったワームの影響を受ける恐れのある製品](#egaa)  
+[](#efaa)[ワームの影響](#efaa)  
+[](#eeaa)[確認方法](#eeaa)  
+[](#edaa)[詳細](#edaa)  
+[](#ecaa)[対策](#ecaa)  
+[](#ebaa)[対策による影響](#ebaa)  
+[](#eaaa)[osql コマンドについて](#eaaa)  
 
 ### はじめに
 
@@ -255,6 +255,9 @@ SQL Server は、通常のインストール状態では、SYSTEM アカウン�
     何も表示されずに、コマンドプロンプトが表示される場合は、ポート 1433 は使用されていません。
 
     以下の情報が表示された場合は、 ポート 1433 が使用されています。
+        
+        ```
+             TCP    127.0.0.1:1433        0.0.0.0:0        LISTENING
         ```
 
 [](#mainsection)[ページのトップへ](#mainsection)
@@ -305,10 +308,16 @@ SQL Server へのパスワードの設定は、以下の方法で行います。
 2.  次のコマンドを入力し実行します。
 
     実際に設定するパスワード文字列に置き換えてください。また、他人に類推されにくく、辞書などに無いフレーズに置き換えてください。 なお、対象の SQL Server が名前付きインスタンスである場合、下記の "localhost" を適切なインスタンス名に置き換えてください。
-        ```
+    
+    ```
+        osql.exe -U sa -P -S localhost -Q "sp_password NULL, '(Password)', 'sa'"
+    ```
 
 3.  手順 2 の結果を確認します。成功すると、以下が表示されます。
-        ```
+
+    ```
+        パスワードが変更されました。
+    ```
 
 [](#mainsection)[ページのトップへ](#mainsection)
 

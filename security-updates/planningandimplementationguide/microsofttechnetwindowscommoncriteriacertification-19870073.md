@@ -41,7 +41,8 @@ Windows プラットフォームの Common Criteria Certification
 </colgroup>
 <tbody>
 <tr class="odd">
-<td style="border:1px solid black;"><div class="borderRight">
+<td style="border:1px solid black;">
+<div class="borderRight">
 <div class="LeftCol">
 <h3 id="ガイド">ガイド</h3>
 <ul>
@@ -63,8 +64,12 @@ Windows プラットフォームの Common Criteria Certification
 </li>
 </ul>
 </div>
-</div></td>
-<td style="border:1px solid black;"><div class="RightCol">
+</div>
+
+</td>
+
+<td style="border:1px solid black;">
+<div class="RightCol">
 <h3 id="評価の技術的な報告">評価の技術的な報告</h3>
 <ul>
 <li><a href="http://www.microsoft.com/downloads/details.aspx?familyid=63cf2a1e-f578-4bb5-9245-d411f0f64265&amp;displaylang=en">Windows XP and Windows Server 2003 Common Criteria Evaluation Technical Report (英語情報)</a><br />
@@ -72,7 +77,9 @@ Windows プラットフォームの Common Criteria Certification
 <li><a href="http://www.microsoft.com/downloads/details.aspx?familyid=a594e77f-dcbb-4787-9d68-e4689e60a314&amp;displaylang=en">Windows Server 2003 Certificate Server Common Criteria Evaluation Technical Report (英語情報)</a><br />
 </li>
 </ul>
-</div></td>
+</div>
+
+</td>
 </tr>
 </tbody>
 </table>
