@@ -782,10 +782,10 @@
     - name: ms03-nov
       href: ./SecurityBulletinSummaries/2003/MS03-NOV
 - name: セキュリティ情報
-  href: 
+  href: ./SecurityBulletins/securitybulletins
   items:
   - name: 2017
-    href: ./SecurityBulletins/securitybulletins
+    href: 
     items:
     - name: MS17-001
       href: ./SecurityBulletins/2017/MS17-001
