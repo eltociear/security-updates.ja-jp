@@ -39,13 +39,13 @@ Windows Vista の機能は、制限・監視するものですから、保護者
 
 親子のための安全なインターネットの使い方をまとめたコンテンツも公開していますので、合わせてご覧ください。
 
--   お子様を守るための 3 つのポイント
+-   お子様を守るための 3 つのポイント  
     <http://www.microsoft.com/japan/athome/security/safechildren/default.mspx>
 
--   家族を守る - 子供の安全管理
+-   家族を守る - 子供の安全管理  
     <http://www.microsoft.com/japan/athome/security/children/default.mspx>
 
-[![](images/Dd362926.btn_reg_today(ja-jp,TechNet.10).jpg)](http://technet.microsoft.com/ja-jp/library/dd362958)
+[![](images/Dd362926.btn_reg_today(ja-jp,TechNet.10).jpg)](http://technet.microsoft.com/ja-jp/library/dd362958)    
 この記事は、マイクロソフト セキュリティ ニュースレターで配信しました。
 
 [](#mainsection)[ページのトップへ](#mainsection)
