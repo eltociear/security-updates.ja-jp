@@ -15,8 +15,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362920(v=TechNet.10)'
 
 ![](images/Dd362920.SecPoint(ja-jp,TechNet.10).gif)
 
-マイクロソフト株式会社
-セキュリティ レスポンス チーム
+マイクロソフト株式会社  
+セキュリティ レスポンス チーム  
 小野寺 匠 著
 
 [前回](https://technet.microsoft.com/ja-jp/library/fc0c06dd-be94-4620-a7f6-38b3971f0627(v=TechNet.10))は、脆弱性の危険度を判断する基本的な方法についてお話しました。
@@ -35,7 +35,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362920(v=TechNet.10)'
 
 脅威モデルの詳細については、関連資料を見ていただくとして、簡易的に脅威モデルを作る方法として、各機能単位や外部から操作できる部分 (エントリーポイント) 毎に、STRIDE モデルに従った脅威の可能性を割り当てていきます。
 
- 
+ <p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />

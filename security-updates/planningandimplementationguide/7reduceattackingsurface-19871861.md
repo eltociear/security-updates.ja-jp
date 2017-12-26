@@ -15,9 +15,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362916(v=TechNet.10)'
 
 ![](images/Dd362916.SecPoint(ja-jp,TechNet.10).gif)
 
-マイクロソフト株式会社
-セキュリティ レスポンス チーム
-小野寺 匠 著
+マイクロソフト株式会社  
+セキュリティ レスポンス チーム  
+小野寺 匠 著  
 
 [前回](https://technet.microsoft.com/ja-jp/library/6feeda43-2aa8-4bcf-bb14-59f7672c42a0(v=TechNet.10))、外部からの攻撃のリスクを押さえるための安全な通信経路を確保するための方法として、 IPSec を取り上げました。今回も、外部からの攻撃リスクを抑える方法として、サービスの最小化についてお話します。
 

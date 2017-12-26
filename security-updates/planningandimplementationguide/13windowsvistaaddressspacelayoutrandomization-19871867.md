@@ -15,8 +15,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362922(v=TechNet.10)'
 
 ![](images/Dd362922.SecPoint(ja-jp,TechNet.10).gif)
 
-マイクロソフト株式会社
-セキュリティ レスポンス チーム
+マイクロソフト株式会社  
+セキュリティ レスポンス チーム  
 小野寺 匠 著
 
 さて、Windows Vista の発売も目前です。今回から Windows Vista のセキュリティ機能について触れてみようと思います。今回は、数あるセキュリティ機能の中でも、OS 全体にかかわるが、まったくと言って良い程ユーザーの目に触れることのない機能 ASLR (Address Space Layout Randomization) について書きます。
