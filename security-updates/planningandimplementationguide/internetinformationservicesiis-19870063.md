@@ -7,6 +7,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362367(v=MSDN.10)'
 ---
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />

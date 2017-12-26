@@ -13,13 +13,13 @@ Microsoft Baseline Security Analyzer V1.2 とスクリプト
 
 ##### トピック
 
-[](#ehaa)[概要](#ehaa)
-[](#egaa)[背景](#egaa)
-[](#efaa)[よく寄せられる質問](#efaa)
-[](#eeaa)[始めに](#eeaa)
-[](#edaa)[サンプル \#1](#edaa)
-[](#ecaa)[サンプル \#2](#ecaa)
-[](#ebaa)[サンプル \#3](#ebaa)
+[](#ehaa)[概要](#ehaa)  
+[](#egaa)[背景](#egaa)  
+[](#efaa)[よく寄せられる質問](#efaa)  
+[](#eeaa)[始めに](#eeaa)  
+[](#edaa)[サンプル \#1](#edaa)  
+[](#ecaa)[サンプル \#2](#ecaa)  
+[](#ebaa)[サンプル \#3](#ebaa)  
 [](#eaaa)[有効なチェック ID](#eaaa)
 
 ### 概要
@@ -75,9 +75,23 @@ A: サンプル \#1 は 2 段階にわけたスキャンの実行方法を示し
 このサンプルは 2 段階のスキャンを実行するよう設計されています。1) 第 1 段階は対象となるコンピュータをスキャンし、スキャン結果を更新します。2) 次の段階では、ユーザーが自分のコンピュータのセキュリティ レベルをチェックするために必要なローカル管理者権限を持たない場合のチェック方法です。これにはいくつかの前提条件があります。まず、スキャン対象のコンピュータの一覧に多くのコンピュータがあるということです。(このケースについては、サンプル \#2 をご参照下さい。) 次の前提は、各コンピュータには複数のユーザーがいるということです。サンプル \#1 はスキャン結果で 1 つ以上のユーザー プロファイルを更新するようには設計されていません。各ユーザー プロファイルに出力レポートをコピーするためには、スキャンの第 1 段階部分のスクリプトにコードを追加する必要がありますが、これは難しくはありません。このサンプルを実行する前に、使用されているコマンド ライン オプションを確認し、これらの機能を製品文書で調べてください。スキャンに費やされる時間を削減するために、サンプルは MBSA により実行されるチェックをセキュリティ更新の適用状況のみに制限します。また、SUS 1.0 を使用しており、承認されない更新 (SUS サーバーの管理者により承認されない更新) について結果を表示しない必要がある場合、/sus オプションを使用して下さい。
 
 **ScanDemo.bat**: スキャンの第 1 段階を実行し、スキャン結果を後で表示できるよう、結果をユーザー プロファイルにコピーします。
-        ```
+
+ ```
+   set cname=%computername%   
+   set uname=%username%   
+   del "%userprofile%\SecurityScans\%cname%.xml"  
+   "C:\Program Files\Microsoft Baseline Security Analyzer\mbsacli.exe"   
+   /nvc /nosum /c %cname% /n IIS+OS+SQL+Password /o %cname%  
+   copy "%userprofile%\SecurityScans\%cname%.xml"  
+   "\\%cname%\c$\Documents and Settings\%uname%\SecurityScans\"  
+ ```   
+
 **ViewingDemo.bat**: ローカル管理者ではないユーザーがスキャン結果レポートを表示します。(この操作が容易に行えるよう、ユーザーにデスクトップ ショートカットを与えることを検討して下さい。)
-        ```
+
+ ```
+   "C:\Program Files\Microsoft Baseline Security Analyzer\mbsa.exe" %computername%  
+ ```       
+
 ![](images/Dd277363.mbsasc01(ja-jp,TechNet.10).jpg)
 [](#mainsection)[ページのトップへ](#mainsection)
 
@@ -86,7 +100,11 @@ A: サンプル \#1 は 2 段階にわけたスキャンの実行方法を示し
 このサンプルは、入力ファイルから、無制限の数のコンピュータまたは IP アドレスをスキャンする方法を示しています。メモ帳でファイルを作成し、そのファイルにホストまたは IP アドレスを必要なだけ入力して下さい。もちろん、SMS または LDAP クエリを使用して、それぞれ SMS コレクションまたは AD コンテナからデータを取得し txt ファイルを作成することも可能です。UNICODE でエンコードされた txt ファイルを使用するようになっているか、BatchScan.js を必ず確認して下さい。この理由は、エディタや他のツールを使用して作成された出力ストリームのエンコードに基づいてサンプルに変更を加える必要がでる場合があるためです。
 
 **BatchScanDemo.bat**:
-        ```
+
+ ```
+   cscript BatchScan.js /c listfile.txt  
+ ```
+        
 [](#mainsection)[ページのトップへ](#mainsection)
 
 ### サンプル \#3
@@ -96,17 +114,50 @@ A: サンプル \#1 は 2 段階にわけたスキャンの実行方法を示し
 IE-Rollup.XML および Patch-Rollup.XML というサンプル ファイルが提供されています。これにより、自分でレポートを作成したり、ロールアップの実行を待たくなくても、動作を確認することが可能です。単にブラウザで開いて下さい。(Rollup.xslt が同じフォルダに存在することを確認して下さい。)
 
 **SingleCheckRollupDemo.bat**:
-        ```
+
+ ```
+   cscript.exe /nologo rollup.js -c 179 >SingleCheckRollupDemo.xml  
+ ``` 
+        
 **SinglePatchRollupDemo.bat**:
-        ```
+
+ ```       
+   cscript.exe /nologo rollup.js -b MS03-043 >SinglePatchRollupDemo.xml  
+ ```    
+        
 **MultiCheckRollupDemo.bat**: 容易に使用できるように、すべてのチェック ID を単一のコマンド ラインで提供します。
-        ```
+
+ ```
+   cscript.exe /nologo rollup.js -c 101 102 104 106 107 110 115 117 118 119  
+   121 122 123 124 126 127 174 176 177 178 179 201 203 204 205 206 207  
+   212 213 215 216 217 218 219 301 302 307 308 309 311 314 315 316 415  
+   416 417 418 419 420 421 422 423 >MultiCheckRollupDemo.xml   
+ ```
+
 ![](images/Dd277363.mbsasc02(ja-jp,TechNet.10).jpg)
 **MultiPatchRollupDemo.bat**: 容易に使用できるよう、セキュリティ情報 ID を単一のコマンド ラインで指定します。これらは最大深刻度「緊急」のセキュリティ情報のみです。そのほかのセキュリティ情報は含まれていません。
-        ```
+
+ ```
+   cscript.exe /nologo rollup.js -b MS01-055 MS01-056 MS01-058 MS01-059  
+   MS02-005 MS02-008 MS02-009 MS02-010 MS02-013 MS02-015 MS02-018  
+   MS02-019 MS02-022 MS02-023 MS02-024 MS02-025 MS02-027 MS02-028  
+   MS02-029 MS02-032 MS02-033 MS02-039 MS02-040 MS02-041 MS02-042  
+   MS02-044 MS02-047 MS02-048 MS02-052 MS02-053 MS02-055 MS02-056  
+   MS02-058 MS02-061 MS02-063 MS02-065 MS02-066 MS02-068 MS02-069  
+   MS02-072 MS03-001 MS03-004 MS03-006 MS03-007 MS03-008 MS03-011  
+   MS03-014 MS03-015 MS03-017 MS03-020 MS03-023 MS03-026 MS03-030  
+   MS03-032 MS03-037 MS03-039 MS03-040 MS03-041 MS03-042 MS03-043  
+   MS03-044 MS03-046 MS03-048 MS03-049 MS03-051 MS04-001 MS04-004  
+   MS04-007>MultiPatchRollupDemo.xml  
+ ```
+
 ![](images/Dd277363.mbsasc03(ja-jp,TechNet.10).gif)
 **GroupIDRollupDemo.bat**: グループ レベルのチェック ID を使用する方法および「MDAC のセキュリティ更新」などのグループの結果を要約する方法をです。
-        ```
+
+ ```
+   cscript.exe /nologo rollup.js -c 415 >GroupIDRollupDemo.xml  
+ ```    
+
 ![](images/Dd277363.mbsasc04(ja-jp,TechNet.10).jpg)
 **注** **:** サンプル \#3 を使用する場合、次の問題が起こる可能性があることに注意する必要があります。
 
@@ -123,6 +174,7 @@ IE-Rollup.XML および Patch-Rollup.XML というサンプル ファイルが�
 サンプル \#3 を使用する場合、有効なチェック ID の値はこの表に示す通りです。このサンプルは、結果の XML 出力の名前を自動的に抽出しますが、ID はロールアップに必要な特定のチェックを指定するために使用される必要があります。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
