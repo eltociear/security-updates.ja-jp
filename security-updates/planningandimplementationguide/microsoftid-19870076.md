@@ -9,16 +9,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362380(v=MSDN.10)'
 Microsoft ID およびアクセス管理
 ===============================
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="1" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
-<td style="border:1px solid black;" colspan="5">
+<td>
 ID とアクセス管理を効果的に行うことができれば、セキュリティを強化するだけでなく、ユーザーによる操作を単純化、効率化することができます。ユーザー操作の単純化、効率化は生産性を高め、コスト削減、ビジネス インテグレーションに役立ちます｡このセクションで紹介している情報をもとに主要な ID 管理に取り組むところから始めましょう。
   
 ##### トピック
   
-|                                                                                                                                                                 |                                       |  
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|  
 | [<img src="images/dd362380.arrow_px_down(ja-jp,TechNet.10).gif" alt="ガイド" width="7" height="9" />](#eaa)                        | [ガイド](#eaa)                        |  
 | [<img src="images/dd362380.arrow_px_down(ja-jp,TechNet.10).gif" alt="How-To 記事" width="7" height="9" />](#e3b)                   | [How-To 記事](#e3b)                   |  
 | [<img src="images/dd362380.arrow_px_down(ja-jp,TechNet.10).gif" alt="その他のセキュリティ リソース" width="7" height="9" />](#ebc) | [その他のセキュリティ リソース](#ebc) |
