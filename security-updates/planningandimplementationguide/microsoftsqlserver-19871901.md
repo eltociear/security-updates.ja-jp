@@ -257,7 +257,7 @@ SQL Server は、通常のインストール状態では、SYSTEM アカウン�
     以下の情報が表示された場合は、 ポート 1433 が使用されています。
         
     ```
-        TCP    127.0.0.1:1433        0.0.0.0:0        LISTENING
+    TCP    127.0.0.1:1433        0.0.0.0:0        LISTENING
     ```
 
 [](#mainsection)[ページのトップへ](#mainsection)
