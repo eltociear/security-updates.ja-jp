@@ -15,8 +15,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362925(v=TechNet.10)'
 
 ![](images/Dd362925.SecPoint(ja-jp,TechNet.10).gif)
 
-マイクロソフト株式会社
-セキュリティ レスポンス チーム
+マイクロソフト株式会社  
+セキュリティ レスポンス チーム  
 小野寺 匠 著
 
 [前回](https://technet.microsoft.com/ja-jp/library/c1597167-8f2f-4d00-abe9-9c2bec400431(v=TechNet.10))は、管理者権限などの使用を制限するユーザー アクセス制御 (UAC: User Access Control) について触れ、UACをオフにすることを推奨しない事を書きました。今回は、オフにしたいような状況への対処方法について触れます。
@@ -29,13 +29,13 @@ UAC は、セキュリティと利便性を語る上での実例なのかもし�
 
 ![](images/Dd362925.secpoint0016_01(ja-jp,TechNet.10).gif)
 
-**図** **1**
+**図 1**
 
 ためしに、メモ帳 (notepad) に対して、RunAsAdmin の Fix を適用してみると画面 2 の様に、メモ帳の起動ごとに、UAC を通じて管理者権限が与えられます。
 
 ![](images/Dd362925.secpoint0016_02(ja-jp,TechNet.10).gif)
 
-**図** **2**
+**図 2**
 
 しかし、安易にこの Fix をアプリケーションに適用すると折角 UAC により権限を抑えて実行している意味がなくなってしまいますので、他に方法が無い場合の最後の手段とて使うようにしたいですね。他の Fix で対応できる場合もありますので、Standard User Analyzer を使って分析してみる事からはじめてみるのも面白いかもしれません。
 
