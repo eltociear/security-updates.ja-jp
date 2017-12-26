@@ -25,9 +25,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Cc163048(v=TechNet.10)'
 
 ##### トピック
 
-[](#ecaa)[\[コンピュータの構成\] 設定](#ecaa)
-[](#ebaa)[ユーザーの構成の設定](#ebaa)
-[](#eaaa)[関連情報](#eaaa)
+[](#ecaa)[\[コンピュータの構成\] 設定](#ecaa)  
+[](#ebaa)[ユーザーの構成の設定](#ebaa)  
+[](#eaaa)[関連情報](#eaaa)  
 
 ### \[コンピュータの構成\] 設定
 

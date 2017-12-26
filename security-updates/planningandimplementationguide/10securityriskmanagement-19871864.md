@@ -15,8 +15,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362919(v=TechNet.10)'
 
 ![](images/Dd362919.SecPoint(ja-jp,TechNet.10).gif)
 
-マイクロソフト株式会社
-セキュリティ レスポンス チーム
+マイクロソフト株式会社  
+セキュリティ レスポンス チーム  
 小野寺 匠 著
 
 [前回](https://technet.microsoft.com/ja-jp/library/145cdb1b-04e9-4d7e-8c65-78aa590a87ca(v=TechNet.10))は、セキュリティ更新の適用に際して適用先のシステムの重要度別に適用のタイミングを考える基本的な考え方についてお話しました。この中で重要度 3 のシステムについて、テストなしで適用するのは無謀ではないかという指摘を、管理者である読書の方からいただきました。この指摘は、管理者として正常な判断だと思いますし、可能であるならば最小限度のテストを行うに越したことはありません。テストなしの配布は、問題発生時の対処とリカバリーが十分に行える体制において、実環境を用いてテストを行う方法であるとも言えますので、適応可能な組織は多くはないのが現実だとおもいます。
@@ -25,7 +25,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362919(v=TechNet.10)'
 
 まず、脆弱性が悪用された場合にどのような結果をもたらすものかを考えます。それを知るには、セキュリティ情報の \[要点\] - \[深刻度および脆弱性識別番号\] の表を参照し、各脆弱性の \[脆弱性の影響\] を確認します。この影響が、悪用された結果として何が起こるのかを分類しており、以下の様になります。
 
- 
+<p> </p> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -57,7 +57,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362919(v=TechNet.10)'
 
 次に、どのような経路で脆弱性が悪用され攻撃が成立するのかを考えます。
 
- 
+ <p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -91,7 +91,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362919(v=TechNet.10)'
 
 最後に誰が悪用する (攻撃する) のかを考えます。実際に攻撃を行う個人や団体を特定するのではなく、不特定多数 (匿名ユーザー)、認証ユーザーなどが攻撃可能かを考えます。
 
- 
+ <p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
