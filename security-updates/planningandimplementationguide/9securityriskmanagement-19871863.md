@@ -15,9 +15,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362918(v=TechNet.10)'
 
 ![](images/Dd362918.SecPoint(ja-jp,TechNet.10).gif)
 
-マイクロソフト株式会社
-セキュリティ レスポンス チーム
-小野寺 匠 著
+マイクロソフト株式会社  
+セキュリティ レスポンス チーム  
+小野寺 匠 著  
 
 [前回](https://technet.microsoft.com/ja-jp/library/8d709472-cfda-4fa0-aa4d-8118d90591fc(v=TechNet.10))は、サービスが攻撃を受けた場合の被害範囲を最小限にするための、サービスの権限の最小化についてお話ししました。今回は、その話を少し広げて、脆弱性が発見された後に更新プログラムの適用の要否や時期をどの様に判断するべきかについてお話します。
 
@@ -28,6 +28,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362918(v=TechNet.10)'
 今回は、まず適用対象について考えます。適用対象である、サーバーやクライアント PC は、一律に同じ重要度ではないはずです。対象を可用性の観点で簡単に分類すると以下に分けられるのではないでしょうか。
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
