@@ -23,10 +23,10 @@ SRMD に関する詳細な説明はこのガイドの対象外であり、ここ
 
 ##### トピック
 
-[](#eeaa)[シナリオの詳細](#eeaa)
-[](#edaa)[セキュリティ リスク管理の統制を適用する](#edaa)
-[](#ecaa)[リスクを評価する](#ecaa)
-[](#ebaa)[リスクを決定する](#ebaa)
+[](#eeaa)[シナリオの詳細](#eeaa)  
+[](#edaa)[セキュリティ リスク管理の統制を適用する](#edaa)  
+[](#ecaa)[リスクを評価する](#ecaa)  
+[](#ebaa)[リスクを決定する](#ebaa)  
 [](#eaaa)[要約](#eaaa)
 
 ### シナリオの詳細
@@ -560,8 +560,8 @@ SRMD をエンタープライズ環境に適用する方法の詳細について
 -   Microsoft TechNet [http://technet.microsoft.com/library/cc163143.aspx](https://technet.microsoft.com/ja-jp/library/b3e09f12-b0dc-4a9d-946c-ac092c2994eb(v=TechNet.10))  
     の「セキュリティ リスク管理 : セキュリティ リスク管理の統制について理解する」モジュール
   
--   Microsoft TechNet [http://technet.microsoft.com/library/cc163143.aspx  
-    ](https://technet.microsoft.com/ja-jp/library/b3e09f12-b0dc-4a9d-946c-ac092c2994eb(v=TechNet.10)) の「セキュリティ リスク管理 : セキュリティ リスク管理の統制を適用する」モジュール
+-   Microsoft TechNet [http://technet.microsoft.com/library/cc163143.aspx](https://technet.microsoft.com/ja-jp/library/b3e09f12-b0dc-4a9d-946c-ac092c2994eb(v=TechNet.10))  
+    の「セキュリティ リスク管理 : セキュリティ リスク管理の統制を適用する」モジュール
   
 [](#mainsection)[ページのトップへ](#mainsection)
   

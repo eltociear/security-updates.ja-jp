@@ -32,16 +32,16 @@ SQL Server および MSDE を標的とした SQL Slammer ワームに関する�
 
 弊社 STPP パートナーであるウイルス対策ソフトウェアベンダー各社からも、本ワームに関する情報が公開されておりますので併せてご参照ください。
 
--   インターネット セキュリティ システムズ株式会社
+-   インターネット セキュリティ システムズ株式会社   
     [http://www.isskk.co.jp/support/techinfo/general/X-ForceslammerWorm.html](http://www.isskk.co.jp/support/techinfo/general/x-forceslammerworm.html)![](images/Dd362939.leave-ms(ja-jp,TechNet.10).gif)
 
--   株式会社シマンテック
+-   株式会社シマンテック   
     <http://www.symantec.co.jp/region/jp/sarcj/data/w/w32.sqlexp.worm.html>![](images/Dd362939.leave-ms(ja-jp,TechNet.10).gif)
 
--   トレンドマイクロ株式会社
+-   トレンドマイクロ株式会社    
     [http://www.trendmicro.co.jp/vinfo/virusencyclo/default5.asp?VName=WORM\_SQLP1434.A](http://www.trendmicro.co.jp/vinfo/virusencyclo/default5.asp?vname=worm_sqlp1434.a)![](images/Dd362939.leave-ms(ja-jp,TechNet.10).gif)
 
--   マカフィー株式会社
+-   マカフィー株式会社       
     [http://www.mcafee.com/japan/security/virS2003.asp?v=W32/SQLSlammer.worm](http://www.mcafee.com/japan/security/virs2003.asp?v=w32/sqlslammer.worm)![](images/Dd362939.leave-ms(ja-jp,TechNet.10).gif)
 
 [](#mainsection)[ページのトップへ](#mainsection)
@@ -154,13 +154,13 @@ SQL Server が動作している場合、他のコンピュータから接続を
 <strong>netstat -an</strong>
 コマンドを実行すると以下のような結果が表示されます。結果に UDP 0.0.0.0:1434 と表示された行がある場合は、SQL Server が動作しています。表示の行ない場合は、ワームに感染する恐れはありません。
 
-<pre><code>C:\&gt;netstat -an  
+C:\&gt;netstat -an  
 Active Connections  
   Proto  Local Address          Foreign Address        State  
   TCP    0.0.0.0:135            0.0.0.0:0              LISTENING  
   TCP    0.0.0.0:445            0.0.0.0:0              LISTENING  
 (省略)  
-  UDP    0.0.0.0:1434           *:*</code></pre>
+  UDP    0.0.0.0:1434           *:*
 <strong>ツールによる確認方法</strong>
 <strong>SQL Scan ツールによる確認方法</strong>
 マイクロソフトは、Slammer ワームの影響を受ける可能性のある SQL Server のインスタンスを検知する SQL Scan というツールをリリースしました。
@@ -170,19 +170,19 @@ Active Connections
 SQL Scan を実行すると以下のような結果が表示されます。結果に <strong>NON-VULNERABLE</strong> と表示された場合は対策済みです。Slammer ワームによる影響はありません。
 結果に <strong>VULNERABLE</strong> と表示された場合、影響を受ける恐れがあります。
 <strong>対策済み</strong>
-<pre><code>FOUND: ssnetlib.dll @version=2000.80.479.0  
+FOUND: ssnetlib.dll @version=2000.80.479.0  
 FOUND: sqlservr.exe @version=2000.80.384.0  
 NON-VULNERABLE: server=JPSQL instance=MSSQL$NetSDK version=SP1 language=1041 platform=NT os=5.0  
 FOUND: ssnetlib.dll @version=2000.80.311.0  
 FOUND: sqlservr.exe @version=2000.80.194.0  
-NON-VULNERABLE: server=JPSQL instance=MSSQLSERVER version=RTM language=1041 platform=NT os=5.0</code></pre>
+NON-VULNERABLE: server=JPSQL instance=MSSQLSERVER version=RTM language=1041 platform=NT os=5.0
 <strong>要対策</strong>
-<pre><code>FOUND: ssnetlib.dll @version=2000.80.382.0  
+FOUND: ssnetlib.dll @version=2000.80.382.0  
 FOUND: sqlservr.exe @version=2000.80.384.0  
 VULNERABLE: server=JPSQL instance=MSSQL$NetSDK version=SP1 language=1041 platform=NT os=5.0  
 FOUND: ssnetlib.dll @version=2000.80.194.0  
 FOUND: sqlservr.exe @version=2000.80.194.0  
-VULNERABLE: server=JPSQL instance=MSSQLSERVER version=RTM language=1041 platform=NT os=5.0</code></pre>
+VULNERABLE: server=JPSQL instance=MSSQLSERVER version=RTM language=1041 platform=NT os=5.0
 <strong>SQL Check ツールによる確認方法</strong>
 マイクロソフトは、Slammer ワームの影響を受ける可能性のある SQL Server のインスタンスを検知し、無効にする SQL Check というツールをリリースしました。
 <strong>注意 :</strong> 本ツールは、英語版のみですが、日本語環境でもご使用いただけます。
@@ -194,9 +194,6 @@ VULNERABLE: server=JPSQL instance=MSSQLSERVER version=RTM language=1041 platform
 </table>
 
 <p></p>
-
- 
-
  
 <p></p>
 <table style="border:1px solid black;">
@@ -223,19 +220,16 @@ VULNERABLE: server=JPSQL instance=MSSQLSERVER version=RTM language=1041 platform
 バージョンが、 2000.xx.xxx.x ではない場合は、影響を受けません。 (SQL Server 2000 ではありません。)<br />
 バージョンが、 2000.80.636.0 よりも古い場合は、影響を受けるため、対策を行う必要があります。<br />
 ただし、以下のバージョンであった場合は Slammer ワーム対策用の修正プログラムが適用されているため、影響を受けません。
-<pre><code>   バージョン          日付  
+   バージョン          日付  
    ---------------------------------  
    2000.80.311.0   2003/01/28 17:25  
-   2000.80.479.0   2003/01/28 17:22</code></pre></li>
+   2000.80.479.0   2003/01/28 17:22</li>
 </ol></td>
 </tr>
 </tbody>
 </table>
 
 <p></p>
-
- 
-
  
 <p></p>
 <table style="border:1px solid black;">
@@ -271,20 +265,18 @@ Windows の右側または下側に、インストールされている製品の
 <li>製品名は、SQL Server 2000 と MSDE でそれぞれ以下の様になります。</li>
 </ol>
 <ul>
-<li><pre><code>表示されている製品名インストールされている製品
+<li>表示されている製品名インストールされている製品
   
 Microsoft SQL Server 2000             Microsoft SQL 2000 Enterprise Edition, Standard Edition, Personal Edition, Developer Edition  
    
 Microsoft SQL Server Desktop Engine   Microsoft SQL Server 2000 Desktop Engine (MSDE)  
-                      </code></pre></li>
+                      </li>
 </ul></td>
 </tr>
 </tbody>
 </table>
 
 <p></p>
-
- 
 
  
 <p></p>
@@ -315,9 +307,6 @@ Microsoft SQL Server Desktop Engine   Microsoft SQL Server 2000 Desktop Engine (
 </table>
 
 <p></p>
-
- 
-
  
 <p></p>
 <table style="border:1px solid black;">
@@ -343,9 +332,6 @@ Microsoft SQL Server Desktop Engine   Microsoft SQL Server 2000 Desktop Engine (
 
 <p></p>
 
- 
-
- 
 <p></p>
 <table style="border:1px solid black;">
 <colgroup>
@@ -376,9 +362,6 @@ Microsoft SQL Server Desktop Engine   Microsoft SQL Server 2000 Desktop Engine (
 </table>
 
 <p></p>
-
- 
-
  
 <p></p>
 <table style="border:1px solid black;">
@@ -400,9 +383,7 @@ Microsoft SQL Server Desktop Engine   Microsoft SQL Server 2000 Desktop Engine (
 </tbody>
 </table>
 
-<p></p>
-
- 
+<p></p> 
 
 [](#mainsection)[ページのトップへ](#mainsection)
 
@@ -457,9 +438,7 @@ osql コマンドは、デフォルトでは以下の場所にインストール
 </tbody>
 </table>
 
-<p></p>
-
- 
+<p></p> 
 
 osql コマンドおよび SQL Server の詳細につきましては、SQL Server に付属する Books Online、ヘルプ、製品マニュアルをご参照ください。
 

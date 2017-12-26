@@ -21,7 +21,6 @@ WINS Replication Blocker Script version 1.0
 
 -   [サポート技術情報 890710](http://support.microsoft.com/?scid=kb;ja;890710)
 
- 
 
 このスクリプトは以下 2 つのフィルタ規則を持つ ＩＰSec ポリシーを作成することにより、保護を行います。
 
@@ -42,7 +41,39 @@ WINS 複製パートナーの IP アドレスを入力する場合、指定し�
 このパッケージをローカルの一時ディレクトリのコンテンツに抽出した後、スクリプトは管理者により WINS サーバーで対話的に実行することができます。
 
 対話的に実行した場合、スクリプトは次のメニュー オプションを表示します。
-        ```
+
+```
+--------------------------------------------------------------------------------
+
+WINS Replication Blocker Script version 1.0
+
+Created by Microsoft PSS Security
+
+ 
+
+This batch file creates an IPSec policy that can block:
+
+- Inbound WINS replication packets destined for TCP or UDP port 42
+
+- Outbound WINS replication packets destined for TCP or UDP port 42
+
+ 
+
+Windows 2000 and higher operating system options (NT 4.0 is not supported):
+
+ 
+
+- Press '1' to Create the WINS Replication Blocker IPSec policy
+
+- Press '2' to Enter the IP addresses of trusted WINS Replication Partners
+
+- Press '3' to Un-assign and delete the WINS Replication Blocker IPSec policy.
+
+--------------------------------------------------------------------------------
+
+Please select an option number from above and then press Enter:
+```
+
 [](#mainsection)[ページのトップへ](#mainsection)
 
 ### 無人での使用
@@ -52,13 +83,25 @@ WINS 複製パートナーの IP アドレスを入力する場合、指定し�
 ユーザーにメニュー オプションを入力するようメッセージを表示せずにスクリプトを実行するためには、単にスクリプトに対する最初のパラメータとして希望するメニュー オプションで実行して下さい。
 
 たとえば、ユーザーの操作なしで WINS の複製ブロッカの IPSec ポリシーを作成する場合、次を入力し、&lt;Enter&gt; を押します。
-        ```
+
+```
+block_wins_replication.cmd 1
+```
+
 ユーザーの操作なしで IPSec ポリシーに対する例外としてリモート WINS サーバーの IP アドレスを追加する場合、次を入力し、&lt;Enter&gt; を押します。
 
 (10.1.1.1 は、リモート WINS サーバーの IP アドレス)。このスクリプトは 1 回につき 1 つの IP アドレスの追加をサポートしています。
 
 **注:** コマンド ラインから WINS 複製パートナーの IP アドレスを例外として追加する場合、1 回のスクリプトの実行で追加できるアドレスは 1つのみです。10 個の例外アドレスを追加するには、スクリプトを 10 回実行する必要があります。
-        ```
+
+```
+block_wins_replication.cmd 1 10.1.1.1
+```
+
 ユーザーの操作なしで、スクリプトが作成した IPSec ポリシーの割り当てを解除する、または削除する場合、次を入力し、&lt;Enter&gt; を押します。
-        ```
+
+```
+block_wins_replication.cmd 3
+```
+
 [](#mainsection)[ページのトップへ](#mainsection)
