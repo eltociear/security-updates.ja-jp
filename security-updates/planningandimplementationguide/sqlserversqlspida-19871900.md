@@ -33,13 +33,13 @@ SQLSPIDA ワームと呼ばれる Microsoft SQL Server を対象としたワー�
 
 また、以下の Web サイトにて本ワームに関する情報が公開されておりますので併せてご参照ください。
 
--   株式会社シマンテック
+-   株式会社シマンテック    
     [http://securityresponse.symantec.com/avcenter/venc/data/digispid.b.worm.html](http://www.symantec.com/region/jp/sarcj/data/d/digispid.b.worm.html)![](images/Dd362955.leave-ms(ja-jp,TechNet.10).gif)
 
--   トレンドマイクロ株式会社 (英語)
+-   トレンドマイクロ株式会社 (英語)    
     [http://www.antivirus.com/vinfo/virusencyclo/default5.asp?VName=JS\_SQLSPIDA.B](http://www.antivirus.com/vinfo/virusencyclo/default5.asp?vname=js_sqlspida.b)![](images/Dd362955.leave-ms(ja-jp,TechNet.10).gif)
 
--   日本ネットワークアソシエイツ株式会社 (英語)
+-   日本ネットワークアソシエイツ株式会社 (英語)    
     <http://vil.nai.com/vil/content/v_99499.htm>![](images/Dd362955.leave-ms(ja-jp,TechNet.10).gif)
 
 [](#mainsection)[ページのトップへ](#mainsection)
@@ -214,8 +214,12 @@ SQL Server へのパスワードの設定は、以下の方法で行います。
 
     実際に設定するパスワード文字列に置き換えてください。また、他人に類推されにくく、辞書などに無いフレーズに置き換えてください。 なお、対象の SQL Server が名前付きインスタンスである場合、下記の "localhost" を適切なインスタンス名に置き換えてください。
         ```
+        osql.exe -U sa -P -S localhost -Q "sp_password NULL, '(Password)', 'sa'"
+        ```
 
 3.  手順 2 の結果を確認します。成功すると、次のメッセージが表示されます。
+        ```
+        パスワードが変更されました。
         ```
 
 また、SQL Server の最新のセキュリティ修正プログラムを適用することを強く推奨します。最新のセキュリティ修正プログラムは次のサイトをご覧ください
@@ -276,10 +280,6 @@ osql コマンドは、デフォルトでは以下の場所にインストール
 </tr>
 </tbody>
 </table>
-
-<p></p>
-
- 
 
 osql コマンドおよび SQL Server の詳細につきましては、SQL Server に付属する Books Online、ヘルプ、製品マニュアルをご参照ください。
 

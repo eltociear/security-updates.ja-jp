@@ -15,20 +15,20 @@ Code Red による深刻な問題に対する防護策と対処方法につい�
 
 ##### トピック
 
-[](#enaa)[はじめに](#enaa)
-[](#emaa)[対象となる製品および環境](#emaa)
-[](#elaa)[Code Red とは](#elaa)
-[](#ekaa)[詳細](#ekaa)
-[](#ejaa)[対処方法 (Windows NT 4.0/Small Business Server 4.5)](#ejaa)
-[](#eiaa)[対処方法 (Windows 2000/Small Business Server 2000)](#eiaa)
-[](#ehaa)[対処方法 (サービスパックまたは修正モジュールの適用が困難な場合)](#ehaa)
-[](#egaa)[駆除方法](#egaa)
-[](#efaa)[IIS の構成情報のバックアップと復元](#efaa)
-[](#eeaa)[ファイアウォール製品について](#eeaa)
-[](#edaa)[プロキシ製品について](#edaa)
-[](#ecaa)[ウィルス検出ソフトについて](#ecaa)
-[](#ebaa)[関連情報](#ebaa)
-[](#eaaa)[本件に関する一般ユーザー様向け問い合わせ窓口](#eaaa)
+[](#enaa)[はじめに](#enaa)  
+[](#emaa)[対象となる製品および環境](#emaa)  
+[](#elaa)[Code Red とは](#elaa)  
+[](#ekaa)[詳細](#ekaa)  
+[](#ejaa)[対処方法 (Windows NT 4.0/Small Business Server 4.5)](#ejaa)  
+[](#eiaa)[対処方法 (Windows 2000/Small Business Server 2000)](#eiaa)  
+[](#ehaa)[対処方法 (サービスパックまたは修正モジュールの適用が困難な場合)](#ehaa)  
+[](#egaa)[駆除方法](#egaa)  
+[](#efaa)[IIS の構成情報のバックアップと復元](#efaa)  
+[](#eeaa)[ファイアウォール製品について](#eeaa)  
+[](#edaa)[プロキシ製品について](#edaa)  
+[](#ecaa)[ウィルス検出ソフトについて](#ecaa)  
+[](#ebaa)[関連情報](#ebaa)  
+[](#eaaa)[本件に関する一般ユーザー様向け問い合わせ窓口](#eaaa)  
 
  
 <table style="border:1px solid black;">
@@ -150,18 +150,33 @@ Code Red は、ワームに分類される不正なプログラムです。弊�
   
 ワームが、IIS に対して感染した場合または感染を試みた場合 IIS のログファイルに以下のような情報を残します。IIS が異常終了した場合には、ログを残さない場合があります。
   
-<codesnippet language displaylanguage containsmarkup="false"> GET /default.ida XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXX%u9090%u6858%ucbd3%u7801%u9090%u6858%ucbd3%u7801%u9090 %u6858%ucbd3%u7801%u9090%u9090%u8190%u00c3%u0003%u8b00%u531b%u53ff%u0078%u0000%u00=a   
-```  
+```
+GET /default.ida XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+XXXXXXXXXXXXXXXXXXX%u9090%u6858%ucbd3%u7801%u9090%u6858%ucbd3%u7801%u9090
+%u6858%ucbd3%u7801%u9090%u9090%u8190%u00c3%u0003%u8b00%u531b%u53ff%u0078%u0000%u00=a
+```
+  
 注 : ログは 1 行です。
   
-<codesnippet language displaylanguage containsmarkup="false"> GET /default.ida NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN NNNNNNNNNNNNNNNN%u9090%u6858%ucbd3%u7801%u9090%u6858%ucbd3%u7801%u9090%u6858 %ucbd3%u7801%u9090%u9090%u8190%u00c3%u0003%u8b00%u531b%u53ff%u0078%u0000%u00=a   
-```  
+```
+GET /default.ida NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+NNNNNNNNNNNNNNNN%u9090%u6858%ucbd3%u7801%u9090%u6858%ucbd3%u7801%u9090%u6858
+%ucbd3%u7801%u9090%u9090%u8190%u00c3%u0003%u8b00%u531b%u53ff%u0078%u0000%u00=a
+```
+
 注 : ログは 1 行です。
   
 ログファイルの記録方法によっては、以下のように残る場合もあります。
   
-<codesnippet language displaylanguage containsmarkup="false"> GET /default.ida GET /default.ida   
-```  
+```
+GET /default.ida
+GET /default.ida
+```
+  
 上記以外につきましても、拡張子 ida および idq へのアクセスは Code Red または同様のワーム等による攻撃を受けている可能性があります。また、ファイアウォール製品、プロキシ製品 および ウィルス検出ソフトは、Code Red ワームによるセキュリティ攻撃に対しては、有効では無い場合が大半である点にご注意ください。
   
 [](#mainsection)[ページのトップへ](#mainsection)
@@ -224,33 +239,33 @@ Microsoft Windows NT 4.0 Option Pack のインストールされている Window
         [http://download.microsoft.com/download/winntsp/PatchNEC/q300972/NT4/JA/JPNQ300972n.exe](http://download.microsoft.com/download/winntsp/patchnec/q300972/nt4/ja/jpnq300972n.exe)
 
  
-        <table style="border:1px solid black;">
-        <colgroup>
-        <col width="100%" />
-        </colgroup>
-        <thead>
-        <tr class="header">
-        <th style="border:1px solid black;" >注 : 8 月 9 日に MS01-033 が再リリースされています。</th>
-        </tr>
-        </thead>
-        <tbody>
-        <tr class="odd">
-        <td style="border:1px solid black;">8 月 9 日に公開されたこの修正モジュールは、下記の 2 点が修正されています。
-        <ul>
-        <li>SP6a が適用されているコンピュータに対してのみ適用できます。</li>
-        <li>SP6a と MS01-033 の適用順に関わらず、双方の修正が有効です。</li>
-        </ul>
-        この修正に関しましては、<a href="http://www.microsoft.com/japan/technet/security/bulletin/ms01-033.mspx"><strong>こちら</strong></a>でより詳細な情報を提供しております。現在 Microsoft サイトよりダウンロードできるこの修正モジュールはすべて 8 月 9 日に公開された新しい修正モジュールです。
-        既に 8 月 8 日以前にリリースされた修正モジュールの適用を行っているお客様は、Code Red II ワームへの対策としては十分ですが、今後、一部の修正プログラムを適用する際に、8 月 9 日以降に公開された新しい修正プログラムを適用する必要があります。早い段階での新しい修正プログラムの適用をお勧めします。
-        <strong>8 月 8 日以前の修正モジュールの破棄と新しい修正モジュールの適用方法</strong>
-        <ol>
-        <li>8 月 8 日以前にリリースされた修正モジュールをアンインストールします。</li>
-        <li>8 月 9 日にリリースされた修正モジュールをインストールします。</li>
-        </ol>
-        この修正モジュールのリリース時期の判別につきましては、FAQ の「<a href="https://technet.microsoft.com/ja-jp/library/1ce261cd-67cb-452a-ad50-83018ed6072b(v=TechNet.10)">8 月 8 日以前に公開された Windows NT 用修正プログラムと、8 月 9 日以降に公開された Windows NT 用修正プログラムを見分ける方法はありますか ?</a>」をご覧ください。</td>
-        </tr>
-        </tbody>
-        </table>
+<table style="border:1px solid black;">
+<colgroup>
+<col width="100%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="border:1px solid black;" >注 : 8 月 9 日に MS01-033 が再リリースされています。</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;">8 月 9 日に公開されたこの修正モジュールは、下記の 2 点が修正されています。
+<ul>
+<li>SP6a が適用されているコンピュータに対してのみ適用できます。</li>
+<li>SP6a と MS01-033 の適用順に関わらず、双方の修正が有効です。</li>
+</ul>
+この修正に関しましては、<a href="http://www.microsoft.com/japan/technet/security/bulletin/ms01-033.mspx"><strong>こちら</strong></a>でより詳細な情報を提供しております。現在 Microsoft サイトよりダウンロードできるこの修正モジュールはすべて 8 月 9 日に公開された新しい修正モジュールです。
+既に 8 月 8 日以前にリリースされた修正モジュールの適用を行っているお客様は、Code Red II ワームへの対策としては十分ですが、今後、一部の修正プログラムを適用する際に、8 月 9 日以降に公開された新しい修正プログラムを適用する必要があります。早い段階での新しい修正プログラムの適用をお勧めします。
+<strong>8 月 8 日以前の修正モジュールの破棄と新しい修正モジュールの適用方法</strong>
+<ol>
+<li>8 月 8 日以前にリリースされた修正モジュールをアンインストールします。</li>
+<li>8 月 9 日にリリースされた修正モジュールをインストールします。</li>
+</ol>
+この修正モジュールのリリース時期の判別につきましては、FAQ の「<a href="https://technet.microsoft.com/ja-jp/library/1ce261cd-67cb-452a-ad50-83018ed6072b(v=TechNet.10)">8 月 8 日以前に公開された Windows NT 用修正プログラムと、8 月 9 日以降に公開された Windows NT 用修正プログラムを見分ける方法はありますか ?</a>」をご覧ください。</td>
+</tr>
+</tbody>
+</table>
  
 
 3.  **感染チェックツールの入手**
@@ -286,7 +301,6 @@ Microsoft Windows NT 4.0 Option Pack のインストールされている Window
     現在、感染していないことを確認します。 確認方法およびツールの使用方法につきましては各社の Web ページをご参照ください。
 
     感染している場合の駆除方法につきましては、[駆除方法](#egaa)をご参照ください。
-
  
 <table style="border:1px solid black;">
 <colgroup>
@@ -305,7 +319,6 @@ Microsoft Windows NT 4.0 Option Pack のインストールされている Window
 </tbody>
 </table>
  
-
 [](#mainsection)[ページのトップへ](#mainsection)
 
 ### 対処方法 (Windows 2000/Small Business Server 2000)
@@ -337,16 +350,16 @@ Microsoft Windows 2000 Server, Windows 2000 Advanced Server または Microsoft 
     <http://www.microsoft.com/japan/windows2000/downloads/servicepacks/sp1/>
 
  
-    <table style="border:1px solid black;">
-    <colgroup>
-    <col width="100%" />
-    </colgroup>
-    <tbody>
-    <tr class="odd">
-    <td style="border:1px solid black;"><strong>注意</strong> : W2k SP1, SP2 で多数の修正が行われております。 安定した稼動を行うためには、<strong>全てのサーバーで SP1、SP2 のいずれかに統一して</strong>運用していただくことを強く推奨いたします。</td>
-    </tr>
-    </tbody>
-    </table>
+<table style="border:1px solid black;">
+<colgroup>
+<col width="100%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td style="border:1px solid black;"><strong>注意</strong> : W2k SP1, SP2 で多数の修正が行われております。 安定した稼動を行うためには、<strong>全てのサーバーで SP1、SP2 のいずれかに統一して</strong>運用していただくことを強く推奨いたします。</td>
+</tr>
+</tbody>
+</table>
   
 2.  **修正モジュールの入手**  
     このワームに対処するための修正モジュールは以下からダウンロード可能です。Code Red と異なる脆弱性を利用する亜種 (Code Blue や Code Green) の発生が報告されておりますので、対策としてこれらの脆弱性に関してより包括的な対応となる修正プログラムの適用をお勧めいたします。
@@ -711,8 +724,7 @@ explorer.exe については、Windows NT/2000 の正規のコンポーネント
   
 8.  復元が終了すると、以下のメッセージが表示されます。
   
-    <codesnippet language displaylanguage containsmarkup="false">操作は正常に終了しました。  
-```
+    `操作は正常に終了しました。`
   
 9.  **\[閉じる\]** ボタンをクリックします。
   

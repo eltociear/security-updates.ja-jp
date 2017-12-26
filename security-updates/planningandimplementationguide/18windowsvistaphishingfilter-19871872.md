@@ -15,8 +15,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362927(v=TechNet.10)'
 
 ![](images/Dd362927.SecPoint(ja-jp,TechNet.10).gif)
 
-マイクロソフト株式会社
-セキュリティ レスポンス チーム
+マイクロソフト株式会社  
+セキュリティ レスポンス チーム  
 小野寺 匠 著
 
 [前回](https://technet.microsoft.com/ja-jp/library/4f3ea3ed-8b74-4de7-972b-c450efcb957c(v=TechNet.10))は、家族と子供のためのセキュリティ機能である、Family Safety に触れました。今回は、安全なブラウザの利用ということで、フィッシングサイトからユーザーを保護するための、Phishing Filter (フィッシング フィルタ) について触れます。

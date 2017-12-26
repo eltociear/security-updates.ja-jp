@@ -15,8 +15,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362924(v=TechNet.10)'
 
 ![](images/Dd362924.SecPoint(ja-jp,TechNet.10).gif)
 
-マイクロソフト株式会社
-セキュリティ レスポンス チーム
+マイクロソフト株式会社  
+セキュリティ レスポンス チーム  
 小野寺 匠 著
 
 [前回](https://technet.microsoft.com/ja-jp/library/c1597167-8f2f-4d00-abe9-9c2bec400431(v=TechNet.10))は、サービスが不正に使用された場合の安全性について触れました。今回は、前回の Windows Service Hardening に若干関連のある、User Access Control (UAC) について触れます。
