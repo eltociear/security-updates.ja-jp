@@ -203,23 +203,23 @@ OWA サーバーを公開するときは、\[新しい OWA の公開ウィザー
 
 3.  ISA によって OWA ルールと認識されるルールを、ここで紹介する VBScript を使って修正します。これは、ISA がクライアントからの SSL 要求を HTTPS ではなく HTTP としてブリッジするように構成されている場合には重要です。ISA Server は Web 公開ルールを OWA ルールとして認識すると、クライアントに返されるリンクは HTTPS リンクとして返されます。それ以外の場合、リンクは HTTP リンクとして返され、クライアントはそれらのリンクを使って接続できません。
         
-		```
-			'Set a constant equal to the GUID for the publishing rules vendor  
-			parameters set object  
-			const strOWAGUID = "{5e302ed5-f5d5-4fad-9b8a-01c72e1569f3}"  
-			'Create the root object  
-			Set FPC = WScript.CreateObject( "FPC.Root" )  
-			'Get the rule. "RuleName" is an example, and should be replaced  
-			with the real name of the rule   
-			Set wpRule =  
-			FPC.Arrays.GetContainingArray.Publishing.WebPublishingRules("Rule Name")  
-			'Get the FPCVendorParametersSet object for the rules  
-			Set aSet = wpRule.VendorParametersSets.Add(strOWAGUID, False)  
-			'Indicate that the rule is an OWA rule  
-			aSet.Value("IsOWARule") = True  
-			'Save the change  
-			aSet.Save  
-		```
+	```
+		'Set a constant equal to the GUID for the publishing rules vendor  
+		parameters set object  
+		const strOWAGUID = "{5e302ed5-f5d5-4fad-9b8a-01c72e1569f3}"  
+		'Create the root object  
+		Set FPC = WScript.CreateObject( "FPC.Root" )  
+		'Get the rule. "RuleName" is an example, and should be replaced  
+		with the real name of the rule   
+		Set wpRule =  
+		FPC.Arrays.GetContainingArray.Publishing.WebPublishingRules("Rule Name")  
+		'Get the FPCVendorParametersSet object for the rules  
+		Set aSet = wpRule.VendorParametersSets.Add(strOWAGUID, False)  
+		'Indicate that the rule is an OWA rule  
+		aSet.Value("IsOWARule") = True  
+		'Save the change  
+		aSet.Save  
+	```
 4.  ISA Server コンピュータの外部 IP アドレスで Web 要求をリッスンする、着信方向の Web 要求のリスナがインストールされていることを確認します。
 
 
@@ -291,8 +291,6 @@ OWA サーバーを公開するときは、\[新しい OWA の公開ウィザー
 3.  「証明書手順」の「3. 証明書の要求ファイルを処理する」に従って、証明書の要求ファイルを処理します。
 
 4.  「証明書手順」の「4. 証明書をインストールする」に従って、証明書をインストールします。
-
-8.  
 
 **Web 公開シナリオでの証明書の取得**
 
