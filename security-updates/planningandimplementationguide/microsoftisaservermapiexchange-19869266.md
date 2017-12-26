@@ -127,9 +127,9 @@ Exchange Server が正しく通信を行うには、SecureNAT (ネットワー�
 
 ROUTE ADD コマンドの構文は、以下のとおりです。
         
-    ```
-        ROUTE ADD destination network ID MASK Default Gateway IP Address
-    ```
+```
+    ROUTE ADD destination network ID MASK Default Gateway IP Address
+```
 
 **注意** Exchange Server が DHCP サーバーから予約済みの IP アドレスを受け取った場合、\[範囲のプロパティ\] でデフォルトゲートウェイを変更する必要があります。
 
