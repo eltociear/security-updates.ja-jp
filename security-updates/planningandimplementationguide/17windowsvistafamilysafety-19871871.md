@@ -15,8 +15,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362926(v=TechNet.10)'
 
 ![](images/Dd362926.SecPoint(ja-jp,TechNet.10).gif)
 
-マイクロソフト株式会社
-セキュリティ レスポンス チーム
+マイクロソフト株式会社  
+セキュリティ レスポンス チーム  
 小野寺 匠 著
 
 [前回](http://technet.microsoft.com/ja-jp/library/dd362925)は、管理者権限などの使用を制限するユーザー アクセス制御 (UAC: User Access Control) について触れ、UACを有効にした場合の互換性対応について書きました。今回は、すこし視点をかえて家族と子供のためのセキュリティ機能について触れます。

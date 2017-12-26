@@ -41,16 +41,16 @@ MOF プロセス モデルは、次のように統合された 4 つの作業領
 
 -   変更
 
--   
+
 -   運用
 
--   
+
 -   サポート
 
--   
+
 -   最適化
 
--   
+
 
 これら 4 つのフェーズはらせん状のライフ サイクルを形成しています (図 1.1)。このライフ サイクルは、個別のアプリケーションに始まり、複数のデータ センターを含んだ運用環境全体に至る、あらゆるレベルの運用作業に当てはまります。このガイドでは、セキュリティの運用という視点から MOF を利用します。
 
@@ -135,24 +135,24 @@ Exchange は相互に依存するコンポーネントから成る複雑なア�
 -   企業における MOF の利点についての詳細 (英語)
     <http://www.microsoft.com/technet/solutionaccelerators/cits/mo/mof/default.mspx>
 
--   
+
 -   Strategic Technology Protection Program の情報
     <http://www.microsoft.com/japan/security/guidance/default.mspx>
 
--   
+
 -   マイクロソフト セキュリティ ツール キット
     <http://www.microsoft.com/japan/technet/security/tools/default.mspx>
 
--   
+
 -   Microsoft Strategic Technology Protection Program (STPP) Web サイト
     <http://www.microsoft.com/japan/security/guidance/default.mspx>
 
--   
+
 -   Windows 2000 Server セキュリティ運用ガイド
     [http://www.microsoft.com/japan/technet/security/prodtech/
     /windows2000/staysecure/default.mspx](http://www.microsoft.com/japan/technet/security/prodtech/windows2000/staysecure/default.mspx)
 
--   
+
 -   Microsoft Exchange 2000 Server セキュリティ運用ガイド
     [http://www.microsoft.com/japan/technet/security/prodtech/
     exchangeserver/opsguide/default.mspx](https://technet.microsoft.com/ja-jp/library/5adcd128-c106-4554-96f2-05b737609fd6(v=TechNet.10))
@@ -162,14 +162,14 @@ Exchange は相互に依存するコンポーネントから成る複雑なア�
 ### 目次
 
 -   [概要](https://technet.microsoft.com/ja-jp/library/5adcd128-c106-4554-96f2-05b737609fd6(v=TechNet.10))
--   
+
 -   第 1 章 ‐ はじめに
--   
+
 -   [第 2 章 ‐ Exchange 環境のセキュリティを確保する](https://technet.microsoft.com/ja-jp/library/460b9ff3-7430-4c17-ac2a-cedb5d768e43(v=TechNet.10))
--   
+
 -   [第 3 章 ‐ 役割に基づいて Exchange 2000 サーバーのセキュリティを強化する](https://technet.microsoft.com/ja-jp/library/b41b1f18-5372-4009-8ef7-49740f56ab32(v=TechNet.10))
--   
+
 -   [第 4 章 ‐ Exchange の通信セキュリティを強化する](https://technet.microsoft.com/ja-jp/library/5c43a166-9c33-403d-ad45-66c51e1897f3(v=TechNet.10))
--   
+
 
 [](#mainsection)[ページのトップへ](#mainsection)

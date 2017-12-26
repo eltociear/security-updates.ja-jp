@@ -19,8 +19,8 @@ Microsoft 仮想プライベート ネットワークでの検疫サービスの
 
 ##### トピック
 
-[](#ecaa)[検疫スクリプトのサンプル](#ecaa)
-[](#ebaa)[リモート アクセス コンポーネント](#ebaa)
+[](#ecaa)[検疫スクリプトのサンプル](#ecaa)  
+[](#ebaa)[リモート アクセス コンポーネント](#ebaa)  
 [](#eaaa)[Windows Update スクリプトの起動](#eaaa)
 
 ### 検疫スクリプトのサンプル
@@ -34,6 +34,7 @@ Microsoft 仮想プライベート ネットワークでの検疫サービスの
 **表 A.1:検疫スクリプトのサンプル**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -86,24 +87,34 @@ Microsoft 仮想プライベート ネットワークでの検疫サービスの
 #### リモート アクセス検疫エージェント サービス (RQS) の構文
   
 リモート アクセス検疫エージェント サービスを開始するには、コマンドラインで、次のように入力します。
-  
-<codesnippet language displaylanguage containsmarkup="false"> Net start rqs  
-```  
+
+ ```  
+    Net start rqs  
+ ```
+
+
 リモート アクセス検疫エージェント サービスを停止するには、コマンドラインで、次のように入力します。
   
-<codesnippet language displaylanguage containsmarkup="false"> Net stop rqs  
-```  
+ ```
+   Net stop rqs  
+ ```
+
 #### リモート アクセス検疫クライアント エージェント (RQC) の構文
   
 RQC の構文は次のとおりです。
-  
-<codesnippet language displaylanguage containsmarkup="false"> rqc ConnName TunnelConnName Port Domain UserName String  
-```  
+
+ ```  
+   rqc ConnName TunnelConnName Port Domain UserName String  
+ ```
+
 次の表に、リモート アクセス検疫クライアント エージェント パラメータとその意味を説明します。
-  
+
+
+
 **表 A.2: RQC エージェント パラメータ**
 
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
@@ -148,9 +159,14 @@ RQC の構文は次のとおりです。
 ### Windows Update スクリプトの起動
   
 ユーザーを Microsoft® Windows® Update サイトに導くために CheckHotFixes.vbs スクリプトと共に次のコードを使用します。このサイトでは、最新のセキュリティ アップデートをインストールできます。
-  
-<codesnippet language displaylanguage containsmarkup="false"> Prog = """C:\\Program Files\\Internet Explorer\\iexplore.exe""" WUSite= " http://windowsupdate.microsoft.com" Set WshShell = CreateObject("Wscript.Shell") WshShell.Run(prog & WUsite),1,TRUE  
-```  
+
+  ```
+    Prog = """C:\Program Files\Internet Explorer\iexplore.exe""" 
+    WUSite= " http://windowsupdate.microsoft.com" 
+    Set WshShell = CreateObject("Wscript.Shell") 
+    WshShell.Run(prog & WUsite),1,TRUE
+  ```
+
 [](#mainsection)[ページのトップへ](#mainsection)
   
 ##### 目次

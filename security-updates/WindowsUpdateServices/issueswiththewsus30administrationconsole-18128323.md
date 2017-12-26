@@ -22,6 +22,8 @@ One way of inadvertently overtaxing your WSUS server is to have antivirus softwa
 
 #### Get an error looking at a network load balanced cluster if the "master" is unavailable
 
+If you are looking at a WSUS server on a network load balanced cluster from a remote administration console, and the server that is currently the "master" server becomes unavailable, you may see the following error:
+
 ```
 System.Net.Sockets.SocketException Message:
 No connection could be made because the target machine actively refused it
@@ -47,6 +49,8 @@ If there are locally published updates on the server, you may not see accurate s
 If you want to distribute an .msc file that connects to a server, you cannot create the .msc file on that server. Instead use a console on another machine to connect to this server and then save and distribute that .msc.
 
 #### Get error accessing WSUS 3.0 servers from the WSUS administration console because the WWW Publishing service is configured to allow interaction with the desktop
+
+If you attempt to access the WSUS administration console and fail to connect to the server, you may have gotten the following error:
 
 ```
 The WSUS administration console was unable to connect to the WSUS Server via the remote API. 

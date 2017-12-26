@@ -28,7 +28,10 @@ HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\rqs
 設定可能なパラメータを以下に示します。
 
 -   **AllowedSet**。AllowedSet パラメータにより、リモート アクセス VPN 検疫サーバーで使用可能なスクリプトのバージョンを設定します。
-        ```
+
+   ```  
+    AllowedSet, REG_MULTI_SZ
+   ```     
 
 検疫を削除するためにサービスが受け付ける文字列リストは以下のとおりです。
 
@@ -37,12 +40,19 @@ HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Services\\rqs
 -   **Authenticator (REG\_SZ)**。検疫を削除するために呼び出すモジュールを指定します。デフォルトは、mprapi.dll です。
 
     検疫フィルタ機能の削除を実装するカスタム DLL を作成する場合、次の機能を公開する必要があります。
-        ```
+    
+  ```    
+    DWORD MprAdminConnectionRemoveQuarantine
+    (HANDLE hRasServer,  HANDLE hRasConnection,  BOOL fIsIpAddress)
+  ```  
 
 <!-- -->
 
 -   **Validator (REG\_SZ)**。RQC によって送信された署名文字列が受け付けられるかどうかを確認するモジュールを指定します。デフォルトで、RQS.exe は AllowedSet 文字列を比較します。カスタム認証 dll は、次の関数を公開する必要があります。
-        ```
+
+  ```
+    BOOL ClientAuthenticate(LPCWSTR lpwsString).
+  ```  
 
     lpwsString には認証文字列が含まれています。
 

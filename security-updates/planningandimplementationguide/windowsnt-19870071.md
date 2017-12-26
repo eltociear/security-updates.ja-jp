@@ -16,13 +16,25 @@ Windows NT
 修正プログラム管理テクニックを使用して Windows NT Server および Windows NT Workstation オペレーティング システムを実行しているデスクトップのセキュリティ対策を常に最新の状態にします。ここでは、修正プログラム管理の主な手順 (使用環境の評価、新しい修正プログラムの識別、評価と計画、展開と報告など) について説明します。
   
 ##### トピック
-  
-|                                                                                                                                                                                |                                                      |  
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|  
-| [<img src="images/dd362375.arrow_px_down(ja-jp,TechNet.10).gif" alt="ガイド" width="7" height="9" />](#eaa)                                       | [ガイド](#eaa)                                       |  
-| [<img src="images/dd362375.arrow_px_down(ja-jp,TechNet.10).gif" alt="How-To 記事" width="7" height="9" />](#ehb)                                  | [How-To 記事](#ehb)                                  |  
-| [<img src="images/dd362375.arrow_px_down(ja-jp,TechNet.10).gif" alt="Windows NT に関するその他の TechNet リソース" width="7" height="9" />](#epb) | [Windows NT に関するその他の TechNet リソース](#epb) |  
-| [<img src="images/dd362375.arrow_px_down(ja-jp,TechNet.10).gif" alt="その他のセキュリティ リソース" width="7" height="9" />](#eub)                | [その他のセキュリティ リソース](#eub)                |
+
+<table style="border:1px solid black;">
+<tr>
+<td style="border:1px solid black;"><a href="#eaa"><img src="images/dd362375.arrow_px_down(ja-jp,TechNet.10).gif" alt="ガイド" width="7" height="9" /></a></td>
+<td style="border:1px solid black;"><a href="#eaa">ガイド</a></td>
+</tr>
+<tr>
+<td style="border:1px solid black;"><a href="#ehb"><img src="images/dd362375.arrow_px_down(ja-jp,TechNet.10).gif" alt="How-To 記事" width="7" height="9" /></a></td>
+<td style="border:1px solid black;"><a href="#ehb">How-To 記事</a></td>
+</tr>
+<tr>
+<td style="border:1px solid black;"><a href="#epb"><img src="images/dd362375.arrow_px_down(ja-jp,TechNet.10).gif" alt="Windows NT に関するその他の TechNet リソース" width="7" height="9" /></a></td>
+<td style="border:1px solid black;"><a href="#epb">Windows NT に関するその他の TechNet リソース</a></td>
+</tr>
+<tr>
+<td style="border:1px solid black;"><a href="#eub"><img src="images/dd362375.arrow_px_down(ja-jp,TechNet.10).gif" alt="その他のセキュリティ リソース" width="7" height="9" /></a></td>
+<td style="border:1px solid black;"><a href="#eub">その他のセキュリティ リソース</a></td>
+</tr>
+</table>
 
 </td>
 </tr>

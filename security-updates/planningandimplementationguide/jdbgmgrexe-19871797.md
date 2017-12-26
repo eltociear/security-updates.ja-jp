@@ -13,8 +13,8 @@ jdbgmgr.exe に関する情報
 
 ##### 目次
 
-[](#ecaa)[概要](#ecaa)
-[](#ebaa)[jdbgmgr.exe を削除した場合の復元方法](#ebaa)
+[](#ecaa)[概要](#ecaa)  
+[](#ebaa)[jdbgmgr.exe を削除した場合の復元方法](#ebaa)  
 [](#eaaa)[更新履歴](#eaaa)
 
 ### 概要
@@ -24,28 +24,28 @@ jdbgmgr.exe に関する情報
 このファイルは、Microsoft 仮想マシン (以下 Microsoft VM) で使用されるファイルです。また、このファイルは、様々な製品に含まれています。
 
 送信されるメールの内容は、下記になります。(同内容が英語、イタリア語等、他の言語でも送信されていることが報告されています)
-        ```
+    
 以下の Web サイトにて本件に関する情報が公開されておりますので併せてご参照ください。
 
--   弊社サポート技術情報
+- 弊社サポート技術情報
 
-    [JP322993 Virus Hoax: Microsoft Debugger Registrar for Java (Jdbgmgr.exe) はウイルスではありません](http://support.microsoft.com/default.aspx?scid=kb;ja;jp322993)
+  [JP322993 Virus Hoax: Microsoft Debugger Registrar for Java (Jdbgmgr.exe) はウイルスではありません](http://support.microsoft.com/default.aspx?scid=kb;ja;jp322993)
 
--   IPA/ISEC
+- IPA/ISEC
 
-    <http://www.ipa.go.jp/security/topics/alert140515.html>![](images/Dd362851.leave-ms(ja-jp,TechNet.10).gif)
+  <http://www.ipa.go.jp/security/topics/alert140515.html>![](images/Dd362851.leave-ms(ja-jp,TechNet.10).gif)
 
--   株式会社シマンテック
+- 株式会社シマンテック
 
-    <http://www.symantec.com/region/jp/sarcj/data/j/jdbgmgr.exe_file_hoax.html>![](images/Dd362851.leave-ms(ja-jp,TechNet.10).gif)
+  <http://www.symantec.com/region/jp/sarcj/data/j/jdbgmgr.exe_file_hoax.html>![](images/Dd362851.leave-ms(ja-jp,TechNet.10).gif)
 
--   トレンドマイクロ株式会社
+- トレンドマイクロ株式会社
 
-    [http://www.trendmicro.co.jp/vinfo/virusencyclo/default5.asp?VName=JDBGMGR.EXE%20HOAX](http://www.trendmicro.co.jp/vinfo/virusencyclo/default5.asp?vname=jdbgmgr.exe%20hoax)![](images/Dd362851.leave-ms(ja-jp,TechNet.10).gif)
+  [http://www.trendmicro.co.jp/vinfo/virusencyclo/default5.asp?VName=JDBGMGR.EXE%20HOAX](http://www.trendmicro.co.jp/vinfo/virusencyclo/default5.asp?vname=jdbgmgr.exe%20hoax)![](images/Dd362851.leave-ms(ja-jp,TechNet.10).gif)
 
--   日本ネットワークアソシエイツ株式会社
+- 日本ネットワークアソシエイツ株式会社
 
-    [http://www.mcafee.com/japan/security/virHOAX.asp?v=Jdbgmgr.exe&a=HOAX](http://www.mcafee.com/japan/security/virhoax.asp?v=jdbgmgr.exe&a=hoax)![](images/Dd362851.leave-ms(ja-jp,TechNet.10).gif)
+  [http://www.mcafee.com/japan/security/virHOAX.asp?v=Jdbgmgr.exe&a=HOAX](http://www.mcafee.com/japan/security/virhoax.asp?v=jdbgmgr.exe&a=hoax)![](images/Dd362851.leave-ms(ja-jp,TechNet.10).gif)
 
 [](#mainsection)[ページのトップへ](#mainsection)
 
@@ -67,7 +67,7 @@ jdbgmgr.exe に関する情報
 
 このファイルを復元したいお客様は Windows Update から最新の Microsoft VM をインストールすることによってファイルが復元されます。
 
--   [Windows Update](http://windowsupdate.microsoft.com)
+- [Windows Update](http://windowsupdate.microsoft.com)
 
 Microsoft VM は 「重要な更新と Service Pack」の中の「Microsoft VM セキュリティ問題の修正プログラム」と表示されますので、こちらを選択しインストールしてください。
 
@@ -75,7 +75,7 @@ Microsoft VM は 「重要な更新と Service Pack」の中の「Microsoft VM �
 
 Windows Update の使い方については、下記のサイトを参照してください。
 
--   [Windows Update 利用の手順](http://www.microsoft.com/japan/athome/security/update/j_musteps.mspx)
+- [Windows Update 利用の手順](http://www.microsoft.com/japan/athome/security/update/j_musteps.mspx)
 
 既に最新の Microsoft VM がインストールされている場合、Windows Update には表示されません。その場合は、Windows Update カタログを利用することによって Microsoft VM を取得することができます。所得方法は次のとおりです。
 
@@ -102,9 +102,9 @@ Windows Update の使い方については、下記のサイトを参照して�
 
 Windows Update カタログの使い方については、下記のサイト、または、技術文書を参照してください。
 
--   [Windows Update カタログの利用手順](http://catalog.update.microsoft.com/v7/site/install.aspx)
+- [Windows Update カタログの利用手順](http://catalog.update.microsoft.com/v7/site/install.aspx)
 
--   [JP418435 Windows Update カタログ から Windows の更新を取得する方法](http://support.microsoft.com/default.aspx?scid=kb;ja;jp418435)
+- [JP418435 Windows Update カタログ から Windows の更新を取得する方法](http://support.microsoft.com/default.aspx?scid=kb;ja;jp418435)
 
 なお、Windows XP では 「重要な更新と Service Pack」 に 「Microsoft VM セキュリティ問題の修正プログラム」 が表示されないことがあります。その場合は、Windows Update カタログの 「Microsoft Windows オペレーティング システムの更新を探します」 からダウンロードしてください。
 
@@ -112,28 +112,28 @@ Windows Update カタログの使い方については、下記のサイト、�
 
 Microsoft VM のダウンロードに関する詳細につきましては、下記のサイトをご覧ください。
 
--   [VM Availability](http://www.microsoft.com/japan/java/default.mspx)
+- [VM Availability](http://www.microsoft.com/japan/java/default.mspx)
 
 [](#mainsection)[ページのトップへ](#mainsection)
 
 ### 更新履歴
 
--   2002/05/09: この情報を公開しました。
+- 2002/05/09: この情報を公開しました。
 
--   2002/05/16: 日本語メールの内容を追記しました。
+- 2002/05/16: 日本語メールの内容を追記しました。
 
--   2002/05/17: 復元方法の Windows XP に関する表記を修正しました。
+- 2002/05/17: 復元方法の Windows XP に関する表記を修正しました。
 
--   2002/05/24: Microsoft VM のインストール手順を追記しました。
+- 2002/05/24: Microsoft VM のインストール手順を追記しました。
 
--   2002/06/03: JP322993 へのリンクを追記しました。
+- 2002/06/03: JP322993 へのリンクを追記しました。
 
--   2002/08/21: Windows Update での入手に関し、注意として追記しました。
+- 2002/08/21: Windows Update での入手に関し、注意として追記しました。
 
--   2002/11/19: Windows Update カタログからの入手方法について追記しました。
+- 2002/11/19: Windows Update カタログからの入手方法について追記しました。
 
--   2002/12/13: Windows Update から入手できる Microsoft VM の名前を変更しました。
+- 2002/12/13: Windows Update から入手できる Microsoft VM の名前を変更しました。
 
--   2004/01/15: Windows 2000 SP4 をご利用の場合の復元方法について追記しました。
+- 2004/01/15: Windows 2000 SP4 をご利用の場合の復元方法について追記しました。
 
 [](#mainsection)[ページのトップへ](#mainsection)

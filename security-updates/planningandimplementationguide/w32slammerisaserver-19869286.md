@@ -55,19 +55,14 @@ SQL サーバーのセキュリティ保護の詳細については、[Download 
 
 -   ISA Server がファイアウォール モードまたは統合モードでインストールされている。
 
--   
 -   ISA Server が、インターネットと内部ネットワークを接続する唯一のルートである。
 
--   
 -   IP パケット フィルタが有効である。
 
--   
 -   内部ネットワークに対して UDP-1434 を許可するサーバー公開ルールが存在しない。
 
--   
 -   匿名ルールが存在しない。
 
--   
 
 外部への攻撃を防止するには、以下の手順を実行してください。
 
@@ -75,36 +70,23 @@ SQL サーバーのセキュリティ保護の詳細については、[Download 
 
     -   \[名前\] を「SQL Enumeration」に設定します。
 
-    -   
     -   \[プロトコル\] を \[UDP\] に設定します。
 
-    -   
     -   \[方向\] を \[送信\] に設定します。
 
-    -   
     -   \[ローカル ポート\] を \[任意\] に設定します。
 
-    -   
     -   \[リモート ポート\] を \[1434\] に設定します。
 
-    -   
-
-2.  3.  以下のパラメータを使用してプロトコル ルールを作成します。
+3.  以下のパラメータを使用してプロトコル ルールを作成します。
 
     -   \[動作\] を \[拒否する\] に設定します。
 
-    -   
     -   \[プロトコル\] を「SQL Enumeration」に設定します。
 
-    -   
     -   \[スケジュール\] を \[常時\] に設定します。
 
-    -   
     -   \[適用先\] を \[すべての要求\] に設定します。
-
-    -   
-
-4.  
 
 [](#mainsection)[ページのトップへ](#mainsection)
 
@@ -120,12 +102,11 @@ Slammer からネットワークを防御するために最初にとるべきア
 
 -   <http://www.microsoft.com/technet/security/alerts/slammer.mspx> (英語)
 
--   
+
 -   [http://www.microsoft.com/downloads/details.aspx?displaylang=ja&FamilyID=9552d43b-04eb-4af9-9e24-6cde4d933600](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=9552d43b-04eb-4af9-9e24-6cde4d933600)
 
--   
+
 -   [http://www.microsoft.com/japan/technet/security/bulletin/ms02-061.asp](http://www.microsoft.com/japan/technet/security/bulletin/ms02-061.mspx)
 
--   
 
 [](#mainsection)[ページのトップへ](#mainsection)

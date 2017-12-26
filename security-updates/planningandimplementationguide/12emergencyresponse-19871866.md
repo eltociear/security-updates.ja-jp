@@ -15,8 +15,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362921(v=TechNet.10)'
 
 ![](images/Dd362921.SecPoint(ja-jp,TechNet.10).gif)
 
-マイクロソフト株式会社
-セキュリティ レスポンス チーム
+マイクロソフト株式会社  
+セキュリティ レスポンス チーム  
 小野寺 匠 著
 
 [前回](https://technet.microsoft.com/ja-jp/library/27eb4541-52f8-4b5c-849c-d18f6b5d7901(v=TechNet.10))は、システム全体を見た場合に脆弱性の危険度をどの様に判断するかについて話しました。さて、今回は、12 回目という事で、このコラムをはじめて丁度一年が経ちました。一年の締めと言うわけではありませんが、丁度年末年始の連休が目の前に迫っていますので、長期休暇の間の緊急時対応について考えてみます。
