@@ -14,8 +14,8 @@ IIS Lockdown Wizard 2.1 ツール
 このツールは、サーバーの使用用途や使用しているサーバー製品ごとに適切な設定のテンプレートを用意しています。このテンプレートをお客様の環境に合わせて編集する事で、よりセキュアな状態を作り出す事が可能です。テンプレートが用意されていない場合にも、きめ細かな設定が可能なテンプレートに頼らない方法があります。
 
 **本ツールご使用にあたっての注意**
-
  
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -34,10 +34,9 @@ IIS Lockdown Wizard 2.1 ツール
 </tbody>
 </table>
  
-
 **本ツールをご使用いただく前に**
 
-本ツールは、 IIS および、NTFS パーティションのアクセス権を多数変更いたします。
+本ツールは、 IIS および、NTFS パーティションのアクセス権を多数変更いたします。  
 そのため、本ツールをご使用いただく前に、 IIS のメタベースおよび、ディスクのバックアップを取っていただくことを強くお勧めいたします。
 
 **使用方法** **(Lockdown)**
@@ -81,7 +80,10 @@ UnDo を行うことで、本ツールにより設定を変更する前の状態
 3.  \[次へ &gt;\] をクリックします。
 
 4.  以下の内容のダイアログが表示されます。
-        ```
+        
+    ```
+    "This Process will undo the configuration changes that you made to this server using the internet Information Services Lockdown Wizard. However, it will not restore services that you've uninstalled using Add/Remove Programs. Important Any Configuration chages that have been made since this wizard was run will be lost. Do you want to continue"
+    ```
 
 5.  Undo を行う場合は、\[はい\] をクリックします。
 
@@ -103,24 +105,24 @@ UnDo を行うことで、本ツールにより設定を変更する前の状態
 
     Commerce Server ビジネス デスクから、完成済みの静的レポートを表示すると 404 エラーが発生する場合があります。これは、レポートを表示する際の URI の中に 日本語コードが含まれており、 Commerce Server 2000 のテンプレートでは、日本語を許可していないために発生いたします。
 
-    *解決策*
+    *解決策*  
     %WINNT%\\system32\\inetsrv\\urlscan\\urlscan.ini ファイルを開き、以下の 2 点の変更を行い IIS を再起動させてください。
 
     -   AllowHighBitCharacters の値を 1 に書き換えてください。
 
-        *変更前:*
+        *変更前:*  
         AllowHighBitCharacters=0
 
-        *変更後:*
+        *変更後:*  
         AllowHighBitCharacters=1
 
     -   \[DenyUrlSequences\] 内の \\ の前に ; を挿入してコメントアウトしてください。
 
-        *変更前:*
+        *変更前:*  
         \[DenyUrlSequences\]
         \\ ; Don't allow backslashes in URL
 
-        *変更後:*
+        *変更後:*  
         \[DenyUrlSequences\]
         ;\\ ; Don't allow backslashes in URL
 
@@ -137,97 +139,97 @@ UnDo を行うことで、本ツールにより設定を変更する前の状態
 
     -   AllowHighBitCharacters の値を 1 に書き換えてください。
 
-        *変更前:*
+        *変更前:*  
         AllowHighBitCharacters=0
 
-        *変更後:*
+        *変更後:*  
         AllowHighBitCharacters=1
 
     -   \[DenyUrlSequences\] 内の \\ の前に ; を挿入してコメントアウトしてください。
 
-        *変更前:*
+        *変更前:*  
         \[DenyUrlSequences\]
         \\ ; Don't allow backslashes in URL
 
-        *変更後:*
+        *変更後:*  
         \[DenyUrlSequences\]
         ;\\ ; Don't allow backslashes in URL
 
--   **Exchange 2000 (OWA, PF Management, IM, SMTP, NNTP)**
+-   **Exchange 2000 (OWA, PF Management, IM, SMTP, NNTP)**  
     Exchange System Manager から Public Folder の管理ができなくなるなどのいくつかの問題が確認されております。以下の技術情報を参照し、URLScan.ini の内容を適切に編集してください。
 
     [309508 : \[XCCC\] Exchange 環境での IIS Lockdown と URLscan の設定](http://support.microsoft.com/kb/309508)
 
 -   
--   **Exchange 5.5 (Outlook Web Access)**
-    いくつかの問題が確認されております。
+-   **Exchange 5.5 (Outlook Web Access)**  
+    いくつかの問題が確認されております。    
     以下の技術情報を参照し、URLScan.ini の内容を適切に編集してください。
 
     [309508 : \[XCCC\] Exchange 環境での IIS Lockdown と URLscan の設定](http://support.microsoft.com/kb/309508)
 
 -   
--   **SharePoint Portal Server**
+-   **SharePoint Portal Server**  
     SharePoint Portal Server の管理コンソールでワークスペースが 「×」 と表示され、ワークスペースのプロパティが開かない場合があります。
 
-    *解決策*
+    *解決策*  
     %WINNT%\\system32\\inetsrv\\urlscan\\urlscan.ini ファイルを開き、以下の変更を行い IIS を再起動させてください。
 
     -   \[DenyUrlSequences\] 内の \\ と % の前に ; を挿入してコメントアウトしてください。
 
-        *変更前:*
-        \[DenyUrlSequences\]
-        \\ ; Don't allow backslashes in URL
+        *変更前:*  
+        \[DenyUrlSequences\]  
+        \\ ; Don't allow backslashes in URL  
         % ; Don't allow escaping after normalization
 
-        *変更後:*
-        \[DenyUrlSequences\]
-        ;\\ ; Don't allow backslashes in URL
+        *変更後:*  
+        \[DenyUrlSequences\]  
+        ;\\ ; Don't allow backslashes in URL  
         ;% ; Don't allow escaping after normalization
 
--   **SharePoint Team Services**
+-   **SharePoint Team Services**  
     日本語を含んだファイルやサブ Web を取り扱う際に問題となることがあります。
 
-    *解決策*
+    *解決策*  
     %WINNT%\\system32\\inetsrv\\urlscan\\urlscan.ini ファイルを開き、以下の 2 点の変更を行い IIS を再起動させてください。
 
     -   AllowHighBitCharacters の値を 1 に書き換えてください。
 
-        *変更前:*
-        AllowHighBitCharacters=0
+        *変更前:*  
+        AllowHighBitCharacters=0 
 
-        *変更後:*
-        \[DenyUrlSequences\]
+        *変更後:*  
+        \[DenyUrlSequences\]  
         AllowHighBitCharacters=1
 
     -   \[DenyUrlSequences\] 内の \\ の前に ; を挿入してコメントアウトしてください。
 
-        *変更前:*
-        \[DenyUrlSequences\]
+        *変更前:*  
+        \[DenyUrlSequences\]  
         \\ ; Don't allow backslashes in URL
 
-        *変更後:*
-        \[DenyUrlSequences\]
+        *変更後:*  
+        \[DenyUrlSequences\]  
         ;\\ ; Don't allow backslashes in URL
 
 **その他、問題が確認されている製品**
 
--   **Site Server / Site Server Commerce Edition / MCIS**
+-   **Site Server / Site Server Commerce Edition / MCIS**  
     Site Server , Site Server Commerce Edition および Site Server 上で動作する MCIS 環境では、 IIS Lock Down Wizard を使用しないでください。Site Server は、多種多様な機能を持ち、IIS の機能の大半を利用します。そのため、 IIS Lock Down Wizard を有効に利用する事ができません。
 
--   **Project Central**
+-   **Project Central**  
     ガントチャートを使用できなくなります。
     現在、原因調査・回避策を準備中ですので、 Project Central 環境への 本ツールの適用はしばらくお待ちください。
 
--   **CGI / ISAPI Extension** **を利用する製品**
+-   **CGI / ISAPI Extension** **を利用する製品**  
     CGI/ISAPI Extension を利用している場合 IIS Lock Down Wizard 2.1 の設定によっては、 \*.exe, \*.dll へのアクセスを拒否する設定になっているため、一切使用できなくなる場合があります。その際は、 URLScan の設定を調整する必要があります。
 
-**NTFS** **のアクセス権の変更に伴う問題**
+**NTFS** **のアクセス権の変更に伴う問題**  
 
-本ツールは、不特定ユーザーからのディスクへの書き込みを防止するために、IIS で使用される匿名ユーザーアカウントからの書き込みが出来ないようアクセス権を変更します。
+本ツールは、不特定ユーザーからのディスクへの書き込みを防止するために、IIS で使用される匿名ユーザーアカウントからの書き込みが出来ないようアクセス権を変更します。  
 これにより、CGI や ASP を利用してディスク上に情報を記録している場合、正常に動作しない場合があります。
 その際は、必要なアクセス権をツールの使用後に再度与える必要があります。
 
-**IIS Lockdown Wizard 2.1 ツールのダウンロード**
+**IIS Lockdown Wizard 2.1 ツールのダウンロード**  
 
 IIS Lockdown Wizard 2.1 ツールをダウンロードするには [ここをクリック](http://www.microsoft.com/japan/technet/security/tools/tools/locktldl.htm) してください。
 

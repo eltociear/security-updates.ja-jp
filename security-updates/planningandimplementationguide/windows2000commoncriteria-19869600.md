@@ -13,12 +13,12 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd277445(v=TechNet.10)'
 
 ##### トピック
 
-[](#egaa)[概要](#egaa)
-[](#efaa)[はじめに](#efaa)
-[](#eeaa)[Common Criteria (共通基準) の利点](#eeaa)
-[](#edaa)[Windows 2000 の Common Criteria (共通基準) 認定](#edaa)
-[](#ecaa)[Windows 2000 の Common Criteria (共通基準) 認定に向けた取り組み](#ecaa)
-[](#ebaa)[まとめ](#ebaa)
+[](#egaa)[概要](#egaa)  
+[](#efaa)[はじめに](#efaa)  
+[](#eeaa)[Common Criteria (共通基準) の利点](#eeaa)  
+[](#edaa)[Windows 2000 の Common Criteria (共通基準) 認定](#edaa)  
+[](#ecaa)[Windows 2000 の Common Criteria (共通基準) 認定に向けた取り組み](#ecaa)  
+[](#ebaa)[まとめ](#ebaa)  
 [](#eaaa)[その他のリソース](#eaaa)
 
 ### 概要
@@ -113,13 +113,13 @@ Common Criteria (共通基準) によって、Windows 2000 が多目的プラッ
 
 繰り返しますが、Common Criteria (共通基準) 認定の鍵となる明確な利点のひとつは、セキュリティ保護されたネットワーク環境での Windows 2000 の展開と運用を簡略化するガイダンスが、顧客に提供されることです。その目的達成のため、マイクロソフトは Common Criteria (共通基準) に準拠した評価データを集め、それを実行性のある有効な方法で明らかにできるよう取り組んできました。こうした努力の成果として、ユーザー個々に役立つリソースを公開し、現在のアーキテクチャと構成に役立つ推奨事項とベスト プラクティスを紹介しています。これらのリソースは以下のとおりです。
 
--   **Windows 2000 Common Criteria (共通基準) 評価された構成 管理者ガイド**
+-   **Windows 2000 Common Criteria (共通基準) 評価された構成 管理者ガイド**  
     [http://technet.microsoft.com/ja-jp/library/dd277441.aspx](https://technet.microsoft.com/ja-jp/library/3b69f696-041a-4554-9588-2b45018c6d8a(v=TechNet.10))
 
--   **Windows 2000 Common Criteria (共通基準) セキュリティ構成ガイド**
+-   **Windows 2000 Common Criteria (共通基準) セキュリティ構成ガイド**  
     [http://technet.microsoft.com/ja-jp/library/dd277442.aspx](https://technet.microsoft.com/ja-jp/library/88b8e140-783c-4c6d-8b3e-96fb79b49537(v=TechNet.10))
 
--   **Windows 2000 Common Criteria (共通基準) 評価構成 ユーザーズ ガイド**
+-   **Windows 2000 Common Criteria (共通基準) 評価構成 ユーザーズ ガイド**  
     [http://technet.microsoft.com/ja-jp/library/dd277443.aspx](https://technet.microsoft.com/ja-jp/library/7b7d9873-643f-493f-a581-c994b004c600(v=TechNet.10))
 
 [](#mainsection)[ページのトップへ](#mainsection)
@@ -134,22 +134,22 @@ Common Criteria (共通基準) によって、Windows 2000 が多目的プラッ
 
 詳細情報については、以下のリソースを参照してください。
 
--   **Common Criteria (共通基準) 体系のホーム ページ**
+-   **Common Criteria (共通基準) 体系のホーム ページ**  
     <http://www.niap-ccevs.org/cc-scheme/>
 
--   **CAPP (Controlled Access Protection Profile : 制御されたアクセス保護プロファイル)**
+-   **CAPP (Controlled Access Protection Profile : 制御されたアクセス保護プロファイル)**  
     [http://www.niap-ccevs.org/cc-scheme/pp/PP\_OS\_CA\_V1.d.pdf](http://www.niap-ccevs.org/cc-scheme/pp/pp_os_ca_v1.d.pdf)
 
--   **Windows Common Criteria (共通基準) セキュリティ評価状況の最新情報 (英語)**
+-   **Windows Common Criteria (共通基準) セキュリティ評価状況の最新情報 (英語)**  
     <http://www.microsoft.com/technet/archive/security/prodtech/windows2000/secureev.mspx>
 
--   **Windows 2000 Common Criteria (共通基準) 評価された構成 管理者ガイド**
+-   **Windows 2000 Common Criteria (共通基準) 評価された構成 管理者ガイド**  
     [http://technet.microsoft.com/ja-jp/library/dd277441.aspx](https://technet.microsoft.com/ja-jp/library/3b69f696-041a-4554-9588-2b45018c6d8a(v=TechNet.10))
 
--   **Windows 2000 Common Criteria (共通基準) セキュリティ構成ガイド**
+-   **Windows 2000 Common Criteria (共通基準) セキュリティ構成ガイド**  
     [http://technet.microsoft.com/ja-jp/library/dd277442.aspx](https://technet.microsoft.com/ja-jp/library/88b8e140-783c-4c6d-8b3e-96fb79b49537(v=TechNet.10))
 
--   **Windows 2000 Common Criteria (共通基準) 評価構成 ユーザーズ ガイド**
+-   **Windows 2000 Common Criteria (共通基準) 評価構成 ユーザーズ ガイド**  
     [http://technet.microsoft.com/ja-jp/library/dd277443.aspx](https://technet.microsoft.com/ja-jp/library/7b7d9873-643f-493f-a581-c994b004c600(v=TechNet.10))
 
 このドキュメントは暫定版であり、このソフトウェアの最終的な製品版の発売時に実質的に変更されることがあります。
@@ -168,6 +168,6 @@ Microsoft、Active Directory、SQL Server、Windows、および Windows NT は�
 
 記載されている会社名、製品名には、各社の商標のものもあります。
 
-1 Common Criteria 立案国 (カナダ、フランス、ドイツ、英国、および米国) に、オーストラリア、フィンランド、ギリシャ、イスラエル、イタリア、ニュージーランド、ノルウェイ、スペイン、オランダが加盟調印国として参加しました。
+1 Common Criteria 立案国 (カナダ、フランス、ドイツ、英国、および米国) に、オーストラリア、フィンランド、ギリシャ、イスラエル、イタリア、ニュージーランド、ノルウェイ、スペイン、オランダが加盟調印国として参加しました。  
 2 『情報技術セキュリティ分野の Common Criteria 承認協定』の序文 (2000 年 5 月) \[以下、「協定」\] を参照 (2001 年 11 月 21 日現在)。
 [](#mainsection)[ページのトップへ](#mainsection)

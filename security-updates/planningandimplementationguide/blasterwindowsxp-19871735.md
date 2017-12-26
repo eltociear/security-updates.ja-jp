@@ -33,6 +33,7 @@ Blaster ワームへの対策 ‐ Windows XP 編
 <br />
   
 この対策ページの [手順 5-2. MS03-007 を適用します] の手順を追加しました。
+
 8 月 18 日以前に、すでにこのページをご覧いただき、対策を行われたお客様は、<a href="#step052">手順 5-2. MS03-007 を適用します</a>のみを行ってください。</td>
 </tr>
 </tbody>
@@ -41,7 +42,7 @@ Blaster ワームへの対策 ‐ Windows XP 編
 
 2003 年 8 月 12 日に被害を与え始めた [Blaster ワーム](https://technet.microsoft.com/ja-jp/library/4c748477-4337-4f1a-89c5-000801bad760(v=TechNet.10)) によりコンピュータが異常終了してしまったり、Office が正しく動作しなくなるなどの問題が発生しています。このワームは、[MS03-026](http://www.microsoft.com/japan/security/bulletins/ms03-026e.mspx) として既に修正されているセキュリティ上の弱点を悪用しています。そのため、[Windows Update](http://windowsupdate.microsoft.com) などを利用して、事前に対策を行うことが望まれます。
 
-この資料では、このワームに感染した際の復旧方法についてまとめます。
+この資料では、このワームに感染した際の復旧方法についてまとめます。  
 対処のシナリオとしては、以下のような手順となります。
 
 1.  [ネットワークケーブルを抜きます](#step01)
@@ -68,10 +69,11 @@ Blaster ワームへの対策 ‐ Windows XP 編
 
 #### 1. ネットワークケーブルを抜きます
 
-電源投入前に、コンピュータのネットワークケーブルを抜いてください。これにより、インターネットなどのネットワークから攻撃を受けないようにします。
+
+電源投入前に、コンピュータのネットワークケーブルを抜いてください。これにより、インターネットなどのネットワークから攻撃を受けないようにします。  
 ダイアルアップ接続の場合には、電話回線の接続を切断します。
 
- 
+<p> <p/> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -100,7 +102,7 @@ Blaster ワームへの対策 ‐ Windows XP 編
   
 Windows XP には、インターネット接続ファイアウォールが搭載されています。この機能を使うことにより、ワームによる攻撃を防ぐことができます。
 
- 
+<p> <p/> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -148,7 +150,7 @@ Windows XP には、インターネット接続ファイアウォールが搭載
 既に Blaster ワームに感染している場合、msblast.exe (**\*1**) とその亜種が動作していますので、このプログラムを停止します。  
 停止するプログラムは、最初に発見された Blaster ワームが作成するプログラムです。**亜種やその他のコンピュータ ウイルスへの対策は、**[コンピュータを安全にお使いいただくために](#step08)**をご覧ください。**
 
- 
+<p> <p/> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -163,9 +165,9 @@ Windows XP には、インターネット接続ファイアウォールが搭載
 <img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">Ctrl + Shift キーを押しながら Esc キーを押し、タスクマネージャを実行します。
 次に [プロセス] タブを表示します。
-イメージ名の欄に、&quot;msblast.exe&quot; (<strong>*1</strong>) プログラムがあれば、そのファイル名をマウスでクリックし、[プロセスの終了] ボタンをクリックします。
-<strong>注意 :</strong> Blaster ワームが動作していない場合には &quot;msblast.exe&quot; (<strong>*1</strong>) は動作していません。タスクマネージャ右上の [×] ボタンをクリックしタスクマネージャを終了してください。タスクマネージャを終了させた後は、<strong>4. ネットワークケーブルをコンピュータに接続します</strong> へ進んでください。
-(<strong>*1</strong>) Blaster ワームは現在いくつかの亜種が報告されています。亜種の場合は msblast.exe と表示されず別の名前になります。
+イメージ名の欄に、&quot;msblast.exe&quot; (<strong>\*1</strong>) プログラムがあれば、そのファイル名をマウスでクリックし、[プロセスの終了] ボタンをクリックします。
+<strong>注意 :</strong> Blaster ワームが動作していない場合には &quot;msblast.exe&quot; (<strong>\*1</strong>) は動作していません。タスクマネージャ右上の [×] ボタンをクリックしタスクマネージャを終了してください。タスクマネージャを終了させた後は、<strong>4. ネットワークケーブルをコンピュータに接続します</strong> へ進んでください。
+(<strong>\*1</strong>) Blaster ワームは現在いくつかの亜種が報告されています。亜種の場合は msblast.exe と表示されず別の名前になります。
 <strong>その亜種</strong><br />
 既に Blaster ワームとその亜種に感染している場合、下記のいずれかが動作していますので、”msblast.exe” とこれらのプログラムを停止します。
 <ul>
@@ -213,7 +215,7 @@ Windows XP には、インターネット接続ファイアウォールが搭載
   
 Blaster ワームが悪用する MS03-026 のセキュリティ修正プログラムを入手してインストールします。
 
- 
+<p> <p/> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -310,7 +312,7 @@ Blaster ワームが悪用する MS03-026 のセキュリティ修正プログ�
   
 Blaster ワームの亜種が悪用する MS03-007 のセキュリティ修正プログラムを入手してインストールします。
 
- 
+<p> <p/> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -331,7 +333,7 @@ Blaster ワームの亜種が悪用する MS03-007 のセキュリティ修正�
   
 ["Windows XP セキュリティ修正プログラム : IIS 経由のリモート攻撃を可能にする ntdll.dll の脆弱性"](http://www.microsoft.com/downloads/details.aspx?familyid=84fc577d-f2d5-47b8-ab98-77ba7501b00b&displaylang=ja) をクリックし、セキュリティ修正プログラムを入手することができます。
 
- 
+<p> <p/> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -414,7 +416,7 @@ Blaster ワームの亜種が悪用する MS03-007 のセキュリティ修正�
   
 このツールの詳細については[サポート技術情報 833330](http://support.microsoft.com/default.aspx?scid=kb;ja;833330) をご覧下さい。
 
- 
+<p> <p/> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -489,33 +491,33 @@ Blaster ワームの亜種が悪用する MS03-007 のセキュリティ修正�
 
 **注意 :** 修正プログラムインストール後の再起動により msblast.exe が再度起動され、ネットワークに接続できないことがあります。そのときは、手順 3 をご覧になり、再度 msblast.exe のプロセスを停止してください。
 
--   株式会社シマンテック
+-   株式会社シマンテック  
     <http://www.symantec.co.jp>
 
-    -   W32.Blaster.Worm 駆除ツール (無償駆除ツール)
+    -   W32.Blaster.Worm 駆除ツール (無償駆除ツール)  
         <http://www.symantec.co.jp/region/jp/sarcj/data/w/w32.blaster.worm.removal.tool.html>
 
-    -   W32.Welchia.Worm 駆除ツール (無償駆除ツール)
+    -   W32.Welchia.Worm 駆除ツール (無償駆除ツール)  
         <http://www.symantec.co.jp/region/jp/sarcj/data/w/w32.welchia.worm.removal.tool.html>
 
--   トレンドマイクロ株式会社提供
+-   トレンドマイクロ株式会社提供  
     <http://www.trendmicro.com/jp/home/personal.htm>
 
-    -   トレンドマイクロ システム クリーナ ver. 3.0（TSC) (無償駆除ツール)
-        [http://www.trendmicro.co.jp/esolution/solutionDetail.asp?solutionId=4700](http://www.trendmicro.co.jp/esolution/solutiondetail.asp?solutionid=4700)
+    -   トレンドマイクロ システム クリーナ ver. 3.0（TSC) (無償駆除ツール)  
+        [http://www.trendmicro.co.jp/esolution/solutionDetail.asp?solutionId=4700](http://www.trendmicro.co.jp/esolution/solutiondetail.asp?solutionid=4700)  
         Blaster ワームおよび亜種に対応
 
--   日本ネットワークアソシエイツ株式会社
+-   日本ネットワークアソシエイツ株式会社  
     <http://www.nai.com/japan/>
 
     -   AVERTウイルス駆除ツールStinger（スティンガー）(無償駆除ツール)
-        <http://www.nai.com/japan/security/stinger.asp>
+        <http://www.nai.com/japan/security/stinger.asp>  
         Blaster ワームおよび亜種に対応
 
--   株式会社ラック
+-   株式会社ラック  
     <http://www.lac.co.jp>
 
-    -   Blaster ワーム 対策ツール
+    -   Blaster ワーム 対策ツール  
         <http://www.lac.co.jp/business/sns/intelligence/report/download/download.html>
 
 #### 7. インターネット接続ファイアウォールを無効にして、元の設定の状態に戻します
@@ -524,7 +526,7 @@ Blaster ワームの亜種が悪用する MS03-007 のセキュリティ修正�
 
 **注意 :** 実際の画面表示と異なる場合があります。お客様の環境にあわせて設定を行ってください。
 
- 
+<p> <p/> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />
@@ -576,7 +578,7 @@ Blaster ワームの亜種が悪用する MS03-007 のセキュリティ修正�
   
 また、Windows XP の Service Pack 1 の適用は、可能な限り行ってください。Windows XP Service Pack 1 は、[ここ](http://www.microsoft.com/japan/windowsxp/pro/downloads/servicepacks/sp1/)から入手できます。
 
- 
+<p> <p/> 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="100%" />
@@ -589,7 +591,9 @@ Blaster ワームの亜種が悪用する MS03-007 のセキュリティ修正�
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;">Blaster ワームの対策はこれで終了ですが、コンピュータ ウイルスには<a href="https://technet.microsoft.com/ja-jp/library/207c8deb-8e10-49e1-a7de-b8e8d8c9be9e(v=TechNet.10)">亜種</a>と呼ばれるものがあり、お客様のコンピュータが他のウイルスに感染していないとは限りません。
+
 残念ながら、コンピュータ ウイルスは日々作成され、進化しています。感染を防ぐために、ウイルス対策プログラムをご利用いただくことを強くお勧めします。
+
 コンピュータを安全にお使いいただくため、<a href="http://www.microsoft.com/japan/security/protect/">こちら</a>のページをご覧いただき、ぜひ実践してください。</td>
 </tr>
 </tbody>

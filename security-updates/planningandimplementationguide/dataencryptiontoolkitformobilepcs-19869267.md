@@ -41,11 +41,11 @@ Microsoft は、ラップトップ コンピュータのセキュリティ問題
 
 ##### トピック
 
-[](#egaa)[対象読者](#egaa)
-[](#efaa)[章の内容](#efaa)
-[](#eeaa)[表記規則](#eeaa)
-[](#edaa)[関連情報](#edaa)
-[](#ecaa)[サポートとフィードバック](#ecaa)
+[](#egaa)[対象読者](#egaa)  
+[](#efaa)[章の内容](#efaa)  
+[](#eeaa)[表記規則](#eeaa)  
+[](#edaa)[関連情報](#edaa)  
+[](#ecaa)[サポートとフィードバック](#ecaa)  
 [](#ebaa)[謝辞](#ebaa)
 
 ### 対象読者
@@ -104,7 +104,7 @@ Microsoft は、ラップトップ コンピュータのセキュリティ問題
 <td style="border:1px solid black;">斜体と山かっこで示されるプレースホルダ (<em>&lt;filename&gt;</em> など) は変数を表します。</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><pre><code>Monospace フォント</code></pre></td>
+<td style="border:1px solid black;">Monospace フォント</td>
 <td style="border:1px solid black;">コードとスクリプトのサンプルを示します。</td>
 </tr>
 <tr class="odd">

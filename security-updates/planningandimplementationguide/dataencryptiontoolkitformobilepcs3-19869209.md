@@ -25,8 +25,8 @@ Data Encryption Toolkit for Mobile PCs : 計画および実装ガイド第 3 章
 
 ##### トピック
 
-[](#edae)[BitLocker ドライブ暗号化のシナリオ](#edae)
-[](#ecae)[暗号化ファイル システムのシナリオ](#ecae)
+[](#edae)[BitLocker ドライブ暗号化のシナリオ](#edae)   
+[](#ecae)[暗号化ファイル システムのシナリオ](#ecae)  
 [](#ebae)[関連情報](#ebae)
 
 ### BitLocker ドライブ暗号化のシナリオ
@@ -291,7 +291,7 @@ EFS の秘密解読キーを紛失した場合、最も簡単な回復方法は�
 
 3.  コマンド プロンプトで、次のコマンドを入力します。
 
-    **Certutil -recoverkey** *&lt;file name&gt; &lt;filename.pfx&gt;* **–p*** &lt;password&gt;*
+    **Certutil -recoverkey** *&lt;file name&gt; &lt;filename.pfx&gt;* **–p** *&lt;password&gt;*
 
     ここで、*&lt;file name&gt;* は前の手順で作成された暗号化された出力ファイル、*&lt;filename.pfx&gt;* は PKCS \#12 形式のユーザーの EFS 秘密キーの新しい出力ファイル名、*&lt;password&gt;* は作成された **filename.pfx** ファイルのパスワードです。
 
@@ -357,7 +357,7 @@ EFS 証明書を移行する作業は、ユーザー データを別のコンピ
 
 1.  証明書を所有するユーザーとしてログオンします。
 
-2.  コマンド プロンプト ウィンドウを開き、「**Cipher /x:***&lt;efsfile&gt;*** ***&lt;filename&gt;*」と入力します。*&lt;filename&gt;* は拡張子なしのファイル名、*&lt;efsfile&gt;* は暗号化されたファイルへのパスです。Enter キーを押します。
+2.  コマンド プロンプト ウィンドウを開き、「**Cipher /x:** *&lt;efsfile&gt;* *&lt;filename&gt;*」と入力します。*&lt;filename&gt;* は拡張子なしのファイル名、*&lt;efsfile&gt;* は暗号化されたファイルへのパスです。Enter キーを押します。
 
     *&lt;efsfile&gt;* が指定されている場合、ファイルの暗号化に使用された現在のユーザーの証明書のバックアップが作成されます。指定されていない場合、ユーザーの現在の EFS 証明書とキーのバックアップが作成されます。Cipher.exe を実行すると、パスワードで保護された .pfx ファイルが指定した保存先に作成されます。Cipher.exe の詳細を確認するには、「**cipher /?**」と入力します。
 

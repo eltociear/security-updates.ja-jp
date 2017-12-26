@@ -44,8 +44,10 @@ Code Red II ワームの既知の影響を排除するツール
 2.  感染しているマシンのディレクトリに、このツールを置いてください。
 
 3.  以下のコマンドを使用して、コマンド プロンプトからこのツールを実行してください。
-        ```
 
+    ```
+    toolname [-disable]
+    ```
     -disable フラグにより、サーバーの IIS が恒久的に無効になります。
 
 **注** **:** 感染の度合いにより、/Scripts または /MSADC の IIS のマッピングが削除されない場合があります。この場合は、下記の手順に従い、仮想ディレクトリの削除と修復を手動にて行ってください。
@@ -98,10 +100,10 @@ Code Red II ワームの既知の影響を排除するツール
 
 ### 関連情報
 
-緊急 : Code Red ワームに対する警告 - 至急修正プログラムをインストールして下さい。
+緊急 : Code Red ワームに対する警告 - 至急修正プログラムをインストールして下さい。  
 <http://www.microsoft.com/japan/technet/security/alerts/codealrt.mspx>
 
-"Code Red" IIS ワームに関する情報
+"Code Red" IIS ワームに関する情報  
 <http://www.microsoft.com/japan/technet/security/alerts/info/codered.mspx>
 
 [](#mainsection)[ページのトップへ](#mainsection)

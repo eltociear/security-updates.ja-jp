@@ -11,15 +11,15 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd277467(v=TechNet.10)'
 
 公開日: 2004年1月19日
 
-*Microsoft Corporation*
+*Microsoft Corporation*  
 *発行* *: 2004* *年* *1* *月*
 
 ##### トピック
 
-[](#eeaa)[MBSA Version 1.2 の新機能](#eeaa)
-[](#edaa)[MBSA V1.2 の機能](#edaa)
-[](#ecaa)[スキャン モード](#ecaa)
-[](#ebaa)[脆弱性のチェックの説明](#ebaa)
+[](#eeaa)[MBSA Version 1.2 の新機能](#eeaa)  
+[](#edaa)[MBSA V1.2 の機能](#edaa)  
+[](#ecaa)[スキャン モード](#ecaa)  
+[](#ebaa)[脆弱性のチェックの説明](#ebaa)  
 [](#eaaa)[その他のリソース](#eaaa)
 
 **概要**
@@ -280,9 +280,9 @@ MBSA V1.2 は 4 つの言語にローカライズされており、異なるバ�
 
 このチェックでは、スキャンしたコンピュータで services.txt ファイルに記述されているサービスが有効になっているかどうかを調べます。services.txt ファイルは、スキャンしたコンピュータで実行するべきではないサービスの構成可能な一覧です。このファイルは MBSA によってインストールされ、MBSA のインストール フォルダに保存されます。services.txt ファイルは、MBSA のユーザーが構成して、スキャンする各コンピュータでチェックする特定のサービスを追加する必要があります。MBSA と共に既定でインストールされた services.txt ファイルには、次のサービスが記述されています。
 
-MSFTPSVC (FTP)
-TlntSvr (Telnet)
-W3SVC (WWW)
+MSFTPSVC (FTP)  
+TlntSvr (Telnet)  
+W3SVC (WWW)  
 SMTPSVC (SMTP)
 
 サービスは、コンピュータがオペレーティング システムを実行しているときに、バックグラウンドで実行されるプログラムです。ユーザーがログオンする必要はありません。サービスは、FAX の着信を待機する FAX サービスなど、ユーザーに依存しないタスクを実行するために必要です。
@@ -511,7 +511,7 @@ db\_owner、db\_accessadmin、または sysadmin ロールのメンバは、gues
 
 このチェックでは、**Everyone** グループに、次のレジストリ キーに対する読み取りアクセス許可だけが付与されていることを確認します。
 
-**HKLM\\Software\\Microsoft\\Microsoft SQL Server**
+**HKLM\\Software\\Microsoft\\Microsoft SQL Server**  
 **HKLM\\Software\\Microsoft\\MSSQLServer**
 
 **Everyone** グループがこれらのキーに対して読み取りアクセス許可以上のアクセス許可を持っている場合、セキュリティ スキャン レポートで高レベルの脆弱性としてマークされます。
@@ -618,10 +618,10 @@ Internet Explorer ブラウザ ソフトウェアでは、インターネット�
 
 **Microsoft** **セキュリティソリューションのパートナー**
 
-Microsoft 認定プロバイダのディレクトリ
+Microsoft 認定プロバイダのディレクトリ  
 <http://mcspreferral.microsoft.com/>
 
-Microsoft コンサルティング サービス
+Microsoft コンサルティング サービス  
 <http://www.microsoft.com/japan/consulting/>
 
 (1) MBSA を実行するたびに、このツールはインターネットに接続して Microsoft のサイトから CAB/XML ファイルをダウンロードしようとします。インターネットに接続できない場合、このツールはツールのインストール フォルダにある CAB/XML ファイルのローカル コピーを参照します。スキャン中にファイルが正常にダウンロードされるたびに、それ以降のスキャンでインターネットに接続できなかったときのために、ローカル コピーがコンピュータ上に保存されます。それ以外の場合で、インターネットに接続したことがないコンピュータについては、Microsoft ダウンロード センターのサイトから別にこのファイルをダウンロードして、ツールを実行しているコンピュータにコピーできます。

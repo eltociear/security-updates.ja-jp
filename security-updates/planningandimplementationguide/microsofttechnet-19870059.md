@@ -9,12 +9,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362363(v=MSDN.10)'
 **ウイルス対策情報**
 ====================
 
-<table border="0" cellpadding="0" cellspacing="0">
+<table border="1" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
-<td style="border:1px solid black;" colspan="9">
- 
-<table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
 <col width="50%" />
@@ -28,9 +25,7 @@ Sober ワームかご利用のシステムを守るための方法をご案内�
 </tbody>
 </table>
  
-
- 
-<table style="border:1px solid black;">
+<table border="1" cellpadding="0" cellspacing="0">
 <colgroup>
 <col width="50%" />
 <col width="50%" />
@@ -50,10 +45,8 @@ Sober ワームかご利用のシステムを守るための方法をご案内�
 </tbody>
 </table>
  
-
 ------------------------------------------------------------------------
 
- 
 <table style="border:1px solid black;">
 <colgroup>
 <col width="50%" />
