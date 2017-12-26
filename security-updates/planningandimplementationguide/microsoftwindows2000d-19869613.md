@@ -128,7 +128,7 @@ Microsoft Windows 2000 セキュリティ構成ガイド
 <td style="border:1px solid black;">Administrator</td>
 <td style="border:1px solid black;">特定のドメイン内の管理と制御の役割の割り当てをサポートします。
 <strong>要件:</strong>
-このグループに非管理的アカウント (ユーザー) を追加してはいけません。*</td>
+このグループに非管理的アカウント (ユーザー) を追加してはいけません。&#42;</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Domain Computers</td>
@@ -193,7 +193,7 @@ Guest アカウントおよび TsInternetUser アカウントを削除します�
 <td style="border:1px solid black;">Administrator</td>
 <td style="border:1px solid black;">ドメイン レベルのグループ ポリシーを維持するように指定された、管理的役割の割り当てをサポートします。
 <strong>要件:</strong>
-このグループに非管理的アカウントを追加してはいけません。*</td>
+このグループに非管理的アカウントを追加してはいけません。&#42;</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Schema Admins</td>
@@ -204,7 +204,7 @@ Guest アカウントおよび TsInternetUser アカウントを削除します�
 <td style="border:1px solid black;">Administrator</td>
 <td style="border:1px solid black;">Active Directory スキーマを管理するように指定された、管理的役割の割り当てをサポートします。
 <strong>要件:</strong>
-このグループに非管理的アカウントを追加してはいけません。*</td>
+このグループに非管理的アカウントを追加してはいけません。&#42;</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">ドメイン ローカル グループ</td>
@@ -224,7 +224,7 @@ Guest アカウントおよび TsInternetUser アカウントを削除します�
 <td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;">ドメイン内のユーザー アカウントを管理するように指定された、管理的な役割の割り当てをサポートします。
 <strong>要件:</strong>
-このグループに非管理的アカウントを追加してはいけません。*</td>
+このグループに非管理的アカウントを追加してはいけません。&#42;</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Administrators</td>
@@ -237,7 +237,7 @@ Domain Admins
 Enterprise Admins</td>
 <td style="border:1px solid black;">ドメイン内のすべてのドメイン コントローラおよびリソースに対する全面的な管理的アクセス権利を有する、管理的な役割の割り当てをサポートします。
 <strong>要件:</strong>
-このグループに非管理的アカウントを追加してはいけません。*</td>
+このグループに非管理的アカウントを追加してはいけません。&#42;</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Backup Operators</td>
@@ -251,7 +251,7 @@ Enterprise Admins</td>
 既定では、Backup Operators グループに属していなくても、ユーザーは適切なファイルおよびディレクトリへのアクセス許可を有しているファイルを、バックアップおよび復元することができます。
 Administrator アカウントは最初からバックアップ権利を全面的に有しています。
 <strong>要件:</strong>
-このグループに非管理的アカウントを追加してはいけません。*</td>
+このグループに非管理的アカウントを追加してはいけません。&#42;</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">DnsAdmins</td>
@@ -262,7 +262,7 @@ Administrator アカウントは最初からバックアップ権利を全面的
 <td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;">DNS の管理を担当する管理的な役割の割り当てをサポートします。
 <strong>要件:</strong>
-このグループに非管理的アカウントを追加してはいけません。*</td>
+このグループに非管理的アカウントを追加してはいけません。&#42;</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Guests</td>
@@ -307,7 +307,7 @@ Windows 2000 以前のシステムとの下位互換性を持つことは、TOE 
 <td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;">「<a href="http://download.microsoft.com/download/win2000srv/ccsectar/2.0/nt5/en-us/w2kccst.pdf">Windows 2000 Security Target</a>」 パラグラフ 6.1.5.3 TFS Data Replication Consistency に示されている要件をサポートするために使用することができます。ドメイン内のディレクトリ複製サービスの管理を担当する管理的な役割の割り当てをサポートします。
 <strong>要件:</strong>
-このグループに非管理的アカウントを追加してはいけません。*</td>
+このグループに非管理的アカウントを追加してはいけません。&#42;</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">RAS and IAS Servers</td>
@@ -327,7 +327,7 @@ Windows 2000 以前のシステムとの下位互換性を持つことは、TOE 
 <td style="border:1px solid black;"> </td>
 <td style="border:1px solid black;">サーバーの保守を担当する管理的な役割の割り当てをサポートします。
 <strong>要件:</strong>
-このグループに非管理的アカウントを追加してはいけません。*</td>
+このグループに非管理的アカウントを追加してはいけません。&#42;</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Users</td>
@@ -365,7 +365,7 @@ Administrator
 Domain Admins</td>
 <td style="border:1px solid black;">コンピュータ上のすべてのローカル リソースに対する全面的な管理アクセス権限を持つ、管理的な役割の割り当てをサポートします。
 <strong>要件:</strong>
-このグループに非管理的アカウントを追加してはいけません。*</td>
+このグループに非管理的アカウントを追加してはいけません。&#42;</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Backup Operators</td>
@@ -379,7 +379,7 @@ Domain Admins</td>
 既定では、Backup Operators グループに属していなくても、ユーザーは適切なファイルおよびデ ィレクトリへのアクセス許可を有しているファイルを、バックアップおよび復元することができます。
 Administrator アカウントは最初からバックアップ権利を全面的に有しています。
 <strong>要件:</strong>
-このグループに非管理的アカウントを追加してはいけません。*</td>
+このグループに非管理的アカウントを追加してはいけません。&#42;</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Guests</td>
@@ -409,7 +409,7 @@ Add Domain Guests</td>
 <td style="border:1px solid black;">特定のコンピュータ上で権利を多く与えられた、ユーザーの役割の割り当てをサポートします。
 このグループでは、ローカル ユーザー アカウントの管理およびローカル リソースの管理のような、管理者レベルの特権が与えられます。権限を与えられている管理者ではないユーザーをこのグループのメンバに入れることは、通常は権限のある管理者に与えられる特権をユーザーが持つことになる分だけ、FMT_MTD.1(c) ユーザー属性の管理、FMT_MTD.1(d)、認証データの管理 (ユーザーが作成したアカウント関して)、FMT_MTD.1(e) ロックアウト期間の管理 (ユーザーが作成したアカウント関して)、最小パスワード文字数の管理 (ユーザーが作成したアカウント関して)、および FMT_SMR.1 セキュリティ役割に違反する可能性があります。
 <strong>要件:</strong>
-このグループに非管理的アカウントを追加してはいけません。*</td>
+このグループに非管理的アカウントを追加してはいけません。&#42;</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">Replicator</td>
@@ -420,7 +420,7 @@ Add Domain Guests</td>
 <td style="border:1px solid black;">なし</td>
 <td style="border:1px solid black;">「<a href="http://download.microsoft.com/download/win2000srv/ccsectar/2.0/nt5/en-us/w2kccst.pdf">Windows 2000 Security Target</a>」 パラグラフ 6.1.5.3 TFS Data Replication Consistency に明示されている要件をサポートするために使用することができます。コンピュータ内でディレクトリ複製サービスの管理を担当する管理的な役割の割り当てをサポートします。
 <strong>要件:</strong>
-このグループに非管理的アカウントを追加してはいけません。*</td>
+このグループに非管理的アカウントを追加してはいけません。&#42;</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">Users</td>

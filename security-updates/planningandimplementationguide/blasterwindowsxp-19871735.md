@@ -33,6 +33,7 @@ Blaster ワームへの対策 ‐ Windows XP 編
 <br />
   
 この対策ページの [手順 5-2. MS03-007 を適用します] の手順を追加しました。
+
 8 月 18 日以前に、すでにこのページをご覧いただき、対策を行われたお客様は、<a href="#step052">手順 5-2. MS03-007 を適用します</a>のみを行ってください。</td>
 </tr>
 </tbody>
@@ -164,9 +165,9 @@ Windows XP には、インターネット接続ファイアウォールが搭載
 <img src="images/Dd362789.green_arrow_sml(ja-jp,TechNet.10).gif" /></td>
 <td style="border:1px solid black;">Ctrl + Shift キーを押しながら Esc キーを押し、タスクマネージャを実行します。
 次に [プロセス] タブを表示します。
-イメージ名の欄に、&quot;msblast.exe&quot; (<strong>*1</strong>) プログラムがあれば、そのファイル名をマウスでクリックし、[プロセスの終了] ボタンをクリックします。
-<strong>注意 :</strong> Blaster ワームが動作していない場合には &quot;msblast.exe&quot; (<strong>*1</strong>) は動作していません。タスクマネージャ右上の [×] ボタンをクリックしタスクマネージャを終了してください。タスクマネージャを終了させた後は、<strong>4. ネットワークケーブルをコンピュータに接続します</strong> へ進んでください。
-(<strong>*1</strong>) Blaster ワームは現在いくつかの亜種が報告されています。亜種の場合は msblast.exe と表示されず別の名前になります。
+イメージ名の欄に、&quot;msblast.exe&quot; (<strong>\*1</strong>) プログラムがあれば、そのファイル名をマウスでクリックし、[プロセスの終了] ボタンをクリックします。
+<strong>注意 :</strong> Blaster ワームが動作していない場合には &quot;msblast.exe&quot; (<strong>\*1</strong>) は動作していません。タスクマネージャ右上の [×] ボタンをクリックしタスクマネージャを終了してください。タスクマネージャを終了させた後は、<strong>4. ネットワークケーブルをコンピュータに接続します</strong> へ進んでください。
+(<strong>\*1</strong>) Blaster ワームは現在いくつかの亜種が報告されています。亜種の場合は msblast.exe と表示されず別の名前になります。
 <strong>その亜種</strong><br />
 既に Blaster ワームとその亜種に感染している場合、下記のいずれかが動作していますので、”msblast.exe” とこれらのプログラムを停止します。
 <ul>

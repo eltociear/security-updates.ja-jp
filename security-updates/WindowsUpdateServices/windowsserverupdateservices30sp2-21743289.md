@@ -378,7 +378,7 @@ WSUS コマンド ライン セットアップ プログラムを使用すると
 WSUSSetup.exe /q DEFAULT\_WEBSITE=0 (ポート 8530 を使用して QUIET モードでインストール) WSUSSetup.exe /q /u (WSUS をアンインストール)  
 ```
  
-> [!IMPORTANT]
+> [!IMPORTANT]  
 > WSUS 3.0 SP2 を QUIET モード (/q) でインストールし、コンピュータがすべての前提条件を満たしていない場合は、インストールによって WSUSPreReqCheck.xml というファイルが生成され、%TEMP% ディレクトリに保存されます。
  
 

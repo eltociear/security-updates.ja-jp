@@ -15,9 +15,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362917(v=TechNet.10)'
 
 ![](images/Dd362917.SecPoint(ja-jp,TechNet.10).gif)
 
-マイクロソフト株式会社
-セキュリティ レスポンス チーム
-小野寺 匠 著
+マイクロソフト株式会社  
+セキュリティ レスポンス チーム  
+小野寺 匠 著  
 
 [前回](https://technet.microsoft.com/ja-jp/library/c637f3cf-9822-431b-a344-9f352a231c98(v=TechNet.10))は、サービスそのものが動作する数を減らすことで攻撃に対処する方法を取り上げました。今回は、動作しているサービスが攻撃を受けた時に被害を最小限に抑えるために、サービスの権限の最小化についてお話します。
 
@@ -25,7 +25,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362917(v=TechNet.10)'
 
 このアカウントには、主に、以下の 3 つのアカウントが使用されます。
 
- 
+<p> </p>
 <table style="border:1px solid black;">
 <colgroup>
 <col width="33%" />

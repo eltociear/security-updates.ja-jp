@@ -131,6 +131,7 @@ Microsoft Windows Server 2003 Service Pack 1 (SP1) は新しいプロアクテ�
 
 -   [MS03-020 (818529)](http://www.microsoft.com/japan/technet/security/bulletin/ms03-020.mspx): Internet Explorer 用の累積的な修正プログラム
 
-Windows Server 2003 Service Pack 1 に関する追加情報は、次の Windows Server 2003 TechCenter をご覧下さい。[http://www.microsoft.com/japan/technet/prodtechnol/windowsServer2003/default.mspx](http://www.microsoft.com/japan/technet/prodtechnol/windowsserver2003/default.mspx)
+
+Windows Server 2003 Service Pack 1 に関する追加情報は、次の Windows Server 2003 TechCenter をご覧下さい。   [http://www.microsoft.com/japan/technet/prodtechnol/windowsServer2003/default.mspx](http://www.microsoft.com/japan/technet/prodtechnol/windowsserver2003/default.mspx)
 
 [](#mainsection)[ページのトップへ](#mainsection)
