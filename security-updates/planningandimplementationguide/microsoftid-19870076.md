@@ -15,7 +15,7 @@ Microsoft ID およびアクセス管理
 <td>
 ID とアクセス管理を効果的に行うことができれば、セキュリティを強化するだけでなく、ユーザーによる操作を単純化、効率化することができます。ユーザー操作の単純化、効率化は生産性を高め、コスト削減、ビジネス インテグレーションに役立ちます｡このセクションで紹介している情報をもとに主要な ID 管理に取り組むところから始めましょう。
 <br/>  
-##### トピック
+<h4> トピック</h4> <br/>  
   
 | [<img src="images/dd362380.arrow_px_down(ja-jp,TechNet.10).gif" alt="ガイド" width="7" height="9" />](#eaa)                        | [ガイド](#eaa)                        |  
 | [<img src="images/dd362380.arrow_px_down(ja-jp,TechNet.10).gif" alt="How-To 記事" width="7" height="9" />](#e3b)                   | [How-To 記事](#e3b)                   |  
