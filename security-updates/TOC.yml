@@ -3847,3 +3847,107 @@
       href: ./SecurityBulletins/1999/ms99-060
     - name: ms99-061
       href: ./SecurityBulletins/1999/ms99-061
+- name: 脆弱性調査アドバイザリ
+  href: ./vulnerabilityresearchadvisories/microsoftvulnerabilityresearchadvisories
+  items:
+  - name: 2013
+    href: 
+    items:
+    - name: msvr13-001
+      href: ./vulnerabilityresearchadvisories/2013/msvr13-001
+    - name: msvr13-002
+      href: ./vulnerabilityresearchadvisories/2013/msvr13-002
+    - name: msvr13-003
+      href: ./vulnerabilityresearchadvisories/2013/msvr13-003
+    - name: msvr13-004
+      href: ./vulnerabilityresearchadvisories/2013/msvr13-004
+    - name: msvr13-005
+      href: ./vulnerabilityresearchadvisories/2013/msvr13-005
+    - name: msvr13-006
+      href: ./vulnerabilityresearchadvisories/2013/msvr13-006
+    - name: msvr13-007
+      href: ./vulnerabilityresearchadvisories/2013/msvr13-007
+    - name: msvr13-008
+      href: ./vulnerabilityresearchadvisories/2013/msvr13-008
+    - name: msvr13-009
+      href: ./vulnerabilityresearchadvisories/2013/msvr13-009
+  - name: 2012
+    href: 
+    items:
+    - name: msvr12-001
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-001
+    - name: msvr12-002
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-002
+    - name: msvr12-003
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-003
+    - name: msvr12-004
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-004
+    - name: msvr12-005
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-005
+    - name: msvr12-006
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-006
+    - name: msvr12-007
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-007
+    - name: msvr12-008
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-008
+    - name: msvr12-009
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-009
+    - name: msvr12-010
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-010
+    - name: msvr12-011
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-011
+    - name: msvr12-012
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-012
+    - name: msvr12-013
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-013
+    - name: msvr12-014
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-014
+    - name: msvr12-015
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-015
+    - name: msvr12-016
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-016
+    - name: msvr12-017
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-017
+    - name: msvr12-018
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-018
+    - name: msvr12-019
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-019
+    - name: msvr12-020
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-020
+    - name: msvr12-021
+      href: ./vulnerabilityresearchadvisories/2012/msvr12-021
+  - name: 2011
+    href: 
+    items:
+    - name: msvr11-001
+      href: ./vulnerabilityresearchadvisories/2011/msvr11-001
+    - name: msvr11-002
+      href: ./vulnerabilityresearchadvisories/2011/msvr11-002
+    - name: msvr11-003
+      href: ./vulnerabilityresearchadvisories/2011/msvr11-003
+    - name: msvr11-004
+      href: ./vulnerabilityresearchadvisories/2011/msvr11-004
+    - name: msvr11-005
+      href: ./vulnerabilityresearchadvisories/2011/msvr11-005
+    - name: msvr11-006
+      href: ./vulnerabilityresearchadvisories/2011/msvr11-006
+    - name: msvr11-007
+      href: ./vulnerabilityresearchadvisories/2011/msvr11-007
+    - name: msvr11-008
+      href: ./vulnerabilityresearchadvisories/2011/msvr11-008
+    - name: msvr11-009
+      href: ./vulnerabilityresearchadvisories/2011/msvr11-009
+    - name: msvr11-010
+      href: ./vulnerabilityresearchadvisories/2011/msvr11-010
+    - name: msvr11-011
+      href: ./vulnerabilityresearchadvisories/2011/msvr11-011
+    - name: msvr11-012
+      href: ./vulnerabilityresearchadvisories/2011/msvr11-012
+    - name: msvr11-013
+      href: ./vulnerabilityresearchadvisories/2011/msvr11-013
+    - name: msvr11-014
+      href: ./vulnerabilityresearchadvisories/2011/msvr11-014
+    - name: msvr11-015
+      href: ./vulnerabilityresearchadvisories/2011/msvr11-015
+    - name: msvr11-016
+      href: ./vulnerabilityresearchadvisories/2011/msvr11-016
