@@ -15,8 +15,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362923(v=TechNet.10)'
 
 ![](images/Dd362923.SecPoint(ja-jp,TechNet.10).gif)
 
-マイクロソフト株式会社
-セキュリティ レスポンス チーム
+マイクロソフト株式会社  
+セキュリティ レスポンス チーム  
 小野寺 匠 著
 
 [前回](https://technet.microsoft.com/ja-jp/library/16d06765-1084-4648-8cf6-773310e71786(v=TechNet.10))は、脆弱性等が悪用された場合に、攻撃の成功の可能性を低減させるための機能 ASLR (Address Space Layout Randomization) について触れました。今回も、前回同様に普段は目に見えない部分に触れます。今回の Windows Service Hardening は、機能と言うよりは設計の変更といえます。

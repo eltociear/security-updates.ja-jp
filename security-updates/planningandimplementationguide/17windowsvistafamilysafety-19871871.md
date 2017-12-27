@@ -15,8 +15,8 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-jp/library/Dd362926(v=TechNet.10)'
 
 ![](images/Dd362926.SecPoint(ja-jp,TechNet.10).gif)
 
-マイクロソフト株式会社
-セキュリティ レスポンス チーム
+マイクロソフト株式会社  
+セキュリティ レスポンス チーム  
 小野寺 匠 著
 
 [前回](http://technet.microsoft.com/ja-jp/library/dd362925)は、管理者権限などの使用を制限するユーザー アクセス制御 (UAC: User Access Control) について触れ、UACを有効にした場合の互換性対応について書きました。今回は、すこし視点をかえて家族と子供のためのセキュリティ機能について触れます。
@@ -39,13 +39,13 @@ Windows Vista の機能は、制限・監視するものですから、保護者
 
 親子のための安全なインターネットの使い方をまとめたコンテンツも公開していますので、合わせてご覧ください。
 
--   お子様を守るための 3 つのポイント
+-   お子様を守るための 3 つのポイント  
     <http://www.microsoft.com/japan/athome/security/safechildren/default.mspx>
 
--   家族を守る - 子供の安全管理
+-   家族を守る - 子供の安全管理  
     <http://www.microsoft.com/japan/athome/security/children/default.mspx>
 
-[![](images/Dd362926.btn_reg_today(ja-jp,TechNet.10).jpg)](http://technet.microsoft.com/ja-jp/library/dd362958)
+[![](images/Dd362926.btn_reg_today(ja-jp,TechNet.10).jpg)](http://technet.microsoft.com/ja-jp/library/dd362958)    
 この記事は、マイクロソフト セキュリティ ニュースレターで配信しました。
 
 [](#mainsection)[ページのトップへ](#mainsection)
