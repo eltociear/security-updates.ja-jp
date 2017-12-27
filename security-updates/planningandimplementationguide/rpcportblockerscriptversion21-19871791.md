@@ -21,9 +21,61 @@ RPC Port Blocker Script version 2.1
 オプションのパラメータ値 : 1、2、3、4、5、6
 
 **拡張された使用方法:**
-        ```
+
+```
+--------------------------------------------------------------------------------
+    RPC Port Blocker Script version 2.1
+    Created by Microsoft PSS Security
+    For Windows 2000 systems this script requires ipsecpol.exe to be in the system path or in the same directory as the script.  IPSecpol.exe can be downloaded for Windows 2000 from: 
+    For Windows XP and Windows Server 2003 systems this script requires ipseccmd.exe in the system path or in the same directory as the script.  
+    This tool can be found in the Windows XP Support Tools directory on the Windows XP installation CD
+    This batch/cmd file creates an IPSec policy that can block DCOM / RPC and ICMP
+    connection attempts over the following NetBIOS, SMB, RPC, Web or blaster ports:
+    RPC Ports: UDP/TCP 135+445, UDP 137+138 and TCP 139+593 
+    Web Ports: UDP/TCP 80+443
+    Blaster Ports: TCP 135, UDP 69, TCP 4444, ICMP Protocol
+    Windows 2000 and higher operating system options (NT 4.0 is not supported):
+    Press '1' to unassign and delete the IPSec policy created by this script.
+    Press '2' to block access to RPC ports listed above (inbound only)
+    Press '3' to block access to RPC ports listed above (inbound and outbound)
+    Press '4' to block access to RPC and Web ports listed above (Inbound Only)
+    Press '5' to block access to RPC and Web ports listed above (In/Out)
+    Press '6' to block ONLY ports used by Blaster (inbound direction only)
+--------------------------------------------------------------------------------
+```
+
 **上記の日本語訳:**
-        ```
+
+```
+--------------------------------------------------------------------------------
+    RPC Port Blocker Script version 2.1
+    作成 : Microsoft PSS Security
+    Windows 2000 システムでこのスクリプトを使用するには、ipsecpol.exe をシステム 
+    パスまたはスクリプトと同じディレクトリに配置する必要があります。ipsecpol.exe 
+    は、以下のサイトから Windows 2000 にダウンロードすることができます。
+    http://www.microsoft.com/windows2000/techinfo/reskit/tools/existing/ipsecpol-o.asp
+    Windows XP および Windows Server 2003 システムでは、このスクリプトを
+    使用するには、ipsecpol.exe がシステム パスまたはスクリプトと同じディレクトリに
+    配置されている必要があります。このツールは、Windows XP インストール CD の 
+    Windows XP サポート ツール ディレクトリから使用することができます。
+    このバッチ ファイル /cmd により、次の NetBIOS、SMB、RPC、Web または Blaster が
+    悪用する DCOM / RPC および ICMP のポートへの接続試行をブロックする IPSec 
+    ポリシーを作成することができます。
+    RPC ポート : UDP/TCP 135+445、UDP 137+138 および TCP 139+593
+    Web ポート: UDP/TCP 80+443
+    Blaster ポート: TCP 135、UDP 69、TCP 4444、ICMP プロトコル
+    Windows 2000 およびそれ以降のバージョンのオペレーティング システムのオプション
+    (NT 4.0 はサポートされていません)
+    '1' を押し、このスクリプトによって作成される IPSec ポリシーの割り当てを解除し、
+    削除します。
+    '2' を押し、上記の RPC ポートへのアクセスをブロックします。(受信方向のみ)
+    '3' を押し、上記の RPC ポートへのアクセスをブロックします。(受信/送信)
+    '4' を押し、上記の RPC ポートおよび Web ポートへのアクセスをブロックします。(受信方向のみ)
+    '5' を押し、上記の RPC ポートおよび Web ポートへのアクセスをブロックします。(受信/送信)
+    '6' を押し、Blaster によって使用されるポートのみをブロックします。(受信方向のみ)
+--------------------------------------------------------------------------------    
+```   
+
 使用上の注意:
 
 -   どのパラメータとも動作していない場合の IPSec\_RPC\_Blocker.cmd は対話的に動作し、上記のメニューを表示します。スクリプトはユーザーに適用する IPSec ポリシーを選択するようメッセージを表示します。
