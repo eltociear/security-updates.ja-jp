@@ -3921,3 +3921,9 @@
       href: ./vulnerabilityresearchadvisories/2011/msvr11-002
     - name: MSVR11-001
       href: ./vulnerabilityresearchadvisories/2011/msvr11-001
+- name: 確認
+  href: /en-us/security-updates/acknowledgments/acknowledgments
+  items:
+- name: 用語
+  href: /en-us/security-updates/glossary/glossary
+  items:
