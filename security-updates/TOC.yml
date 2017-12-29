@@ -7,6 +7,10 @@
   - name: 2017
     href: 
     items:
+    - name: 4056318
+      href: ./SecurityAdvisories/2017/4056318
+    - name: 4053440
+      href: ./SecurityAdvisories/2017/4053440
     - name: 4038556
       href: ./SecurityAdvisories/2017/4038556
     - name: 4033453
@@ -3921,9 +3925,3 @@
       href: ./vulnerabilityresearchadvisories/2011/msvr11-002
     - name: MSVR11-001
       href: ./vulnerabilityresearchadvisories/2011/msvr11-001
-- name: 確認
-  href: /en-us/security-updates/acknowledgments/acknowledgments
-  items:
-- name: 用語
-  href: /en-us/security-updates/glossary/glossary
-  items:
