@@ -7,6 +7,10 @@
   - name: 2017
     href: 
     items:
+    - name: 4056318
+      href: ./SecurityAdvisories/2017/4056318
+    - name: 4053440
+      href: ./SecurityAdvisories/2017/4053440
     - name: 4038556
       href: ./SecurityAdvisories/2017/4038556
     - name: 4033453
