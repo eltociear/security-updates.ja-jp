@@ -1591,7 +1591,7 @@
   - name: 2013
     href:
     items:
-     - name: ms13-106
+    - name: ms13-106
       href: ./SecurityBulletins/2013/ms13-106
     - name: ms13-105
       href: ./SecurityBulletins/2013/ms13-105
