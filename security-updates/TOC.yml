@@ -3925,3 +3925,16 @@
       href: ./vulnerabilityresearchadvisories/2011/msvr11-002
     - name: MSVR11-001
       href: ./vulnerabilityresearchadvisories/2011/msvr11-001
+- name: Acknowledgments
+  href: ./Acknowledgments/acknowledgments
+  items:
+  - name: 2017
+    href: ./Acknowledgments/2017/acknowledgments2017
+  - name: 2016
+    href: ./Acknowledgments/2016/acknowledgments2016
+  - name: 2015
+    href: ./Acknowledgments/2016/acknowledgments2015
+  - name: 2014
+    href: ./Acknowledgments/2016/acknowledgments2014
+- name: Glossary
+  href: ./Glossary/glossary
