@@ -23,12 +23,12 @@ For a list of the most recently updated and published Security Advisories, see [
 <tr class="even">
 <td style="border:1px solid black;">June 12, 2018</td>
 <td style="border:1px solid black;">[4338110](4338110.md) </td>
-<td style="border:1px solid black;">Update to Azure Guest OS Machine Key Generation Algorithm</td>
+<td style="border:1px solid black;">パディングを使用した CBC モード対称復号化によるタイミングの脆弱性</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">May 8, 2018</td>
 <td style="border:1px solid black;">[4092731](4092731.md) </td>
-<td style="border:1px solid black;">Update to Azure Guest OS Machine Key Generation Algorithm</td>
+<td style="border:1px solid black;">Azure ゲスト OS マシン キー生成アルゴリズムの更新プログラム</td>
 </tr>
 </tbody>
 </table>
