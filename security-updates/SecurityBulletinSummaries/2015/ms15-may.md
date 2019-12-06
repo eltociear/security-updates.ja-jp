@@ -15,7 +15,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms15-may(v=Security.10)
 
 このセキュリティ情報の概要は 2015 年 5 月公開のセキュリティ情報の一覧です。
 
-マイクロソフト セキュリティ情報の公開時に自動の通知を受け取る方法の詳細については、「[マイクロソフト テクニカル セキュリティ情報通知のご案内](http://go.microsoft.com/fwlink/?linkid=21163)」を参照してください。
+マイクロソフト セキュリティ情報の公開時に自動の通知を受け取る方法の詳細については、「[マイクロソフト テクニカル セキュリティ情報通知のご案内](https://go.microsoft.com/fwlink/?linkid=21163)」を参照してください。
 
 また、マイクロソフトはお客様が月例のセキュリティ更新プログラムのリリースと同日に公開されるセキュリティ以外の更新プログラムと共に、月例のセキュリティ更新プログラムの優先順位を決定する手助けとなる情報も提供します。「**関連情報**」の欄を参照してください。
 
@@ -48,10 +48,10 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms15-may(v=Security.10)
 <td style="border:1px solid black;"><strong>影響を受けるソフトウェア</strong></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;"><strong>Internet Explorer 用の累積的なセキュリティ更新プログラム (3049563)</strong> <br />
 このセキュリティ更新プログラムにより、Internet Explorer の脆弱性が解決されます。最も深刻な脆弱性が悪用された場合、ユーザーが特別に細工された Web ページを Internet Explorer を使用して表示すると、リモートでコードが実行される可能性があります。この脆弱性が悪用された場合、攻撃者により現在のユーザーと同じ権限が取得される可能性があります。コンピューターでのユーザー権限が低い設定のアカウントを持つユーザーは、管理者ユーザー権限で実行しているユーザーよりもこの脆弱性による影響が少ないと考えられます。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">緊急</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">緊急</a> <br />
 リモートでコードが実行される</td>
 <td style="border:1px solid black;">要再起動</td>
 <td style="border:1px solid black;">---------</td>
@@ -59,10 +59,10 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms15-may(v=Security.10)
 Internet Explorer</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533715">MS15-044</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533715">MS15-044</a></td>
 <td style="border:1px solid black;"><strong>Microsoft フォント ドライバーの脆弱性により、リモートでコードが実行される (3057110)</strong><br />
 このセキュリティ更新プログラムは、Microsoft Windows、Microsoft .NET Framework、Microsoft Office、Microsoft Lync、および Microsoft Silverlight の脆弱性を解決します。最も深刻な場合、ユーザーが特別な細工がされた文書を開いた場合や、TrueType フォント ファイルが埋め込まれた信頼されていない Web ページを表示した場合に、この脆弱性によりリモートでコードが実行される可能性があります。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">緊急</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">緊急</a> <br />
 リモートでコードが実行される</td>
 <td style="border:1px solid black;">再起動が必要な場合あり</td>
 <td style="border:1px solid black;"><a href="https://support.microsoft.com/ja-jp/kb/3057110">3057110</a></td>
@@ -73,40 +73,40 @@ Microsoft Lync、<br />
 Microsoft Silverlight</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533722">MS15-045</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533722">MS15-045</a></td>
 <td style="border:1px solid black;"><strong>Windows Journal の脆弱性により、リモートでコードが実行される (3046002)<br />
 </strong>このセキュリティ更新プログラムは、Microsoft Windows の脆弱性を解決します。これらの脆弱性で、特別に細工されたジャーナル ファイルをユーザーが開いた場合にリモートでコードが実行される可能性があります。コンピューターでのユーザー権限が低い設定のアカウントを持つユーザーは、管理者特権で実行しているユーザーよりもこの脆弱性による影響が少ないと考えられます。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">緊急</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">緊急</a> <br />
 リモートでコードが実行される</td>
 <td style="border:1px solid black;">再起動が必要な場合あり</td>
 <td style="border:1px solid black;">---------</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533724">MS15-046</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533724">MS15-046</a></td>
 <td style="border:1px solid black;"><strong>Microsoft Office の脆弱性により、リモートでコードが実行される (3057181)<br />
 </strong>このセキュリティ更新プログラムは、Microsoft Office の脆弱性を解決します。これらの脆弱性では、特別に細工された Microsoft Office ファイルをユーザーが開いた場合にリモートでコードが実行される可能性があります。これらの脆弱性の悪用に成功した攻撃者が、現在のユーザーのコンテキストで任意のコードを実行する可能性があります。コンピューターでのユーザー権限が低い設定のアカウントを持つユーザーは、管理者ユーザー権限で実行しているユーザーよりもこの脆弱性による影響が少ないと考えられます。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
 リモートでコードが実行される</td>
 <td style="border:1px solid black;">再起動が必要な場合あり</td>
 <td style="border:1px solid black;">---------</td>
 <td style="border:1px solid black;">Microsoft Office</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=534002">MS15-047</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=534002">MS15-047</a></td>
 <td style="border:1px solid black;"><strong>Microsoft SharePoint Server の脆弱性により、リモートでコードが実行される (3058083)<br />
 </strong>このセキュリティ更新プログラムは、Microsoft Office サーバー ソフトウェアの脆弱性を解決します。これらの脆弱性により、認証された攻撃者が特別に細工されたページ コンテンツを SharePoint Server に送信した場合にリモートでコードが実行される可能性があります。攻撃者がこれらの脆弱性を悪用した場合、標的となる SharePoint サイト上の W3WP サービス アカウントのセキュリティ コンテキストで任意のコードが実行される可能性があります。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
 リモートでコードが実行される</td>
 <td style="border:1px solid black;">再起動が必要な場合あり</td>
 <td style="border:1px solid black;">---------</td>
 <td style="border:1px solid black;">Microsoft サーバー ソフトウェア</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533716">MS15-048</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533716">MS15-048</a></td>
 <td style="border:1px solid black;"><strong>.NET Framework の脆弱性により、特権が昇格される (3057134)</strong><br />
 このセキュリティ更新プログラムにより、Microsoft .NET Framework の脆弱性が解決されます。最も深刻な脆弱性では、ユーザーが特別に細工された部分的な信頼のアプリケーションをインストールした場合、特権の昇格が起こる可能性があります。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
 特権の昇格</td>
 <td style="border:1px solid black;">再起動が必要な場合あり</td>
 <td style="border:1px solid black;">---------</td>
@@ -114,70 +114,70 @@ Microsoft Silverlight</td>
 Microsoft .NET Framework</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=534625">MS15-049</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=534625">MS15-049</a></td>
 <td style="border:1px solid black;"><strong>Silverlight の脆弱性により、特権の昇格が起こる (3058985)</strong><br />
 このセキュリティ更新プログラムにより、Microsoft Silverlight の脆弱性が解決されます。この脆弱性により、影響を受けるシステムで特別に細工された Silverlight アプリケーションが実行された場合、特権の昇格が起こる可能性があります。この脆弱性を悪用するには、攻撃者は最初にシステムにログオンして、特別に作成されたアプリケーションを実行するように、ログオンしているユーザーを誘導する必要があります。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
 特権の昇格</td>
 <td style="border:1px solid black;">再起動は必要ありません</td>
 <td style="border:1px solid black;">---------</td>
 <td style="border:1px solid black;">Microsoft Silverlight</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=534268">MS15-050</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=534268">MS15-050</a></td>
 <td style="border:1px solid black;"><strong>サービス コントロール マネージャーの脆弱性により、特権が昇格される (3055642)</strong><br />
 このセキュリティ更新プログラムは、Windows サービス コントロール マネージャー (SCM) の脆弱性を解決します。この脆弱性は、SCM が偽装レベルを不適切に検証する場合に発生します。この脆弱性により、攻撃者が最初にコンピューターにログオンし、特権を昇格させることを目的に特別に細工されたアプリケーションを実行した場合、特権が昇格される可能性があります。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
 特権の昇格</td>
 <td style="border:1px solid black;">要再起動</td>
 <td style="border:1px solid black;">---------</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533726">MS15-051</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533726">MS15-051</a></td>
 <td style="border:1px solid black;"><strong>Windows カーネルモード ドライバーの脆弱性により、特権が昇格される (3057191)<br />
 </strong>このセキュリティ更新プログラムは、Microsoft Windows の脆弱性を解決します。これらの脆弱性の中で比較的深刻なものでは、攻撃者がローカルにログオンし、カーネル モードで任意のコードを実行した場合、特権の昇格が起こる可能性があります。攻撃者は、その後、プログラムのインストール、データの表示、変更、削除などを行ったり、完全なユーザー権限を持つ新たなアカウントを作成したりする可能性があります。この脆弱性が悪用されるには、有効な資格情報を所有し、ローカルでログオンできることが攻撃者にとっての必要条件となります。リモートで、または匿名ユーザーが、この脆弱性を悪用することはできません。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
 特権の昇格</td>
 <td style="border:1px solid black;">要再起動</td>
 <td style="border:1px solid black;">---------</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533731">MS15-052</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533731">MS15-052</a></td>
 <td style="border:1px solid black;"><strong>Windows カーネルの脆弱性により、セキュリティ機能のバイパスが起こる (3050514)</strong><br />
 このセキュリティ更新プログラムにより、Microsoft Windows の脆弱性が解決されます。この脆弱性により、攻撃者が影響を受けるシステムにログオンし、特別な細工がされたアプリケーションを実行した場合、セキュリティ機能のバイパスが起こる可能性があります。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
 セキュリティ機能のバイパス</td>
 <td style="border:1px solid black;">要再起動</td>
 <td style="border:1px solid black;"><a href="https://support.microsoft.com/ja-jp/kb/3050514">3050514</a></td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533729">MS15-053</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533729">MS15-053</a></td>
 <td style="border:1px solid black;"><strong>JScript および VBScript スクリプト エンジンの脆弱性により、セキュリティ機能のバイパスが起こる (3057263)<br />
 </strong>このセキュリティ更新プログラムは、Microsoft Windows の Jscript および VBScript スクリプト エンジンにおける ASLR セキュリティ機能のバイパスを解決します。攻撃者はこれらの ASLR のバイパスのいずれかを、リモートでコードが実行される脆弱性など別の脆弱性と組み合わせて使用し、標的となるシステムにおいてより信頼性の高い方法で任意のコードを実行する可能性があります。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
 セキュリティ機能のバイパス</td>
 <td style="border:1px solid black;">再起動が必要な場合あり</td>
 <td style="border:1px solid black;">---------</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533727">MS15-054</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533727">MS15-054</a></td>
 <td style="border:1px solid black;"><strong>Microsoft 管理コンソールのファイル形式の脆弱性により、サービス拒否が起こる (3051768)</strong><br />
 このセキュリティ更新プログラムにより、Microsoft Windows の脆弱性が解決されます。この脆弱性により、リモートの認証されていない攻撃者が特別に細工した .msc ファイルを含む共有をユーザーに開かせるように誘導した場合、サービス拒否が起こる可能性があります。ただし、攻撃者には、ユーザーに強制的に共有にアクセスさせるかファイルを表示させる手段はありません。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
 サービス拒否</td>
 <td style="border:1px solid black;">要再起動</td>
 <td style="border:1px solid black;">---------</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=536690">MS15-055</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=536690">MS15-055</a></td>
 <td style="border:1px solid black;"><strong>Schannel の脆弱性により、情報漏えいが起こる (3061518)<br />
 </strong>このセキュリティ更新プログラムにより、Microsoft Windows の脆弱性が解決されます。この脆弱性により、Secure Channel (Schannel) が、暗号化された TLS セッションで、512 ビットの弱い Diffie-Hellman Ephemeral (DHE) キー長の使用を許可している場合、情報漏えいが起こる可能性があります。512 ビットの DHE キーを許可すると、DHE キーの交換が弱くなり、さまざまな攻撃に対して脆弱性が生じます。攻撃が成功するためには、サーバーが 512 ビットの DHE キー長をサポートしていることが必要です。Windows サーバーの既定の構成で許可される最小の DHE キー長は 1024 ビットです。</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a>                                      <br />
 情報漏えい</td>
 <td style="border:1px solid black;">要再起動</td>
 <td style="border:1px solid black;"><a href="https://support.microsoft.com/ja-jp/kb/3061518">3061518</a></td>
@@ -194,7 +194,7 @@ Exploitability Index (悪用可能性指標)
   
 **この表はどのように使用しますか?**
   
-この表を使用して、お客様がインストールする必要のある各セキュリティ更新プログラムについて、セキュリティ情報の公開から 30 日以内にコード実行やサービス拒否などの悪用がなされる可能性を確認してください。今月の更新プログラムを適用する優先順位を決定するために、お客様の特定の構成に従って、下記の各評価を検討してください。これらの評価の意味の詳細については、[Microsoft Exploitability Index (悪用可能性指標)](http://technet.microsoft.com/ja-jp/security/cc998259) を参照してください。
+この表を使用して、お客様がインストールする必要のある各セキュリティ更新プログラムについて、セキュリティ情報の公開から 30 日以内にコード実行やサービス拒否などの悪用がなされる可能性を確認してください。今月の更新プログラムを適用する優先順位を決定するために、お客様の特定の構成に従って、下記の各評価を検討してください。これらの評価の意味の詳細については、[Microsoft Exploitability Index (悪用可能性指標)](https://technet.microsoft.com/ja-jp/security/cc998259) を参照してください。
   
 下の表では、このセキュリティ情報の「影響を受けるソフトウェア」および「影響を受けないソフトウェア」の一覧のように、「最新のソフトウェアのリリース」は該当のソフトウェアを示し、「以前のソフトウェアのリリース」は、旧バージョンのすべてのサポートされている該当のソフトウェアのリリースを示しています。
   
@@ -220,385 +220,385 @@ Exploitability Index (悪用可能性指標)
 悪用可能性評価</strong></td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer のメモリ破損の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1658">CVE-2015-1658</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1658">CVE-2015-1658</a></td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">4 - 影響されない</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">VBScript ASLR バイパス</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1684">CVE-2015-1684</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1684">CVE-2015-1684</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer ASLR バイパス</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1685">CVE-2015-1685</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1685">CVE-2015-1685</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">4 - 影響されない</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">VBScript および JScript ASLR バイパス</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1686">CVE-2015-1686</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1686">CVE-2015-1686</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer 特権の昇格の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1688">CVE-2015-1688</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1688">CVE-2015-1688</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer のメモリ破損の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1689">CVE-2015-1689</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1689">CVE-2015-1689</a></td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer のメモリ破損の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1691">CVE-2015-1691</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1691">CVE-2015-1691</a></td>
 <td style="border:1px solid black;">4 - 影響されない</td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer クリップボードの情報漏えいの脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1692">CVE-2015-1692</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1692">CVE-2015-1692</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer のメモリ破損の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1694">CVE-2015-1694</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1694">CVE-2015-1694</a></td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer 特権の昇格の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1703">CVE-2015-1703</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1703">CVE-2015-1703</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer 特権の昇格の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1704">CVE-2015-1704</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1704">CVE-2015-1704</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer のメモリ破損の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1705">CVE-2015-1705</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1705">CVE-2015-1705</a></td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer のメモリ破損の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1706">CVE-2015-1706</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1706">CVE-2015-1706</a></td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">4 - 影響されない</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer のメモリ破損の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1708">CVE-2015-1708</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1708">CVE-2015-1708</a></td>
 <td style="border:1px solid black;">4 - 影響されない</td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer のメモリ破損の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1709">CVE-2015-1709</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1709">CVE-2015-1709</a></td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer のメモリ破損の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1710">CVE-2015-1710</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1710">CVE-2015-1710</a></td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer のメモリ破損の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1711">CVE-2015-1711</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1711">CVE-2015-1711</a></td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">4 - 影響されない</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer のメモリ破損の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1712">CVE-2015-1712</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1712">CVE-2015-1712</a></td>
 <td style="border:1px solid black;">4 - 影響されない</td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer 特権の昇格の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1713">CVE-2015-1713</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1713">CVE-2015-1713</a></td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">4 - 影響されない</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer のメモリ破損の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1714">CVE-2015-1714</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1714">CVE-2015-1714</a></td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer のメモリ破損の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1717">CVE-2015-1717</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1717">CVE-2015-1717</a></td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533730">MS15-043</a></td>
 <td style="border:1px solid black;">Internet Explorer のメモリ破損の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1718">CVE-2015-1718</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1718">CVE-2015-1718</a></td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">4 - 影響されない</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533715">MS15-044</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533715">MS15-044</a></td>
 <td style="border:1px solid black;">OpenType フォントの解析の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1670">CVE-2015-1670</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1670">CVE-2015-1670</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533715">MS15-044</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533715">MS15-044</a></td>
 <td style="border:1px solid black;">TrueType フォントの解析の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1671">CVE-2015-1671</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1671">CVE-2015-1671</a></td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533722">MS15-045</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533722">MS15-045</a></td>
 <td style="border:1px solid black;">Windows Journal のリモート コード実行の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1675">CVE-2015-1675</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1675">CVE-2015-1675</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533722">MS15-045</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533722">MS15-045</a></td>
 <td style="border:1px solid black;">Windows Journal のリモート コード実行の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1695">CVE-2015-1695</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1695">CVE-2015-1695</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533722">MS15-045</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533722">MS15-045</a></td>
 <td style="border:1px solid black;">Windows Journal のリモート コード実行の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1696">CVE-2015-1696</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1696">CVE-2015-1696</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533722">MS15-045</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533722">MS15-045</a></td>
 <td style="border:1px solid black;">Windows Journal のリモート コード実行の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1697">CVE-2015-1697</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1697">CVE-2015-1697</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533722">MS15-045</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533722">MS15-045</a></td>
 <td style="border:1px solid black;">Windows Journal のリモート コード実行の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1698">CVE-2015-1698</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1698">CVE-2015-1698</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533722">MS15-045</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533722">MS15-045</a></td>
 <td style="border:1px solid black;">Windows Journal のリモート コード実行の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1699">CVE-2015-1699</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1699">CVE-2015-1699</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533724">MS15-046</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533724">MS15-046</a></td>
 <td style="border:1px solid black;">Microsoft Office のメモリ破損の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1682">CVE-2015-1682</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1682">CVE-2015-1682</a></td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533724">MS15-046</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533724">MS15-046</a></td>
 <td style="border:1px solid black;">Microsoft Office のメモリ破損の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1683">CVE-2015-1683</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1683">CVE-2015-1683</a></td>
 <td style="border:1px solid black;">4 - 影響されない</td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=534002">MS15-047</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=534002">MS15-047</a></td>
 <td style="border:1px solid black;">Microsoft SharePoint ページ コンテンツの脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1700">CVE-2015-1700</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1700">CVE-2015-1700</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533716">MS15-048</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533716">MS15-048</a></td>
 <td style="border:1px solid black;">.NET XML 復号化のサービス拒否の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1672">CVE-2015-1672</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1672">CVE-2015-1672</a></td>
 <td style="border:1px solid black;">3- 悪用される可能性は非常に低い</td>
 <td style="border:1px solid black;">3- 悪用される可能性は非常に低い</td>
 <td style="border:1px solid black;">永続的</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533716">MS15-048</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533716">MS15-048</a></td>
 <td style="border:1px solid black;">Windows フォームの特権の昇格の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1673">CVE-2015-1673</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1673">CVE-2015-1673</a></td>
 <td style="border:1px solid black;">3- 悪用される可能性は非常に低い</td>
 <td style="border:1px solid black;">3- 悪用される可能性は非常に低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=534625">MS15-049</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=534625">MS15-049</a></td>
 <td style="border:1px solid black;">Microsoft Silverlight ブラウザー外実行アプリケーションの脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1715">CVE-2015-1715</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1715">CVE-2015-1715</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=534268">MS15-050</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=534268">MS15-050</a></td>
 <td style="border:1px solid black;">サービス コントロール マネージャーの特権の昇格の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1702">CVE-2015-1702</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1702">CVE-2015-1702</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533726">MS15-051</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533726">MS15-051</a></td>
 <td style="border:1px solid black;">Microsoft Windows カーネル メモリ漏えいの脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1676">CVE-2015-1676</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1676">CVE-2015-1676</a></td>
 <td style="border:1px solid black;">3- 悪用される可能性は非常に低い</td>
 <td style="border:1px solid black;">3- 悪用される可能性は非常に低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533726">MS15-051</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533726">MS15-051</a></td>
 <td style="border:1px solid black;">Microsoft Windows カーネル メモリ漏えいの脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1677">CVE-2015-1677</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1677">CVE-2015-1677</a></td>
 <td style="border:1px solid black;">3- 悪用される可能性は非常に低い</td>
 <td style="border:1px solid black;">3- 悪用される可能性は非常に低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533726">MS15-051</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533726">MS15-051</a></td>
 <td style="border:1px solid black;">Microsoft Windows カーネル メモリ漏えいの脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1678">CVE-2015-1678</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1678">CVE-2015-1678</a></td>
 <td style="border:1px solid black;">3- 悪用される可能性は非常に低い</td>
 <td style="border:1px solid black;">3- 悪用される可能性は非常に低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533726">MS15-051</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533726">MS15-051</a></td>
 <td style="border:1px solid black;">Microsoft Windows カーネル メモリ漏えいの脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1679">CVE-2015-1679</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1679">CVE-2015-1679</a></td>
 <td style="border:1px solid black;">3- 悪用される可能性は非常に低い</td>
 <td style="border:1px solid black;">3- 悪用される可能性は非常に低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533726">MS15-051</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533726">MS15-051</a></td>
 <td style="border:1px solid black;">Microsoft Windows カーネル メモリ漏えいの脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1680">CVE-2015-1680</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1680">CVE-2015-1680</a></td>
 <td style="border:1px solid black;">3- 悪用される可能性は非常に低い</td>
 <td style="border:1px solid black;">3- 悪用される可能性は非常に低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533726">MS15-051</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533726">MS15-051</a></td>
 <td style="border:1px solid black;">Win32k の特権の昇格の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1701">CVE-2015-1701</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1701">CVE-2015-1701</a></td>
 <td style="border:1px solid black;">4 - 影響されない</td>
 <td style="border:1px solid black;">0- 悪用の事実を確認済み</td>
 <td style="border:1px solid black;">永続的</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533731">MS15-052</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533731">MS15-052</a></td>
 <td style="border:1px solid black;">Windows カーネルのセキュリティ機能のバイパスの脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1674">CVE-2015-1674</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1674">CVE-2015-1674</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533729">MS15-053</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533729">MS15-053</a></td>
 <td style="border:1px solid black;">VBScript ASLR バイパス</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1684">CVE-2015-1684</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1684">CVE-2015-1684</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533729">MS15-053</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533729">MS15-053</a></td>
 <td style="border:1px solid black;">VBScript および JScript ASLR バイパス</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1686">CVE-2015-1686</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1686">CVE-2015-1686</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">対象外</td>
 </tr>
 <tr class="even">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=533727">MS15-054</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=533727">MS15-054</a></td>
 <td style="border:1px solid black;">Microsoft 管理コンソールのファイル形式のサービス拒否の脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1681">CVE-2015-1681</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1681">CVE-2015-1681</a></td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">2 - 悪用される可能性は低い</td>
 <td style="border:1px solid black;">一時的</td>
 </tr>
 <tr class="odd">
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=536690">MS15-055</a></td>
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=536690">MS15-055</a></td>
 <td style="border:1px solid black;">SChannel の情報漏えいの脆弱性</td>
-<td style="border:1px solid black;"><a href="http://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1716">CVE-2015-1716</a></td>
+<td style="border:1px solid black;"><a href="https://www.cve.mitre.org/cgi-bin/cvename.cgi?name=cve-2015-1716">CVE-2015-1716</a></td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">1- 悪用される可能性が高い</td>
 <td style="border:1px solid black;">対象外</td>
@@ -632,23 +632,23 @@ Exploitability Index (悪用可能性指標)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-043**](http://go.microsoft.com/fwlink/?linkid=533730)
+[**MS15-043**](https://go.microsoft.com/fwlink/?linkid=533730)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-045**](http://go.microsoft.com/fwlink/?linkid=533722)
+[**MS15-045**](https://go.microsoft.com/fwlink/?linkid=533722)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-048**](http://go.microsoft.com/fwlink/?linkid=533716)
+[**MS15-048**](https://go.microsoft.com/fwlink/?linkid=533716)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-050**](http://go.microsoft.com/fwlink/?linkid=534268)
+[**MS15-050**](https://go.microsoft.com/fwlink/?linkid=534268)
 
 </td>
 </tr>
@@ -658,11 +658,11 @@ Exploitability Index (悪用可能性指標)
 
 </td>
 <td style="border:1px solid black;">
-[**警告**](http://go.microsoft.com/fwlink/?linkid=21140)                                             
+[**警告**](https://go.microsoft.com/fwlink/?linkid=21140)                                             
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140) 
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140) 
 
 </td>
 <td style="border:1px solid black;">
@@ -670,11 +670,11 @@ Exploitability Index (悪用可能性指標)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -849,23 +849,23 @@ Windows Server 2003 with SP2 for Itanium-based Systems
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-043**](http://go.microsoft.com/fwlink/?linkid=533730)
+[**MS15-043**](https://go.microsoft.com/fwlink/?linkid=533730)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-045**](http://go.microsoft.com/fwlink/?linkid=533722)
+[**MS15-045**](https://go.microsoft.com/fwlink/?linkid=533722)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-048**](http://go.microsoft.com/fwlink/?linkid=533716)
+[**MS15-048**](https://go.microsoft.com/fwlink/?linkid=533716)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-050**](http://go.microsoft.com/fwlink/?linkid=534268)
+[**MS15-050**](https://go.microsoft.com/fwlink/?linkid=534268)
 
 </td>
 </tr>
@@ -875,23 +875,23 @@ Windows Server 2003 with SP2 for Itanium-based Systems
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -1039,23 +1039,23 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-043**](http://go.microsoft.com/fwlink/?linkid=533730)
+[**MS15-043**](https://go.microsoft.com/fwlink/?linkid=533730)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-045**](http://go.microsoft.com/fwlink/?linkid=533722)
+[**MS15-045**](https://go.microsoft.com/fwlink/?linkid=533722)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-048**](http://go.microsoft.com/fwlink/?linkid=533716)
+[**MS15-048**](https://go.microsoft.com/fwlink/?linkid=533716)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-050**](http://go.microsoft.com/fwlink/?linkid=534268)
+[**MS15-050**](https://go.microsoft.com/fwlink/?linkid=534268)
 
 </td>
 </tr>
@@ -1065,23 +1065,23 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**警告**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**警告**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -1272,23 +1272,23 @@ Windows Server 2008 for Itanium-based Systems Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-043**](http://go.microsoft.com/fwlink/?linkid=533730)
+[**MS15-043**](https://go.microsoft.com/fwlink/?linkid=533730)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-045**](http://go.microsoft.com/fwlink/?linkid=533722)
+[**MS15-045**](https://go.microsoft.com/fwlink/?linkid=533722)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-048**](http://go.microsoft.com/fwlink/?linkid=533716)
+[**MS15-048**](https://go.microsoft.com/fwlink/?linkid=533716)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-050**](http://go.microsoft.com/fwlink/?linkid=534268)
+[**MS15-050**](https://go.microsoft.com/fwlink/?linkid=534268)
 
 </td>
 </tr>
@@ -1298,23 +1298,23 @@ Windows Server 2008 for Itanium-based Systems Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -1456,23 +1456,23 @@ Windows 7 for x64-based Systems Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-043**](http://go.microsoft.com/fwlink/?linkid=533730)
+[**MS15-043**](https://go.microsoft.com/fwlink/?linkid=533730)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-045**](http://go.microsoft.com/fwlink/?linkid=533722)
+[**MS15-045**](https://go.microsoft.com/fwlink/?linkid=533722)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-048**](http://go.microsoft.com/fwlink/?linkid=533716)
+[**MS15-048**](https://go.microsoft.com/fwlink/?linkid=533716)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-050**](http://go.microsoft.com/fwlink/?linkid=534268)
+[**MS15-050**](https://go.microsoft.com/fwlink/?linkid=534268)
 
 </td>
 </tr>
@@ -1482,23 +1482,23 @@ Windows 7 for x64-based Systems Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**警告**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**警告**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -1620,23 +1620,23 @@ Windows Server 2008 R2 for Itanium-based Systems Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-043**](http://go.microsoft.com/fwlink/?linkid=533730)
+[**MS15-043**](https://go.microsoft.com/fwlink/?linkid=533730)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-045**](http://go.microsoft.com/fwlink/?linkid=533722)
+[**MS15-045**](https://go.microsoft.com/fwlink/?linkid=533722)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-048**](http://go.microsoft.com/fwlink/?linkid=533716)
+[**MS15-048**](https://go.microsoft.com/fwlink/?linkid=533716)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-050**](http://go.microsoft.com/fwlink/?linkid=534268)
+[**MS15-050**](https://go.microsoft.com/fwlink/?linkid=534268)
 
 </td>
 </tr>
@@ -1646,23 +1646,23 @@ Windows Server 2008 R2 for Itanium-based Systems Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -1870,23 +1870,23 @@ Windows 8.1 for x64-based Systems
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-043**](http://go.microsoft.com/fwlink/?linkid=533730)
+[**MS15-043**](https://go.microsoft.com/fwlink/?linkid=533730)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-045**](http://go.microsoft.com/fwlink/?linkid=533722)
+[**MS15-045**](https://go.microsoft.com/fwlink/?linkid=533722)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-048**](http://go.microsoft.com/fwlink/?linkid=533716)
+[**MS15-048**](https://go.microsoft.com/fwlink/?linkid=533716)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-050**](http://go.microsoft.com/fwlink/?linkid=534268)
+[**MS15-050**](https://go.microsoft.com/fwlink/?linkid=534268)
 
 </td>
 </tr>
@@ -1896,23 +1896,23 @@ Windows 8.1 for x64-based Systems
 
 </td>
 <td style="border:1px solid black;">
-[**警告**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**警告**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -2024,23 +2024,23 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-043**](http://go.microsoft.com/fwlink/?linkid=533730)
+[**MS15-043**](https://go.microsoft.com/fwlink/?linkid=533730)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-045**](http://go.microsoft.com/fwlink/?linkid=533722)
+[**MS15-045**](https://go.microsoft.com/fwlink/?linkid=533722)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-048**](http://go.microsoft.com/fwlink/?linkid=533716)
+[**MS15-048**](https://go.microsoft.com/fwlink/?linkid=533716)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-050**](http://go.microsoft.com/fwlink/?linkid=534268)
+[**MS15-050**](https://go.microsoft.com/fwlink/?linkid=534268)
 
 </td>
 </tr>
@@ -2050,23 +2050,23 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -2160,23 +2160,23 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-043**](http://go.microsoft.com/fwlink/?linkid=533730)
+[**MS15-043**](https://go.microsoft.com/fwlink/?linkid=533730)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-045**](http://go.microsoft.com/fwlink/?linkid=533722)
+[**MS15-045**](https://go.microsoft.com/fwlink/?linkid=533722)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-048**](http://go.microsoft.com/fwlink/?linkid=533716)
+[**MS15-048**](https://go.microsoft.com/fwlink/?linkid=533716)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-050**](http://go.microsoft.com/fwlink/?linkid=534268)
+[**MS15-050**](https://go.microsoft.com/fwlink/?linkid=534268)
 
 </td>
 </tr>
@@ -2190,7 +2190,7 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -2198,11 +2198,11 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -2412,9 +2412,9 @@ Windows Server 2012 R2 (Server Core インストール)
 
 **MS15-043、MS15-044、および MS15-045 に関する注意事項**
 
-Windows Technical Preview および Windows Server Technical Preview が影響を受けます。これらのオペレーティング システムを実行しているお客様は、[Windows Update](http://go.microsoft.com/fwlink/?linkid=21130) の更新プログラムをご使用のコンピューターに適用することをお勧めします。
+Windows Technical Preview および Windows Server Technical Preview が影響を受けます。これらのオペレーティング システムを実行しているお客様は、[Windows Update](https://go.microsoft.com/fwlink/?linkid=21130) の更新プログラムをご使用のコンピューターに適用することをお勧めします。
 
-MS15-044 に限定で、Microsoft .NET Framework 4.6 RC 用の更新プログラムも提供されています。これは、[Microsoft ダウンロード センター](http://go.microsoft.com/fwlink/?linkid=107349)からのみ入手できます。
+MS15-044 に限定で、Microsoft .NET Framework 4.6 RC 用の更新プログラムも提供されています。これは、[Microsoft ダウンロード センター](https://go.microsoft.com/fwlink/?linkid=107349)からのみ入手できます。
 
 **MS15-050 に関する注意事項**
 
@@ -2438,23 +2438,23 @@ Windows Server 2003 は影響を受けますが、そのための更新プログ
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-051**](http://go.microsoft.com/fwlink/?linkid=533726)
+[**MS15-051**](https://go.microsoft.com/fwlink/?linkid=533726)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-052**](http://go.microsoft.com/fwlink/?linkid=533731)
+[**MS15-052**](https://go.microsoft.com/fwlink/?linkid=533731)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-053**](http://go.microsoft.com/fwlink/?linkid=533729)
+[**MS15-053**](https://go.microsoft.com/fwlink/?linkid=533729)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-054**](http://go.microsoft.com/fwlink/?linkid=533727)
+[**MS15-054**](https://go.microsoft.com/fwlink/?linkid=533727)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-055**](http://go.microsoft.com/fwlink/?linkid=536690)
+[**MS15-055**](https://go.microsoft.com/fwlink/?linkid=536690)
 
 </td>
 </tr>
@@ -2464,7 +2464,7 @@ Windows Server 2003 は影響を受けますが、そのための更新プログ
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)                                      
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)                                      
 
 </td>
 <td style="border:1px solid black;">
@@ -2472,7 +2472,7 @@ Windows Server 2003 は影響を受けますが、そのための更新プログ
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)                                      
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)                                      
 
 </td>
 <td style="border:1px solid black;">
@@ -2480,7 +2480,7 @@ Windows Server 2003 は影響を受けますが、そのための更新プログ
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)                                      
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)                                      
 
 </td>
 </tr>
@@ -2601,23 +2601,23 @@ Windows Server 2003 with SP2 for Itanium-based Systems
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-051**](http://go.microsoft.com/fwlink/?linkid=533726)
+[**MS15-051**](https://go.microsoft.com/fwlink/?linkid=533726)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-052**](http://go.microsoft.com/fwlink/?linkid=533731)
+[**MS15-052**](https://go.microsoft.com/fwlink/?linkid=533731)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-053**](http://go.microsoft.com/fwlink/?linkid=533729)
+[**MS15-053**](https://go.microsoft.com/fwlink/?linkid=533729)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-054**](http://go.microsoft.com/fwlink/?linkid=533727)
+[**MS15-054**](https://go.microsoft.com/fwlink/?linkid=533727)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-055**](http://go.microsoft.com/fwlink/?linkid=536690)
+[**MS15-055**](https://go.microsoft.com/fwlink/?linkid=536690)
 
 </td>
 </tr>
@@ -2627,7 +2627,7 @@ Windows Server 2003 with SP2 for Itanium-based Systems
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -2635,15 +2635,15 @@ Windows Server 2003 with SP2 for Itanium-based Systems
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -2727,23 +2727,23 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-051**](http://go.microsoft.com/fwlink/?linkid=533726)
+[**MS15-051**](https://go.microsoft.com/fwlink/?linkid=533726)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-052**](http://go.microsoft.com/fwlink/?linkid=533731)
+[**MS15-052**](https://go.microsoft.com/fwlink/?linkid=533731)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-053**](http://go.microsoft.com/fwlink/?linkid=533729)
+[**MS15-053**](https://go.microsoft.com/fwlink/?linkid=533729)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-054**](http://go.microsoft.com/fwlink/?linkid=533727)
+[**MS15-054**](https://go.microsoft.com/fwlink/?linkid=533727)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-055**](http://go.microsoft.com/fwlink/?linkid=536690)
+[**MS15-055**](https://go.microsoft.com/fwlink/?linkid=536690)
 
 </td>
 </tr>
@@ -2753,7 +2753,7 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -2761,15 +2761,15 @@ Windows Vista x64 Edition Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -2887,23 +2887,23 @@ Windows Server 2008 for Itanium-based Systems Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-051**](http://go.microsoft.com/fwlink/?linkid=533726)
+[**MS15-051**](https://go.microsoft.com/fwlink/?linkid=533726)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-052**](http://go.microsoft.com/fwlink/?linkid=533731)
+[**MS15-052**](https://go.microsoft.com/fwlink/?linkid=533731)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-053**](http://go.microsoft.com/fwlink/?linkid=533729)
+[**MS15-053**](https://go.microsoft.com/fwlink/?linkid=533729)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-054**](http://go.microsoft.com/fwlink/?linkid=533727)
+[**MS15-054**](https://go.microsoft.com/fwlink/?linkid=533727)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-055**](http://go.microsoft.com/fwlink/?linkid=536690)
+[**MS15-055**](https://go.microsoft.com/fwlink/?linkid=536690)
 
 </td>
 </tr>
@@ -2913,7 +2913,7 @@ Windows Server 2008 for Itanium-based Systems Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -2925,11 +2925,11 @@ Windows Server 2008 for Itanium-based Systems Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3009,23 +3009,23 @@ Windows 7 for x64-based Systems Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-051**](http://go.microsoft.com/fwlink/?linkid=533726)
+[**MS15-051**](https://go.microsoft.com/fwlink/?linkid=533726)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-052**](http://go.microsoft.com/fwlink/?linkid=533731)
+[**MS15-052**](https://go.microsoft.com/fwlink/?linkid=533731)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-053**](http://go.microsoft.com/fwlink/?linkid=533729)
+[**MS15-053**](https://go.microsoft.com/fwlink/?linkid=533729)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-054**](http://go.microsoft.com/fwlink/?linkid=533727)
+[**MS15-054**](https://go.microsoft.com/fwlink/?linkid=533727)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-055**](http://go.microsoft.com/fwlink/?linkid=536690)
+[**MS15-055**](https://go.microsoft.com/fwlink/?linkid=536690)
 
 </td>
 </tr>
@@ -3035,7 +3035,7 @@ Windows 7 for x64-based Systems Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -3047,11 +3047,11 @@ Windows 7 for x64-based Systems Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3131,23 +3131,23 @@ Windows Server 2008 R2 for Itanium-based Systems Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-051**](http://go.microsoft.com/fwlink/?linkid=533726)
+[**MS15-051**](https://go.microsoft.com/fwlink/?linkid=533726)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-052**](http://go.microsoft.com/fwlink/?linkid=533731)
+[**MS15-052**](https://go.microsoft.com/fwlink/?linkid=533731)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-053**](http://go.microsoft.com/fwlink/?linkid=533729)
+[**MS15-053**](https://go.microsoft.com/fwlink/?linkid=533729)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-054**](http://go.microsoft.com/fwlink/?linkid=533727)
+[**MS15-054**](https://go.microsoft.com/fwlink/?linkid=533727)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-055**](http://go.microsoft.com/fwlink/?linkid=536690)
+[**MS15-055**](https://go.microsoft.com/fwlink/?linkid=536690)
 
 </td>
 </tr>
@@ -3157,11 +3157,11 @@ Windows Server 2008 R2 for Itanium-based Systems Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -3169,11 +3169,11 @@ Windows Server 2008 R2 for Itanium-based Systems Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3325,23 +3325,23 @@ Windows 8.1 for x64-based Systems
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-051**](http://go.microsoft.com/fwlink/?linkid=533726)
+[**MS15-051**](https://go.microsoft.com/fwlink/?linkid=533726)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-052**](http://go.microsoft.com/fwlink/?linkid=533731)
+[**MS15-052**](https://go.microsoft.com/fwlink/?linkid=533731)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-053**](http://go.microsoft.com/fwlink/?linkid=533729)
+[**MS15-053**](https://go.microsoft.com/fwlink/?linkid=533729)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-054**](http://go.microsoft.com/fwlink/?linkid=533727)
+[**MS15-054**](https://go.microsoft.com/fwlink/?linkid=533727)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-055**](http://go.microsoft.com/fwlink/?linkid=536690)
+[**MS15-055**](https://go.microsoft.com/fwlink/?linkid=536690)
 
 </td>
 </tr>
@@ -3351,11 +3351,11 @@ Windows 8.1 for x64-based Systems
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -3363,11 +3363,11 @@ Windows 8.1 for x64-based Systems
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3451,23 +3451,23 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-051**](http://go.microsoft.com/fwlink/?linkid=533726)
+[**MS15-051**](https://go.microsoft.com/fwlink/?linkid=533726)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-052**](http://go.microsoft.com/fwlink/?linkid=533731)
+[**MS15-052**](https://go.microsoft.com/fwlink/?linkid=533731)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-053**](http://go.microsoft.com/fwlink/?linkid=533729)
+[**MS15-053**](https://go.microsoft.com/fwlink/?linkid=533729)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-054**](http://go.microsoft.com/fwlink/?linkid=533727)
+[**MS15-054**](https://go.microsoft.com/fwlink/?linkid=533727)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-055**](http://go.microsoft.com/fwlink/?linkid=536690)
+[**MS15-055**](https://go.microsoft.com/fwlink/?linkid=536690)
 
 </td>
 </tr>
@@ -3477,11 +3477,11 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
@@ -3489,11 +3489,11 @@ Windows Server 2012 R2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3577,23 +3577,23 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-051**](http://go.microsoft.com/fwlink/?linkid=533726)
+[**MS15-051**](https://go.microsoft.com/fwlink/?linkid=533726)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-052**](http://go.microsoft.com/fwlink/?linkid=533731)
+[**MS15-052**](https://go.microsoft.com/fwlink/?linkid=533731)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-053**](http://go.microsoft.com/fwlink/?linkid=533729)
+[**MS15-053**](https://go.microsoft.com/fwlink/?linkid=533729)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-054**](http://go.microsoft.com/fwlink/?linkid=533727)
+[**MS15-054**](https://go.microsoft.com/fwlink/?linkid=533727)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-055**](http://go.microsoft.com/fwlink/?linkid=536690)
+[**MS15-055**](https://go.microsoft.com/fwlink/?linkid=536690)
 
 </td>
 </tr>
@@ -3603,23 +3603,23 @@ Windows RT 8.1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3797,7 +3797,7 @@ Windows Server 2012 R2 (Server Core インストール)
  
 **MS15-053 および MS15-054 に関する注意事項:**
 
-Windows Technical Preview および Windows Server Technical Preview が影響を受けます。これらのオペレーティング システムを実行しているお客様は、[Windows Update](http://go.microsoft.com/fwlink/?linkid=21130) の更新プログラムをご使用のコンピューターに適用することをお勧めします。
+Windows Technical Preview および Windows Server Technical Preview が影響を受けます。これらのオペレーティング システムを実行しているお客様は、[Windows Update](https://go.microsoft.com/fwlink/?linkid=21130) の更新プログラムをご使用のコンピューターに適用することをお勧めします。
 
  
 
@@ -3817,11 +3817,11 @@ Windows Technical Preview および Windows Server Technical Preview が影響�
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-046**](http://go.microsoft.com/fwlink/?linkid=533724)
+[**MS15-046**](https://go.microsoft.com/fwlink/?linkid=533724)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-047**](http://go.microsoft.com/fwlink/?linkid=534002)
+[**MS15-047**](https://go.microsoft.com/fwlink/?linkid=534002)
 
 </td>
 </tr>
@@ -3831,11 +3831,11 @@ Windows Technical Preview および Windows Server Technical Preview が影響�
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3883,11 +3883,11 @@ Microsoft SharePoint Server 2007 Service Pack 3 (64 ビット版)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-046**](http://go.microsoft.com/fwlink/?linkid=533724)
+[**MS15-046**](https://go.microsoft.com/fwlink/?linkid=533724)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-047**](http://go.microsoft.com/fwlink/?linkid=534002)
+[**MS15-047**](https://go.microsoft.com/fwlink/?linkid=534002)
 
 </td>
 </tr>
@@ -3897,11 +3897,11 @@ Microsoft SharePoint Server 2007 Service Pack 3 (64 ビット版)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -3941,11 +3941,11 @@ Microsoft SharePoint Server 2010 Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-046**](http://go.microsoft.com/fwlink/?linkid=533724)
+[**MS15-046**](https://go.microsoft.com/fwlink/?linkid=533724)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-047**](http://go.microsoft.com/fwlink/?linkid=534002)
+[**MS15-047**](https://go.microsoft.com/fwlink/?linkid=534002)
 
 </td>
 </tr>
@@ -3955,11 +3955,11 @@ Microsoft SharePoint Server 2010 Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4005,11 +4005,11 @@ Microsoft SharePoint Foundation 2013 Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-046**](http://go.microsoft.com/fwlink/?linkid=533724)
+[**MS15-046**](https://go.microsoft.com/fwlink/?linkid=533724)
 
 </td>
 </tr>
@@ -4019,11 +4019,11 @@ Microsoft SharePoint Foundation 2013 Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4057,11 +4057,11 @@ Microsoft Office 2007 Service Pack 3
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-046**](http://go.microsoft.com/fwlink/?linkid=533724)
+[**MS15-046**](https://go.microsoft.com/fwlink/?linkid=533724)
 
 </td>
 </tr>
@@ -4071,11 +4071,11 @@ Microsoft Office 2007 Service Pack 3
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4157,11 +4157,11 @@ Microsoft Word 2010 Service Pack 2 (64 ビット版)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-046**](http://go.microsoft.com/fwlink/?linkid=533724)
+[**MS15-046**](https://go.microsoft.com/fwlink/?linkid=533724)
 
 </td>
 </tr>
@@ -4175,7 +4175,7 @@ Microsoft Word 2010 Service Pack 2 (64 ビット版)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4241,11 +4241,11 @@ Microsoft Word 2013 Service Pack 1 (64 ビット版)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-046**](http://go.microsoft.com/fwlink/?linkid=533724)
+[**MS15-046**](https://go.microsoft.com/fwlink/?linkid=533724)
 
 </td>
 </tr>
@@ -4259,7 +4259,7 @@ Microsoft Word 2013 Service Pack 1 (64 ビット版)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4300,11 +4300,11 @@ Microsoft Word 2013 RT Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-046**](http://go.microsoft.com/fwlink/?linkid=533724)
+[**MS15-046**](https://go.microsoft.com/fwlink/?linkid=533724)
 
 </td>
 </tr>
@@ -4318,7 +4318,7 @@ Microsoft Word 2013 RT Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4359,11 +4359,11 @@ Microsoft Word for Mac 2011
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-046**](http://go.microsoft.com/fwlink/?linkid=533724)
+[**MS15-046**](https://go.microsoft.com/fwlink/?linkid=533724)
 
 </td>
 </tr>
@@ -4377,7 +4377,7 @@ Microsoft Word for Mac 2011
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4421,7 +4421,7 @@ Microsoft PowerPoint Viewer
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-046**](http://go.microsoft.com/fwlink/?linkid=533724)
+[**MS15-046**](https://go.microsoft.com/fwlink/?linkid=533724)
 
 </td>
 </tr>
@@ -4431,7 +4431,7 @@ Microsoft PowerPoint Viewer
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4462,7 +4462,7 @@ Excel Services
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-046**](http://go.microsoft.com/fwlink/?linkid=533724)
+[**MS15-046**](https://go.microsoft.com/fwlink/?linkid=533724)
 
 </td>
 </tr>
@@ -4472,7 +4472,7 @@ Excel Services
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4503,7 +4503,7 @@ Excel Services
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-046**](http://go.microsoft.com/fwlink/?linkid=533724)
+[**MS15-046**](https://go.microsoft.com/fwlink/?linkid=533724)
 
 </td>
 </tr>
@@ -4513,7 +4513,7 @@ Excel Services
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4544,7 +4544,7 @@ Microsoft Excel Web Apps 2010 Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-046**](http://go.microsoft.com/fwlink/?linkid=533724)
+[**MS15-046**](https://go.microsoft.com/fwlink/?linkid=533724)
 
 </td>
 </tr>
@@ -4554,7 +4554,7 @@ Microsoft Excel Web Apps 2010 Service Pack 2
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4594,7 +4594,7 @@ Microsoft Office Web Apps Server 2013 Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 </tr>
@@ -4604,7 +4604,7 @@ Microsoft Office Web Apps Server 2013 Service Pack 1
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4632,7 +4632,7 @@ Microsoft Live Meeting 2007 Console
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 </tr>
@@ -4642,7 +4642,7 @@ Microsoft Live Meeting 2007 Console
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4710,7 +4710,7 @@ Microsoft Lync 2010 Attendee
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 </tr>
@@ -4720,7 +4720,7 @@ Microsoft Lync 2010 Attendee
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4800,11 +4800,11 @@ Microsoft Lync Basic 2013 Service Pack 1 (64 ビット)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-044**](http://go.microsoft.com/fwlink/?linkid=533715)
+[**MS15-044**](https://go.microsoft.com/fwlink/?linkid=533715)
 
 </td>
 <td style="border:1px solid black;">
-[**MS15-049**](http://go.microsoft.com/fwlink/?linkid=534625)
+[**MS15-049**](https://go.microsoft.com/fwlink/?linkid=534625)
 
 </td>
 </tr>
@@ -4814,11 +4814,11 @@ Microsoft Lync Basic 2013 Service Pack 1 (64 ビット)
 
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**緊急**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://go.microsoft.com/fwlink/?linkid=21140)
+[**重要**](https://go.microsoft.com/fwlink/?linkid=21140)
 
 </td>
 </tr>
@@ -4890,7 +4890,7 @@ Windows Server Update Services (WSUS)、Systems Management Server (SMS)、およ
 
 Application Compatibility Toolkit に含まれている Update Compatibility Evaluator コンポーネントは、インストールされているアプリケーションに対する Windows の更新プログラムのテストおよび確認を効率化する手助けをします。
 
-利用可能なこれらのツールおよび他のツールの詳細については、「[セキュリティ ツール](http://technet.microsoft.com/ja-jp/security/cc297183)」を参照してください。
+利用可能なこれらのツールおよび他のツールの詳細については、「[セキュリティ ツール](https://technet.microsoft.com/ja-jp/security/cc297183)」を参照してください。
 
 謝辞
 ----
@@ -4911,39 +4911,39 @@ Application Compatibility Toolkit に含まれている Update Compatibility Eva
 Windows Update および Microsoft Update でのセキュリティ以外の更新プログラムについては、次を参照してください。
 
 -   [マイクロソフト サポート技術情報 894199](https://support.microsoft.com/ja-jp/kb/894199): Software Update Services および Windows Server Update Services におけるコンテンツの変更について。すべての Windows コンテンツが含まれます。
--   [Updates from Past Months for Windows Server Update Services](http://technet.microsoft.com/ja-jp/windowsserver/bb332157.aspx) (英語情報)。Windows 以外の Microsoft 製品についてのすべての新着、更新および再リリースした更新プログラムを表示します。
+-   [Updates from Past Months for Windows Server Update Services](https://technet.microsoft.com/ja-jp/windowsserver/bb332157.aspx) (英語情報)。Windows 以外の Microsoft 製品についてのすべての新着、更新および再リリースした更新プログラムを表示します。
 
 ### Microsoft Active Protections Program (MAPP)
 
-お客様のセキュリティ保護をより向上させるために、マイクロソフトは、月例のセキュリティ更新プログラムの公開に先立ち、脆弱性情報を主要なセキュリティ ソフトウェア プロバイダーに提供しています。セキュリティ ソフトウェア プロバイダーは、この脆弱性の情報を使用し、ウイルス対策、ネットワーク ベースの侵入検出システムまたはホスト ベースの侵入防止システムを介して、お客様に最新の保護環境を提供します。このような保護環境を提供するセキュリティ ソフトウェア ベンダーの情報については、[Microsoft Active Protections Program (MAPP) パートナー](http://go.microsoft.com/fwlink/?linkid=215201)に記載されている各社の Web サイトを参照してください。
+お客様のセキュリティ保護をより向上させるために、マイクロソフトは、月例のセキュリティ更新プログラムの公開に先立ち、脆弱性情報を主要なセキュリティ ソフトウェア プロバイダーに提供しています。セキュリティ ソフトウェア プロバイダーは、この脆弱性の情報を使用し、ウイルス対策、ネットワーク ベースの侵入検出システムまたはホスト ベースの侵入防止システムを介して、お客様に最新の保護環境を提供します。このような保護環境を提供するセキュリティ ソフトウェア ベンダーの情報については、[Microsoft Active Protections Program (MAPP) パートナー](https://go.microsoft.com/fwlink/?linkid=215201)に記載されている各社の Web サイトを参照してください。
 
 ### セキュリティの計画とコミュニティ
 
 **更新プログラムの管理の計画**
 
-[Security Guidance for Update Management](http://go.microsoft.com/fwlink/?linkid=21168) (英語情報) では、セキュリティ更新プログラムの適用についてのマイクロソフトの推奨策に関する情報を提供しています。
+[Security Guidance for Update Management](https://go.microsoft.com/fwlink/?linkid=21168) (英語情報) では、セキュリティ更新プログラムの適用についてのマイクロソフトの推奨策に関する情報を提供しています。
 
 **他のセキュリティ更新プログラムの入手先:**
 
 他のセキュリティ問題を解決する更新プログラムは以下のサイトから入手できます。
 
--   セキュリティ更新プログラムは、[Microsoft ダウンロード センター](http://go.microsoft.com/fwlink/?linkid=107349)からダウンロードできます。「security update」のキーワード探索によって容易に見つけることができます。
--   コンシューマー プラットフォーム用の更新プログラムは、[Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) からダウンロードできます。
+-   セキュリティ更新プログラムは、[Microsoft ダウンロード センター](https://go.microsoft.com/fwlink/?linkid=107349)からダウンロードできます。「security update」のキーワード探索によって容易に見つけることができます。
+-   コンシューマー プラットフォーム用の更新プログラムは、[Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) からダウンロードできます。
 -   今月の Windows Update で提供されているセキュリティ更新プログラム、セキュリティおよび緊急のリリースの ISO CD イメージを Microsoft ダウンロード センターから入手することができます。詳細については、[マイクロソフト サポート技術情報 913086](https://support.microsoft.com/ja-jp/kb/913086) を参照してください。
 
 **IT プロフェッショナル セキュリティ コミュニティ**
 
-セキュリティの強化および IT インフラストラクチャの最適化について学び、セキュリティ関連のトピックについて他の IT プロフェッショナルとの情報交換を行うためには、[IT プロフェッショナル セキュリティ コミュニティ](http://go.microsoft.com/fwlink/?linkid=21164)にアクセスしてください。
+セキュリティの強化および IT インフラストラクチャの最適化について学び、セキュリティ関連のトピックについて他の IT プロフェッショナルとの情報交換を行うためには、[IT プロフェッショナル セキュリティ コミュニティ](https://go.microsoft.com/fwlink/?linkid=21164)にアクセスしてください。
 
 ### サポート
 
-ここに記載されているソフトウェアをテストし、影響を受けるバージョンを確認しました。その他のバージョンについてはサポート ライフサイクルが終了しています。ご使用中のソフトウェアのバージョンのサポート ライフサイクルを確認するには、[Microsoft サポート ライフサイクル](http://go.microsoft.com/fwlink/?linkid=21742)の Web サイトを参照してください。
+ここに記載されているソフトウェアをテストし、影響を受けるバージョンを確認しました。その他のバージョンについてはサポート ライフサイクルが終了しています。ご使用中のソフトウェアのバージョンのサポート ライフサイクルを確認するには、[Microsoft サポート ライフサイクル](https://go.microsoft.com/fwlink/?linkid=21742)の Web サイトを参照してください。
 
-IT プロフェッショナル向けのセキュリティ ソリューション:[TechNet セキュリティに関するトラブルシューティングとサポート](http://technet.microsoft.com/ja-jp/security/bb980617)
+IT プロフェッショナル向けのセキュリティ ソリューション:[TechNet セキュリティに関するトラブルシューティングとサポート](https://technet.microsoft.com/ja-jp/security/bb980617)
 
-Windows を実行しているコンピューターのウイルスおよびマルウェアからの保護のヘルプ:[ウイルスとセキュリティ サポート ページ](http://support.microsoft.com/contactus/cu_sc_virsec_master?ln=ja)
+Windows を実行しているコンピューターのウイルスおよびマルウェアからの保護のヘルプ:[ウイルスとセキュリティ サポート ページ](https://support.microsoft.com/contactus/cu_sc_virsec_master?ln=ja)
 
-国ごとのローカル サポート: [Microsoft サポート](http://support.microsoft.com/common/international.aspx?ln=ja)
+国ごとのローカル サポート: [Microsoft サポート](https://support.microsoft.com/common/international.aspx?ln=ja)
 
 ### 免責
 

@@ -15,13 +15,13 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms11-feb(v=Security.10)
 
 これはマイクロソフトが 2011 年 2 月 15 日に公開を予定しているセキュリティ情報の事前通知です。
 
-このセキュリティ情報の事前通知は、2011 年 2 月 15 日に「2 月のセキュリティ情報」に置き換わります。事前通知サービスの詳細については、「[マイクロソフト セキュリティ情報の事前通知](http://technet.microsoft.com/ja-jp/security/bulletin/advance)」をご覧ください。
+このセキュリティ情報の事前通知は、2011 年 2 月 15 日に「2 月のセキュリティ情報」に置き換わります。事前通知サービスの詳細については、「[マイクロソフト セキュリティ情報の事前通知](https://technet.microsoft.com/ja-jp/security/bulletin/advance)」をご覧ください。
 
-マイクロソフト セキュリティ情報の公開についての自動の電子メールによる通知の購読は、[マイクロソフト テクニカル セキュリティ情報通知のご案内](http://technet.microsoft.com/ja-jp/security/dd252948)でお申し込みください (無料)。
+マイクロソフト セキュリティ情報の公開についての自動の電子メールによる通知の購読は、[マイクロソフト テクニカル セキュリティ情報通知のご案内](https://technet.microsoft.com/ja-jp/security/dd252948)でお申し込みください (無料)。
 
 マイクロソフトは公開したセキュリティ更新プログラムの概要を説明用スライドと音声でお伝えする日本語の Webcast 情報を 2011 年 2 月 15 日 の午後 (日本時間) に配信予定です。詳細は、「今月のワンポイント セキュリティ情報」をご覧ください。
 
-また、マイクロソフトはこれらのセキュリティ情報に関するお客様からの質問を解決するため、2011 年 2 月 15 日 午前 11:00 (太平洋標準時刻、米国およびカナダ) に Webcast を行う予定です。 [2 月のセキュリティ情報 Webcast (英語) に登録する。](https://msevents.microsoft.com/cui/eventdetail.aspx?culture=en-us&eventid=1032499501) 詳細は、 [Microsoft Security Bulletin Summaries and Webcasts](http://technet.microsoft.com/security/bulletinarchive) (英語) をご覧ください。
+また、マイクロソフトはこれらのセキュリティ情報に関するお客様からの質問を解決するため、2011 年 2 月 15 日 午前 11:00 (太平洋標準時刻、米国およびカナダ) に Webcast を行う予定です。 [2 月のセキュリティ情報 Webcast (英語) に登録する。](https://msevents.microsoft.com/cui/eventdetail.aspx?culture=en-us&eventid=1032499501) 詳細は、 [Microsoft Security Bulletin Summaries and Webcasts](https://technet.microsoft.com/security/bulletinarchive) (英語) をご覧ください。
 
 マイクロソフトはお客様が月例のセキュリティ更新プログラムのリリースと同日に公開されるセキュリティ以外の優先 度の高い更新プログラムとともに、月例のセキュリティ更新プログラムの優先順位を決定する手助けとなる情報も提供します。「関連情報」の欄をご覧ください。
 
@@ -50,14 +50,14 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms11-feb(v=Security.10)
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;">セキュリティ情報 1</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">緊急</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">緊急</a> <br />
 リモートでコードが実行される</td>
 <td style="border:1px solid black;">要再起動</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">セキュリティ情報 2</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">緊急</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">緊急</a> <br />
 リモートでコードが実行される</td>
 <td style="border:1px solid black;">要再起動</td>
 <td style="border:1px solid black;">Microsoft Windows,<br />
@@ -65,14 +65,14 @@ Internet Explorer</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">セキュリティ情報 3</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">緊急</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">緊急</a> <br />
 リモートでコードが実行される</td>
 <td style="border:1px solid black;">要再起動</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">セキュリティ情報 4</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">緊急</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">緊急</a> <br />
 リモートでコードが実行される</td>
 <td style="border:1px solid black;">再起動が必要な場合あり</td>
 <td style="border:1px solid black;">Microsoft .NET Framework,<br />
@@ -80,14 +80,14 @@ Microsoft Silverlight</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">セキュリティ情報 5</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 特権の昇格</td>
 <td style="border:1px solid black;">要再起動</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">セキュリティ情報 6</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 特権の昇格</td>
 <td style="border:1px solid black;">再起動が必要な場合あり</td>
 <td style="border:1px solid black;">Microsoft Office,<br />
@@ -95,21 +95,21 @@ Microsoft Server Software</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">セキュリティ情報 7</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 リモートでコードが実行される</td>
 <td style="border:1px solid black;">再起動が必要な場合あり</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;">セキュリティ情報 8</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 リモートでコードが実行される</td>
 <td style="border:1px solid black;">再起動が必要な場合あり</td>
 <td style="border:1px solid black;">Microsoft Windows</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;">セキュリティ情報 9</td>
-<td style="border:1px solid black;"><a href="http://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
+<td style="border:1px solid black;"><a href="https://go.microsoft.com/fwlink/?linkid=21140">重要</a> <br />
 リモートでコードが実行される</td>
 <td style="border:1px solid black;">再起動が必要な場合あり</td>
 <td style="border:1px solid black;">Microsoft Office</td>
@@ -176,25 +176,25 @@ Windows XP
 総合的な深刻度
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-なし
-</td>
-<td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
-</td>
-<td style="border:1px solid black;">
-[重要](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 なし
 </td>
 <td style="border:1px solid black;">
-[重要](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+[重要](https://go.microsoft.com/fwlink/?linkid=21140)
+</td>
+<td style="border:1px solid black;">
+なし
+</td>
+<td style="border:1px solid black;">
+[重要](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -301,19 +301,19 @@ Windows Server 2003
 総合的な深刻度
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[警告](http://go.microsoft.com/fwlink/?linkid=21140)
+[警告](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 なし
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[重要](http://go.microsoft.com/fwlink/?linkid=21140)
+[重要](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 なし
@@ -458,19 +458,19 @@ Windows Vista
 総合的な深刻度
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[重要](http://go.microsoft.com/fwlink/?linkid=21140)
+[重要](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 なし
@@ -584,22 +584,22 @@ Windows Server 2008
 総合的な深刻度
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[警告](http://go.microsoft.com/fwlink/?linkid=21140)
+[警告](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[重要](http://go.microsoft.com/fwlink/?linkid=21140)
+[重要](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[重要](http://go.microsoft.com/fwlink/?linkid=21140)
+[重要](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 なし
@@ -744,19 +744,19 @@ Windows 7
 総合的な深刻度
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[重要](http://go.microsoft.com/fwlink/?linkid=21140)
+[重要](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 なし
@@ -866,22 +866,22 @@ Windows Server 2008 R2
 総合的な深刻度
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[警告](http://go.microsoft.com/fwlink/?linkid=21140)
+[警告](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[重要](http://go.microsoft.com/fwlink/?linkid=21140)
+[重要](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
-[重要](http://go.microsoft.com/fwlink/?linkid=21140)
+[重要](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 <td style="border:1px solid black;">
 なし
@@ -961,11 +961,11 @@ Windows Server 2008 R2 for Itanium-based Systems および Windows Server 2008 R
 
 Windows Server 2008 および Windows Server 2008 R2 に関する注意
 
-\*Server Core インストールは影響を受けます。 サポートされているエディションの Windows Server 2008 または Windows Server 2008 R2 では、Server Core インストール オプションを使用してインストールされているかどうかに関わらず、この更新プログラムの深刻度は同じです。このインストール オプションの詳細については、[Server Core](http://www.microsoft.com/japan/windowsserver2008/technologies/server-core.mspx) および [Windows Server 2008 R2 の Server Core](http://www.microsoft.com/japan/windowsserver2008/r2/technologies/server-core.mspx) を参照してください。Windows Server 2008 および Windows Server 2008 R2 の特定のエディションでは、Server Core インストール オプションが使用できないことに注意してください。詳細については、[Server Core インストールオプションの比較](http://www.microsoft.com/japan/windowsserver2008/r2/editions/core-installation.mspx)を参照してください。
+\*Server Core インストールは影響を受けます。 サポートされているエディションの Windows Server 2008 または Windows Server 2008 R2 では、Server Core インストール オプションを使用してインストールされているかどうかに関わらず、この更新プログラムの深刻度は同じです。このインストール オプションの詳細については、[Server Core](https://www.microsoft.com/japan/windowsserver2008/technologies/server-core.mspx) および [Windows Server 2008 R2 の Server Core](https://www.microsoft.com/japan/windowsserver2008/r2/technologies/server-core.mspx) を参照してください。Windows Server 2008 および Windows Server 2008 R2 の特定のエディションでは、Server Core インストール オプションが使用できないことに注意してください。詳細については、[Server Core インストールオプションの比較](https://www.microsoft.com/japan/windowsserver2008/r2/editions/core-installation.mspx)を参照してください。
 
-\*\*Server Core インストールは影響を受けません。サポートされているエディションの Windows Server 2008 または Windows Server 2008 R2 では、Server Core インストール オプションを使用してインストールされている場合、この更新プログラムにより解決される脆弱性の影響を受けません。このインストール オプションの詳細については、TechNet の記事 [Server Core](http://www.microsoft.com/japan/windowsserver2008/technologies/server-core.mspx) および [Windows Server 2008 R2 の Server Core](http://www.microsoft.com/japan/windowsserver2008/r2/technologies/server-core.mspx) を参照してください。Windows Server 2008 および Windows Server 2008 R2 の特定のエディションでは、Server Core インストール オプションが使用できないことに注意してください。詳細については、[Server Core インストール オプションの比較](http://www.microsoft.com/japan/windowsserver2008/r2/editions/core-installation.mspx)を参照してください。
+\*\*Server Core インストールは影響を受けません。サポートされているエディションの Windows Server 2008 または Windows Server 2008 R2 では、Server Core インストール オプションを使用してインストールされている場合、この更新プログラムにより解決される脆弱性の影響を受けません。このインストール オプションの詳細については、TechNet の記事 [Server Core](https://www.microsoft.com/japan/windowsserver2008/technologies/server-core.mspx) および [Windows Server 2008 R2 の Server Core](https://www.microsoft.com/japan/windowsserver2008/r2/technologies/server-core.mspx) を参照してください。Windows Server 2008 および Windows Server 2008 R2 の特定のエディションでは、Server Core インストール オプションが使用できないことに注意してください。詳細については、[Server Core インストール オプションの比較](https://www.microsoft.com/japan/windowsserver2008/r2/editions/core-installation.mspx)を参照してください。
 
-\*\*\*\*Server Core インストールは影響を受けます。 サポートされているエディションの Windows Server 2008 または Windows Server 2008 R2 では、Server Core インストール オプションを使用してインストールされている場合、この更新プログラムの深刻度は低くなります。このインストール オプションの詳細については、TechNet の記事 [Servicing a Server Core Installation](http://technet.microsoft.com/en-us/library/ff698994(ws.10).aspx) を参照してください。Windows Server 2008 および Windows Server 2008 R2 の特定のエディションでは、Server Core インストール オプションが使用できないことに注意してください。詳細については、[Server Core インストール オプションの比較](http://www.microsoft.com/japan/windowsserver2008/r2/editions/core-installation.mspx)を参照してください。
+\*\*\*\*Server Core インストールは影響を受けます。 サポートされているエディションの Windows Server 2008 または Windows Server 2008 R2 では、Server Core インストール オプションを使用してインストールされている場合、この更新プログラムの深刻度は低くなります。このインストール オプションの詳細については、TechNet の記事 [Servicing a Server Core Installation](https://technet.microsoft.com/en-us/library/ff698994(ws.10).aspx) を参照してください。Windows Server 2008 および Windows Server 2008 R2 の特定のエディションでは、Server Core インストール オプションが使用できないことに注意してください。詳細については、[Server Core インストール オプションの比較](https://www.microsoft.com/japan/windowsserver2008/r2/editions/core-installation.mspx)を参照してください。
 
 セキュリティ情報 2 に関する注意
 
@@ -973,7 +973,7 @@ Windows Server 2008 および Windows Server 2008 R2 に関する注意
 
 セキュリティ情報 4 に関する注意
 
-<sup>[1]</sup>.NET Framework 4 および .NET Framework 4 Client Profile は影響を受けます。.NET Framework Version 4 再頒布可能パッケージは、.NET Framework 4 および .NET Framework 4 Client Profile の 2 つのプロファイルで使用可能です。.NET Framework 4 Client Profile は、.NET Framework 4 のサブセットです。この更新プログラムが対応する脆弱性は、.NET Framework 4 および .NET Framework 4 Client Profile のどちらにも影響します。詳細については、MSDN の記事、「[.NET Framework のインストール](http://msdn.microsoft.com/ja-jp/library/5a4x27ek.aspx)」を参照してください。
+<sup>[1]</sup>.NET Framework 4 および .NET Framework 4 Client Profile は影響を受けます。.NET Framework Version 4 再頒布可能パッケージは、.NET Framework 4 および .NET Framework 4 Client Profile の 2 つのプロファイルで使用可能です。.NET Framework 4 Client Profile は、.NET Framework 4 のサブセットです。この更新プログラムが対応する脆弱性は、.NET Framework 4 および .NET Framework 4 Client Profile のどちらにも影響します。詳細については、MSDN の記事、「[.NET Framework のインストール](https://msdn.microsoft.com/ja-jp/library/5a4x27ek.aspx)」を参照してください。
 
 「影響を受けるソフトウェア」のセクションのその他のソフトウェア カテゴリもご覧ください。同じセキュリティ情報番号の更新プログラム ファイルが複数あります。このセキュリティ情報は 1 種類以上のソフトウェアを対象にしています。
 
@@ -1001,7 +1001,7 @@ Microsoft Office ソフトウェア
 総合的な深刻度
 </td>
 <td style="border:1px solid black;">
-[重要](http://go.microsoft.com/fwlink/?linkid=21140)
+[重要](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1068,7 +1068,7 @@ Microsoft SharePoint Server
 総合的な深刻度
 </td>
 <td style="border:1px solid black;">
-[重要](http://go.microsoft.com/fwlink/?linkid=21140)
+[重要](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1098,7 +1098,7 @@ Microsoft SharePoint Foundation
 総合的な深刻度
 </td>
 <td style="border:1px solid black;">
-[重要](http://go.microsoft.com/fwlink/?linkid=21140)
+[重要](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1140,7 +1140,7 @@ Microsoft Silverlight
 総合的な深刻度
 </td>
 <td style="border:1px solid black;">
-[緊急](http://go.microsoft.com/fwlink/?linkid=21140)
+[緊急](https://go.microsoft.com/fwlink/?linkid=21140)
 </td>
 </tr>
 <tr>
@@ -1167,11 +1167,11 @@ Microsoft Silverlight 4
  
 セキュリティ セントラル
 
-組織のサーバー、デスクトップ、モバイル コンピューターに適用する必要があるソフトウェアおよびセキ ュリティ更新プログラムを管理してください。 詳細については、TechNet 更新プログラム管理センターを参照してください。 [セキュリティ TechCenter](http://technet.microsoft.com/ja-jp/security/default.aspx) では、マイクロソフト製品に関するセキュリティ情報を提供しています。 一般のお客様は[セーフティとセキュリティ センター](http://www.microsoft.com/ja-jp/security/default.aspx)を参照してください。この情報には "最新のセキュリティ更新プログラム" リンクをクリックすることで もアクセスできます。
+組織のサーバー、デスクトップ、モバイル コンピューターに適用する必要があるソフトウェアおよびセキ ュリティ更新プログラムを管理してください。 詳細については、TechNet 更新プログラム管理センターを参照してください。 [セキュリティ TechCenter](https://technet.microsoft.com/ja-jp/security/default.aspx) では、マイクロソフト製品に関するセキュリティ情報を提供しています。 一般のお客様は[セーフティとセキュリティ センター](https://www.microsoft.com/ja-jp/security/default.aspx)を参照してください。この情報には "最新のセキュリティ更新プログラム" リンクをクリックすることで もアクセスできます。
 
-セキュリティ更新プログラムは、Microsoft Update および [Windows Update](http://go.microsoft.com/fwlink/?%20linkid=21130) から入手できます。 セキュリティ更新プログラムは、[Microsoft ダウンロード センター](http://www.microsoft.com/downloads/ja-jp/results.aspx?pocid=&amp;freetext=%u30bb%u30ad%u30e5%u30ea%20%u30c6%u30a3%u66f4%u65b0%u30d7%u30ed%u30b0%u30e9%u30e0&amp;displaylang=ja)からもダウンロードすることができます。 「セキュリティ更新プログラム」のキーワード 探索によって容易に見つけることができます。
+セキュリティ更新プログラムは、Microsoft Update および [Windows Update](https://go.microsoft.com/fwlink/?%20linkid=21130) から入手できます。 セキュリティ更新プログラムは、[Microsoft ダウンロード センター](https://www.microsoft.com/downloads/ja-jp/results.aspx?pocid=&amp;freetext=%u30bb%u30ad%u30e5%u30ea%20%u30c6%u30a3%u66f4%u65b0%u30d7%u30ed%u30b0%u30e9%u30e0&amp;displaylang=ja)からもダウンロードすることができます。 「セキュリティ更新プログラム」のキーワード 探索によって容易に見つけることができます。
 
-Microsoft Office for Mac をご利用のお客様は、Microsoft AutoUpdate for Mac を使用して、ご利用中の マイクロソフトのソフトウェアを最新に保つことができます。 Microsoft AutoUpdate for Mac のご利用の詳細については 、「[更新プログラムを自動的にチェックする](http://mac2.microsoft.com/help/office/14/ja-jp/word/item/ffe35357-8f25-4df8-a0a3-%20c258526c64ea)」を参照してください。
+Microsoft Office for Mac をご利用のお客様は、Microsoft AutoUpdate for Mac を使用して、ご利用中の マイクロソフトのソフトウェアを最新に保つことができます。 Microsoft AutoUpdate for Mac のご利用の詳細については 、「[更新プログラムを自動的にチェックする](https://mac2.microsoft.com/help/office/14/ja-jp/word/item/ffe35357-8f25-4df8-a0a3-%20c258526c64ea)」を参照してください。
 
 さらに、セキュリティ更新プログラムは、Microsoft Update カタログからダウンロードできます。 Microsoft Update カタログは、セキュリティ更新プログラム、ドライバーおよび Service Pack などが含まれるコンテンツを検索するカタロ グで、Windows Update および Microsoft Update でご利用になれます。 セキュリティ情報番号 (例えば「MS07-036」など ) を使用して検索することで、バスケットに適用可能な更新プログラムをすべて追加でき (異なる言語の更新プログラムを 含む)、選択しているフォルダーにダウンロードできます。 「Microsoft Update カタログ」の詳細については、Microsoft Update カタログ よく寄せられる質問を参照してください。
 
@@ -1187,13 +1187,13 @@ Windows Server Update Services
 
 Windows Server Update Services (WSUS) を使用することにより、管理者は Microsoft Windows 2000 オペ レーティング システムおよびそれ以降、Office XP およびそれ以降、Microsoft Windows 2000 およびそれ以降のオペレー ティング システムに対する Exchange Server 2003、および SQL Server 2000 用の最新の重要な更新プログラムおよびセ キュリティ更新プログラムを迅速に、かつ確実に適用することができます。
 
-Windows Server Update Services でこのセキュリティ更新プログラムを適用する方法については、[Microsoft Windows Server Update Services (WSUS)](http://technet.microsoft.com/ja-jp/windowsserver/bb332157.aspx) の Web サイトを参照してください。
+Windows Server Update Services でこのセキュリティ更新プログラムを適用する方法については、[Microsoft Windows Server Update Services (WSUS)](https://technet.microsoft.com/ja-jp/windowsserver/bb332157.aspx) の Web サイトを参照してください。
 
 System Center Configuration Manager 2007
 
 Configuration Manager 2007 のソフトウェアの更新管理は、企業での IT システムへの更新プログラムの 配布や管理の複雑なタスクを簡素化します。 Configuration Manager 2007 で、IT 管理者はマイクロソフト製品の更新プ ログラムを、デスクトップ、ラップトップ、サーバー、モバイル デバイスなどのさまざまなデバイスに配布することがで きます。
 
-Configuration Manager 2007 の自動化された脆弱性評価機能は、更新プログラムの必要性を確認し、推奨 されるアクションについて報告します。 Configuration Manager 2007 のソフトウェアの更新管理は、世界中の IT 管理者 によく知られている実績のある更新の基盤である Microsoft Windows Software Update Services (WSUS) に基づいていま す。 管理者が Configuration Manager 2007 を使用して更新プログラムを展開する方法の詳細については、ソフトウェアの更新管理を参照してください。 Configuration Manager の詳細については、 [System Center Configuration Manager](http://www.microsoft.com/japan/systemcenter/configmgr/default.mspx) を参照してください。
+Configuration Manager 2007 の自動化された脆弱性評価機能は、更新プログラムの必要性を確認し、推奨 されるアクションについて報告します。 Configuration Manager 2007 のソフトウェアの更新管理は、世界中の IT 管理者 によく知られている実績のある更新の基盤である Microsoft Windows Software Update Services (WSUS) に基づいていま す。 管理者が Configuration Manager 2007 を使用して更新プログラムを展開する方法の詳細については、ソフトウェアの更新管理を参照してください。 Configuration Manager の詳細については、 [System Center Configuration Manager](https://www.microsoft.com/japan/systemcenter/configmgr/default.mspx) を参照してください。
 
 Systems Management Server 2003
 
@@ -1201,13 +1201,13 @@ Microsoft Systems Management Server (SMS) は更新プログラムを管理す�
 
 注: System Management Server 2003 は 2010 年 1 月 12 日を持って 、メインストリーム サポートを終了しました。製品のライフサイクルの詳細については、マイクロソフト サポート ライフサイクルを参照してください。 現在利用可能な SMS の後 継である System Center Configuration Manager 2007 については、前のセクション「System Center Configuration Manager 2007」を参照してください。
 
-セキュリティ更新プログラムを適用するための SMS 2003 の使用方法については、Scenarios and Procedures for Microsoft Systems Management Server 2003: Software Distribution and Patch Management (英語情報) を参照してください。 SMS の詳細につ いては、[Systems Management Server](http://technet.microsoft.com/ja-jp/systemcenter/bb545936.aspx) を参照してください。
+セキュリティ更新プログラムを適用するための SMS 2003 の使用方法については、Scenarios and Procedures for Microsoft Systems Management Server 2003: Software Distribution and Patch Management (英語情報) を参照してください。 SMS の詳細につ いては、[Systems Management Server](https://technet.microsoft.com/ja-jp/systemcenter/bb545936.aspx) を参照してください。
 
-注: SMS は Microsoft Baseline Security Analyzer を使用して、セ キュリティ情報で提供された更新プログラムの検出と展開について広範なサポートを提供します。 これらのツールにより 検出されないソフトウェアの更新プログラムもあります。 管理者は、特定のシステムに対する更新プログラムを対象とし 、これらの場合に SMS のインベントリ機能を使用することができます。 この手順の詳細については、[Deploying Software Updates Using the SMS Software Distribution Feature](http://go.microsoft.com/fwlink/?linkid=33341) (英語情報) を参照してください。 コンピューターの再起動後、管理者 権限を必要とするセキュリティ更新プログラムもあります。 管理者は、上位権利での展開ツール ([SMS 2003 Administration Feature Pack](http://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d&displaylang=ja-nec) で入手可 能) を使用して、これらの更新プログラムをインストールできます。
+注: SMS は Microsoft Baseline Security Analyzer を使用して、セ キュリティ情報で提供された更新プログラムの検出と展開について広範なサポートを提供します。 これらのツールにより 検出されないソフトウェアの更新プログラムもあります。 管理者は、特定のシステムに対する更新プログラムを対象とし 、これらの場合に SMS のインベントリ機能を使用することができます。 この手順の詳細については、[Deploying Software Updates Using the SMS Software Distribution Feature](https://go.microsoft.com/fwlink/?linkid=33341) (英語情報) を参照してください。 コンピューターの再起動後、管理者 権限を必要とするセキュリティ更新プログラムもあります。 管理者は、上位権利での展開ツール ([SMS 2003 Administration Feature Pack](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d&displaylang=ja-nec) で入手可 能) を使用して、これらの更新プログラムをインストールできます。
 
 Update Compatibility Evaluator および Application Compatibility Toolkit
 
-更新プログラムはアプリケーションを実行させるために、たびたび同じファイルやレジストリ構成に書き込 みをすることがあります。 これにより、非互換性が起こったり、セキュリティ更新プログラムの適用時間が長くなったり する可能性があります。 [Application Compatibility Toolkit](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) ( 英語情報) に含まれている [Update Compatibility Evaluator](http://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) (英語情報 ) コンポーネントでインストールされているアプリケーションに対し、Windows の更新プログラムのテストおよび確認を効 率化することができます。
+更新プログラムはアプリケーションを実行させるために、たびたび同じファイルやレジストリ構成に書き込 みをすることがあります。 これにより、非互換性が起こったり、セキュリティ更新プログラムの適用時間が長くなったり する可能性があります。 [Application Compatibility Toolkit](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=24da89e9-b581-47b0-b45e-492dd6da2971&displaylang=en) ( 英語情報) に含まれている [Update Compatibility Evaluator](https://technet2.microsoft.com/windowsvista/en/library/4279e239-37a4-44aa-aec5-4e70fe39f9de1033.mspx?mfr=true) (英語情報 ) コンポーネントでインストールされているアプリケーションに対し、Windows の更新プログラムのテストおよび確認を効 率化することができます。
 
 Application Compatibility Toolkit (ACT) には、お客様の環境に Microsoft Windows Vista、Windows Update、Microsoft Security Update または Windows Internet Explorer の新しいバージョンを適用する前に、アプリケ ーションの互換性問題を評価し、緩和するために必要なツールやドキュメントが含まれています。
 
@@ -1221,36 +1221,36 @@ Application Compatibility Toolkit (ACT) には、お客様の環境に Microsoft
 
 Windows Update および Microsoft Update のセキュリティ以外のリリースの詳細は、次をご覧ください。
 
--   サポート技術情報 [894199](http://support.microsoft.com/kb/894199/): Software Update Services の説明と Windows Server Update Services の内容の変更。すべての Windows のコンテンツが含まれます。
--   [Updates from Past Months for Windows Server Update Services](http://technet.microsoft.com/en-us/wsus/bb456965.aspx) (英語情報): Windows 以外の Microsoft 製品についてのすべての新着、更新および再リリースした更新プログラムを表示します。
+-   サポート技術情報 [894199](https://support.microsoft.com/kb/894199/): Software Update Services の説明と Windows Server Update Services の内容の変更。すべての Windows のコンテンツが含まれます。
+-   [Updates from Past Months for Windows Server Update Services](https://technet.microsoft.com/en-us/wsus/bb456965.aspx) (英語情報): Windows 以外の Microsoft 製品についてのすべての新着、更新および再リリースした更新プログラムを表示します。
 
 #### Microsoft Active Protections Program (MAPP)
 
-お客様のセキュリティ保護をより向上させるために、マイクロソフトは、月例のセキュリティ更新プログラムの公開に先立ち、脆弱性情報を主要なセキュリティ ソフトウェア プロバイダーに提供しています。セキュリティ ソフトウェア プロバイダーは、この脆弱性の情報を使用し、ウイルス対策、ネットワーク ベースの侵入検出システムまたはホスト ベースの侵入防止システムを介して、お客様に最新の保護環境を提供します。この様な保護環境を提供するセキュリティ ソフトウェア ベンダーの情報は、[Microsoft Active Protections Program (MAPP) パートナー](http://www.microsoft.com/ja-jp/security/msrc/mapp.aspx)に記載されている各社の Web サイトをご覧ください。
+お客様のセキュリティ保護をより向上させるために、マイクロソフトは、月例のセキュリティ更新プログラムの公開に先立ち、脆弱性情報を主要なセキュリティ ソフトウェア プロバイダーに提供しています。セキュリティ ソフトウェア プロバイダーは、この脆弱性の情報を使用し、ウイルス対策、ネットワーク ベースの侵入検出システムまたはホスト ベースの侵入防止システムを介して、お客様に最新の保護環境を提供します。この様な保護環境を提供するセキュリティ ソフトウェア ベンダーの情報は、[Microsoft Active Protections Program (MAPP) パートナー](https://www.microsoft.com/ja-jp/security/msrc/mapp.aspx)に記載されている各社の Web サイトをご覧ください。
 
 #### セキュリティの計画とコミュニティ
 
 更新プログラムの管理の戦略
 
-[Security Guidance for Update Management](http://go.microsoft.com/fwlink/?linkid=21168) (英語情報) では、セキュリティ更新プログラムの適用についてのマイクロソフトの推奨策 に関する情報を提供しています。
+[Security Guidance for Update Management](https://go.microsoft.com/fwlink/?linkid=21168) (英語情報) では、セキュリティ更新プログラムの適用についてのマイクロソフトの推奨策 に関する情報を提供しています。
 
 他のセキュリティ更新プログラムの入手先
 
 他のセキュリティ問題を解決する更新プログラムは以下のサイトから入手できます。
 
--   セキュリティ更新プログラムは、[Microsoft ダウンロード センター](http://www.microsoft.com/downloads/ja-jp/results.aspx?%20pocid=&amp;freetext=%u30bb%u30ad%u30e5%u30ea%u30c6%u30a3%u66f4%u65b0%u30d7%u30ed%20%u30b0%u30e9%u30e0&amp;displaylang=ja)からもダウンロードできます。 「セキュリティ更新プログラム」のキーワード探索によって容易に見つけることができます。
--   コンシューマ プラットフォーム用の更新プログラムは、[Microsoft Update](http://go.microsoft.com/fwlink/?linkid=40747) からダウ ンロードできます。
--   今月の WindowsUpdate で提供されているセキュリティ更新プログラム、セキュリティおよび緊急のリリースの ISO CD イメージをマイクロソフト ダウンロード センターから入手することができます。 詳細については、[サポート技術情報 913086](http://support.microsoft.com/kb/913086) を 参照してください。
+-   セキュリティ更新プログラムは、[Microsoft ダウンロード センター](https://www.microsoft.com/downloads/ja-jp/results.aspx?%20pocid=&amp;freetext=%u30bb%u30ad%u30e5%u30ea%u30c6%u30a3%u66f4%u65b0%u30d7%u30ed%20%u30b0%u30e9%u30e0&amp;displaylang=ja)からもダウンロードできます。 「セキュリティ更新プログラム」のキーワード探索によって容易に見つけることができます。
+-   コンシューマ プラットフォーム用の更新プログラムは、[Microsoft Update](https://go.microsoft.com/fwlink/?linkid=40747) からダウ ンロードできます。
+-   今月の WindowsUpdate で提供されているセキュリティ更新プログラム、セキュリティおよび緊急のリリースの ISO CD イメージをマイクロソフト ダウンロード センターから入手することができます。 詳細については、[サポート技術情報 913086](https://support.microsoft.com/kb/913086) を 参照してください。
 
 IT Pro セキュリティ コミュニティ
 
-セキュリティの強化および IT インフラストラクチャの最適化について学び、セキュリティ関連のトピック について他の IT プロフェッショナルとの情報交換を行うためには、[IT プロフェッショナ ル セキュリティ コミュニティ](http://technet.microsoft.com/ja-jp/security/cc136632.aspx)にアクセスしてください。
+セキュリティの強化および IT インフラストラクチャの最適化について学び、セキュリティ関連のトピック について他の IT プロフェッショナルとの情報交換を行うためには、[IT プロフェッショナ ル セキュリティ コミュニティ](https://technet.microsoft.com/ja-jp/security/cc136632.aspx)にアクセスしてください。
 
 #### サポート
 
--   ここに記載されているソフトウェアをテストし、影響を受けるバージョンまたはエディションを確認しました。 そのほかのバージョンについてはサポート ライフサイクルが終了しています。ご使用中のソフトウェアのバー ジョンのサポート ライフサイクルを確認するには、[マイクロソフト サポート ライフサイクル](http://go.microsoft.com/fwlink/?linkid=21742)の Web サイトを参照してください。
--   セキュリティ関連、およびセキュリティ更新プログラムに関するご質問や、ご不明な点などがありまし たら、[マイクロソフト セキュ リティ情報センター](http://www.microsoft.com/ja-jp/security/sic.aspx)までご連絡ください。マイクロソフトでは、お問い合わせの内容が弊社製品の不具合が原因で ある場合、無償でサポートをご提供いたします。 利用可能なサポート オプションの詳細については、[マイクロソフト サポート オンライン](http://support.microsoft.com/)を参照 してください。
--   その他、製品に関するご質問は、マイクロソフト プロダクト サポートまでご連絡ください。マイクロソフトでは、お問い合わせの内容が弊社製品の不具合が原因である場合、無償またはインシデントの未消費にてサポート をご提供いたします。マイクロソフト プロダクト サポートへの連絡方法の詳細については、[世界のヘルプとサポート](http://go.microsoft.com/fwlink/?linkid=21155)を参照してください。
+-   ここに記載されているソフトウェアをテストし、影響を受けるバージョンまたはエディションを確認しました。 そのほかのバージョンについてはサポート ライフサイクルが終了しています。ご使用中のソフトウェアのバー ジョンのサポート ライフサイクルを確認するには、[マイクロソフト サポート ライフサイクル](https://go.microsoft.com/fwlink/?linkid=21742)の Web サイトを参照してください。
+-   セキュリティ関連、およびセキュリティ更新プログラムに関するご質問や、ご不明な点などがありまし たら、[マイクロソフト セキュ リティ情報センター](https://www.microsoft.com/ja-jp/security/sic.aspx)までご連絡ください。マイクロソフトでは、お問い合わせの内容が弊社製品の不具合が原因で ある場合、無償でサポートをご提供いたします。 利用可能なサポート オプションの詳細については、[マイクロソフト サポート オンライン](https://support.microsoft.com/)を参照 してください。
+-   その他、製品に関するご質問は、マイクロソフト プロダクト サポートまでご連絡ください。マイクロソフトでは、お問い合わせの内容が弊社製品の不具合が原因である場合、無償またはインシデントの未消費にてサポート をご提供いたします。マイクロソフト プロダクト サポートへの連絡方法の詳細については、[世界のヘルプとサポート](https://go.microsoft.com/fwlink/?linkid=21155)を参照してください。
 
 #### 免責
 

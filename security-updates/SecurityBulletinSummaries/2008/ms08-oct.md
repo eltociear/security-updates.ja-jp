@@ -19,43 +19,43 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms08-oct(v=Security.10)
 ------------------------
 
  
-[MS08-067 : Windows の重要な更新](http://www.microsoft.com/japan/security/bulletins/ms08-067e.mspx)
+[MS08-067 : Windows の重要な更新](https://www.microsoft.com/japan/security/bulletins/ms08-067e.mspx)
 
-[MS08-056 : Office の重要な更新](http://www.microsoft.com/japan/security/bulletins/ms08-056e.mspx)
+[MS08-056 : Office の重要な更新](https://www.microsoft.com/japan/security/bulletins/ms08-056e.mspx)
 
-[MS08-057 : Excel の重要な更新](http://www.microsoft.com/japan/security/bulletins/ms08-057e.mspx)
+[MS08-057 : Excel の重要な更新](https://www.microsoft.com/japan/security/bulletins/ms08-057e.mspx)
 
-[MS08-058 : Internet Explorer の重要な更新](http://www.microsoft.com/japan/security/bulletins/ms08-058e.mspx)
+[MS08-058 : Internet Explorer の重要な更新](https://www.microsoft.com/japan/security/bulletins/ms08-058e.mspx)
 
-[MS08-059 : Host Integration Server の重要な更新](http://www.microsoft.com/japan/security/bulletins/ms08-059e.mspx)
+[MS08-059 : Host Integration Server の重要な更新](https://www.microsoft.com/japan/security/bulletins/ms08-059e.mspx)
 
-[MS08-060 : Active Directory の重要な更新](http://www.microsoft.com/japan/security/bulletins/ms08-060e.mspx)
+[MS08-060 : Active Directory の重要な更新](https://www.microsoft.com/japan/security/bulletins/ms08-060e.mspx)
 
-[MS08-061 : Windows の重要な更新](http://www.microsoft.com/japan/security/bulletins/ms08-061e.mspx)
+[MS08-061 : Windows の重要な更新](https://www.microsoft.com/japan/security/bulletins/ms08-061e.mspx)
 
-[MS08-062 : Windows の重要な更新](http://www.microsoft.com/japan/security/bulletins/ms08-062e.mspx)
+[MS08-062 : Windows の重要な更新](https://www.microsoft.com/japan/security/bulletins/ms08-062e.mspx)
 
-[MS08-063 : Windows の重要な更新](http://www.microsoft.com/japan/security/bulletins/ms08-063e.mspx)
+[MS08-063 : Windows の重要な更新](https://www.microsoft.com/japan/security/bulletins/ms08-063e.mspx)
 
-[MS08-064 : Windows の重要な更新](http://www.microsoft.com/japan/security/bulletins/ms08-064e.mspx)
+[MS08-064 : Windows の重要な更新](https://www.microsoft.com/japan/security/bulletins/ms08-064e.mspx)
 
-[MS08-065 : Windows の重要な更新](http://www.microsoft.com/japan/security/bulletins/ms08-065e.mspx)
+[MS08-065 : Windows の重要な更新](https://www.microsoft.com/japan/security/bulletins/ms08-065e.mspx)
 
-[MS08-066 : Windows の重要な更新](http://www.microsoft.com/japan/security/bulletins/ms08-066e.mspx)
+[MS08-066 : Windows の重要な更新](https://www.microsoft.com/japan/security/bulletins/ms08-066e.mspx)
 
 このセキュリティ情報は 2008 年 10 月に公開したセキュリティ情報の一覧です。
 
-2008 年 10 月 24 日に緊急リリースしました[セキュリティ情報 MS08-067](http://technet.microsoft.com/security/bulletin/ms08-067) に関する情報を追加しました。
+2008 年 10 月 24 日に緊急リリースしました[セキュリティ情報 MS08-067](https://technet.microsoft.com/security/bulletin/ms08-067) に関する情報を追加しました。
 
-2008 年 10 月 15 日のセキュリティ情報の公開により、2008 年 10 月 10 日に公開した事前通知をこのセキュリティ情報に置き換えました。事前通知サービスの詳細については、「[マイクロソフト セキュリティ情報の事前通知](http://technet.microsoft.com/security/bulletin/advance)」をご覧ください。
+2008 年 10 月 15 日のセキュリティ情報の公開により、2008 年 10 月 10 日に公開した事前通知をこのセキュリティ情報に置き換えました。事前通知サービスの詳細については、「[マイクロソフト セキュリティ情報の事前通知](https://technet.microsoft.com/security/bulletin/advance)」をご覧ください。
 
-マイクロソフト セキュリティ情報の公開についての自動の電子メールによる通知の購読は、[マイクロソフト テクニカル セキュリティ情報通知のご案内](http://technet.microsoft.com/ja-jp/security/dd252948.aspx)でお申し込みください (無料)。
+マイクロソフト セキュリティ情報の公開についての自動の電子メールによる通知の購読は、[マイクロソフト テクニカル セキュリティ情報通知のご案内](https://technet.microsoft.com/ja-jp/security/dd252948.aspx)でお申し込みください (無料)。
 
-マイクロソフトはこれらのセキュリティ情報に関するお客様からの質問を解決するため、2008 年 10 月 15 日 午前 11 ：00 (太平洋標準時刻、米国およびカナダ) に Webcast を行う予定です。[10 月のセキュリティ 情報 Webcast (英語) に登録する。](http://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032374639&eventcategory=4&culture=en-us&countrycode=us)詳細は、[Microsoft Security Bulletin Summaries and Webcasts](http://technet.microsoft.com/security/bulletin/summary) (英語) をご覧ください。
+マイクロソフトはこれらのセキュリティ情報に関するお客様からの質問を解決するため、2008 年 10 月 15 日 午前 11 ：00 (太平洋標準時刻、米国およびカナダ) に Webcast を行う予定です。[10 月のセキュリティ 情報 Webcast (英語) に登録する。](https://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032374639&eventcategory=4&culture=en-us&countrycode=us)詳細は、[Microsoft Security Bulletin Summaries and Webcasts](https://technet.microsoft.com/security/bulletin/summary) (英語) をご覧ください。
 
-日本語版の Webcast 情報は 2008 年 10 月 15 日 の午後 (日本時間) に配信予定です。 詳細は、「[今月のワンポイント セキュリティ情報](http://technet.microsoft.com/ja-jp/dd251169.aspx)」をご覧ください。
+日本語版の Webcast 情報は 2008 年 10 月 15 日 の午後 (日本時間) に配信予定です。 詳細は、「[今月のワンポイント セキュリティ情報](https://technet.microsoft.com/ja-jp/dd251169.aspx)」をご覧ください。
 
-マイクロソフトはこの定例外の緊急セキュリティ情報リリースについて、2008 年 10 月 23 日 午後 1 ：00 (太平洋標準時刻、米国およびカナダ) に Webcast を行う予定です。[緊急リリースのセキュリティ 情報 Webcast (英語) に登録する。](http://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032393978&eventcategory=4&culture=en-us&countrycode=us)詳細は、[Microsoft Security Bulletin Summaries and Webcasts](http://technet.microsoft.com/security/bulletin/summary) (英語) をご覧ください。
+マイクロソフトはこの定例外の緊急セキュリティ情報リリースについて、2008 年 10 月 23 日 午後 1 ：00 (太平洋標準時刻、米国およびカナダ) に Webcast を行う予定です。[緊急リリースのセキュリティ 情報 Webcast (英語) に登録する。](https://msevents.microsoft.com/cui/webcasteventdetails.aspx?eventid=1032393978&eventcategory=4&culture=en-us&countrycode=us)詳細は、[Microsoft Security Bulletin Summaries and Webcasts](https://technet.microsoft.com/security/bulletin/summary) (英語) をご覧ください。
 
 マイクロソフトはお客様が月例のセキュリティ更新プログラムのリリースと同日に公開されるセキュリティ以外の優先 度の高い更新プログラムとともに、月例のセキュリティ更新プログラムの優先順位を決定する手助けとなる情報も提供します。「関連情報」の欄をご覧ください。
 
@@ -69,45 +69,45 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms08-oct(v=Security.10)
  
 | セキュリティ情報 ID 番号     | マイクロソフト セキュリティ情報 MS08-067                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **タイトル**                 | [Server サービスの脆弱性により、リモートでコードが実行される (958644)](http://technet.microsoft.com/security/bulletin/ms08-067)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| **タイトル**                 | [Server サービスの脆弱性により、リモートでコードが実行される (958644)](https://technet.microsoft.com/security/bulletin/ms08-067)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | **概要**                     | この更新プログラムは非公開で報告された Server サービスに存在する脆弱性を解決します。この脆弱性で、影響を受けるコンピューターが特別な細工がされた RPC リクエストを受け取った場合、リモートでコードが実行される可能性があります。Microsoft Windows 2000、Windows XP および Windows Server 2003 システムで、攻撃者によりこの脆弱性が悪用された場合、認証なしで任意のコードが実行される可能性があります。この脆弱性が悪用され、ワームとして悪用できるコードが作成される可能性があります。ファイアウォールによる最善策および標準のファイアウォールの既定の構成を使用することにより、組織のネットワーク境界の外部から行われる攻撃を防ぎネットワーク リソースを保護することができます。 |
-| **最大深刻度**               | [緊急](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **最大深刻度**               | [緊急](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | **脆弱性の影響**             | リモートでコードが実行される                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | **検出**                     | Microsoft Baseline Security Analyzer は、この更新プログラムがご使用のコンピューターに必要であるかについて検出できます。このセキュリティ更新プログラムは再起動が必要です。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | **影響を受けるソフトウェア** | **Microsoft Windows.** 詳細情報は、「影響を受けるソフトウェアおよびダウンロード」のセクションをご覧ください。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 
 | セキュリティ情報 ID 番号     | マイクロソフト セキュリティ情報 MS08-060                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **タイトル**                 | [Active Directory の脆弱性により、リモートでコードが実行される (957280)](http://technet.microsoft.com/security/bulletin/ms08-060)                                                                                                                                                                                                                                                                                                                                                                                                   |
+| **タイトル**                 | [Active Directory の脆弱性により、リモートでコードが実行される (957280)](https://technet.microsoft.com/security/bulletin/ms08-060)                                                                                                                                                                                                                                                                                                                                                                                                   |
 | **概要**                     | このセキュリティ更新プログラムは Microsoft Windows 2000 Server 上の Active Directory の実装に存在する非公開で報告された脆弱性を解決します。この脆弱性により、攻撃者が影響を受けるネットワークにアクセスできる場合、リモートでコードが実行される可能性があります。この脆弱性はドメイン コントローラーとして構成されている Microsoft Windows 2000 Server にのみ影響を及ぼします。Microsoft Windows 2000 Server がドメイン コントローラーに昇格されていない場合、LDAP クエリをリッスンしないため、この脆弱性の危険にはさらされません。 |
-| **最大深刻度**               | [緊急](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| **最大深刻度**               | [緊急](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | **脆弱性の影響**             | リモートでコードが実行される                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | **検出**                     | Microsoft Baseline Security Analyzer は、この更新プログラムがご使用のコンピューターに必要であるかについて検出できます。このセキュリティ更新プログラムは再起動が必要です。                                                                                                                                                                                                                                                                                                                                                           |
 | **影響を受けるソフトウェア** | **Microsoft Windows.** 詳細情報は、「影響を受けるソフトウェアおよびダウンロード」のセクションをご覧ください。                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 | セキュリティ情報 ID 番号     | マイクロソフト セキュリティ情報 MS08-058                                                                                                                                                                                                                                                                                                                                                                                 |
 |------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **タイトル**                 | [Internet Explorer 用の累積的なセキュリティ更新プログラム (956390)](http://technet.microsoft.com/security/bulletin/ms08-058)                                                                                                                                                                                                                                                                                             |
+| **タイトル**                 | [Internet Explorer 用の累積的なセキュリティ更新プログラム (956390)](https://technet.microsoft.com/security/bulletin/ms08-058)                                                                                                                                                                                                                                                                                             |
 | **概要**                     | このセキュリティ更新プログラムは、非公開で報告された 5 件の脆弱性および一般に公開された 1 件の脆弱性を解決します。これらの脆弱性では、ユーザーが Internet Explorer を使用して特別に細工された Web ページを表示すると、情報の漏えいが行われる可能性があります。コンピューターのアカウントのユーザー権限を低く設定している場合、管理者ユーザー権限で実行しているユーザーよりもこの脆弱性の影響が少なくなると考えられます。 |
-| **最大深刻度**               | [緊急](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                                            |
+| **最大深刻度**               | [緊急](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                                            |
 | **脆弱性の影響**             | リモートでコードが実行される                                                                                                                                                                                                                                                                                                                                                                                             |
 | **検出**                     | Microsoft Baseline Security Analyzer は、この更新プログラムがご使用のコンピューターに必要であるかについて検出できます。このセキュリティ更新プログラムは再起動が必要です。                                                                                                                                                                                                                                                |
 | **影響を受けるソフトウェア** | **Microsoft Windows, Internet Explorer.** 詳細情報は、「影響を受けるソフトウェアおよびダウンロード」のセクションをご覧ください。                                                                                                                                                                                                                                                                                         |
 
 | セキュリティ情報 ID 番号     | マイクロソフト セキュリティ情報 MS08-059                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **タイトル**                 | [Host Integration Server の RPC サービスの脆弱性により、リモートでコードが実行される (956695)](http://technet.microsoft.com/security/bulletin/ms08-059)                                                                                                                                                                                                                                                                                                                                                                    |
+| **タイトル**                 | [Host Integration Server の RPC サービスの脆弱性により、リモートでコードが実行される (956695)](https://technet.microsoft.com/security/bulletin/ms08-059)                                                                                                                                                                                                                                                                                                                                                                    |
 | **概要**                     | この更新プログラムは非公開で報告された Microsoft Host Integration Server に存在する脆弱性を解決します。この脆弱性は、攻撃者が特別に細工したリモート プロシージャ コール (RPC) リクエストの影響を受けるコンピューターに送信した場合、リモートでコードが実行される可能性があります。最善策に従い、SNA RPC サービス アカウントをコンピューターでほとんど権限を持たないよう構成しているお客様は、SNA RPC サービス アカウントに管理者ユーザー権限を設定しているお客様より、この脆弱性による影響を受ける可能性が少なくなります。 |
-| **最大深刻度**               | [緊急](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| **最大深刻度**               | [緊急](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
 | **脆弱性の影響**             | リモートでコードが実行される                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | **検出**                     | Microsoft Baseline Security Analyzer は、この更新プログラムがご使用のコンピューターに必要であるかについて検出できます。このセキュリティ更新プログラムは再起動が必要な場合があります。                                                                                                                                                                                                                                                                                                                                      |
 | **影響を受けるソフトウェア** | **Microsoft Host Integration Server.** 詳細情報は、「影響を受けるソフトウェアおよびダウンロード」のセクションをご覧ください。                                                                                                                                                                                                                                                                                                                                                                                              |
 
 | セキュリティ情報 ID 番号     | マイクロソフト セキュリティ情報 MS08-057                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **タイトル**                 | [Microsoft Excel の脆弱性により、リモートでコードが実行される (956416)](http://technet.microsoft.com/security/bulletin/ms08-057)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **タイトル**                 | [Microsoft Excel の脆弱性により、リモートでコードが実行される (956416)](https://technet.microsoft.com/security/bulletin/ms08-057)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | **概要**                     | このセキュリティ更新プログラムは、ユーザーが特別に細工された Excel ファイルを表示した場合、リモートでコードが実行される可能性がある、非公開で報告された 3 件の Microsoft Office Excel の脆弱性を解決します。これらの脆弱性を攻撃者が悪用した場合、影響を受けるコンピューターが完全に制御される可能性があります。その後、攻撃者はプログラムをインストール、データの表示、変更、削除、または完全なユーザー権限を持つ新たなアカウントを作成する可能性があります。コンピューターのアカウントのユーザー権限を低く設定している場合、管理者ユーザー権限で実行しているユーザーよりもこの脆弱性の影響が少なくなると考えられます。 |
-| **最大深刻度**               | [緊急](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| **最大深刻度**               | [緊急](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | **脆弱性の影響**             | リモートでコードが実行される                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | **検出**                     | Microsoft Baseline Security Analyzer は、この更新プログラムがご使用のコンピューターに必要であるかについて検出できます。このセキュリティ更新プログラムは再起動を必要としません。                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | **影響を受けるソフトウェア** | **Microsoft Office.** 詳細情報は、「影響を受けるソフトウェアおよびダウンロード」のセクションをご覧ください。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
@@ -119,54 +119,54 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms08-oct(v=Security.10)
 
 | セキュリティ情報 ID 番号     | マイクロソフト セキュリティ情報 MS08-066                                                                                                                                                                                                                                                                                                                                 |
 |------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **タイトル**                 | [Microsoft Ancillary Function ドライバーの脆弱性により、特権が昇格される (956803)](http://technet.microsoft.com/security/bulletin/ms08-066)                                                                                                                                                                                                                              |
+| **タイトル**                 | [Microsoft Ancillary Function ドライバーの脆弱性により、特権が昇格される (956803)](https://technet.microsoft.com/security/bulletin/ms08-066)                                                                                                                                                                                                                              |
 | **概要**                     | このセキュリティ更新プログラムは、非公開で報告された Microsoft Ancillary Function ドライバーの脆弱性を解決します。攻撃者がローカルでこの脆弱性を悪用した場合、影響を受けるコンピューターを完全に制御する可能性があります。その後、攻撃者はプログラムのインストール、データの表示、変更、削除、または完全なユーザー権限を持つ新たなアカウントを作成する可能性があります。 |
-| **最大深刻度**               | [重要](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                            |
+| **最大深刻度**               | [重要](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                            |
 | **脆弱性の影響**             | 特権の昇格                                                                                                                                                                                                                                                                                                                                                               |
 | **検出**                     | Microsoft Baseline Security Analyzer は、この更新プログラムがご使用のコンピューターに必要であるかについて検出できます。このセキュリティ更新プログラムは再起動が必要です。                                                                                                                                                                                                |
 | **影響を受けるソフトウェア** | **Microsoft Windows.** 詳細情報は、「影響を受けるソフトウェアおよびダウンロード」のセクションをご覧ください。                                                                                                                                                                                                                                                            |
 
 | セキュリティ情報 ID 番号     | マイクロソフト セキュリティ情報 MS08-061                                                                                                                                                                                                                                                                                    |
 |------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **タイトル**                 | [Windows カーネルの脆弱性により、特権が昇格される (954211)](http://technet.microsoft.com/security/bulletin/ms08-061)                                                                                                                                                                                                        |
+| **タイトル**                 | [Windows カーネルの脆弱性により、特権が昇格される (954211)](https://technet.microsoft.com/security/bulletin/ms08-061)                                                                                                                                                                                                        |
 | **概要**                     | このセキュリティ更新プログラムは Windows カーネルに存在する 1 件の公開された脆弱性および 2 件の非公開で報告された脆弱性を解決します。攻撃者がこれらの脆弱性を悪用した場合、影響を受けるコンピューターを完全に制御する可能性があります。リモートで、または匿名ユーザーにより、この脆弱性が悪用されることはないと思われます。 |
-| **最大深刻度**               | [重要](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                               |
+| **最大深刻度**               | [重要](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                               |
 | **脆弱性の影響**             | 特権の昇格                                                                                                                                                                                                                                                                                                                  |
 | **検出**                     | Microsoft Baseline Security Analyzer は、この更新プログラムがご使用のコンピューターに必要であるかについて検出できます。このセキュリティ更新プログラムは再起動が必要です。                                                                                                                                                   |
 | **影響を受けるソフトウェア** | **Microsoft Windows.** 詳細情報は、「影響を受けるソフトウェアおよびダウンロード」のセクションをご覧ください。                                                                                                                                                                                                               |
 
 | セキュリティ情報 ID 番号     | マイクロソフト セキュリティ情報 MS08-062                                                                                                                                                                                                                                                                                                                                    |
 |------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **タイトル**                 | [Windows インターネット印刷サービスの脆弱性により、リモートでコードが実行される (953155)](http://technet.microsoft.com/security/bulletin/ms08-062)                                                                                                                                                                                                                          |
+| **タイトル**                 | [Windows インターネット印刷サービスの脆弱性により、リモートでコードが実行される (953155)](https://technet.microsoft.com/security/bulletin/ms08-062)                                                                                                                                                                                                                          |
 | **概要**                     | このセキュリティ更新プログラムは、1 件の非公開で報告されたリモートでコードが実行される可能性のある Windows インターネット印刷サービスの脆弱性を解決します。この脆弱性を悪用して、攻撃者は影響を受けるコンピューターを完全に制御する可能性があります。その後、攻撃者はプログラムのインストール、データの表示、変更、削除、または新たなアカウントを作成する可能性があります。 |
-| **最大深刻度**               | [重要](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                               |
+| **最大深刻度**               | [重要](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                               |
 | **脆弱性の影響**             | リモートでコードが実行される                                                                                                                                                                                                                                                                                                                                                |
 | **検出**                     | Microsoft Baseline Security Analyzer は、この更新プログラムがご使用のコンピューターに必要であるかについて検出できます。このセキュリティ更新プログラムは再起動が必要です。                                                                                                                                                                                                   |
 | **影響を受けるソフトウェア** | **Microsoft Windows.** 詳細情報は、「影響を受けるソフトウェアおよびダウンロード」のセクションをご覧ください。                                                                                                                                                                                                                                                               |
 
 | セキュリティ情報 ID 番号     | マイクロソフト セキュリティ情報 MS08-063                                                                                                                                                                                                                                                                                                                                                           |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **タイトル**                 | [SMB の脆弱性により、リモートでコードが実行される (957095)](http://technet.microsoft.com/security/bulletin/ms08-063)                                                                                                                                                                                                                                                                               |
+| **タイトル**                 | [SMB の脆弱性により、リモートでコードが実行される (957095)](https://technet.microsoft.com/security/bulletin/ms08-063)                                                                                                                                                                                                                                                                               |
 | **概要**                     | この更新プログラムは非公開で報告された Microsoft Server Message Block (SMB) プロトコルに存在する脆弱性を解決します。この脆弱性により、ファイルまたはフォルダを共有しているサーバーでリモートでコードが実行される可能性があります。攻撃者がこの脆弱性を悪用した場合、プログラムのインストール、データの表示、変更、削除、または完全なユーザー権限を持つ新たなアカウントを作成する可能性があります。 |
-| **最大深刻度**               | [重要](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                      |
+| **最大深刻度**               | [重要](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                      |
 | **脆弱性の影響**             | リモートでコードが実行される                                                                                                                                                                                                                                                                                                                                                                       |
 | **検出**                     | Microsoft Baseline Security Analyzer は、この更新プログラムがご使用のコンピューターに必要であるかについて検出できます。このセキュリティ更新プログラムは再起動が必要です。                                                                                                                                                                                                                          |
 | **影響を受けるソフトウェア** | **Microsoft Windows.** 詳細情報は、「影響を受けるソフトウェアおよびダウンロード」のセクションをご覧ください。                                                                                                                                                                                                                                                                                      |
 
 | セキュリティ情報 ID 番号     | マイクロソフト セキュリティ情報 MS08-064                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **タイトル**                 | [仮想アドレス記述子の処理の脆弱性により、特権が昇格される (956841)](http://technet.microsoft.com/security/bulletin/ms08-064)                                                                                                                                                                                                                                                                                                                                                     |
+| **タイトル**                 | [仮想アドレス記述子の処理の脆弱性により、特権が昇格される (956841)](https://technet.microsoft.com/security/bulletin/ms08-064)                                                                                                                                                                                                                                                                                                                                                     |
 | **概要**                     | このセキュリティ更新プログラムは非公開で報告された 1 件の仮想アドレス記述子 (VAD) の脆弱性を解決します。この脆弱性により、ユーザーが特別に細工されたアプリケーションを実行した場合、特権の昇格が起こる可能性があります。認証済みの攻撃者がこの脆弱性を悪用した場合、影響を受けるコンピューターで特権の昇格を行なう可能性があります。その後、攻撃者はプログラムのインストール、データの表示、変更、削除、または完全な管理者権限を持つ新たなアカウントを作成する可能性があります。 |
-| **最大深刻度**               | [重要](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| **最大深刻度**               | [重要](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | **脆弱性の影響**             | 特権の昇格                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | **検出**                     | Microsoft Baseline Security Analyzer は、この更新プログラムがご使用のコンピューターに必要であるかについて検出できます。このセキュリティ更新プログラムは再起動が必要です。                                                                                                                                                                                                                                                                                                        |
 | **影響を受けるソフトウェア** | **Microsoft Windows.** 詳細情報は、「影響を受けるソフトウェアおよびダウンロード」のセクションをご覧ください。                                                                                                                                                                                                                                                                                                                                                                    |
 
 | セキュリティ情報 ID 番号     | マイクロソフト セキュリティ情報 MS08-065                                                                                                                                                                                                                                                          |
 |------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **タイトル**                 | [メッセージ キューの脆弱性により、リモートでコードが実行される (951071)](http://technet.microsoft.com/security/bulletin/ms08-065)                                                                                                                                                                 |
+| **タイトル**                 | [メッセージ キューの脆弱性により、リモートでコードが実行される (951071)](https://technet.microsoft.com/security/bulletin/ms08-065)                                                                                                                                                                 |
 | **概要**                     | このセキュリティ更新プログラムは、非公開で報告された Microsoft Windows 2000 のコンピューターのメッセージ キュー サービス (MSMQ) の脆弱性を解決します。この脆弱性により、MSMQ のサービスを有効にしている Microsoft Windows 2000 のコンピューターで、リモードでコードが実行される可能性があります。 |
-| **最大深刻度**               | [重要](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                     |
+| **最大深刻度**               | [重要](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                     |
 | **脆弱性の影響**             | リモートでコードが実行される                                                                                                                                                                                                                                                                      |
 | **検出**                     | Microsoft Baseline Security Analyzer は、この更新プログラムがご使用のコンピューターに必要であるかについて検出できます。このセキュリティ更新プログラムは再起動が必要です。                                                                                                                         |
 | **影響を受けるソフトウェア** | **Microsoft Windows.** 詳細情報は、「影響を受けるソフトウェアおよびダウンロード」のセクションをご覧ください。                                                                                                                                                                                     |
@@ -178,9 +178,9 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms08-oct(v=Security.10)
 
 | セキュリティ情報 ID 番号     | マイクロソフト セキュリティ情報 MS08-056                                                                                                                                                                                                                                                                                                                                                                                           |
 |------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **タイトル**                 | [Microsoft Office の脆弱性により、情報の漏えいが起こる (957699)](http://technet.microsoft.com/security/bulletin/ms08-056)                                                                                                                                                                                                                                                                                                          |
+| **タイトル**                 | [Microsoft Office の脆弱性により、情報の漏えいが起こる (957699)](https://technet.microsoft.com/security/bulletin/ms08-056)                                                                                                                                                                                                                                                                                                          |
 | **概要**                     | この更新プログラムは非公開で報告された Microsoft Office に存在する脆弱性を解決します。この脆弱性で、ユーザーが特別な細工がされた CDO URL をクリックした場合に情報の漏えいが起こる可能性があります。この脆弱性で、攻撃者によりクライアント側のスクリプトがユーザーのブラウザーに挿入され、これによりコンテンツのなりすまし、情報の漏えい、または影響を受ける Web サイトでユーザーが実行できる任意の操作が行われる可能性があります。 |
-| **最大深刻度**               | [警告](http://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                                                      |
+| **最大深刻度**               | [警告](https://technet.microsoft.com/security/bulletin/rating)                                                                                                                                                                                                                                                                                                                                                                      |
 | **脆弱性の影響**             | 情報の漏えい                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | **検出**                     | Microsoft Baseline Security Analyzer は、この更新プログラムがご使用のコンピューターに必要であるかについて検出できます。このセキュリティ更新プログラムは再起動を必要としません。                                                                                                                                                                                                                                                    |
 | **影響を受けるソフトウェア** | **Microsoft Office.** 詳細情報は、「影響を受けるソフトウェアおよびダウンロード」のセクションをご覧ください。                                                                                                                                                                                                                                                                                                                       |
@@ -191,31 +191,31 @@ Exploitability Index (悪用可能性指標)
  
 **この表はどのように使用しますか?**
 
-この表を使用して、お客様がインストールする必要のある各セキュリティ更新プログラムについて、機能する悪用コードが公開される可能性を確認してください。適用の優先順位を決定するために、お客様の特定の構成に従って、下記の各評価を検討してください。これらの評価の意味に関する詳細情報は、[Microsoft Exploitability Index (悪用可能性指標)](http://technet.microsoft.com/ja-jp/security/cc998259.aspx) をご覧ください。
+この表を使用して、お客様がインストールする必要のある各セキュリティ更新プログラムについて、機能する悪用コードが公開される可能性を確認してください。適用の優先順位を決定するために、お客様の特定の構成に従って、下記の各評価を検討してください。これらの評価の意味に関する詳細情報は、[Microsoft Exploitability Index (悪用可能性指標)](https://technet.microsoft.com/ja-jp/security/cc998259.aspx) をご覧ください。
 
 | セキュリティ情報番号                                                | セキュリティ情報タイトル                                                                                                                                | CVE ID        | Exploitability Index の評価                                                                     | 注意事項                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 |---------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [MS08-056](http://technet.microsoft.com/security/bulletin/ms08-056) | [Microsoft Office の脆弱性により、情報の漏えいが起こる (957699)](http://technet.microsoft.com/security/bulletin/ms08-056)                               | CVE-2008-4020 | [2 - 不安定な悪用コードの可能性](http://technet.microsoft.com/ja-jp/security/cc998259.aspx)     | 機能する悪用コードが作成された可能性があります。しかし、この脆弱性では特定の Web アプリケーションでのシナリオにおけるダイアログのなりすましのみが可能であるため、深刻な影響は限定されています。このため、これは攻撃者の興味をほとんどひかないものと考えられます。                                                                                                                                                                                                                                                                                                                                                                                                   |
-| [MS08-057](http://technet.microsoft.com/security/bulletin/ms08-057) | [Microsoft Excel の脆弱性により、リモートでコードが実行される (956416)](http://technet.microsoft.com/security/bulletin/ms08-057)                        | CVE-2008-4019 | [1 - 安定した悪用コードの可能性](http://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [MS08-057](http://technet.microsoft.com/security/bulletin/ms08-057) | [Microsoft Excel の脆弱性により、リモートでコードが実行される (956416)](http://technet.microsoft.com/security/bulletin/ms08-057)                        | CVE-2008-3471 | [2 - 不安定な悪用コードの可能性](http://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [MS08-057](http://technet.microsoft.com/security/bulletin/ms08-057) | [Microsoft Excel の脆弱性により、リモートでコードが実行される (956416)](http://technet.microsoft.com/security/bulletin/ms08-057)                        | CVE-2008-3477 | [2 - 不安定な悪用コードの可能性](http://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [MS08-058](http://technet.microsoft.com/security/bulletin/ms08-058) | [Internet Explorer 用の累積的なセキュリティ更新プログラム (956390)](http://technet.microsoft.com/security/bulletin/ms08-058)                            | CVE-2008-2947 | (セキュリティ情報公開時に公開されていました。)                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [MS08-058](http://technet.microsoft.com/security/bulletin/ms08-058) | [Internet Explorer 用の累積的なセキュリティ更新プログラム (956390)](http://technet.microsoft.com/security/bulletin/ms08-058)                            | CVE-2008-3472 | [1 - 安定した悪用コードの可能性](http://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [MS08-058](http://technet.microsoft.com/security/bulletin/ms08-058) | [Internet Explorer 用の累積的なセキュリティ更新プログラム (956390)](http://technet.microsoft.com/security/bulletin/ms08-058)                            | CVE-2008-3473 | [1 - 安定した悪用コードの可能性](http://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [MS08-058](http://technet.microsoft.com/security/bulletin/ms08-058) | [Internet Explorer 用の累積的なセキュリティ更新プログラム (956390)](http://technet.microsoft.com/security/bulletin/ms08-058)                            | CVE-2008-3475 | [2 - 不安定な悪用コードの可能性](http://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [MS08-058](http://technet.microsoft.com/security/bulletin/ms08-058) | [Internet Explorer 用の累積的なセキュリティ更新プログラム (956390)](http://technet.microsoft.com/security/bulletin/ms08-058)                            | CVE-2008-3474 | [3 - 機能する見込みのない悪用コード](http://technet.microsoft.com/ja-jp/security/cc998259.aspx) |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [MS08-058](http://technet.microsoft.com/security/bulletin/ms08-058) | [Internet Explorer 用の累積的なセキュリティ更新プログラム (956390)](http://technet.microsoft.com/security/bulletin/ms08-058)                            | CVE-2008-3476 | [3 - 機能する見込みのない悪用コード](http://technet.microsoft.com/ja-jp/security/cc998259.aspx) |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [MS08-059](http://technet.microsoft.com/security/bulletin/ms08-059) | [Host Integration Server の RPC サービスの脆弱性により、リモートでコードが実行される (956695)](http://technet.microsoft.com/security/bulletin/ms08-059) | CVE-2008-3466 | [1 - 安定した悪用コードの可能性](http://technet.microsoft.com/ja-jp/security/cc998259.aspx)     | Host Integration Server をインストールしているのは特定の種類のエンタープライズのお客様のみであると思われますが、機能する悪用コードが作成されている可能性があります。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| [MS08-060](http://technet.microsoft.com/security/bulletin/ms08-060) | [Active Directory の脆弱性により、リモートでコードが実行される (957280)](http://technet.microsoft.com/security/bulletin/ms08-060)                       | CVE-2008-4023 | [2 - 不安定な悪用コードの可能性](http://technet.microsoft.com/ja-jp/security/cc998259.aspx)     | 脆弱性によりサービス拒否の状態が発生する可能性があります。しかし、リモートでコードを実行するために、機能する悪用コードを作成することは、必要となる書き込みアドレスを制御できないため困難です。                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| [MS08-061](http://technet.microsoft.com/security/bulletin/ms08-061) | [Windows カーネルの脆弱性により、特権が昇格される (954211)](http://technet.microsoft.com/security/bulletin/ms08-061)                                    | CVE-2008-2250 | [1 - 安定した悪用コードの可能性](http://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [MS08-061](http://technet.microsoft.com/security/bulletin/ms08-061) | [Windows カーネルの脆弱性により、特権が昇格される (954211)](http://technet.microsoft.com/security/bulletin/ms08-061)                                    | CVE-2008-2252 | [1 - 安定した悪用コードの可能性](http://technet.microsoft.com/ja-jp/security/cc998259.aspx)     | 機能する悪用コードは、マルチプロセッサー システムに対して作成される可能性が最も高いと考えられます。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| [MS08-061](http://technet.microsoft.com/security/bulletin/ms08-061) | [Windows カーネルの脆弱性により、特権が昇格される (954211)](http://technet.microsoft.com/security/bulletin/ms08-061)                                    | CVE-2008-2251 | [3 - 機能する見込みのない悪用コード](http://technet.microsoft.com/ja-jp/security/cc998259.aspx) | 脆弱性を悪用することは可能ですが、機能する悪用コードの作成は非常に困難です。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| [MS08-062](http://technet.microsoft.com/security/bulletin/ms08-062) | [Windows インターネット印刷サービスの脆弱性により、リモートでコードが実行される (953155)](http://technet.microsoft.com/security/bulletin/ms08-062)      | CVE-2008-1446 | [1 - 安定した悪用コードの可能性](http://technet.microsoft.com/ja-jp/security/cc998259.aspx)     | 一貫した悪用コードが限定された標的型攻撃で確認されました。インターネット印刷プロトコル (IPP) サービスは既定で有功ですが、IIS を使用してこのサービスにアクセスするには、すべてのプラットフォームで既定で認証を必要とします。                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| [MS08-063](http://technet.microsoft.com/security/bulletin/ms08-063) | [SMB の脆弱性により、リモートでコードが実行される (957095)](http://technet.microsoft.com/security/bulletin/ms08-063)                                    | CVE-2008-4038 | [2 - 不安定な悪用コードの可能性](http://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [MS08-064](http://technet.microsoft.com/security/bulletin/ms08-064) | [仮想アドレス記述子の処理の脆弱性により、特権の昇格が起こる (956841)](http://technet.microsoft.com/security/bulletin/ms08-064)                          | CVE-2008-4036 | [2 - 不安定な悪用コードの可能性](http://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [MS08-065](http://technet.microsoft.com/security/bulletin/ms08-065) | [メッセージ キューの脆弱性により、リモートでコードが実行される (951071)](http://technet.microsoft.com/security/bulletin/ms08-065)                       | CVE-2008-3479 | [3 - 機能する見込みのない悪用コード](http://technet.microsoft.com/ja-jp/security/cc998259.aspx) | 情報の漏えいが起こる可能性がありますが、メモリから有益なコンテンツを取得することは必ずしも可能ではありません。メモリの破損の問題が引き起こされる可能性がありますが、リモートでのコードの実行は困難です。                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| [MS08-066](http://technet.microsoft.com/security/bulletin/ms08-066) | [Microsoft Ancillary Function ドライバーの脆弱性により、特権が昇格される (956803)](http://technet.microsoft.com/security/bulletin/ms08-066)             | CVE-2008-3464 | [1 - 安定した悪用コードの可能性](http://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| [MS08-067](http://technet.microsoft.com/security/bulletin/ms08-067) | [Server サービスの脆弱性により、リモートでコードが実行される (958644)](http://technet.microsoft.com/security/bulletin/ms08-067)                         | CVE-2008-4250 | [1 - 安定した悪用コードの可能性](http://technet.microsoft.com/ja-jp/security/cc998259.aspx)     | 一貫した悪用コードが Windows XP および Windows Server 2003 に影響を及ぼす限定された標的型攻撃で確認されました。このサービスはすべての影響を受けるプラットフォームで既定で有効となっていますが、悪用される可能性が最も高いのは Microsoft Windows 2000、Windows XP および Windows Server 2003 です。Windows Vista および Windows Server 2008 については、UAC の一部として導入した、整合性レベルを強制する機能により、既定のインストールで認証を必要とします。またこの保護は、UAC プロンプト (UAC による注意表示機能) が無効でも実施されます。さらに、認証後も Address Space Layout Randomization (ASLR) およびデータ実行防止 (DEP) の強化により、悪用を困難にします。 |
+| [MS08-056](https://technet.microsoft.com/security/bulletin/ms08-056) | [Microsoft Office の脆弱性により、情報の漏えいが起こる (957699)](https://technet.microsoft.com/security/bulletin/ms08-056)                               | CVE-2008-4020 | [2 - 不安定な悪用コードの可能性](https://technet.microsoft.com/ja-jp/security/cc998259.aspx)     | 機能する悪用コードが作成された可能性があります。しかし、この脆弱性では特定の Web アプリケーションでのシナリオにおけるダイアログのなりすましのみが可能であるため、深刻な影響は限定されています。このため、これは攻撃者の興味をほとんどひかないものと考えられます。                                                                                                                                                                                                                                                                                                                                                                                                   |
+| [MS08-057](https://technet.microsoft.com/security/bulletin/ms08-057) | [Microsoft Excel の脆弱性により、リモートでコードが実行される (956416)](https://technet.microsoft.com/security/bulletin/ms08-057)                        | CVE-2008-4019 | [1 - 安定した悪用コードの可能性](https://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [MS08-057](https://technet.microsoft.com/security/bulletin/ms08-057) | [Microsoft Excel の脆弱性により、リモートでコードが実行される (956416)](https://technet.microsoft.com/security/bulletin/ms08-057)                        | CVE-2008-3471 | [2 - 不安定な悪用コードの可能性](https://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [MS08-057](https://technet.microsoft.com/security/bulletin/ms08-057) | [Microsoft Excel の脆弱性により、リモートでコードが実行される (956416)](https://technet.microsoft.com/security/bulletin/ms08-057)                        | CVE-2008-3477 | [2 - 不安定な悪用コードの可能性](https://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [MS08-058](https://technet.microsoft.com/security/bulletin/ms08-058) | [Internet Explorer 用の累積的なセキュリティ更新プログラム (956390)](https://technet.microsoft.com/security/bulletin/ms08-058)                            | CVE-2008-2947 | (セキュリティ情報公開時に公開されていました。)                                                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [MS08-058](https://technet.microsoft.com/security/bulletin/ms08-058) | [Internet Explorer 用の累積的なセキュリティ更新プログラム (956390)](https://technet.microsoft.com/security/bulletin/ms08-058)                            | CVE-2008-3472 | [1 - 安定した悪用コードの可能性](https://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [MS08-058](https://technet.microsoft.com/security/bulletin/ms08-058) | [Internet Explorer 用の累積的なセキュリティ更新プログラム (956390)](https://technet.microsoft.com/security/bulletin/ms08-058)                            | CVE-2008-3473 | [1 - 安定した悪用コードの可能性](https://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [MS08-058](https://technet.microsoft.com/security/bulletin/ms08-058) | [Internet Explorer 用の累積的なセキュリティ更新プログラム (956390)](https://technet.microsoft.com/security/bulletin/ms08-058)                            | CVE-2008-3475 | [2 - 不安定な悪用コードの可能性](https://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [MS08-058](https://technet.microsoft.com/security/bulletin/ms08-058) | [Internet Explorer 用の累積的なセキュリティ更新プログラム (956390)](https://technet.microsoft.com/security/bulletin/ms08-058)                            | CVE-2008-3474 | [3 - 機能する見込みのない悪用コード](https://technet.microsoft.com/ja-jp/security/cc998259.aspx) |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [MS08-058](https://technet.microsoft.com/security/bulletin/ms08-058) | [Internet Explorer 用の累積的なセキュリティ更新プログラム (956390)](https://technet.microsoft.com/security/bulletin/ms08-058)                            | CVE-2008-3476 | [3 - 機能する見込みのない悪用コード](https://technet.microsoft.com/ja-jp/security/cc998259.aspx) |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [MS08-059](https://technet.microsoft.com/security/bulletin/ms08-059) | [Host Integration Server の RPC サービスの脆弱性により、リモートでコードが実行される (956695)](https://technet.microsoft.com/security/bulletin/ms08-059) | CVE-2008-3466 | [1 - 安定した悪用コードの可能性](https://technet.microsoft.com/ja-jp/security/cc998259.aspx)     | Host Integration Server をインストールしているのは特定の種類のエンタープライズのお客様のみであると思われますが、機能する悪用コードが作成されている可能性があります。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| [MS08-060](https://technet.microsoft.com/security/bulletin/ms08-060) | [Active Directory の脆弱性により、リモートでコードが実行される (957280)](https://technet.microsoft.com/security/bulletin/ms08-060)                       | CVE-2008-4023 | [2 - 不安定な悪用コードの可能性](https://technet.microsoft.com/ja-jp/security/cc998259.aspx)     | 脆弱性によりサービス拒否の状態が発生する可能性があります。しかし、リモートでコードを実行するために、機能する悪用コードを作成することは、必要となる書き込みアドレスを制御できないため困難です。                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| [MS08-061](https://technet.microsoft.com/security/bulletin/ms08-061) | [Windows カーネルの脆弱性により、特権が昇格される (954211)](https://technet.microsoft.com/security/bulletin/ms08-061)                                    | CVE-2008-2250 | [1 - 安定した悪用コードの可能性](https://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [MS08-061](https://technet.microsoft.com/security/bulletin/ms08-061) | [Windows カーネルの脆弱性により、特権が昇格される (954211)](https://technet.microsoft.com/security/bulletin/ms08-061)                                    | CVE-2008-2252 | [1 - 安定した悪用コードの可能性](https://technet.microsoft.com/ja-jp/security/cc998259.aspx)     | 機能する悪用コードは、マルチプロセッサー システムに対して作成される可能性が最も高いと考えられます。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| [MS08-061](https://technet.microsoft.com/security/bulletin/ms08-061) | [Windows カーネルの脆弱性により、特権が昇格される (954211)](https://technet.microsoft.com/security/bulletin/ms08-061)                                    | CVE-2008-2251 | [3 - 機能する見込みのない悪用コード](https://technet.microsoft.com/ja-jp/security/cc998259.aspx) | 脆弱性を悪用することは可能ですが、機能する悪用コードの作成は非常に困難です。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| [MS08-062](https://technet.microsoft.com/security/bulletin/ms08-062) | [Windows インターネット印刷サービスの脆弱性により、リモートでコードが実行される (953155)](https://technet.microsoft.com/security/bulletin/ms08-062)      | CVE-2008-1446 | [1 - 安定した悪用コードの可能性](https://technet.microsoft.com/ja-jp/security/cc998259.aspx)     | 一貫した悪用コードが限定された標的型攻撃で確認されました。インターネット印刷プロトコル (IPP) サービスは既定で有功ですが、IIS を使用してこのサービスにアクセスするには、すべてのプラットフォームで既定で認証を必要とします。                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| [MS08-063](https://technet.microsoft.com/security/bulletin/ms08-063) | [SMB の脆弱性により、リモートでコードが実行される (957095)](https://technet.microsoft.com/security/bulletin/ms08-063)                                    | CVE-2008-4038 | [2 - 不安定な悪用コードの可能性](https://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [MS08-064](https://technet.microsoft.com/security/bulletin/ms08-064) | [仮想アドレス記述子の処理の脆弱性により、特権の昇格が起こる (956841)](https://technet.microsoft.com/security/bulletin/ms08-064)                          | CVE-2008-4036 | [2 - 不安定な悪用コードの可能性](https://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [MS08-065](https://technet.microsoft.com/security/bulletin/ms08-065) | [メッセージ キューの脆弱性により、リモートでコードが実行される (951071)](https://technet.microsoft.com/security/bulletin/ms08-065)                       | CVE-2008-3479 | [3 - 機能する見込みのない悪用コード](https://technet.microsoft.com/ja-jp/security/cc998259.aspx) | 情報の漏えいが起こる可能性がありますが、メモリから有益なコンテンツを取得することは必ずしも可能ではありません。メモリの破損の問題が引き起こされる可能性がありますが、リモートでのコードの実行は困難です。                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| [MS08-066](https://technet.microsoft.com/security/bulletin/ms08-066) | [Microsoft Ancillary Function ドライバーの脆弱性により、特権が昇格される (956803)](https://technet.microsoft.com/security/bulletin/ms08-066)             | CVE-2008-3464 | [1 - 安定した悪用コードの可能性](https://technet.microsoft.com/ja-jp/security/cc998259.aspx)     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| [MS08-067](https://technet.microsoft.com/security/bulletin/ms08-067) | [Server サービスの脆弱性により、リモートでコードが実行される (958644)](https://technet.microsoft.com/security/bulletin/ms08-067)                         | CVE-2008-4250 | [1 - 安定した悪用コードの可能性](https://technet.microsoft.com/ja-jp/security/cc998259.aspx)     | 一貫した悪用コードが Windows XP および Windows Server 2003 に影響を及ぼす限定された標的型攻撃で確認されました。このサービスはすべての影響を受けるプラットフォームで既定で有効となっていますが、悪用される可能性が最も高いのは Microsoft Windows 2000、Windows XP および Windows Server 2003 です。Windows Vista および Windows Server 2008 については、UAC の一部として導入した、整合性レベルを強制する機能により、既定のインストールで認証を必要とします。またこの保護は、UAC プロンプト (UAC による注意表示機能) が無効でも実施されます。さらに、認証後も Address Space Layout Randomization (ASLR) およびデータ実行防止 (DEP) の強化により、悪用を困難にします。 |
 
 影響を受けるソフトウェアおよびダウンロード先
 --------------------------------------------
@@ -265,31 +265,31 @@ Microsoft Windows 2000
 **セキュリティ情報 ID 番号**
 </td>
 <td style="border:1px solid black;">
-[**MS08-067**](http://technet.microsoft.com/security/bulletin/ms08-067)
+[**MS08-067**](https://technet.microsoft.com/security/bulletin/ms08-067)
 </td>
 <td style="border:1px solid black;">
-[**MS08-060**](http://technet.microsoft.com/security/bulletin/ms08-060)
+[**MS08-060**](https://technet.microsoft.com/security/bulletin/ms08-060)
 </td>
 <td style="border:1px solid black;">
-[**MS08-058**](http://technet.microsoft.com/security/bulletin/ms08-058)
+[**MS08-058**](https://technet.microsoft.com/security/bulletin/ms08-058)
 </td>
 <td style="border:1px solid black;">
-[**MS08-066**](http://technet.microsoft.com/security/bulletin/ms08-066)
+[**MS08-066**](https://technet.microsoft.com/security/bulletin/ms08-066)
 </td>
 <td style="border:1px solid black;">
-[**MS08-061**](http://technet.microsoft.com/security/bulletin/ms08-061)
+[**MS08-061**](https://technet.microsoft.com/security/bulletin/ms08-061)
 </td>
 <td style="border:1px solid black;">
-[**MS08-062**](http://technet.microsoft.com/security/bulletin/ms08-062)
+[**MS08-062**](https://technet.microsoft.com/security/bulletin/ms08-062)
 </td>
 <td style="border:1px solid black;">
-[**MS08-063**](http://technet.microsoft.com/security/bulletin/ms08-063)
+[**MS08-063**](https://technet.microsoft.com/security/bulletin/ms08-063)
 </td>
 <td style="border:1px solid black;">
-[**MS08-064**](http://technet.microsoft.com/security/bulletin/ms08-064)
+[**MS08-064**](https://technet.microsoft.com/security/bulletin/ms08-064)
 </td>
 <td style="border:1px solid black;">
-[**MS08-065**](http://technet.microsoft.com/security/bulletin/ms08-065)
+[**MS08-065**](https://technet.microsoft.com/security/bulletin/ms08-065)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -297,31 +297,31 @@ Microsoft Windows 2000
 **最大深刻度**
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -329,39 +329,39 @@ Microsoft Windows 2000
 Microsoft Windows 2000 Service Pack 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=e22eb3ae-1295-4fe2-9775-6f43c5c2aed3)  
+[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=e22eb3ae-1295-4fe2-9775-6f43c5c2aed3)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Active Directory on Microsoft Windows 2000 Server Service Pack 4](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=8ed7bb9a-4b26-49d7-8c14-60226d2bc20d)  
+[Active Directory on Microsoft Windows 2000 Server Service Pack 4](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=8ed7bb9a-4b26-49d7-8c14-60226d2bc20d)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 5.01 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=257c0478-56dd-42eb-a90e-607d01613db7)  
+[Microsoft Internet Explorer 5.01 Service Pack 4](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=257c0478-56dd-42eb-a90e-607d01613db7)  
 (緊急)  
-[Microsoft Internet Explorer 6 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=02390258-08e9-4b75-960d-be081b749558)  
+[Microsoft Internet Explorer 6 Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=02390258-08e9-4b75-960d-be081b749558)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=3a6165a6-d7e7-4526-9291-290caf0639b4)  
+[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=3a6165a6-d7e7-4526-9291-290caf0639b4)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=8163d1f6-feb5-4f39-8134-3ed42326b822)  
+[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=8163d1f6-feb5-4f39-8134-3ed42326b822)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=9ed29c3a-0682-4586-bbc2-a73deaa18e4c)  
+[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=9ed29c3a-0682-4586-bbc2-a73deaa18e4c)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Service Pack 4](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=899e2728-2433-4ccb-a195-05b5d65e5469)  
+[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=899e2728-2433-4ccb-a195-05b5d65e5469)  
 (重要)
 </td>
 </tr>
@@ -375,31 +375,31 @@ Windows XP
 **セキュリティ情報 ID 番号**
 </td>
 <td style="border:1px solid black;">
-[**MS08-067**](http://technet.microsoft.com/security/bulletin/ms08-067)
+[**MS08-067**](https://technet.microsoft.com/security/bulletin/ms08-067)
 </td>
 <td style="border:1px solid black;">
-[**MS08-060**](http://technet.microsoft.com/security/bulletin/ms08-060)
+[**MS08-060**](https://technet.microsoft.com/security/bulletin/ms08-060)
 </td>
 <td style="border:1px solid black;">
-[**MS08-058**](http://technet.microsoft.com/security/bulletin/ms08-058)
+[**MS08-058**](https://technet.microsoft.com/security/bulletin/ms08-058)
 </td>
 <td style="border:1px solid black;">
-[**MS08-066**](http://technet.microsoft.com/security/bulletin/ms08-066)
+[**MS08-066**](https://technet.microsoft.com/security/bulletin/ms08-066)
 </td>
 <td style="border:1px solid black;">
-[**MS08-061**](http://technet.microsoft.com/security/bulletin/ms08-061)
+[**MS08-061**](https://technet.microsoft.com/security/bulletin/ms08-061)
 </td>
 <td style="border:1px solid black;">
-[**MS08-062**](http://technet.microsoft.com/security/bulletin/ms08-062)
+[**MS08-062**](https://technet.microsoft.com/security/bulletin/ms08-062)
 </td>
 <td style="border:1px solid black;">
-[**MS08-063**](http://technet.microsoft.com/security/bulletin/ms08-063)
+[**MS08-063**](https://technet.microsoft.com/security/bulletin/ms08-063)
 </td>
 <td style="border:1px solid black;">
-[**MS08-064**](http://technet.microsoft.com/security/bulletin/ms08-064)
+[**MS08-064**](https://technet.microsoft.com/security/bulletin/ms08-064)
 </td>
 <td style="border:1px solid black;">
-[**MS08-065**](http://technet.microsoft.com/security/bulletin/ms08-065)
+[**MS08-065**](https://technet.microsoft.com/security/bulletin/ms08-065)
 </td>
 </tr>
 <tr>
@@ -407,31 +407,31 @@ Windows XP
 **最大深刻度**
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -439,36 +439,36 @@ Windows XP
 Windows XP Service Pack 2 および Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 および Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=0d5f9b6e-9265-44b9-a376-2067b73d6a03)  
+[Windows XP Service Pack 2 および Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=0d5f9b6e-9265-44b9-a376-2067b73d6a03)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=a7f0f47b-b1ee-4516-9fbf-bf8e579963d0)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=a7f0f47b-b1ee-4516-9fbf-bf8e579963d0)  
 (緊急)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=4e73de2b-05e6-4901-9bac-46d8f469e635)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=4e73de2b-05e6-4901-9bac-46d8f469e635)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 および Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=b16d9dac-c430-4dd8-a1e5-9a614801f1d9)  
+[Windows XP Service Pack 2 および Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=b16d9dac-c430-4dd8-a1e5-9a614801f1d9)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 および Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=7718bf14-c26c-43f3-be67-4c79ab5b2607)  
+[Windows XP Service Pack 2 および Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=7718bf14-c26c-43f3-be67-4c79ab5b2607)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 および Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=e7ef571f-c9e8-4e14-95a3-3eeaec55b784)  
+[Windows XP Service Pack 2 および Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=e7ef571f-c9e8-4e14-95a3-3eeaec55b784)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 および Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=2f7e5981-6eef-4f08-86c0-c6a7607ea5d0)  
+[Windows XP Service Pack 2 および Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=2f7e5981-6eef-4f08-86c0-c6a7607ea5d0)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 および Windows XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=25997b73-a640-49c1-b19e-768a18bbe22c)  
+[Windows XP Service Pack 2 および Windows XP Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=25997b73-a640-49c1-b19e-768a18bbe22c)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -480,36 +480,36 @@ Windows XP Service Pack 2 および Windows XP Service Pack 3
 Windows XP Professional x64 Edition および Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition および Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=4c16a372-7bf8-4571-b982-dac6b2992b25)  
+[Windows XP Professional x64 Edition および Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=4c16a372-7bf8-4571-b982-dac6b2992b25)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=234c05fb-988b-4e02-aab6-bb23e447df3d)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=234c05fb-988b-4e02-aab6-bb23e447df3d)  
 (緊急)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=ccf7a3e3-ec30-4b95-9a86-00032301513c)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=ccf7a3e3-ec30-4b95-9a86-00032301513c)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition および Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=5b607efc-c6fb-4079-8478-e4f3262386d3)  
+[Windows XP Professional x64 Edition および Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=5b607efc-c6fb-4079-8478-e4f3262386d3)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition および Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=b06d3a02-b6e4-4d40-913a-3759a31f20f3)  
+[Windows XP Professional x64 Edition および Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=b06d3a02-b6e4-4d40-913a-3759a31f20f3)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition および Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=3ae4b913-bff0-4974-b198-828ca10d2a87)  
+[Windows XP Professional x64 Edition および Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=3ae4b913-bff0-4974-b198-828ca10d2a87)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition および Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=4e1675eb-6b06-48e9-9765-23a2c7737bdc)  
+[Windows XP Professional x64 Edition および Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=4e1675eb-6b06-48e9-9765-23a2c7737bdc)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition および Windows XP Professional x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=50fae854-0bde-46f8-9444-b9e0d9bfecad)  
+[Windows XP Professional x64 Edition および Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=50fae854-0bde-46f8-9444-b9e0d9bfecad)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -526,31 +526,31 @@ Windows Server 2003
 **セキュリティ情報 ID 番号**
 </td>
 <td style="border:1px solid black;">
-[**MS08-067**](http://technet.microsoft.com/security/bulletin/ms08-067)
+[**MS08-067**](https://technet.microsoft.com/security/bulletin/ms08-067)
 </td>
 <td style="border:1px solid black;">
-[**MS08-060**](http://technet.microsoft.com/security/bulletin/ms08-060)
+[**MS08-060**](https://technet.microsoft.com/security/bulletin/ms08-060)
 </td>
 <td style="border:1px solid black;">
-[**MS08-058**](http://technet.microsoft.com/security/bulletin/ms08-058)
+[**MS08-058**](https://technet.microsoft.com/security/bulletin/ms08-058)
 </td>
 <td style="border:1px solid black;">
-[**MS08-066**](http://technet.microsoft.com/security/bulletin/ms08-066)
+[**MS08-066**](https://technet.microsoft.com/security/bulletin/ms08-066)
 </td>
 <td style="border:1px solid black;">
-[**MS08-061**](http://technet.microsoft.com/security/bulletin/ms08-061)
+[**MS08-061**](https://technet.microsoft.com/security/bulletin/ms08-061)
 </td>
 <td style="border:1px solid black;">
-[**MS08-062**](http://technet.microsoft.com/security/bulletin/ms08-062)
+[**MS08-062**](https://technet.microsoft.com/security/bulletin/ms08-062)
 </td>
 <td style="border:1px solid black;">
-[**MS08-063**](http://technet.microsoft.com/security/bulletin/ms08-063)
+[**MS08-063**](https://technet.microsoft.com/security/bulletin/ms08-063)
 </td>
 <td style="border:1px solid black;">
-[**MS08-064**](http://technet.microsoft.com/security/bulletin/ms08-064)
+[**MS08-064**](https://technet.microsoft.com/security/bulletin/ms08-064)
 </td>
 <td style="border:1px solid black;">
-[**MS08-065**](http://technet.microsoft.com/security/bulletin/ms08-065)
+[**MS08-065**](https://technet.microsoft.com/security/bulletin/ms08-065)
 </td>
 </tr>
 <tr>
@@ -558,31 +558,31 @@ Windows Server 2003
 **最大深刻度**
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -590,36 +590,36 @@ Windows Server 2003
 Windows Server 2003 Service Pack 1 および Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 1 および Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=f26d395d-2459-4e40-8c92-3de1c52c390d)  
+[Windows Server 2003 Service Pack 1 および Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=f26d395d-2459-4e40-8c92-3de1c52c390d)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=ae8d22d5-20aa-471d-a423-f54c9d75febe)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=ae8d22d5-20aa-471d-a423-f54c9d75febe)  
 (警告)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=feaf2adf-7892-4dbf-a147-db4d5dbe52f3)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=feaf2adf-7892-4dbf-a147-db4d5dbe52f3)  
 (注意)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 1 および Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=ee88ff2d-1b12-4f4c-a081-9f27a6fba074)  
+[Windows Server 2003 Service Pack 1 および Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=ee88ff2d-1b12-4f4c-a081-9f27a6fba074)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 1 および Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=6e696762-d652-4a8f-ab8f-622f9746c320)  
+[Windows Server 2003 Service Pack 1 および Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=6e696762-d652-4a8f-ab8f-622f9746c320)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 1 および Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=437a9b68-6a0c-48c8-9348-0d6fda48aa21)  
+[Windows Server 2003 Service Pack 1 および Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=437a9b68-6a0c-48c8-9348-0d6fda48aa21)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 1 および Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=dbbebb3f-f1c7-402c-bd16-6f88da0d042c)  
+[Windows Server 2003 Service Pack 1 および Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=dbbebb3f-f1c7-402c-bd16-6f88da0d042c)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 1 および Windows Server 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=e8ef3d5f-dd8e-4945-92cd-9d3e30b16667)  
+[Windows Server 2003 Service Pack 1 および Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=e8ef3d5f-dd8e-4945-92cd-9d3e30b16667)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -631,36 +631,36 @@ Windows Server 2003 Service Pack 1 および Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition および Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition および Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=c04d2afb-f9d0-4e42-9e1f-4b944a2de400)  
+[Windows Server 2003 x64 Edition および Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=c04d2afb-f9d0-4e42-9e1f-4b944a2de400)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=07fc88c4-2571-4a4d-b573-ae576798ab4c)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=07fc88c4-2571-4a4d-b573-ae576798ab4c)  
 (警告)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=319dba34-07ca-47f9-a1e9-20df2df7966b)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=319dba34-07ca-47f9-a1e9-20df2df7966b)  
 (注意)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition および Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=ab4d94d3-458c-4946-ab7f-03a279629d25)  
+[Windows Server 2003 x64 Edition および Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=ab4d94d3-458c-4946-ab7f-03a279629d25)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition および Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=57ca28ea-e5e1-4191-a3d6-84aa90a3d668)  
+[Windows Server 2003 x64 Edition および Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=57ca28ea-e5e1-4191-a3d6-84aa90a3d668)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition および Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=d3df6508-a568-449d-ac97-fbf3f97b98ef)  
+[Windows Server 2003 x64 Edition および Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=d3df6508-a568-449d-ac97-fbf3f97b98ef)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition および Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=989ac6f1-515c-467d-a200-2aabe66d9319)  
+[Windows Server 2003 x64 Edition および Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=989ac6f1-515c-467d-a200-2aabe66d9319)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition および Windows Server 2003 x64 Edition Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=c2e754f9-086a-494c-bc19-5feed7df8b65)  
+[Windows Server 2003 x64 Edition および Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=c2e754f9-086a-494c-bc19-5feed7df8b65)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -672,36 +672,36 @@ Windows Server 2003 x64 Edition および Windows Server 2003 x64 Edition Servic
 Windows Server 2003 with SP1 for Itanium-based Systems および Windows Server 2003 with SP2 for Itanium-based Systems
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 with SP1 for Itanium-based Systems および Windows Server 2003 with SP2 for Itanium-based Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=ab590756-f11f-43c9-9dcc-a85a43077acf)  
+[Windows Server 2003 with SP1 for Itanium-based Systems および Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=ab590756-f11f-43c9-9dcc-a85a43077acf)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Explorer 6](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=b68937af-f04a-4d1e-9d7f-ec92af5194de)  
+[Microsoft Internet Explorer 6](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=b68937af-f04a-4d1e-9d7f-ec92af5194de)  
 (警告)  
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=47381d91-4a14-4a09-96b3-3345155df52d)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=47381d91-4a14-4a09-96b3-3345155df52d)  
 (注意)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 with SP1 for Itanium-based Systems および Windows Server 2003 with SP2 for Itanium-based Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=63234f85-6e5d-4ef6-b7cf-d1d2c78a5517)  
+[Windows Server 2003 with SP1 for Itanium-based Systems および Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=63234f85-6e5d-4ef6-b7cf-d1d2c78a5517)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 with SP1 for Itanium-based Systems および Windows Server 2003 with SP2 for Itanium-based Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=1e6c3f81-85bb-48e6-a5af-635a7e540c93)  
+[Windows Server 2003 with SP1 for Itanium-based Systems および Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=1e6c3f81-85bb-48e6-a5af-635a7e540c93)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 with SP1 for Itanium-based Systems および Windows Server 2003 with SP2 for Itanium-based Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=748f54f1-40b9-407c-9819-909061b53743)  
+[Windows Server 2003 with SP1 for Itanium-based Systems および Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=748f54f1-40b9-407c-9819-909061b53743)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 with SP1 for Itanium-based Systems および Windows Server 2003 with SP2 for Itanium-based Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=91589cfb-15ba-4dd2-9e3b-107899fbcba6)  
+[Windows Server 2003 with SP1 for Itanium-based Systems および Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=91589cfb-15ba-4dd2-9e3b-107899fbcba6)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 with SP1 for Itanium-based Systems および Windows Server 2003 with SP2 for Itanium-based Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=5a3832ec-3f8f-42c1-a603-b1330d527547)  
+[Windows Server 2003 with SP1 for Itanium-based Systems および Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=5a3832ec-3f8f-42c1-a603-b1330d527547)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -718,31 +718,31 @@ Windows Vista
 **セキュリティ情報 ID 番号**
 </td>
 <td style="border:1px solid black;">
-[**MS08-067**](http://technet.microsoft.com/security/bulletin/ms08-067)
+[**MS08-067**](https://technet.microsoft.com/security/bulletin/ms08-067)
 </td>
 <td style="border:1px solid black;">
-[**MS08-060**](http://technet.microsoft.com/security/bulletin/ms08-060)
+[**MS08-060**](https://technet.microsoft.com/security/bulletin/ms08-060)
 </td>
 <td style="border:1px solid black;">
-[**MS08-058**](http://technet.microsoft.com/security/bulletin/ms08-058)
+[**MS08-058**](https://technet.microsoft.com/security/bulletin/ms08-058)
 </td>
 <td style="border:1px solid black;">
-[**MS08-066**](http://technet.microsoft.com/security/bulletin/ms08-066)
+[**MS08-066**](https://technet.microsoft.com/security/bulletin/ms08-066)
 </td>
 <td style="border:1px solid black;">
-[**MS08-061**](http://technet.microsoft.com/security/bulletin/ms08-061)
+[**MS08-061**](https://technet.microsoft.com/security/bulletin/ms08-061)
 </td>
 <td style="border:1px solid black;">
-[**MS08-062**](http://technet.microsoft.com/security/bulletin/ms08-062)
+[**MS08-062**](https://technet.microsoft.com/security/bulletin/ms08-062)
 </td>
 <td style="border:1px solid black;">
-[**MS08-063**](http://technet.microsoft.com/security/bulletin/ms08-063)
+[**MS08-063**](https://technet.microsoft.com/security/bulletin/ms08-063)
 </td>
 <td style="border:1px solid black;">
-[**MS08-064**](http://technet.microsoft.com/security/bulletin/ms08-064)
+[**MS08-064**](https://technet.microsoft.com/security/bulletin/ms08-064)
 </td>
 <td style="border:1px solid black;">
-[**MS08-065**](http://technet.microsoft.com/security/bulletin/ms08-065)
+[**MS08-065**](https://technet.microsoft.com/security/bulletin/ms08-065)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -750,31 +750,31 @@ Windows Vista
 **最大深刻度**
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -782,33 +782,33 @@ Windows Vista
 Windows Vista および Windows Vista Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows Vista および Windows Vista Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=18fdff67-c723-42bd-ac5c-cac7d8713b21)  
+[Windows Vista および Windows Vista Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=18fdff67-c723-42bd-ac5c-cac7d8713b21)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=4756e04b-6e1c-4d78-a3c0-17f6b4b97975)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=4756e04b-6e1c-4d78-a3c0-17f6b4b97975)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Vista および Windows Vista Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=3483b400-cedc-441f-ba8e-594e3df89190)  
+[Windows Vista および Windows Vista Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=3483b400-cedc-441f-ba8e-594e3df89190)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista および Windows Vista Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=9b5995df-a3b8-4e81-b118-9bb057e19884)  
+[Windows Vista および Windows Vista Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=9b5995df-a3b8-4e81-b118-9bb057e19884)  
 (なし)\*\*\*
 </td>
 <td style="border:1px solid black;">
-[Windows Vista および Windows Vista Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=72dd6015-25d1-45f4-a769-88ac43074b44)  
+[Windows Vista および Windows Vista Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=72dd6015-25d1-45f4-a769-88ac43074b44)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista および Windows Vista Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=b4212db5-093e-497d-b999-2e3780f9f7c2)  
+[Windows Vista および Windows Vista Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=b4212db5-093e-497d-b999-2e3780f9f7c2)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -820,33 +820,33 @@ Windows Vista および Windows Vista Service Pack 1
 Windows Vista x64 Edition および Windows Vista x64 Edition Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition および Windows Vista x64 Edition Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=a976999d-264f-4e6a-9bd6-3ad9d214a4bd)  
+[Windows Vista x64 Edition および Windows Vista x64 Edition Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=a976999d-264f-4e6a-9bd6-3ad9d214a4bd)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=bd19c72b-4f83-47ab-93be-d2c286e732c4)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=bd19c72b-4f83-47ab-93be-d2c286e732c4)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition および Windows Vista x64 Edition Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=905ab030-14a5-4a3d-aa11-e8f957f6a1ea)  
+[Windows Vista x64 Edition および Windows Vista x64 Edition Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=905ab030-14a5-4a3d-aa11-e8f957f6a1ea)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition および Windows Vista x64 Edition Service Pack 1](http://www.microsoft.com/downloads/details.aspx?familyid=4a0fcf4b-eb8e-456a-b934-400ae18248ee&displaylang=ja)  
+[Windows Vista x64 Edition および Windows Vista x64 Edition Service Pack 1](https://www.microsoft.com/download/details.aspx?familyid=4a0fcf4b-eb8e-456a-b934-400ae18248ee&displaylang=ja)  
 (なし)\*\*\*
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition および Windows Vista x64 Edition Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=f793af16-5464-4db1-a42b-1c5f17c538ed)  
+[Windows Vista x64 Edition および Windows Vista x64 Edition Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=f793af16-5464-4db1-a42b-1c5f17c538ed)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition および Windows Vista x64 Edition Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=c20808cb-c30a-4b53-91e5-810eb6b4b2e3)  
+[Windows Vista x64 Edition および Windows Vista x64 Edition Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=c20808cb-c30a-4b53-91e5-810eb6b4b2e3)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -863,31 +863,31 @@ Windows Server 2008
 **セキュリティ情報 ID 番号**
 </td>
 <td style="border:1px solid black;">
-[**MS08-067**](http://technet.microsoft.com/security/bulletin/ms08-067)
+[**MS08-067**](https://technet.microsoft.com/security/bulletin/ms08-067)
 </td>
 <td style="border:1px solid black;">
-[**MS08-060**](http://technet.microsoft.com/security/bulletin/ms08-060)
+[**MS08-060**](https://technet.microsoft.com/security/bulletin/ms08-060)
 </td>
 <td style="border:1px solid black;">
-[**MS08-058**](http://technet.microsoft.com/security/bulletin/ms08-058)
+[**MS08-058**](https://technet.microsoft.com/security/bulletin/ms08-058)
 </td>
 <td style="border:1px solid black;">
-[**MS08-066**](http://technet.microsoft.com/security/bulletin/ms08-066)
+[**MS08-066**](https://technet.microsoft.com/security/bulletin/ms08-066)
 </td>
 <td style="border:1px solid black;">
-[**MS08-061**](http://technet.microsoft.com/security/bulletin/ms08-061)
+[**MS08-061**](https://technet.microsoft.com/security/bulletin/ms08-061)
 </td>
 <td style="border:1px solid black;">
-[**MS08-062**](http://technet.microsoft.com/security/bulletin/ms08-062)
+[**MS08-062**](https://technet.microsoft.com/security/bulletin/ms08-062)
 </td>
 <td style="border:1px solid black;">
-[**MS08-063**](http://technet.microsoft.com/security/bulletin/ms08-063)
+[**MS08-063**](https://technet.microsoft.com/security/bulletin/ms08-063)
 </td>
 <td style="border:1px solid black;">
-[**MS08-064**](http://technet.microsoft.com/security/bulletin/ms08-064)
+[**MS08-064**](https://technet.microsoft.com/security/bulletin/ms08-064)
 </td>
 <td style="border:1px solid black;">
-[**MS08-065**](http://technet.microsoft.com/security/bulletin/ms08-065)
+[**MS08-065**](https://technet.microsoft.com/security/bulletin/ms08-065)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -895,31 +895,31 @@ Windows Server 2008
 **最大深刻度**
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**重要**](http://technet.microsoft.com/security/bulletin/rating)
+[**重要**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -927,33 +927,33 @@ Windows Server 2008
 Windows Server 2008 for 32-bit Systems
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for 32-bit Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=25c17b07-1efe-43d7-9b01-3dfdf1ce0bd7)\*  
+[Windows Server 2008 for 32-bit Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=25c17b07-1efe-43d7-9b01-3dfdf1ce0bd7)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=ec73f416-2204-42d6-8932-c96578ac819f)\*\*  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=ec73f416-2204-42d6-8932-c96578ac819f)\*\*  
 (注意)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for 32-bit Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=8b97114a-71aa-47a2-b9e7-f4e158c18c80)\*  
+[Windows Server 2008 for 32-bit Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=8b97114a-71aa-47a2-b9e7-f4e158c18c80)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for 32-bit Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=3d6290d8-1745-4bc0-9ca9-eeb1ad0be4a5)\*  
+[Windows Server 2008 for 32-bit Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=3d6290d8-1745-4bc0-9ca9-eeb1ad0be4a5)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for 32-bit Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=cf6744e6-b54c-40f6-a78d-7ba9453133c0)\*  
+[Windows Server 2008 for 32-bit Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=cf6744e6-b54c-40f6-a78d-7ba9453133c0)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for 32-bit Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=ec9eeb82-0497-4c55-94bb-9a47cb3521b4)\*  
+[Windows Server 2008 for 32-bit Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=ec9eeb82-0497-4c55-94bb-9a47cb3521b4)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -965,33 +965,33 @@ Windows Server 2008 for 32-bit Systems
 Windows Server 2008 for x64-based Systems
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for x64-based Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=7b12018e-0cc1-4136-a68c-be4e1633c8df)\*  
+[Windows Server 2008 for x64-based Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=7b12018e-0cc1-4136-a68c-be4e1633c8df)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=baacd1c2-9764-4fea-bd4d-c49791974fef)\*\*  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=baacd1c2-9764-4fea-bd4d-c49791974fef)\*\*  
 (注意)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for x64-based Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=6e641db2-90c8-458f-9795-3e46b70a5203)\*  
+[Windows Server 2008 for x64-based Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=6e641db2-90c8-458f-9795-3e46b70a5203)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for x64-based Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=a33c833c-d5c5-4e37-8f89-7b9079f92e59)\*  
+[Windows Server 2008 for x64-based Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=a33c833c-d5c5-4e37-8f89-7b9079f92e59)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for x64-based Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=223236e8-7b19-4b47-8a90-bfc35eb9318a)\*  
+[Windows Server 2008 for x64-based Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=223236e8-7b19-4b47-8a90-bfc35eb9318a)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for x64-based Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=0bc178b8-f8ae-4f41-8f88-fb6a75be1bca)\*  
+[Windows Server 2008 for x64-based Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=0bc178b8-f8ae-4f41-8f88-fb6a75be1bca)\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -1003,33 +1003,33 @@ Windows Server 2008 for x64-based Systems
 Windows Server 2008 for Itanium-based Systems
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for Itanium-based Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=2bcf89ef-6446-406c-9c53-222e0f0baf7a)  
+[Windows Server 2008 for Itanium-based Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=2bcf89ef-6446-406c-9c53-222e0f0baf7a)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Internet Explorer 7](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=250a45dd-7eae-4440-bd10-02a703940976)  
+[Windows Internet Explorer 7](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=250a45dd-7eae-4440-bd10-02a703940976)  
 (注意)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for Itanium-based Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=b6546e1c-bf7b-4354-8574-6c16fa707de0)  
+[Windows Server 2008 for Itanium-based Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=b6546e1c-bf7b-4354-8574-6c16fa707de0)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for Itanium-based Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=31783e88-76e2-4bc6-b4ae-308443c6d223)  
+[Windows Server 2008 for Itanium-based Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=31783e88-76e2-4bc6-b4ae-308443c6d223)  
 (なし)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for Itanium-based Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=077b697c-04a0-45bd-b08c-331d5c30cb47)  
+[Windows Server 2008 for Itanium-based Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=077b697c-04a0-45bd-b08c-331d5c30cb47)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for Itanium-based Systems](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=0af72663-4945-4916-8c55-090ba4d82793)  
+[Windows Server 2008 for Itanium-based Systems](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=0af72663-4945-4916-8c55-090ba4d82793)  
 (重要)
 </td>
 <td style="border:1px solid black;">
@@ -1041,11 +1041,11 @@ Windows Server 2008 for Itanium-based Systems
 <p></p>
 
  
-**\*Windows Server 2008 Server Core インストールは影響を受けます。** サポートされているエディションの Windows Server 2008 では、Server Core インストール オプションを使用してインストールされているかどうかに関わらず、同じ深刻度でこの更新プログラムが適用されます。このインストール オプションに関する詳細情報は、[Server Core](http://www.microsoft.com/japan/windowsserver2008/servercore.mspx) をご覧ください。Windows Server 2008 の特定のエディションでは、Server Core インストール オプションが使用できないことに注意してください。詳細は、[Server Core インストールオプションの比較](http://www.microsoft.com/japan/windowsserver2008/editions/core.mspx) をご覧ください。
+**\*Windows Server 2008 Server Core インストールは影響を受けます。** サポートされているエディションの Windows Server 2008 では、Server Core インストール オプションを使用してインストールされているかどうかに関わらず、同じ深刻度でこの更新プログラムが適用されます。このインストール オプションに関する詳細情報は、[Server Core](https://www.microsoft.com/japan/windowsserver2008/servercore.mspx) をご覧ください。Windows Server 2008 の特定のエディションでは、Server Core インストール オプションが使用できないことに注意してください。詳細は、[Server Core インストールオプションの比較](https://www.microsoft.com/japan/windowsserver2008/editions/core.mspx) をご覧ください。
 
-**\*\*Windows Server 2008 Server Core インストールは影響を受けません。** これらの更新プログラムで解決している脆弱性は、Server Core インストール オプションを使用して Windows Server 2008 をインストールした場合、サポートされているエディションの Windows Server 2008 に影響を与えません。このインストール オプションに関する詳細情報は、[Server Core](http://www.microsoft.com/japan/windowsserver2008/servercore.mspx) をご覧ください。Windows Server 2008 の特定のエディションでは、Server Core インストール オプションが使用できないことに注意してください。詳細は、[Server Core インストールオプションの比較](http://www.microsoft.com/japan/windowsserver2008/editions/core.mspx) をご覧ください。
+**\*\*Windows Server 2008 Server Core インストールは影響を受けません。** これらの更新プログラムで解決している脆弱性は、Server Core インストール オプションを使用して Windows Server 2008 をインストールした場合、サポートされているエディションの Windows Server 2008 に影響を与えません。このインストール オプションに関する詳細情報は、[Server Core](https://www.microsoft.com/japan/windowsserver2008/servercore.mspx) をご覧ください。Windows Server 2008 の特定のエディションでは、Server Core インストール オプションが使用できないことに注意してください。詳細は、[Server Core インストールオプションの比較](https://www.microsoft.com/japan/windowsserver2008/editions/core.mspx) をご覧ください。
 
-<strong>\*\*\*</strong> この深刻度に関する詳細は、[MS08-062](http://technet.microsoft.com/security/bulletin/ms08-062) の「このセキュリティ更新プログラムに関するよく寄せられる質問 (FAQ)」をご覧ください。
+<strong>\*\*\*</strong> この深刻度に関する詳細は、[MS08-062](https://technet.microsoft.com/security/bulletin/ms08-062) の「このセキュリティ更新プログラムに関するよく寄せられる質問 (FAQ)」をご覧ください。
 
 #### Microsoft Office スイートおよびソフトウェア
 
@@ -1071,10 +1071,10 @@ Microsoft Office スイート、システム、およびコンポーネント
 **セキュリティ情報 ID 番号**
 </td>
 <td style="border:1px solid black;">
-[**MS08-057**](http://technet.microsoft.com/security/bulletin/ms08-057)
+[**MS08-057**](https://technet.microsoft.com/security/bulletin/ms08-057)
 </td>
 <td style="border:1px solid black;">
-[**MS08-056**](http://technet.microsoft.com/security/bulletin/ms08-056)
+[**MS08-056**](https://technet.microsoft.com/security/bulletin/ms08-056)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1082,10 +1082,10 @@ Microsoft Office スイート、システム、およびコンポーネント
 **最大深刻度**
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**警告**](http://technet.microsoft.com/security/bulletin/rating)
+[**警告**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1093,7 +1093,7 @@ Microsoft Office スイート、システム、およびコンポーネント
 Microsoft Office 2000 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Excel 2000 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=1b2740e0-ecdd-48ca-84e0-eb187c31eb16)  
+[Excel 2000 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=1b2740e0-ecdd-48ca-84e0-eb187c31eb16)  
 (KB955461)  
 (緊急)
 </td>
@@ -1106,12 +1106,12 @@ Microsoft Office 2000 Service Pack 3
 Microsoft Office XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Excel 2002 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=27cedef1-c47c-472c-a343-cd9b4ebc2bba)  
+[Excel 2002 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=27cedef1-c47c-472c-a343-cd9b4ebc2bba)  
 (KB955464)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office XP Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=b1aee2d5-bfa0-40e3-91b6-98bf65524e8c)  
+[Microsoft Office XP Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=b1aee2d5-bfa0-40e3-91b6-98bf65524e8c)  
 (KB956464)  
 (警告)
 </td>
@@ -1121,10 +1121,10 @@ Microsoft Office XP Service Pack 3
 Microsoft Office 2003 Service Pack 2 および Microsoft Office 2003 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Excel 2003 Service Pack 2](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=4df27e8a-d803-483b-a700-0177d71bf368)  
+[Excel 2003 Service Pack 2](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=4df27e8a-d803-483b-a700-0177d71bf368)  
 (KB955466)  
 (重要)  
-[Excel 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=4df27e8a-d803-483b-a700-0177d71bf368)  
+[Excel 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=4df27e8a-d803-483b-a700-0177d71bf368)  
 (KB955466)  
 (重要)
 </td>
@@ -1137,10 +1137,10 @@ Microsoft Office 2003 Service Pack 2 および Microsoft Office 2003 Service Pac
 2007 Microsoft Office System および 2007 Microsoft Office System Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Excel 2007](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=2765bbc0-ea2e-4b6e-822c-222ee8e5021f)  
+[Excel 2007](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=2765bbc0-ea2e-4b6e-822c-222ee8e5021f)  
 (KB955470)  
 (重要)  
-[Excel 2007 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=2765bbc0-ea2e-4b6e-822c-222ee8e5021f)  
+[Excel 2007 Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=2765bbc0-ea2e-4b6e-822c-222ee8e5021f)  
 (KB955470)  
 (重要)
 </td>
@@ -1158,10 +1158,10 @@ Microsoft Office for Mac
 **セキュリティ情報 ID 番号**
 </td>
 <td style="border:1px solid black;">
-[**MS08-057**](http://technet.microsoft.com/security/bulletin/ms08-057)
+[**MS08-057**](https://technet.microsoft.com/security/bulletin/ms08-057)
 </td>
 <td style="border:1px solid black;">
-[**MS08-056**](http://technet.microsoft.com/security/bulletin/ms08-056)
+[**MS08-056**](https://technet.microsoft.com/security/bulletin/ms08-056)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1169,10 +1169,10 @@ Microsoft Office for Mac
 **最大深刻度**
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**警告**](http://technet.microsoft.com/security/bulletin/rating)
+[**警告**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1180,7 +1180,7 @@ Microsoft Office for Mac
 Microsoft Office 2004 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2004 for Mac](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=ba4fa21a-7e01-4ef8-9b9f-9d51d00ef094)  
+[Microsoft Office 2004 for Mac](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=ba4fa21a-7e01-4ef8-9b9f-9d51d00ef094)  
 (KB958312)  
 (重要)
 </td>
@@ -1193,7 +1193,7 @@ Microsoft Office 2004 for Mac
 Microsoft Office 2008 for Mac
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2008 for Mac](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=e70c5ae0-2858-46de-81f8-dcd1786656b7)  
+[Microsoft Office 2008 for Mac](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=e70c5ae0-2858-46de-81f8-dcd1786656b7)  
 (KB958267)  
 (重要)
 </td>
@@ -1206,7 +1206,7 @@ Microsoft Office 2008 for Mac
 Open XML File Format Converter for Mac
 </td>
 <td style="border:1px solid black;">
-[Open XML File Format Converter for Mac](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=2a8d9a3b-b8a4-43b6-82a6-a2e7d16ae11d)  
+[Open XML File Format Converter for Mac](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=2a8d9a3b-b8a4-43b6-82a6-a2e7d16ae11d)  
 (KB958304)  
 (重要)
 </td>
@@ -1224,10 +1224,10 @@ Open XML File Format Converter for Mac
 **セキュリティ情報 ID 番号**
 </td>
 <td style="border:1px solid black;">
-[**MS08-057**](http://technet.microsoft.com/security/bulletin/ms08-057)
+[**MS08-057**](https://technet.microsoft.com/security/bulletin/ms08-057)
 </td>
 <td style="border:1px solid black;">
-[**MS08-056**](http://technet.microsoft.com/security/bulletin/ms08-056)
+[**MS08-056**](https://technet.microsoft.com/security/bulletin/ms08-056)
 </td>
 </tr>
 <tr>
@@ -1235,10 +1235,10 @@ Open XML File Format Converter for Mac
 **最大深刻度**
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 <td style="border:1px solid black;">
-[**警告**](http://technet.microsoft.com/security/bulletin/rating)
+[**警告**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1246,13 +1246,13 @@ Open XML File Format Converter for Mac
 Microsoft Office Excel Viewer
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Excel Viewer 2003](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=9769ce08-5207-4c63-b7b9-536266ad6b2b)  
+[Microsoft Office Excel Viewer 2003](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=9769ce08-5207-4c63-b7b9-536266ad6b2b)  
 (KB955468)  
 (重要)  
-[Microsoft Office Excel Viewer 2003 Service Pack 3](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=9769ce08-5207-4c63-b7b9-536266ad6b2b)  
+[Microsoft Office Excel Viewer 2003 Service Pack 3](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=9769ce08-5207-4c63-b7b9-536266ad6b2b)  
 (KB955468)  
 (重要)  
-[Microsoft Office Excel Viewer](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=83c88444-75b8-44d1-b280-3671394ade45)  
+[Microsoft Office Excel Viewer](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=83c88444-75b8-44d1-b280-3671394ade45)  
 (KB955935)  
 (重要)
 </td>
@@ -1265,10 +1265,10 @@ Microsoft Office Excel Viewer
 Word/Excel/PowerPoint 2007 ファイル形式用 Microsoft Office 互換機能パック
 </td>
 <td style="border:1px solid black;">
-[Word/Excel/PowerPoint 2007 ファイル形式用 Microsoft Office 互換機能パック](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=9a7be004-5903-4101-90c5-c0d5f8722af9)  
+[Word/Excel/PowerPoint 2007 ファイル形式用 Microsoft Office 互換機能パック](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=9a7be004-5903-4101-90c5-c0d5f8722af9)  
 (KB955936)  
 (重要)  
-[Word/Excel/PowerPoint 2007 ファイル形式用 Microsoft Office 互換機能パック Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=9a7be004-5903-4101-90c5-c0d5f8722af9)  
+[Word/Excel/PowerPoint 2007 ファイル形式用 Microsoft Office 互換機能パック Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=9a7be004-5903-4101-90c5-c0d5f8722af9)  
 (KB955936)  
 (重要)
 </td>
@@ -1281,16 +1281,16 @@ Word/Excel/PowerPoint 2007 ファイル形式用 Microsoft Office 互換機能�
 Microsoft Office SharePoint Server 2007
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office SharePoint Server 2007](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=5c29e646-504c-4455-9d35-9a1bed6d7535)\*  
+[Microsoft Office SharePoint Server 2007](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=5c29e646-504c-4455-9d35-9a1bed6d7535)\*  
 (KB955937)  
 (重要)  
-[Microsoft Office SharePoint Server 2007 Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=5c29e646-504c-4455-9d35-9a1bed6d7535)\*  
+[Microsoft Office SharePoint Server 2007 Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=5c29e646-504c-4455-9d35-9a1bed6d7535)\*  
 (KB955937)  
 (重要)  
-[Microsoft Office SharePoint Server 2007 x64 Edition](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=3c21c405-2c9e-45d0-be4d-8ccd093af31f)\*  
+[Microsoft Office SharePoint Server 2007 x64 Edition](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=3c21c405-2c9e-45d0-be4d-8ccd093af31f)\*  
 (KB955937)  
 (重要)  
-[Microsoft Office SharePoint Server 2007 x64 Edition Service Pack 1](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=3c21c405-2c9e-45d0-be4d-8ccd093af31f)\*  
+[Microsoft Office SharePoint Server 2007 x64 Edition Service Pack 1](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=3c21c405-2c9e-45d0-be4d-8ccd093af31f)\*  
 (KB955937)  
 (重要)
 </td>
@@ -1327,7 +1327,7 @@ Microsoft Host Integration Server
 **セキュリティ情報 ID 番号**
 </td>
 <td style="border:1px solid black;">
-[**MS08-059**](http://technet.microsoft.com/security/bulletin/ms08-059)
+[**MS08-059**](https://technet.microsoft.com/security/bulletin/ms08-059)
 </td>
 </tr>
 <tr class="alternateRow">
@@ -1335,7 +1335,7 @@ Microsoft Host Integration Server
 **最大深刻度**
 </td>
 <td style="border:1px solid black;">
-[**緊急**](http://technet.microsoft.com/security/bulletin/rating)
+[**緊急**](https://technet.microsoft.com/security/bulletin/rating)
 </td>
 </tr>
 <tr>
@@ -1343,9 +1343,9 @@ Microsoft Host Integration Server
 Microsoft Host Integration Server 2000
 </td>
 <td style="border:1px solid black;">
-[Microsoft Host Integration Server 2000 Service Pack 2 (サーバー)](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=11cca58b-59a4-4e93-9eb1-19b07c290a10)  
+[Microsoft Host Integration Server 2000 Service Pack 2 (サーバー)](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=11cca58b-59a4-4e93-9eb1-19b07c290a10)  
 (緊急)  
-[Microsoft Host Integration Server 2000 管理クライアント](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=41b49291-1231-4e23-aef7-818207453d56)  
+[Microsoft Host Integration Server 2000 管理クライアント](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=41b49291-1231-4e23-aef7-818207453d56)  
 (緊急)
 </td>
 </tr>
@@ -1354,13 +1354,13 @@ Microsoft Host Integration Server 2000
 Microsoft Host Integration Server 2004
 </td>
 <td style="border:1px solid black;">
-[Microsoft Host Integration Server 2004 (サーバー)](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=9ca255ed-9334-4848-af94-49ef3078cdc0)  
+[Microsoft Host Integration Server 2004 (サーバー)](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=9ca255ed-9334-4848-af94-49ef3078cdc0)  
 (緊急)  
-[Microsoft Host Integration Server 2004 Service Pack 1 (サーバー)](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=eca756a1-ca56-4481-b23c-53c159a4e08c)  
+[Microsoft Host Integration Server 2004 Service Pack 1 (サーバー)](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=eca756a1-ca56-4481-b23c-53c159a4e08c)  
 (緊急)  
-[Microsoft Host Integration Server 2004 (クライアント)](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=92cb54e7-f4ff-40a4-99cb-6257c4d8d4cd)  
+[Microsoft Host Integration Server 2004 (クライアント)](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=92cb54e7-f4ff-40a4-99cb-6257c4d8d4cd)  
 (緊急)  
-[Microsoft Host Integration Server 2004 Service Pack 1 (クライアント)](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=d776515c-09aa-4a04-876d-606bfc26a006)  
+[Microsoft Host Integration Server 2004 Service Pack 1 (クライアント)](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=d776515c-09aa-4a04-876d-606bfc26a006)  
 (緊急)
 </td>
 </tr>
@@ -1369,9 +1369,9 @@ Microsoft Host Integration Server 2004
 Microsoft Host Integration Server 2006
 </td>
 <td style="border:1px solid black;">
-[Microsoft Host Integration Server 2006 for 32-bit Systems](http://www.microsoft.com/downloads/details.aspx?familyid=1ae79da3-ec17-4d4b-8011-d777a237ac93)  
+[Microsoft Host Integration Server 2006 for 32-bit Systems](https://www.microsoft.com/download/details.aspx?familyid=1ae79da3-ec17-4d4b-8011-d777a237ac93)  
 (緊急)  
-[Microsoft Host Integration Server 2006 for x64-based Systems](http://www.microsoft.com/downloads/details.aspx?familyid=05da4540-4976-458a-a612-7385d78695a2)  
+[Microsoft Host Integration Server 2006 for x64-based Systems](https://www.microsoft.com/download/details.aspx?familyid=05da4540-4976-458a-a612-7385d78695a2)  
 (緊急)
 </td>
 </tr>
@@ -1387,31 +1387,31 @@ Microsoft Host Integration Server 2006
  
 **セキュリティ セントラル**
 
-組織のサーバー、デスクトップ、モバイル コンピューターに適用する必要があるソフトウェアおよびセキュリティ更新プログラムを管理してください。詳細情報は、[TechNet 更新プログラム管理](http://technet.microsoft.com/ja-jp/updatemanagement/default.aspx)をご覧ください。[Microsoft TechNet セキュリティ センター](http://technet.microsoft.com/ja-jp/security/default.aspx)では、製品に関するセキュリティ情報を提供しています。
+組織のサーバー、デスクトップ、モバイル コンピューターに適用する必要があるソフトウェアおよびセキュリティ更新プログラムを管理してください。詳細情報は、[TechNet 更新プログラム管理](https://technet.microsoft.com/ja-jp/updatemanagement/default.aspx)をご覧ください。[Microsoft TechNet セキュリティ センター](https://technet.microsoft.com/ja-jp/security/default.aspx)では、製品に関するセキュリティ情報を提供しています。
 
-コンシューマーのお客様は [セキュリティ At Home](http://www.microsoft.com/japan/protect) をご覧ください。この情報は「最新のセキュリティ更新プログラムを入手する」をクリックすることによってもご覧いただけます。
+コンシューマーのお客様は [セキュリティ At Home](https://www.microsoft.com/japan/protect) をご覧ください。この情報は「最新のセキュリティ更新プログラムを入手する」をクリックすることによってもご覧いただけます。
 
-セキュリティ更新プログラムは [Microsoft Update](http://update.microsoft.com/microsoftupdate/)、[Windows Update](http://windowsupdate.microsoft.com/) および [Office Update](http://go.microsoft.com/fwlink/?linkid=21135) から利用可能です。セキュリティ更新プログラムは[マイクロソフト ダウンロード センター](http://www.microsoft.com/downloads/results.aspx?displaylang=ja&freetext=security%20update)からダウンロードすることができます。「security update」のキーワード探索によって容易に見つけることができます。さらに、セキュリティ更新プログラムは Windows Update カタログからダウンロードできます。「アップデートのカタログ」の関連情報を参照するには、サポート技術情報 [323166](http://support.microsoft.com/kb/323166) をご覧ください。
+セキュリティ更新プログラムは [Microsoft Update](https://update.microsoft.com/microsoftupdate/)、[Windows Update](https://windowsupdate.microsoft.com/) および [Office Update](https://go.microsoft.com/fwlink/?linkid=21135) から利用可能です。セキュリティ更新プログラムは[マイクロソフト ダウンロード センター](https://www.microsoft.com/downloads/results.aspx?displaylang=ja&freetext=security%20update)からダウンロードすることができます。「security update」のキーワード探索によって容易に見つけることができます。さらに、セキュリティ更新プログラムは Windows Update カタログからダウンロードできます。「アップデートのカタログ」の関連情報を参照するには、サポート技術情報 [323166](https://support.microsoft.com/kb/323166) をご覧ください。
 
 **検出および適用のガイダンス**
 
-マイクロソフトは今月のセキュリティ更新プログラムについての検出および適用のガイダンスを提供しました。このガイダンスは、IT プロフェッショナルが Windows Update、Microsoft Update、Office Update、Microsoft Baseline Security Analyzer (MBSA)、Office 検出 Tool、Microsoft Systems Management Server (SMS)、Extended Security Update Inventory Tool および Enterprise Update Scan Tool (EST) など、各種ツールを使用したセキュリティ更新プログラムの適用方法を理解するのに役立ちます。詳細情報は、サポート技術情報 [910723](http://support.microsoft.com/kb/910723) をご覧ください。
+マイクロソフトは今月のセキュリティ更新プログラムについての検出および適用のガイダンスを提供しました。このガイダンスは、IT プロフェッショナルが Windows Update、Microsoft Update、Office Update、Microsoft Baseline Security Analyzer (MBSA)、Office 検出 Tool、Microsoft Systems Management Server (SMS)、Extended Security Update Inventory Tool および Enterprise Update Scan Tool (EST) など、各種ツールを使用したセキュリティ更新プログラムの適用方法を理解するのに役立ちます。詳細情報は、サポート技術情報 [910723](https://support.microsoft.com/kb/910723) をご覧ください。
 
 **Microsoft Baseline Security Analyzer**
 
-Microsoft Baseline Security Analyzer は、管理者によりローカルコンピューターやリモートコンピューターの未適 用のセキュリティ更新プログラムの確認、一般的なセキュリティの設定の検査を行うことができます。MBSA の詳細情報については、[Microsoft Baseline Security Analyzer (MBSA) Web サイト](http://technet.microsoft.com/ja-jp/security/cc184924.aspx)をご覧ください。
+Microsoft Baseline Security Analyzer は、管理者によりローカルコンピューターやリモートコンピューターの未適 用のセキュリティ更新プログラムの確認、一般的なセキュリティの設定の検査を行うことができます。MBSA の詳細情報については、[Microsoft Baseline Security Analyzer (MBSA) Web サイト](https://technet.microsoft.com/ja-jp/security/cc184924.aspx)をご覧ください。
 
 **Windows Server Update Services**
 
 Windows Server Update Services (WSUS) により、最新の状態を維持するために重要な更新プログラムを迅速かつ確実に配布することができます。WSUS は Windows 2000 以降のオペレーティング システム用のセキュリティ更新プログラム、Office XP 以降の Office 用のセキュリティ更新プログラム、Exchange Server 2003 およびそれ以降のバージョン、SQL Server 2000 およびそれ以降のバージョン用のセキュリティ更新プログラムに対応しています。
 
-Windows Server Update Services によるセキュリティ更新プログラムの配布に関する詳細は [Windows Server Update Services Web サイト](http://www.microsoft.com/japan/windowsserversystem/updateservices/evaluation/overview.mspx) をご覧ください｡
+Windows Server Update Services によるセキュリティ更新プログラムの配布に関する詳細は [Windows Server Update Services Web サイト](https://www.microsoft.com/japan/windowsserversystem/updateservices/evaluation/overview.mspx) をご覧ください｡
 
 **Systems Management Server**
 
-Microsoft Systems Management Server (SMS) は更新プログラムを管理するための、構成可能なエンタープライズ ソリューションを提供します。SMS により、管理者はセキュリティ更新プログラムを必要とする Windows ベースのコンピューターを識別し、エンド ユーザーへの中断を最小限にして、エンタープライズ全体にこれらの更新プログラムの適用を管理することができます。管理者が SMS 2003 を使用してセキュリティ更新プログラムを展開する方法に関する詳細情報は [SMS 2003 セキュリティ パッチの管理](http://www.microsoft.com/japan/smserver/evaluation/capabilities/patch.mspx)をご覧下さい。SMS 2.0 をご使用のお客様は、セキュリティ更新プログラムの適用を補助するツールである [SMS Software Update Services Feature Pack](http://www.microsoft.com/japan/smserver/evaluation/overview/featurepacks/suspack.mspx) を使用することもできます。SMS に関する情報は、[Microsoft Systems Management Server](http://www.microsoft.com/japan/smserver/default.mspx) をご覧ください。
+Microsoft Systems Management Server (SMS) は更新プログラムを管理するための、構成可能なエンタープライズ ソリューションを提供します。SMS により、管理者はセキュリティ更新プログラムを必要とする Windows ベースのコンピューターを識別し、エンド ユーザーへの中断を最小限にして、エンタープライズ全体にこれらの更新プログラムの適用を管理することができます。管理者が SMS 2003 を使用してセキュリティ更新プログラムを展開する方法に関する詳細情報は [SMS 2003 セキュリティ パッチの管理](https://www.microsoft.com/japan/smserver/evaluation/capabilities/patch.mspx)をご覧下さい。SMS 2.0 をご使用のお客様は、セキュリティ更新プログラムの適用を補助するツールである [SMS Software Update Services Feature Pack](https://www.microsoft.com/japan/smserver/evaluation/overview/featurepacks/suspack.mspx) を使用することもできます。SMS に関する情報は、[Microsoft Systems Management Server](https://www.microsoft.com/japan/smserver/default.mspx) をご覧ください。
 
-**注:** SMS は Microsoft Baseline Security Analyzer および Microsoft Office 検出ツールを活用してセキュリティ情報で提供された更新プログラムの検出と適用について広範なサポートを提供します。これらのツールにより検出されないソフトウェアの更新プログラムもあります。管理者は、特定のコンピューターへの更新プログラムを対象とし、これらの場合に SMS のインベントリ機能を使用することができます。この手順に関する情報は、[Deploying Software Updates Using the SMS Software Distribution Feature](http://www.microsoft.com/japan/technet/prodtechnol/sms/sms2003/patchupdate.mspx) をご覧ください。コンピューターの再起動後、管理者権限を必要とするセキュリティ更新プログラムもあります。管理者は、SMS 2.0 Administration Feature Pack の上位権利での展開ツール ([SMS 2003 Administration Feature Pack](http://www.microsoft.com/downloads/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d&displaylang=ja) および [SMS 2.0 Administration Feature Pack](http://www.microsoft.com/japan/smserver/downloads/20/featurepacks/adminpack/) で利用可能) は、これらの更新プログラムのインストールに使用することができます。
+**注:** SMS は Microsoft Baseline Security Analyzer および Microsoft Office 検出ツールを活用してセキュリティ情報で提供された更新プログラムの検出と適用について広範なサポートを提供します。これらのツールにより検出されないソフトウェアの更新プログラムもあります。管理者は、特定のコンピューターへの更新プログラムを対象とし、これらの場合に SMS のインベントリ機能を使用することができます。この手順に関する情報は、[Deploying Software Updates Using the SMS Software Distribution Feature](https://www.microsoft.com/japan/technet/prodtechnol/sms/sms2003/patchupdate.mspx) をご覧ください。コンピューターの再起動後、管理者権限を必要とするセキュリティ更新プログラムもあります。管理者は、SMS 2.0 Administration Feature Pack の上位権利での展開ツール ([SMS 2003 Administration Feature Pack](https://www.microsoft.com/download/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d&displaylang=ja) および [SMS 2.0 Administration Feature Pack](https://www.microsoft.com/japan/smserver/downloads/20/featurepacks/adminpack/) で利用可能) は、これらの更新プログラムのインストールに使用することができます。
 
 ### 関連情報
 
@@ -1423,8 +1423,8 @@ Microsoft Systems Management Server (SMS) は更新プログラムを管理す�
 
 Windows Update および Microsoft Update のセキュリティ以外のリリースの詳細は、次をご覧ください。
 
--   サポート技術情報 [894199](http://support.microsoft.com/kb/894199/en-us) (英語情報): 2008 年のコンテンツでは、Software Update Services (SUS) および Windows Server Update Services (WSUS) の情報が変更されました。すべての Windows のコンテンツが含まれます
--   [New, Revised, and Released Updates for Microsoft Products Other Than Microsoft Windows.](http://technet.microsoft.com/en-us/wsus/bb466214.aspx) (英語情報)
+-   サポート技術情報 [894199](https://support.microsoft.com/kb/894199/en-us) (英語情報): 2008 年のコンテンツでは、Software Update Services (SUS) および Windows Server Update Services (WSUS) の情報が変更されました。すべての Windows のコンテンツが含まれます
+-   [New, Revised, and Released Updates for Microsoft Products Other Than Microsoft Windows.](https://technet.microsoft.com/en-us/wsus/bb466214.aspx) (英語情報)
 
 この情報はセキュリティ情報と同日に公開予定の Microsoft Update、Windows Update、および Windows Server Update Services での**セキュリティ以外**の優先度の高い更新プログラムに**のみ**関連することに注意してください。その他の日に公開される**セキュリティ以外**の更新プログラムに関する情報は**提供しません**。
 
@@ -1432,48 +1432,48 @@ Windows Update および Microsoft Update のセキュリティ以外のリリ�
 
 **更新プログラムの管理の計画**
 
-[パッチ管理のセキュリティ ガイド](http://technet.microsoft.com/ja-jp/library/dd433786.aspx)で、セキュリティ更新プログラムの適用についてのマイクロソフトの推奨策に関する情報を提供しています。
+[パッチ管理のセキュリティ ガイド](https://technet.microsoft.com/ja-jp/library/dd433786.aspx)で、セキュリティ更新プログラムの適用についてのマイクロソフトの推奨策に関する情報を提供しています。
 
 **他のセキュリティ更新プログラムの入手先**
 
 他のセキュリティ問題を解決する更新プログラムは以下のサイトから入手できます。
 
--   セキュリティ更新プログラムは [マイクロソフト ダウンロード センター](http://www.microsoft.com/downloads/search.aspx?displaylang=ja)からダウンロードすることができます。「security update」のキーワード探索によって容易に見つけることができます。
--   コンシューマー用プラットフォームの更新プログラムは、[Microsoft Update](http://update.microsoft.com/microsoftupdate) でご利用になれます。
--   今月の Windows Update で提供されているセキュリティ更新プログラム、セキュリティおよび緊急のリリースの ISO CD イメージをマイクロソフト ダウンロード センターから入手することができます。詳細情報は、サポート技術情報 [913086](http://support.microsoft.com/kb/913086) をご覧ください。
+-   セキュリティ更新プログラムは [マイクロソフト ダウンロード センター](https://www.microsoft.com/downloads/search.aspx?displaylang=ja)からダウンロードすることができます。「security update」のキーワード探索によって容易に見つけることができます。
+-   コンシューマー用プラットフォームの更新プログラムは、[Microsoft Update](https://update.microsoft.com/microsoftupdate) でご利用になれます。
+-   今月の Windows Update で提供されているセキュリティ更新プログラム、セキュリティおよび緊急のリリースの ISO CD イメージをマイクロソフト ダウンロード センターから入手することができます。詳細情報は、サポート技術情報 [913086](https://support.microsoft.com/kb/913086) をご覧ください。
 
 **IT Pro Security Zone Community**
 
-セキュリティの強化および IT インフラストラクチャの最適化について学び、セキュリティ関連のトピックについてその他の IT プロフェッショナルとの情報交換を行うためには、[IT Pro Security Community](http://go.microsoft.com/fwlink/?linkid=21164) (英語) をご覧下さい。
+セキュリティの強化および IT インフラストラクチャの最適化について学び、セキュリティ関連のトピックについてその他の IT プロフェッショナルとの情報交換を行うためには、[IT Pro Security Community](https://go.microsoft.com/fwlink/?linkid=21164) (英語) をご覧下さい。
 
 #### 謝辞
 
-この問題を連絡し、顧客の保護に協力して下さった下記の方に対し、マイクロソフトは深い [謝意](http://technet.microsoft.com/security/bulletin/policy) を表します。
+この問題を連絡し、顧客の保護に協力して下さった下記の方に対し、マイクロソフトは深い [謝意](https://technet.microsoft.com/security/bulletin/policy) を表します。
 
--   MS08-056 で説明している問題について報告してくださった [ネットエージェント株式会社](http://www.netagent.co.jp/)
--   MS08-057 で説明している問題について報告してくださった [IDefense](http://labs.idefense.com/) の Joshua J. Drake 氏
--   MS08-057 で説明している問題について報告してくださった [TippingPoint](http://www.tippingpoint.com/) および [Zero Day Initiative](http://www.zerodayinitiative.com/) に協力している Wushi 氏
--   MS08-057 で説明している問題について報告してくださった [IDefense VCP](http://labs.idefense.com/) に協力している [Laboskopia](http://www.laboskopia.com/) の Lionel d'Hauenens 氏
--   MS08-057 で説明している問題について報告してくださった [TippingPoint](http://www.tippingpoint.com/) および [Zero Day Initiative](http://www.zerodayintiative.com/) に協力している CHkr\_D591
+-   MS08-056 で説明している問題について報告してくださった [ネットエージェント株式会社](https://www.netagent.co.jp/)
+-   MS08-057 で説明している問題について報告してくださった [IDefense](https://labs.idefense.com/) の Joshua J. Drake 氏
+-   MS08-057 で説明している問題について報告してくださった [TippingPoint](https://www.tippingpoint.com/) および [Zero Day Initiative](https://www.zerodayinitiative.com/) に協力している Wushi 氏
+-   MS08-057 で説明している問題について報告してくださった [IDefense VCP](https://labs.idefense.com/) に協力している [Laboskopia](https://www.laboskopia.com/) の Lionel d'Hauenens 氏
+-   MS08-057 で説明している問題について報告してくださった [TippingPoint](https://www.tippingpoint.com/) および [Zero Day Initiative](https://www.zerodayintiative.com/) に協力している CHkr\_D591
 -   MS08-058 で説明している問題について報告してくださった David Bloom 氏
 -   MS08-058 で説明している問題について報告してくださった Gregory Rubin 氏
--   MS08-058 で説明している問題について報告してくださった [TippingPoint](http://www.tippingpoint.com/) および [Zero Day Initiative](http://www.zerodayinitiative.com/) に協力している [Ivan Fratric](http://ifsec.blogspot.com/) 氏
--   MS08-058 で説明している問題について報告してくださった [n.runs](http://www.nruns.com/) の Thierry Zoller 氏
--   MS08-058 で説明している問題について報告してくださった [Composica](http://www.composica.com/) の Lee Dagon 氏
--   MS08-059 で説明している問題について報告してくださった [iDefense VCP](http://labs.idefense.com/) に協力している [Harmony Security](http://www.harmonysecurity.com/) の Stephen Fewer 氏
--   MS08-060 で説明している問題について報告してくださった [nCircle](http://www.ncircle.com/) の Paul Miseiko 氏
--   MS08-061 で説明している問題について報告してくださった [iShadow](http://www.ishadow.com/) の Paul Caton 氏
--   MS08-061 で説明している問題について報告してくださった [SkyRecon](http://www.skyrecon.com/) のThomas Garnier 氏
--   MS08-062 で説明している問題について報告してくださった [CERT/CC](http://www.cert.org/)
--   MS08-063 で説明している問題について報告してくださった [Codenomicon](http://www.codenomicon.com/) の Joshua Morin 氏
--   MS08-064 で説明している問題について報告してくださった [Alex Ionescu](http://www.alex-ionescu.com/) 氏
--   MS08-065 で説明している問題について報告してくださった [TippingPoint DVLabs](http://dvlabs.tippingpoint.com/) の Cody Pierce 氏および Aaron Portnoy 氏
--   MS08-066 で説明している問題について報告してくださった [SkyRecon](http://www.skyrecon.com/) の Fabien Le Mentec 氏
+-   MS08-058 で説明している問題について報告してくださった [TippingPoint](https://www.tippingpoint.com/) および [Zero Day Initiative](https://www.zerodayinitiative.com/) に協力している [Ivan Fratric](https://ifsec.blogspot.com/) 氏
+-   MS08-058 で説明している問題について報告してくださった [n.runs](https://www.nruns.com/) の Thierry Zoller 氏
+-   MS08-058 で説明している問題について報告してくださった [Composica](https://www.composica.com/) の Lee Dagon 氏
+-   MS08-059 で説明している問題について報告してくださった [iDefense VCP](https://labs.idefense.com/) に協力している [Harmony Security](https://www.harmonysecurity.com/) の Stephen Fewer 氏
+-   MS08-060 で説明している問題について報告してくださった [nCircle](https://www.ncircle.com/) の Paul Miseiko 氏
+-   MS08-061 で説明している問題について報告してくださった [iShadow](https://www.ishadow.com/) の Paul Caton 氏
+-   MS08-061 で説明している問題について報告してくださった [SkyRecon](https://www.skyrecon.com/) のThomas Garnier 氏
+-   MS08-062 で説明している問題について報告してくださった [CERT/CC](https://www.cert.org/)
+-   MS08-063 で説明している問題について報告してくださった [Codenomicon](https://www.codenomicon.com/) の Joshua Morin 氏
+-   MS08-064 で説明している問題について報告してくださった [Alex Ionescu](https://www.alex-ionescu.com/) 氏
+-   MS08-065 で説明している問題について報告してくださった [TippingPoint DVLabs](https://dvlabs.tippingpoint.com/) の Cody Pierce 氏および Aaron Portnoy 氏
+-   MS08-066 で説明している問題について報告してくださった [SkyRecon](https://www.skyrecon.com/) の Fabien Le Mentec 氏
 
 #### サポート
 
--   セキュリティ関連、およびセキュリティ更新プログラムに関するご質問や、ご不明な点などありましたら、[マイクロソフト セキュリティ情報センター](http://www.microsoft.com/japan/security/sicinfo.mspx)までご連絡ください。
--   その他、製品に関するご質問は、マイクロソフト プロダクト サポートまでご連絡ください。マイクロソフトでは、お問い合わせの内容が弊社製品の不具合が原因である場合、無償またはインシデントの未消費にてサポートをご提供いた します。マイクロソフト プロダクト サポートへの連絡方法は [こちら](http://support.microsoft.com/select/?target=assistance) をご覧ください。
+-   セキュリティ関連、およびセキュリティ更新プログラムに関するご質問や、ご不明な点などありましたら、[マイクロソフト セキュリティ情報センター](https://www.microsoft.com/japan/security/sicinfo.mspx)までご連絡ください。
+-   その他、製品に関するご質問は、マイクロソフト プロダクト サポートまでご連絡ください。マイクロソフトでは、お問い合わせの内容が弊社製品の不具合が原因である場合、無償またはインシデントの未消費にてサポートをご提供いた します。マイクロソフト プロダクト サポートへの連絡方法は [こちら](https://support.microsoft.com/select/?target=assistance) をご覧ください。
 
 #### 免責 :
 
