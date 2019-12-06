@@ -17,20 +17,20 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms07-mar(v=Security.10)
 
 **セキュリティセントラル:** マイクロソフトは、以下のサイトにてご使用のコンピュータを守るための情報をご案内しています。
 
--   ホームユーザーのお客様は、[個人ユーザー向けセキュリティ](http://www.microsoft.com/japan/athome/security/default.mspx)のサイトをご覧ください。「最新のセキュリティ更新プログラムを入手する」をクリックすることでこの情報をご覧いただけます。
--   IT プロフェッショナルのお客様は、[TechNet セキュリティ センター](http://technet.microsoft.com/ja-jp/security/default.aspx)をご覧ください。
+-   ホームユーザーのお客様は、[個人ユーザー向けセキュリティ](https://www.microsoft.com/japan/athome/security/default.mspx)のサイトをご覧ください。「最新のセキュリティ更新プログラムを入手する」をクリックすることでこの情報をご覧いただけます。
+-   IT プロフェッショナルのお客様は、[TechNet セキュリティ センター](https://technet.microsoft.com/ja-jp/security/default.aspx)をご覧ください。
 
-**セキュリティ更新プログラム管理:** [パッチ管理のためのセキュリティ ガイダンス](http://technet.microsoft.com/ja-jp/library/dd433786.aspx) では、セキュリティの更新プログラムを展開するための推奨事項を紹介しています。
+**セキュリティ更新プログラム管理:** [パッチ管理のためのセキュリティ ガイダンス](https://technet.microsoft.com/ja-jp/library/dd433786.aspx) では、セキュリティの更新プログラムを展開するための推奨事項を紹介しています。
 
-**マイクロソフトプロダクトセキュリティ警告サービス:** セキュリティ情報を公開したことをメールでお知らせします。 購読方法は、[マイクロソフト プロダクト セキュリティ 警告サービス 日本語版](http://technet.microsoft.com/ja-jp/security/dd252948.aspx) をご覧ください。
+**マイクロソフトプロダクトセキュリティ警告サービス:** セキュリティ情報を公開したことをメールでお知らせします。 購読方法は、[マイクロソフト プロダクト セキュリティ 警告サービス 日本語版](https://technet.microsoft.com/ja-jp/security/dd252948.aspx) をご覧ください。
 
-**マイクロソフトセキュリティニュースレター:** セキュリティに関する技術文書をメールでお知らせしています。 購読方法は、[マイクロソフト セキュリティ ニュースレター 日本語版](http://technet.microsoft.com/ja-jp/security/cc307424.aspx) をご覧ください。
+**マイクロソフトセキュリティニュースレター:** セキュリティに関する技術文書をメールでお知らせしています。 購読方法は、[マイクロソフト セキュリティ ニュースレター 日本語版](https://technet.microsoft.com/ja-jp/security/cc307424.aspx) をご覧ください。
 
 ### セキュリティ更新プログラム
 
-[事前通知](http://technet.microsoft.com/security/bulletin/advance)でお伝えしたとおり、月例の公開日である 2007 年 3 月 14 日に、セキュリティ情報は公開していません。
+[事前通知](https://technet.microsoft.com/security/bulletin/advance)でお伝えしたとおり、月例の公開日である 2007 年 3 月 14 日に、セキュリティ情報は公開していません。
 
-※ 事前通知は、無料のニュースレター「[セキュリティ警告サービス](http://technet.microsoft.com/ja-jp/security/dd252948.aspx)」に登録すると電子メールで受け取ることができます。
+※ 事前通知は、無料のニュースレター「[セキュリティ警告サービス](https://technet.microsoft.com/ja-jp/security/dd252948.aspx)」に登録すると電子メールで受け取ることができます。
 
 展開
 ----
@@ -40,27 +40,27 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms07-mar(v=Security.10)
 
 Microsoft Software Update Services (SUS) により、管理者は最新の優先度の高い更新プログラムやセキュリティ更新プログラムを Windows 2000 や Windows Server 2003 ベースのサーバー、ならびに Windows 2000 Professional や Windows XP Professional を実行するデスクトップ コンピュータへ迅速かつ確実に配布することができます。
 
-SUS を使用してセキュリティ更新プログラムを配布する方法に関するより詳細な情報は [Software Update Services](http://www.microsoft.com/japan/windowsserversystem/updateservices/evaluation/previous/default.mspx) をご覧下さい。
+SUS を使用してセキュリティ更新プログラムを配布する方法に関するより詳細な情報は [Software Update Services](https://www.microsoft.com/japan/windowsserversystem/updateservices/evaluation/previous/default.mspx) をご覧下さい。
 
 **Windows Server Update Services:**
 
 Windows Server Update Services (WSUS) により、最新の状態を維持するために重要な更新プログラムを迅速かつ確実に配布することができます。WSUS は Windows 2000 以降のオペレーティング システム用のセキュリティ更新プログラム、Office XP 以降の Office 用のセキュリティ更新プログラム、Exchange Server 2003、および SQL Server 2000 用のセキュリティ更新プログラムに対応しています。
 
-Windows Server Update Services によるセキュリティ更新プログラムの配布に関する詳細は [Windows Server Update Services Web サイト](http://www.microsoft.com/japan/windowsserversystem/updateservices/evaluation/overview.mspx) をご覧ください｡
+Windows Server Update Services によるセキュリティ更新プログラムの配布に関する詳細は [Windows Server Update Services Web サイト](https://www.microsoft.com/japan/windowsserversystem/updateservices/evaluation/overview.mspx) をご覧ください｡
 
 **Systems Management Server:**
 
-Microsoft System Management Server (SMS) は、更新プログラムを管理するための構成可能なエンタープライズ ソリューションを提供します。SMS により、管理者はセキュリティ更新プログラムを必要とする Windows ベースのコンピュータを識別し、エンタープライズ全体で、エンド ユーザーへの中断を最小限にして、これらの更新プログラムの制御された適用を実行することができます。セキュリティ更新プログラムを適用するための SMS 2003 の使用方法に関する詳細情報は、[SMS 2003 セキュリティ パッチ管理](http://www.microsoft.com/japan/smserver/evaluation/tips.mspx) をご覧下さい。SMS 2.0 ユーザーもまた、[Software Updates Service Feature Pack](http://www.microsoft.com/japan/smserver/downloads/20/featurepacks/suspack/) を活用して、セキュリティ更新プログラムの適用を支援することができます。SMS に関する情報は、[SMS Web サイト](http://www.microsoft.com/japan/smserver/default.mspx)をご覧ください。
+Microsoft System Management Server (SMS) は、更新プログラムを管理するための構成可能なエンタープライズ ソリューションを提供します。SMS により、管理者はセキュリティ更新プログラムを必要とする Windows ベースのコンピュータを識別し、エンタープライズ全体で、エンド ユーザーへの中断を最小限にして、これらの更新プログラムの制御された適用を実行することができます。セキュリティ更新プログラムを適用するための SMS 2003 の使用方法に関する詳細情報は、[SMS 2003 セキュリティ パッチ管理](https://www.microsoft.com/japan/smserver/evaluation/tips.mspx) をご覧下さい。SMS 2.0 ユーザーもまた、[Software Updates Service Feature Pack](https://www.microsoft.com/japan/smserver/downloads/20/featurepacks/suspack/) を活用して、セキュリティ更新プログラムの適用を支援することができます。SMS に関する情報は、[SMS Web サイト](https://www.microsoft.com/japan/smserver/default.mspx)をご覧ください。
 
-**注意** **:** SMS は Microsoft Baseline Security Analyzer および Microsoft Office 検出ツールを活用してセキュリティ情報で提供された更新プログラムの検出と適用について広範なサポートを提供します。これらのツールにより検出されないソフトウェアの更新プログラムもあります。このような場合、管理者は特定のコンピュータへの更新プログラムを対象とし、SMS のインベントリ機能を使用することができます。この手順に関する詳細情報は、[こちらの Web サイト](http://www.microsoft.com/technet/prodtechnol/sms/sms2003/patchupdate.mspx)(英語情報) をご覧下さい。コンピュータの再起動後、管理者権限を必要とするセキュリティ更新プログラムもあります。このような場合、管理者は Administration Feature Pack の上位権利での展開ツール ([SMS 2003 Administration Feature Pack](http://www.microsoft.com/japan/smserver/downloads/2003/adminpack.asp) および [SMS 2.0 Administration Feature Pack](http://www.microsoft.com/japan/smserver/downloads/20/featurepacks/adminpack/) で利用可能です) を使用してこれらの更新プログラムのインストールを行うことができます。
+**注意** **:** SMS は Microsoft Baseline Security Analyzer および Microsoft Office 検出ツールを活用してセキュリティ情報で提供された更新プログラムの検出と適用について広範なサポートを提供します。これらのツールにより検出されないソフトウェアの更新プログラムもあります。このような場合、管理者は特定のコンピュータへの更新プログラムを対象とし、SMS のインベントリ機能を使用することができます。この手順に関する詳細情報は、[こちらの Web サイト](https://www.microsoft.com/technet/prodtechnol/sms/sms2003/patchupdate.mspx)(英語情報) をご覧下さい。コンピュータの再起動後、管理者権限を必要とするセキュリティ更新プログラムもあります。このような場合、管理者は Administration Feature Pack の上位権利での展開ツール ([SMS 2003 Administration Feature Pack](https://www.microsoft.com/japan/smserver/downloads/2003/adminpack.asp) および [SMS 2.0 Administration Feature Pack](https://www.microsoft.com/japan/smserver/downloads/20/featurepacks/adminpack/) で利用可能です) を使用してこれらの更新プログラムのインストールを行うことができます。
 
 **Microsoft Baseline Security Analyzer:**
 
-Microsoft Baseline Security Analyzer (MBSA) は、管理者によりローカルコンピュータやリモートコンピュータの未適用のセキュリティ更新プログラムの確認、一般的なセキュリティの設定の検査を行うことができます。MBSA に関するより詳細な情報は [Microsoft Baseline Security Analyzer Web サイト](http://technet.microsoft.com/ja-jp/security/cc184924.aspx) をご覧ください｡
+Microsoft Baseline Security Analyzer (MBSA) は、管理者によりローカルコンピュータやリモートコンピュータの未適用のセキュリティ更新プログラムの確認、一般的なセキュリティの設定の検査を行うことができます。MBSA に関するより詳細な情報は [Microsoft Baseline Security Analyzer Web サイト](https://technet.microsoft.com/ja-jp/security/cc184924.aspx) をご覧ください｡
 
 **検出および適用のガイダンス:**
 
-マイクロソフトは今月のセキュリティ更新プログラムのための検出および適用のガイダンスを提供します。このガイダンスは、IT Pro の方達がセセキュリティ更新プログラムを適用するのに役立つ Windows Update、Microsoft Update、Office Update、Microsoft Baseline Security Analyzer (MBSA)、Office Detection Tool、Microsoft Systems Management Server (SMS)、Extended Security Update Inventory Tool および Enterprise Update Scan Tool (EST) のようなさまざまなツールの使用方法を理解する手助けとなります。詳細情報については、[サポート技術情報 910723](http://support.microsoft.com/kb/910723)をご覧ください。
+マイクロソフトは今月のセキュリティ更新プログラムのための検出および適用のガイダンスを提供します。このガイダンスは、IT Pro の方達がセセキュリティ更新プログラムを適用するのに役立つ Windows Update、Microsoft Update、Office Update、Microsoft Baseline Security Analyzer (MBSA)、Office Detection Tool、Microsoft Systems Management Server (SMS)、Extended Security Update Inventory Tool および Enterprise Update Scan Tool (EST) のようなさまざまなツールの使用方法を理解する手助けとなります。詳細情報については、[サポート技術情報 910723](https://support.microsoft.com/kb/910723)をご覧ください。
 
 #### 関連情報 :
 
@@ -81,25 +81,25 @@ Software Update Services (SUS) を使用してこのツールを配布するこ�
 
 他のセキュリティ問題を解決する更新プログラムは以下のサイトから入手できます。
 
--   セキュリティ更新プログラムは[マイクロソフト ダウンロード センター](http://www.microsoft.com/downloads/results.aspx?displaylang=ja&freetext=security_patch)からダウンロードすることができます。「security\_patch」 のキーワード探索によって容易に見つけることができます。
--   コンシューマ プラットフォーム用の更新プログラムは、[Microsoft Update](http://update.microsoft.com/microsoftupdate/) Web サイトからダウンロードできます。
+-   セキュリティ更新プログラムは[マイクロソフト ダウンロード センター](https://www.microsoft.com/downloads/results.aspx?displaylang=ja&freetext=security_patch)からダウンロードすることができます。「security\_patch」 のキーワード探索によって容易に見つけることができます。
+-   コンシューマ プラットフォーム用の更新プログラムは、[Microsoft Update](https://update.microsoft.com/microsoftupdate/) Web サイトからダウンロードできます。
 
 **サポート** **:**
 
--   セキュリティ関連、およびセキュリティ更新プログラムに関するご質問や、ご不明な点などありましたら、[マイクロソフト セキュリティ情報センター](http://www.microsoft.com/japan/security/sicinfo.mspx)までご連絡ください。
--   その他、製品に関するご質問は、マイクロソフト プロダクト サポートまでご連絡ください。マイクロソフトでは、お問い合わせの内容が弊社製品の不具合が原因である場合、無償またはインシデントの未消費にてサポートをご提供いたします。マイクロソフト プロダクト サポートへの連絡方法は[こちら](http://support.microsoft.com/select/?target=assistance)をご覧ください。
--   製品のサポート期間の詳細は、[マイクロソフト サポート ライフサイクル Web サイト](http://www.microsoft.com/lifecycle)をご参照ください。製品別情報の詳細は、同様にマイクロソフト サポート ライフサイクル Web サイトの[製品を探す](http://support.microsoft.com/default.aspx?scid=fh;ja;complifeport)からご確認ください。
+-   セキュリティ関連、およびセキュリティ更新プログラムに関するご質問や、ご不明な点などありましたら、[マイクロソフト セキュリティ情報センター](https://www.microsoft.com/japan/security/sicinfo.mspx)までご連絡ください。
+-   その他、製品に関するご質問は、マイクロソフト プロダクト サポートまでご連絡ください。マイクロソフトでは、お問い合わせの内容が弊社製品の不具合が原因である場合、無償またはインシデントの未消費にてサポートをご提供いたします。マイクロソフト プロダクト サポートへの連絡方法は[こちら](https://support.microsoft.com/select/?target=assistance)をご覧ください。
+-   製品のサポート期間の詳細は、[マイクロソフト サポート ライフサイクル Web サイト](https://www.microsoft.com/lifecycle)をご参照ください。製品別情報の詳細は、同様にマイクロソフト サポート ライフサイクル Web サイトの[製品を探す](https://support.microsoft.com/default.aspx?scid=fh;ja;complifeport)からご確認ください。
 
 **その他のセキュリティ情報** **:**
 
--   [Microsoft TechNet セキュリティ センター](http://technet.microsoft.com/ja-jp/security/default.aspx)では、マイクロソフト製品のセキュリティに関するさらなる情報を提供しています。
--   [Microsoft Software Update Services](http://www.microsoft.com/japan/sus/)
--   [Microsoft Windows Server Update Services](http://www.microsoft.com/japan/windowsserversystem/updateservices/evaluation/overview.mspx)
--   [Microsoft Baseline Security Analyzer](http://technet.microsoft.com/ja-jp/security/cc184924.aspx) : MBSA ツールのセキュリティ更新プログラムの検出に関する制限は、サポート技術情報 [306460](http://support.microsoft.com/kb/306460) をご覧下さい。
--   [Microsoft Update](http://update.microsoft.com/microsoftupdate)
--   [Windows Update](http://windowsupdate.microsoft.com/)
--   Windows Update カタログの使い方については、サポート技術情報 [323166](http://support.microsoft.com/kb/323166/) をご覧ください｡
--   [Office Update](http://go.microsoft.com/fwlink/?linkid=21135)
+-   [Microsoft TechNet セキュリティ センター](https://technet.microsoft.com/ja-jp/security/default.aspx)では、マイクロソフト製品のセキュリティに関するさらなる情報を提供しています。
+-   [Microsoft Software Update Services](https://www.microsoft.com/japan/sus/)
+-   [Microsoft Windows Server Update Services](https://www.microsoft.com/japan/windowsserversystem/updateservices/evaluation/overview.mspx)
+-   [Microsoft Baseline Security Analyzer](https://technet.microsoft.com/ja-jp/security/cc184924.aspx) : MBSA ツールのセキュリティ更新プログラムの検出に関する制限は、サポート技術情報 [306460](https://support.microsoft.com/kb/306460) をご覧下さい。
+-   [Microsoft Update](https://update.microsoft.com/microsoftupdate)
+-   [Windows Update](https://windowsupdate.microsoft.com/)
+-   Windows Update カタログの使い方については、サポート技術情報 [323166](https://support.microsoft.com/kb/323166/) をご覧ください｡
+-   [Office Update](https://go.microsoft.com/fwlink/?linkid=21135)
 
 **免責** **:**
 

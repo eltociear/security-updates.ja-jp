@@ -15,19 +15,19 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms04-jun(v=Security.10)
 
 ホームユーザーのお客様は、次のページをご覧下さい。
 
--   [MS04-016 : Windows の重要な更新](http://www.microsoft.com/japan/security/bulletins/ms04-016e.mspx)
--   [MS04-017 : Crystal Reports の重要な更新](http://www.microsoft.com/japan/security/bulletins/ms04-017e.mspx)
+-   [MS04-016 : Windows の重要な更新](https://www.microsoft.com/japan/security/bulletins/ms04-016e.mspx)
+-   [MS04-017 : Crystal Reports の重要な更新](https://www.microsoft.com/japan/security/bulletins/ms04-017e.mspx)
 
 **あなたの** **PC** **を守るための情報** **(Protect your PC):**
 
--   [ホームユーザー向け](http://www.microsoft.com/japan/security/protect/)
--   [管理者向け](http://technet.microsoft.com/ja-jp/security/default.aspx)
+-   [ホームユーザー向け](https://www.microsoft.com/japan/security/protect/)
+-   [管理者向け](https://technet.microsoft.com/ja-jp/security/default.aspx)
 
-**セキュリティ更新プログラム管理:** [Microsoft セキュリティ更新プログラム管理ガイド](http://technet.microsoft.com/ja-jp/library/dd362382.aspx) では、セキュリティの更新プログラムを展開するための推奨事項を紹介しています。
+**セキュリティ更新プログラム管理:** [Microsoft セキュリティ更新プログラム管理ガイド](https://technet.microsoft.com/ja-jp/library/dd362382.aspx) では、セキュリティの更新プログラムを展開するための推奨事項を紹介しています。
 
 **マイクロソフトプロダクトセキュリティ警告サービス:** セキュリティ情報を公開したことをメールでお知らせします。 購読するには、次のサイトをご覧ください。
 
--   [マイクロソフト プロダクト セキュリティ 警告サービス 日本語版](http://technet.microsoft.com/ja-jp/security/dd252948.aspx)
+-   [マイクロソフト プロダクト セキュリティ 警告サービス 日本語版](https://technet.microsoft.com/ja-jp/security/dd252948.aspx)
 
 #### 概要
 
@@ -50,15 +50,15 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms04-jun(v=Security.10)
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><strong>タイトル</strong></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms04-016">DirectPlay の脆弱性により、サービス拒否が起こる (839643)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms04-016">DirectPlay の脆弱性により、サービス拒否が起こる (839643)</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><strong>概要</strong></td>
-<td style="border:1px solid black;">Microsoft DirectPlay の IDirectPlay4 のアプリケーション プログラミング インターフェイス （API） に、強力なパケット検証を正常に動作しない問題が存在するため、<a href="http://www.microsoft.com/japan/security/glossary.mspx">サービス拒否</a>の問題が発生する可能性があります。</td>
+<td style="border:1px solid black;">Microsoft DirectPlay の IDirectPlay4 のアプリケーション プログラミング インターフェイス （API） に、強力なパケット検証を正常に動作しない問題が存在するため、<a href="https://www.microsoft.com/japan/security/glossary.mspx">サービス拒否</a>の問題が発生する可能性があります。</td>
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><strong>最大深刻度</strong></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">警告</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">警告</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><strong>脆弱性の影響</strong></td>
@@ -89,7 +89,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms04-jun(v=Security.10)
 <tbody>
 <tr class="odd">
 <td style="border:1px solid black;"><strong>タイトル</strong></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/ms04-017">Crystal Reports Web Form Viewer の脆弱性により、情報の漏えいおよびサービス拒否が起こる (842689)</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/ms04-017">Crystal Reports Web Form Viewer の脆弱性により、情報の漏えいおよびサービス拒否が起こる (842689)</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><strong>概要</strong></td>
@@ -97,7 +97,7 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms04-jun(v=Security.10)
 </tr>
 <tr class="odd">
 <td style="border:1px solid black;"><strong>最大深刻度</strong></td>
-<td style="border:1px solid black;"><a href="http://technet.microsoft.com/security/bulletin/rating">警告</a></td>
+<td style="border:1px solid black;"><a href="https://technet.microsoft.com/security/bulletin/rating">警告</a></td>
 </tr>
 <tr class="even">
 <td style="border:1px solid black;"><strong>脆弱性の影響</strong></td>
@@ -133,40 +133,40 @@ ms:mtpsurl: 'https://technet.microsoft.com/ja-JP/library/ms04-jun(v=Security.10)
 
 |                                                           | 詳細                                                                                                                 | 詳細                                                                                                                 |
 |-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
-| **セキュリティ情報の番号**                                | [MS04-016](http://technet.microsoft.com/security/bulletin/ms04-016)                                                  | [MS04-017](http://technet.microsoft.com/security/bulletin/ms04-017)                                                  |
-| **最大深刻度**                                            | [警告](http://technet.microsoft.com/security/bulletin/rating)                                                        | [警告](http://technet.microsoft.com/security/bulletin/rating)                                                        |
+| **セキュリティ情報の番号**                                | [MS04-016](https://technet.microsoft.com/security/bulletin/ms04-016)                                                  | [MS04-017](https://technet.microsoft.com/security/bulletin/ms04-017)                                                  |
+| **最大深刻度**                                            | [警告](https://technet.microsoft.com/security/bulletin/rating)                                                        | [警告](https://technet.microsoft.com/security/bulletin/rating)                                                        |
 | **影響を受ける** **Windows製品**                          |                                                                                                                      |                                                                                                                      |
-| Windows Server™ 2003                                      | [警告](http://www.microsoft.com/downloads/details.aspx?familyid=eba8bd7d-033b-460d-9088-4bfe7be22b73&displaylang=ja) |                                                                                                                      |
-| Windows Server 2003 64-Bit Edition                        | [警告](http://www.microsoft.com/downloads/details.aspx?familyid=f677dcd7-00d6-4db6-a4e8-201579cc0761&displaylang=ja) |                                                                                                                      |
-| Windows XP                                                | [警告](http://www.microsoft.com/downloads/details.aspx?familyid=1bef9c9d-b317-4575-90e6-e89779469d37&displaylang=ja) |                                                                                                                      |
-| Windows XP Service Pack 1                                 | [警告](http://www.microsoft.com/downloads/details.aspx?familyid=1bef9c9d-b317-4575-90e6-e89779469d37&displaylang=ja) |                                                                                                                      |
-| Windows XP 64-Bit Edition Service Pack 1                  | [警告](http://www.microsoft.com/downloads/details.aspx?familyid=b99445c7-3070-4cfa-9cce-225b92e90698&displaylang=ja) |                                                                                                                      |
-| Windows XP 64-Bit Edition Version 2003                    | [警告](http://www.microsoft.com/downloads/details.aspx?familyid=f677dcd7-00d6-4db6-a4e8-201579cc0761&displaylang=ja) |                                                                                                                      |
-| Windows 2000 Service Pack 2                               | [警告](http://www.microsoft.com/downloads/details.aspx?familyid=dcaed052-6ce6-4709-84b3-9f1e0c182010&displaylang=ja) |                                                                                                                      |
-| Windows 2000 Service Pack 3                               | [警告](http://www.microsoft.com/downloads/details.aspx?familyid=dcaed052-6ce6-4709-84b3-9f1e0c182010&displaylang=ja) |                                                                                                                      |
-| Windows 2000 Service Pack 4                               | [警告](http://www.microsoft.com/downloads/details.aspx?familyid=dcaed052-6ce6-4709-84b3-9f1e0c182010&displaylang=ja) |                                                                                                                      |
+| Windows Server™ 2003                                      | [警告](https://www.microsoft.com/download/details.aspx?familyid=eba8bd7d-033b-460d-9088-4bfe7be22b73&displaylang=ja) |                                                                                                                      |
+| Windows Server 2003 64-Bit Edition                        | [警告](https://www.microsoft.com/download/details.aspx?familyid=f677dcd7-00d6-4db6-a4e8-201579cc0761&displaylang=ja) |                                                                                                                      |
+| Windows XP                                                | [警告](https://www.microsoft.com/download/details.aspx?familyid=1bef9c9d-b317-4575-90e6-e89779469d37&displaylang=ja) |                                                                                                                      |
+| Windows XP Service Pack 1                                 | [警告](https://www.microsoft.com/download/details.aspx?familyid=1bef9c9d-b317-4575-90e6-e89779469d37&displaylang=ja) |                                                                                                                      |
+| Windows XP 64-Bit Edition Service Pack 1                  | [警告](https://www.microsoft.com/download/details.aspx?familyid=b99445c7-3070-4cfa-9cce-225b92e90698&displaylang=ja) |                                                                                                                      |
+| Windows XP 64-Bit Edition Version 2003                    | [警告](https://www.microsoft.com/download/details.aspx?familyid=f677dcd7-00d6-4db6-a4e8-201579cc0761&displaylang=ja) |                                                                                                                      |
+| Windows 2000 Service Pack 2                               | [警告](https://www.microsoft.com/download/details.aspx?familyid=dcaed052-6ce6-4709-84b3-9f1e0c182010&displaylang=ja) |                                                                                                                      |
+| Windows 2000 Service Pack 3                               | [警告](https://www.microsoft.com/download/details.aspx?familyid=dcaed052-6ce6-4709-84b3-9f1e0c182010&displaylang=ja) |                                                                                                                      |
+| Windows 2000 Service Pack 4                               | [警告](https://www.microsoft.com/download/details.aspx?familyid=dcaed052-6ce6-4709-84b3-9f1e0c182010&displaylang=ja) |                                                                                                                      |
 | Windows Millennium Edition (Me)                           | **<sup>[2]</sup>**                                                                                                            |                                                                                                                      |
 | Windows 98 Second Edition (SE)                            | **<sup>[1]</sup>**                                                                                                            |                                                                                                                      |
 | Windows 98                                                | **<sup>[1]</sup>**                                                                                                            |                                                                                                                      |
 |                                                           |                                                                                                                      |                                                                                                                      |
 |                                                           |                                                                                                                      |                                                                                                                      |
 | **影響を受けるコンポーネント**                            |                                                                                                                      |                                                                                                                      |
-| DirectX 8.0、 8.0a – (Windows 2000 用)                    | [警告](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=5595043a-ad55-47e3-a5ce-778dcde13820) |                                                                                                                      |
-| DirectX 8.1、8.1a、8.1b - (Windows 2000 用)               | [警告](http://www.microsoft.com/downloads/details.aspx?displaylang=ja&familyid=52139fdd-7926-4dae-a872-f67b1b55f2d0) |                                                                                                                      |
-| DirectX 8.2 - (Windows 2000 および Windows XP 用)         | [警告](http://www.microsoft.com/downloads/details.aspx?familyid=ac8325fa-db1b-4a77-9800-716c5c74ac74&displaylang=ja) |                                                                                                                      |
-| DirectX 9.0、9.0a、9.0b - (Windows 2000 またはそれ以降用) | [警告](http://www.microsoft.com/downloads/details.aspx?familyid=bf58ac23-62d5-4650-aeef-b79551d5f778&displaylang=ja) |                                                                                                                      |
+| DirectX 8.0、 8.0a – (Windows 2000 用)                    | [警告](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=5595043a-ad55-47e3-a5ce-778dcde13820) |                                                                                                                      |
+| DirectX 8.1、8.1a、8.1b - (Windows 2000 用)               | [警告](https://www.microsoft.com/download/details.aspx?displaylang=ja&familyid=52139fdd-7926-4dae-a872-f67b1b55f2d0) |                                                                                                                      |
+| DirectX 8.2 - (Windows 2000 および Windows XP 用)         | [警告](https://www.microsoft.com/download/details.aspx?familyid=ac8325fa-db1b-4a77-9800-716c5c74ac74&displaylang=ja) |                                                                                                                      |
+| DirectX 9.0、9.0a、9.0b - (Windows 2000 またはそれ以降用) | [警告](https://www.microsoft.com/download/details.aspx?familyid=bf58ac23-62d5-4650-aeef-b79551d5f778&displaylang=ja) |                                                                                                                      |
 | **影響を受ける** **Office** **製品**                      |                                                                                                                      |                                                                                                                      |
-| Outlook 2003 with Business Contact Manager                |                                                                                                                      | [警告](http://www.microsoft.com/downloads/details.aspx?familyid=9016b9f3-ba86-4a95-9d89-e120ef2e85e3&displaylang=en) |
+| Outlook 2003 with Business Contact Manager                |                                                                                                                      | [警告](https://www.microsoft.com/download/details.aspx?familyid=9016b9f3-ba86-4a95-9d89-e120ef2e85e3&displaylang=en) |
 | **.NET** **開発ツール**                                   |                                                                                                                      |                                                                                                                      |
-| Visual Studio .NET 2003                                   |                                                                                                                      | [警告](http://cpmsftibw02/downloads/details.aspx?familyid=659ca40e-808d-431d-a7d3-33bc3ace922d&displaylang=ja)       |
+| Visual Studio .NET 2003                                   |                                                                                                                      | [警告](https://cpmsftibw02/downloads/details.aspx?familyid=659ca40e-808d-431d-a7d3-33bc3ace922d&displaylang=ja)       |
 | **その他に影響を受ける製品**                              |                                                                                                                      |                                                                                                                      |
-| Microsoft Business Solutions CRM 1.2                      |                                                                                                                      | [警告](http://support.microsoft.com/kb/842689)                                                                       |
+| Microsoft Business Solutions CRM 1.2                      |                                                                                                                      | [警告](https://support.microsoft.com/kb/842689)                                                                       |
 
 **注:**
 
 **<sup>[1]</sup>** このオペレーティング システムは既定で、この問題の影響を受けません。しかし、このオペレーティング システムは、他のソフトウェア プログラムまたはコンポーネントがインストールされた場合、この脆弱性の影響を受ける可能性があります。詳細は、該当のセキュリティ情報をご覧ください。
 
-**<sup>[2]</sup>** このオペレーティング システムは、この問題の影響を受けます。しかし、深刻な影響を受けることはありません。このオペレーティング システム上で、深刻度が「緊急」以外のセキュリティ問題のためのセキュリティ更新プログラムは提供されません。このオペレーティングシステムについてのサポートライフ サイクルのより詳細な情報は、次の[Web サイト](http://support.microsoft.com/lifecycle/) をご覧下さい。また、各セキュリティ情報にて詳細をご覧下さい。
+**<sup>[2]</sup>** このオペレーティング システムは、この問題の影響を受けます。しかし、深刻な影響を受けることはありません。このオペレーティング システム上で、深刻度が「緊急」以外のセキュリティ問題のためのセキュリティ更新プログラムは提供されません。このオペレーティングシステムについてのサポートライフ サイクルのより詳細な情報は、次の[Web サイト](https://support.microsoft.com/lifecycle/) をご覧下さい。また、各セキュリティ情報にて詳細をご覧下さい。
 
 展開
 ----
@@ -178,11 +178,11 @@ Microsoft Software Update Services (SUS) は、最新の重要な更新プログ
 
 Software Update Services に関するより詳細な情報は以下をご覧ください。
 
--   [Software Update Services](http://www.microsoft.com/japan/windowsserversystem/sus/default.mspx)
+-   [Software Update Services](https://www.microsoft.com/japan/windowsserversystem/sus/default.mspx)
 
 **Systems Management Server (SMS):**
 
-System Management Server は、このセキュリティ更新プログラムの展開を補助する機能を提供します。System Management Serverに関する情報は、[SMS Web サイト](http://www.microsoft.com/japan/smserver/default.mspx)をご覧ください。SMS 2003 にはセキュリティ更新プログラムの展開プロセスを強化する機能が多く含まれています。その詳細情報に関しては、[SMS 2003 セキュリティ パッチ管理](http://www.microsoft.com/japan/smserver/evaluation/tips.mspx)をご参照ください。SMS 2.0 をご使用の方には、セキュリティ更新プログラムの展開管理を補助するツール、SMS Software Update Services Feature Pack や、[SMS Administration Feature Pack](http://www.microsoft.com/japan/smserver/downloads/20/featurepacks/suspack/default.asp) が提供されています。[SMS 2.0 Software Update Services Feature Pack](http://www.microsoft.com/smserver/downloads/20/featurepacks/adminpack/default.mspx) は、Microsoft Baseline Security Analyzer と Microsoft Office Detection ツールを使用して、セキュリティ更新プログラムの配布を広くサポートします。ソフトウェアの更新プログラムの中には、適用後にコンピュータを再起動するために管理者権限を必要とするものがあります。
+System Management Server は、このセキュリティ更新プログラムの展開を補助する機能を提供します。System Management Serverに関する情報は、[SMS Web サイト](https://www.microsoft.com/japan/smserver/default.mspx)をご覧ください。SMS 2003 にはセキュリティ更新プログラムの展開プロセスを強化する機能が多く含まれています。その詳細情報に関しては、[SMS 2003 セキュリティ パッチ管理](https://www.microsoft.com/japan/smserver/evaluation/tips.mspx)をご参照ください。SMS 2.0 をご使用の方には、セキュリティ更新プログラムの展開管理を補助するツール、SMS Software Update Services Feature Pack や、[SMS Administration Feature Pack](https://www.microsoft.com/japan/smserver/downloads/20/featurepacks/suspack/default.asp) が提供されています。[SMS 2.0 Software Update Services Feature Pack](https://www.microsoft.com/smserver/downloads/20/featurepacks/adminpack/default.mspx) は、Microsoft Baseline Security Analyzer と Microsoft Office Detection ツールを使用して、セキュリティ更新プログラムの配布を広くサポートします。ソフトウェアの更新プログラムの中には、適用後にコンピュータを再起動するために管理者権限を必要とするものがあります。
 
 **注意:** SMS 2.0 Software Update Services Feature Pack のインベントリ機能は特定のコンピュータのソフトウェアの更新、SMS 2.0 Administration Feature Pack の上位権利での展開ツールは、アプリケーションの展開が可能です。特定の更新でシステムの再起動後にローカルの管理者権限が必要となる場合に最適な配布方法を提供します。
 
@@ -190,37 +190,37 @@ System Management Server は、このセキュリティ更新プログラムの�
 
 システム管理者がセキュリティ更新プログラムを安全に連結するためのツール (QChain.exe) を公開しています。連結することで、複数の更新プログラムを更新プログラム毎に再起動する必要がありません。 update.exe は、この情報内の更新で使われており、連結するために必要な機能が提供されています。 Windows 2000 Service Pack 3 以降、Windows XP または、Windows Server 2003 をお使いのお客様は、連結のために Qchain.exe は必要としません。しかし、Qchain.exe は Windows の更新プログラム全般もサポートするので、管理者はすべてのプラットフォームにわたって一貫した展開スクリプトを作成することができます。
 
--   [Qchain ツールの入手先 :(英語情報)](http://www.microsoft.com/downloads/details.aspx?familyid=3c64d889-74f1-490b-a2fb-f15671a3b60c)
+-   [Qchain ツールの入手先 :(英語情報)](https://www.microsoft.com/download/details.aspx?familyid=3c64d889-74f1-490b-a2fb-f15671a3b60c)
 
 **Microsoft Baseline Security Analyzer (MBSA):**
 
 Microsoft Baseline Security Analyzer は、管理者によりローカルコンピュータやリモートコンピュータの未適用のセキュリティ更新の確認、一般的なセキュリティの設定の検査を行うことができます。
 
--   MBSA の詳細情報 : [Microsoft Baseline Security Analyzer V1.2](http://technet.microsoft.com/ja-jp/security/cc184924.aspx)
+-   MBSA の詳細情報 : [Microsoft Baseline Security Analyzer V1.2](https://technet.microsoft.com/ja-jp/security/cc184924.aspx)
 
 #### 関連情報:
 
 **謝辞:**
 
-マイクロソフトは顧客の保護のために協力して下さった、以下の方々に深い[謝意](http://technet.microsoft.com/security/bulletin/policy)を表します。
+マイクロソフトは顧客の保護のために協力して下さった、以下の方々に深い[謝意](https://technet.microsoft.com/security/bulletin/policy)を表します。
 
--   [MS04-016](http://technet.microsoft.com/security/bulletin/ms04-016) の問題を報告して下さった [Tenable Network Security 社](http://www.tenablesecurity.com/) の John Lampe 氏
--   [MS04-017](http://technet.microsoft.com/security/bulletin/ms04-017) の問題に関し、ご協力くださった [Business Objects 社](http://www.businessobjects.com/)
+-   [MS04-016](https://technet.microsoft.com/security/bulletin/ms04-016) の問題を報告して下さった [Tenable Network Security 社](https://www.tenablesecurity.com/) の John Lampe 氏
+-   [MS04-017](https://technet.microsoft.com/security/bulletin/ms04-017) の問題に関し、ご協力くださった [Business Objects 社](https://www.businessobjects.com/)
 
 **サポート:**
 
 -   更新プログラムについてのご質問は、マイクロソフト プロダクト サポート までご連絡ください。マイクロソフトでは、ご質問の内容が弊社製品の不具合が原因の場合、サポート料金はいただきません。それ以外の場合には、サポート料金を請求させていただきますのでご注意ください。  
-    [マイクロソフト プロダクト サポートへの連絡方法はこちらをご覧ください。](http://www.microsoft.com/japan/security/bulletins/patchqa.mspx)
+    [マイクロソフト プロダクト サポートへの連絡方法はこちらをご覧ください。](https://www.microsoft.com/japan/security/bulletins/patchqa.mspx)
 
 **その他のセキュリティ情報**
 
--   [セキュリティ更新プログラムに関するよく寄せられる質問](http://www.microsoft.com/japan/security/support/patchqa.mspx)
--   [今月のセキュリティ情報](http://www.microsoft.com/japan/security/secinfo.mspx)
--   [Microsoft Software Update Services](http://www.microsoft.com/japan/sus/)
--   [Microsoft Baseline Security Analyzer](http://technet.microsoft.com/ja-jp/security/cc184924.aspx) MBSA ツールのセキュリティ更新プログラムの検出に関する制限は、サポート技術情報 [306460](http://support.microsoft.com/default.aspx?scid=306460)をご覧下さい。
--   [Windows Update](http://go.microsoft.com/fwlink/?linkid=21130)
--   Windows Update カタログの使い方については、サポート技術情報 [323166](http://support.microsoft.com/kb/323166) をご覧下さい。
--   [Office Update](http://go.microsoft.com/fwlink/?linkid=21135)
+-   [セキュリティ更新プログラムに関するよく寄せられる質問](https://www.microsoft.com/japan/security/support/patchqa.mspx)
+-   [今月のセキュリティ情報](https://www.microsoft.com/japan/security/secinfo.mspx)
+-   [Microsoft Software Update Services](https://www.microsoft.com/japan/sus/)
+-   [Microsoft Baseline Security Analyzer](https://technet.microsoft.com/ja-jp/security/cc184924.aspx) MBSA ツールのセキュリティ更新プログラムの検出に関する制限は、サポート技術情報 [306460](https://support.microsoft.com/default.aspx?scid=306460)をご覧下さい。
+-   [Windows Update](https://go.microsoft.com/fwlink/?linkid=21130)
+-   Windows Update カタログの使い方については、サポート技術情報 [323166](https://support.microsoft.com/kb/323166) をご覧下さい。
+-   [Office Update](https://go.microsoft.com/fwlink/?linkid=21135)
 
 本セキュリティ情報に含まれている情報は、いかなる保証もない現状ベースで提供されるものです。Microsoft Corporation 及びその関連会社は、市場性および特定の目的への適合性を含めて、明示的にも黙示的にも、一切の保証をいたしません。さらに、Microsoft Corporation 及びその関連会社は、本文書に含まれている情報の使用及び使用結果につき、正確性、真実性等、いかなる表明・保証も行ないません。Microsoft Corporation、その関連会社及びこれらの権限ある代理人による口頭または書面による一切の情報提供またはアドバイスは、保証を意味するものではなく、かつ上記免責条項の範囲を狭めるものではありません。Microsoft Corporation、その関連会社 及びこれらの者の供給者は、直接的、間接的、偶発的、結果的損害、逸失利益、懲罰的損害、または特別損害を含む全ての損害に対して、状況のいかんを問わず一切責任を負いません。（Microsoft Corporation、その関連会社 またはこれらの者の供給者がかかる損害の発生可能性を了知している場合を含みます。) 結果的損害または偶発的損害に対する責任の免除または制限を認めていない地域においては、上記制限が適用されない場合があります。
 
