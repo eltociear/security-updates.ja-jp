@@ -280,38 +280,38 @@ Microsoft Windows 2000
 Microsoft Windows 2000 Service Pack 4
 </td>
 <td style="border:1px solid black;">
-[RDP バージョン 5.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=027e757d-08d5-4932-b8c4-52ee1be1c864)\*\*\*  
-(KB958471) および [RDP バージョン 5.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=ae72782e-920f-4176-a27b-c3b91d50c7d2) (KB958470)  
+[RDP バージョン 5.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=027e757d-08d5-4932-b8c4-52ee1be1c864)\*\*\*  
+(KB958471) および [RDP バージョン 5.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=ae72782e-920f-4176-a27b-c3b91d50c7d2) (KB958470)  
 (緊急)  
-[RDP バージョン 5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=ae72782e-920f-4176-a27b-c3b91d50c7d2)\*\*\*\*  
+[RDP バージョン 5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=ae72782e-920f-4176-a27b-c3b91d50c7d2)\*\*\*\*  
 (KB958470)  
 (緊急)  
-[RDP バージョン 5.2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=ae72782e-920f-4176-a27b-c3b91d50c7d2)\*\*\*\*  
+[RDP バージョン 5.2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=ae72782e-920f-4176-a27b-c3b91d50c7d2)\*\*\*\*  
 (KB958470)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Server Service Pack 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b5b9228a-66c0-49e6-afde-cc2825a6851f)  
+[Microsoft Windows 2000 Server Service Pack 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b5b9228a-66c0-49e6-afde-cc2825a6851f)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5f80bf0b-898c-46ca-b20c-21e0e729c332)  
+[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5f80bf0b-898c-46ca-b20c-21e0e729c332)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 5.5 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=6f9fcbe9-8496-4d23-8a16-b334157688c2)  
+[Microsoft Outlook Express 5.5 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=6f9fcbe9-8496-4d23-8a16-b334157688c2)  
 (KB973354)  
 (緊急)  
-[Microsoft Outlook Express 6 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=f340af34-b9a0-44fb-b595-dbb346c727bf)  
+[Microsoft Outlook Express 6 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=f340af34-b9a0-44fb-b595-dbb346c727bf)  
 (KB973354)  
 (緊急)  
-[Windows Media Player 9](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=bd7c9fc4-61cb-4c23-9961-6d63f234731c)  
+[Windows Media Player 9](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=bd7c9fc4-61cb-4c23-9961-6d63f234731c)  
 (KB973540)  
 (緊急)  
-[Windows ATL コンポーネント](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c773149a-f4fc-486a-b718-6b8ff7a36ae2)  
+[Windows ATL コンポーネント](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c773149a-f4fc-486a-b718-6b8ff7a36ae2)  
 (KB973507)  
 (緊急)  
-[DHTML 編集コンポーネント ActiveX コントロール](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=223e25d2-83d7-4cb7-85c4-46a42b8110e0)  
+[DHTML 編集コンポーネント ActiveX コントロール](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=223e25d2-83d7-4cb7-85c4-46a42b8110e0)  
 (KB973869)  
 (緊急)
 </td>
@@ -319,14 +319,14 @@ Microsoft Windows 2000 Service Pack 4
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8ed8bad7-2885-452c-9c34-3982cd498be8)  
+[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8ed8bad7-2885-452c-9c34-3982cd498be8)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=240977d6-3581-4058-b9f1-7847e4edcf8a)  
+[Microsoft Windows 2000 Service Pack 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=240977d6-3581-4058-b9f1-7847e4edcf8a)  
 (重要)
 </td>
 </tr>
@@ -398,19 +398,19 @@ Windows XP
 Windows XP Service Pack 2 および Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 上の RDP バージョン 5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=2a8830dd-8fb3-4556-a6e7-2c237235357f)  
+[Windows XP Service Pack 2 上の RDP バージョン 5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=2a8830dd-8fb3-4556-a6e7-2c237235357f)  
 (KB958470)  
 (緊急)  
-[Windows XP Service Pack 2 用の RDP バージョン 5.2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cf9f9898-10c8-45ab-9df3-85e0b37e6046)\*\*\*\*  
+[Windows XP Service Pack 2 用の RDP バージョン 5.2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cf9f9898-10c8-45ab-9df3-85e0b37e6046)\*\*\*\*  
 (KB958469)  
 (緊急)  
-[Windows XP Service Pack 3 用の RDP バージョン 5.2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cf9f9898-10c8-45ab-9df3-85e0b37e6046)  
+[Windows XP Service Pack 3 用の RDP バージョン 5.2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cf9f9898-10c8-45ab-9df3-85e0b37e6046)  
 (KB958469)  
 (緊急)  
-[Windows XP Service Pack 2 用の RDP バージョン 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d1f82d76-eeb2-4ff4-9d2c-46882f214719)\*\*\*\*  
+[Windows XP Service Pack 2 用の RDP バージョン 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d1f82d76-eeb2-4ff4-9d2c-46882f214719)\*\*\*\*  
 (KB956744)  
 (重要)  
-[RDP バージョン 6.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d1f82d76-eeb2-4ff4-9d2c-46882f214719)\*\*\*\*  
+[RDP バージョン 6.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d1f82d76-eeb2-4ff4-9d2c-46882f214719)\*\*\*\*  
 (KB956744)  
 (緊急)
 </td>
@@ -418,48 +418,48 @@ Windows XP Service Pack 2 および Windows XP Service Pack 3
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 および Windows XP Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=2e8a68ee-eb24-424c-b084-450636ccaeec)  
+[Windows XP Service Pack 2 および Windows XP Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=2e8a68ee-eb24-424c-b084-450636ccaeec)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c67b5506-00ea-47cc-a0e8-897057b7380c)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c67b5506-00ea-47cc-a0e8-897057b7380c)  
 (KB973354)  
 (緊急)  
-[Windows Media Player 9, Windows Media Player 10, および Windows Media Player 11](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=34b2b14d-5811-4635-ba83-f837dcb03d04)  
+[Windows Media Player 9, Windows Media Player 10, および Windows Media Player 11](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=34b2b14d-5811-4635-ba83-f837dcb03d04)  
 (KB973540)  
 (緊急)  
 (Windows XP Service Pack 2 のみ)  
-[Windows Media Player 9, Windows Media Player 10, および Windows Media Player 11](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=ec84c98b-6bc7-442f-9280-d6e204280b2f)  
+[Windows Media Player 9, Windows Media Player 10, および Windows Media Player 11](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=ec84c98b-6bc7-442f-9280-d6e204280b2f)  
 (KB973540)  
 (緊急)  
 (Windows XP Service Pack 3 のみ)  
-[Windows ATL コンポーネント](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4b4c6fc5-e8e6-4d89-a181-e231240468f9)  
+[Windows ATL コンポーネント](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4b4c6fc5-e8e6-4d89-a181-e231240468f9)  
 (KB973507)  
 (緊急)  
-[DHTML 編集コンポーネント ActiveX コントロール](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=bdfcd0c3-7c18-4e63-91dd-d8f82cd89592)  
+[DHTML 編集コンポーネント ActiveX コントロール](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=bdfcd0c3-7c18-4e63-91dd-d8f82cd89592)  
 (KB973869)  
 (緊急)  
-[Microsoft MSWebDVD ActiveX Control](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8b71bcc9-5146-4afc-8847-0af21d7fad36)  
+[Microsoft MSWebDVD ActiveX Control](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8b71bcc9-5146-4afc-8847-0af21d7fad36)  
 (KB973815)  
 (緊急)  
-[HtmlInput Object ActiveX Control](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=46aa443c-4e7b-4bd5-8b4e-0068c3dc0e79)  
+[HtmlInput Object ActiveX Control](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=46aa443c-4e7b-4bd5-8b4e-0068c3dc0e79)  
 (KB973768)  
 (緊急)  
 (Media Center Edition 2005 のみ)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 および Windows XP Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=9c0e5bff-c248-4e87-a83b-82ba52f5299d)  
+[Windows XP Service Pack 2 および Windows XP Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=9c0e5bff-c248-4e87-a83b-82ba52f5299d)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=93490aa7-9985-4658-b0d7-88fb3f27ada0)  
+[Windows XP Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=93490aa7-9985-4658-b0d7-88fb3f27ada0)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 2 および Windows XP Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b3331388-1e52-4924-b512-23275a8fde84)  
+[Windows XP Service Pack 2 および Windows XP Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b3331388-1e52-4924-b512-23275a8fde84)  
 (重要)
 </td>
 </tr>
@@ -468,10 +468,10 @@ Windows XP Service Pack 2 および Windows XP Service Pack 3
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2 上の RDP バージョン 5.2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=948da99a-44ed-4390-b1b4-7ed3f15a9cda)  
+[Windows XP Professional x64 Edition Service Pack 2 上の RDP バージョン 5.2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=948da99a-44ed-4390-b1b4-7ed3f15a9cda)  
 (KB958469)  
 (緊急)  
-[Windows XP Professional x64 Edition Service Pack 2 用の RDP バージョン 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5061615f-fa8f-465f-ac8f-393998b7e91b)\*\*\*\*  
+[Windows XP Professional x64 Edition Service Pack 2 用の RDP バージョン 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5061615f-fa8f-465f-ac8f-393998b7e91b)\*\*\*\*  
 (KB956744)  
 (緊急)
 </td>
@@ -479,42 +479,42 @@ Windows XP Professional x64 Edition Service Pack 2
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=a1ff2ace-b9dc-4cf3-a151-ac6959bcb3a6)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=a1ff2ace-b9dc-4cf3-a151-ac6959bcb3a6)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=ede1a73a-e303-435e-a2c7-0281ce2370da)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=ede1a73a-e303-435e-a2c7-0281ce2370da)  
 (KB973354)  
 (緊急)  
-[Windows Media Player 10](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=bb98187a-8db9-47e4-88ac-15544c5268f6)  
+[Windows Media Player 10](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=bb98187a-8db9-47e4-88ac-15544c5268f6)  
 (KB973540)  
 (緊急)  
-[Windows Media Player 11](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=9e8b9027-4407-4c31-a2ba-9e094557d467)  
+[Windows Media Player 11](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=9e8b9027-4407-4c31-a2ba-9e094557d467)  
 (KB973540)  
 (緊急)  
-[Windows ATL コンポーネント](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=2f2b93fc-f977-4f23-af90-c27f744fad0a)  
+[Windows ATL コンポーネント](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=2f2b93fc-f977-4f23-af90-c27f744fad0a)  
 (KB973507)  
 (緊急)  
-[DHTML 編集コンポーネント ActiveX コントロール](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d04a6959-41a4-4a87-b3ad-7455d8fe8b99)  
+[DHTML 編集コンポーネント ActiveX コントロール](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d04a6959-41a4-4a87-b3ad-7455d8fe8b99)  
 (KB973869)  
 (緊急)  
-[Microsoft MSWebDVD ActiveX Control](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=85b2dcdb-cea9-4c4a-8ebd-50264e781ade)  
+[Microsoft MSWebDVD ActiveX Control](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=85b2dcdb-cea9-4c4a-8ebd-50264e781ade)  
 (KB973815)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7b64a454-d383-47e3-b469-b87e2b3c1a9f)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7b64a454-d383-47e3-b469-b87e2b3c1a9f)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=12e6be68-dc87-450e-927b-3c9b6873eb13)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=12e6be68-dc87-450e-927b-3c9b6873eb13)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=a6ee7af3-3e39-4866-a893-92bf1c786cd4)  
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=a6ee7af3-3e39-4866-a893-92bf1c786cd4)  
 (重要)
 </td>
 </tr>
@@ -586,51 +586,51 @@ Windows Server 2003
 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[RDP バージョン 5.2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=60c79729-ef01-4630-bd67-ec63e7f8b56b)  
+[RDP バージョン 5.2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=60c79729-ef01-4630-bd67-ec63e7f8b56b)  
 (KB958469)  
 (緊急)  
-[RDP バージョン 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=a37a2d8a-a5ce-4f06-bf07-8cafa16e7a59)\*\*\*\*  
+[RDP バージョン 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=a37a2d8a-a5ce-4f06-bf07-8cafa16e7a59)\*\*\*\*  
 (KB956744)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=3a8d8ef9-ad41-4237-9cbb-daecfd8f216c)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=3a8d8ef9-ad41-4237-9cbb-daecfd8f216c)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cba78658-899c-428f-8b04-cfe14ce3c255)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cba78658-899c-428f-8b04-cfe14ce3c255)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=3119ab1e-6729-40a1-b28f-0dab50502be6)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=3119ab1e-6729-40a1-b28f-0dab50502be6)  
 (KB973354)  
 (緊急)  
-[Windows Media Player 10](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=ab054890-983b-4414-ad0a-da1b2d2a4895)  
+[Windows Media Player 10](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=ab054890-983b-4414-ad0a-da1b2d2a4895)  
 (KB973540)  
 (緊急)  
-[Windows ATL コンポーネント](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7d9369b5-0c54-4c17-bc62-fba0a7b4728c)  
+[Windows ATL コンポーネント](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7d9369b5-0c54-4c17-bc62-fba0a7b4728c)  
 (KB973507)  
 (緊急)  
-[DHTML 編集コンポーネント ActiveX コントロール](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=bfc474c2-e3c5-40df-85d4-4ac666ff0561)  
+[DHTML 編集コンポーネント ActiveX コントロール](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=bfc474c2-e3c5-40df-85d4-4ac666ff0561)  
 (KB973869)  
 (緊急)  
-[Microsoft MSWebDVD ActiveX Control](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=301ad191-8d3f-41d3-b41c-e2e863893f73)  
+[Microsoft MSWebDVD ActiveX Control](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=301ad191-8d3f-41d3-b41c-e2e863893f73)  
 (KB973815)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=9cb0477f-0656-47f5-bd35-5716e0572fbd)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=9cb0477f-0656-47f5-bd35-5716e0572fbd)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=52f59c56-2aba-4626-a90e-311e0e73c813)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=52f59c56-2aba-4626-a90e-311e0e73c813)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=3fe9c745-d87c-43b0-9b2a-356fb34282b4)  
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=3fe9c745-d87c-43b0-9b2a-356fb34282b4)  
 (重要)
 </td>
 </tr>
@@ -639,51 +639,51 @@ Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[RDP バージョン 5.2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=57393588-dc96-4bda-ab1e-ae550961e5d4)  
+[RDP バージョン 5.2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=57393588-dc96-4bda-ab1e-ae550961e5d4)  
 (KB958469)  
 (緊急)  
-[RDP バージョン 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=957c2e01-89a1-4550-aacb-de8ff896d762)\*\*\*\*  
+[RDP バージョン 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=957c2e01-89a1-4550-aacb-de8ff896d762)\*\*\*\*  
 (KB956744)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e132d051-4444-4ef1-9b6f-2d7da9d2e88e)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e132d051-4444-4ef1-9b6f-2d7da9d2e88e)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=58a7c8d9-ec36-46a6-a89b-d8dfd989fda4)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=58a7c8d9-ec36-46a6-a89b-d8dfd989fda4)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=17bd00e3-810c-4a72-bd13-1b55ffb52a5e)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=17bd00e3-810c-4a72-bd13-1b55ffb52a5e)  
 (KB973354)  
 (緊急)  
-[Windows Media Player 10](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5890233a-d8f7-490c-8bf5-3ed4bd1c6991)  
+[Windows Media Player 10](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5890233a-d8f7-490c-8bf5-3ed4bd1c6991)  
 (KB973540)  
 (緊急)  
-[Windows ATL コンポーネント](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=90e0e014-ed7e-498a-9f61-18bb09a384b3)  
+[Windows ATL コンポーネント](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=90e0e014-ed7e-498a-9f61-18bb09a384b3)  
 (KB973507)  
 (緊急)  
-[DHTML 編集コンポーネント ActiveX コントロール](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=9f502d79-99a8-45dc-9876-2df27e14ffaa)  
+[DHTML 編集コンポーネント ActiveX コントロール](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=9f502d79-99a8-45dc-9876-2df27e14ffaa)  
 (KB973869)  
 (緊急)  
-[Microsoft MSWebDVD ActiveX Control](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=2ae71a65-5eee-4dd2-bc79-b7c5a73022bc)  
+[Microsoft MSWebDVD ActiveX Control](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=2ae71a65-5eee-4dd2-bc79-b7c5a73022bc)  
 (KB973815)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=96fbf65f-1db2-432d-92a0-6669d8abaeb0)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=96fbf65f-1db2-432d-92a0-6669d8abaeb0)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=2f77ef7b-54f8-4260-b6a6-d62a0f85ef45)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=2f77ef7b-54f8-4260-b6a6-d62a0f85ef45)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e2a788e7-a9d1-4574-b106-f8ab44c6c4a2)  
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e2a788e7-a9d1-4574-b106-f8ab44c6c4a2)  
 (重要)
 </td>
 </tr>
@@ -692,45 +692,45 @@ Windows Server 2003 x64 Edition Service Pack 2
 Windows Server 2003 with SP2 for Itanium-based Systems
 </td>
 <td style="border:1px solid black;">
-[RDP バージョン 5.2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8f88a714-b917-4193-9002-19fa65722028)  
+[RDP バージョン 5.2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8f88a714-b917-4193-9002-19fa65722028)  
 (KB958469)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=96c3f496-7b2f-4dbc-b484-216c9943c2b1)  
+[Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=96c3f496-7b2f-4dbc-b484-216c9943c2b1)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=187b02bd-73d6-4f72-81d1-d9477d495499)  
+[Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=187b02bd-73d6-4f72-81d1-d9477d495499)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Outlook Express 6](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7978b921-c5b5-461f-a284-b9848f568aa9)  
+[Microsoft Outlook Express 6](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7978b921-c5b5-461f-a284-b9848f568aa9)  
 (KB973354)  
 (緊急)  
-[Windows ATL コンポーネント](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=ad1791b3-8553-4433-a9f7-8b4f857665be)  
+[Windows ATL コンポーネント](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=ad1791b3-8553-4433-a9f7-8b4f857665be)  
 (KB973507)  
 (緊急)  
-[DHTML 編集コンポーネント ActiveX コントロール](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=82c0bb02-70ad-4605-a1f4-4698adf9f4ac)  
+[DHTML 編集コンポーネント ActiveX コントロール](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=82c0bb02-70ad-4605-a1f4-4698adf9f4ac)  
 (KB973869)  
 (緊急)  
-[Microsoft MSWebDVD ActiveX Control](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5b8a8958-c3cd-4b24-85a2-1baacf92d218)  
+[Microsoft MSWebDVD ActiveX Control](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5b8a8958-c3cd-4b24-85a2-1baacf92d218)  
 (KB973815)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=11321f48-8997-4b99-982a-3ba4ad3f5992)  
+[Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=11321f48-8997-4b99-982a-3ba4ad3f5992)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=ad55c653-ee6b-4c92-b7f4-3923bb916546)  
+[Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=ad55c653-ee6b-4c92-b7f4-3923bb916546)  
 (重要)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4f625d39-29d4-44f9-b4bd-cd99f1ea422d)  
+[Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4f625d39-29d4-44f9-b4bd-cd99f1ea422d)  
 (重要)
 </td>
 </tr>
@@ -802,10 +802,10 @@ Windows Vista
 Windows Vista、Windows Vista Service Pack 1 および Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista 上の RDP バージョン 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cf95a552-f6fd-4e35-815a-d16c015cd3ea)  
+[Windows Vista 上の RDP バージョン 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cf95a552-f6fd-4e35-815a-d16c015cd3ea)  
 (KB956744)  
 (重要)  
-[Windows Vista Service Pack 1 および Windows Vista Service Pack 2 用の RDP バージョン 6.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cf95a552-f6fd-4e35-815a-d16c015cd3ea)  
+[Windows Vista Service Pack 1 および Windows Vista Service Pack 2 用の RDP バージョン 6.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cf95a552-f6fd-4e35-815a-d16c015cd3ea)  
 (KB956744)  
 (緊急)
 </td>
@@ -813,38 +813,38 @@ Windows Vista、Windows Vista Service Pack 1 および Windows Vista Service Pac
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Vista、Windows Vista Service Pack 1 および Windows Vista Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=81fce7bd-f33c-4586-949d-ac40d415f755)  
+[Windows Vista、Windows Vista Service Pack 1 および Windows Vista Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=81fce7bd-f33c-4586-949d-ac40d415f755)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows Media Player 11](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=3766aed9-93f5-478e-a5bf-b7ee0b577088)  
+[Windows Media Player 11](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=3766aed9-93f5-478e-a5bf-b7ee0b577088)  
 (KB973540)  
 (緊急)  
-[Windows ATL コンポーネント](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=80de158d-157e-4c21-9154-c1dbd6e57cb3)  
+[Windows ATL コンポーネント](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=80de158d-157e-4c21-9154-c1dbd6e57cb3)  
 (KB973507)  
 (緊急)  
-[HtmlInput Object ActiveX コントロール](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=59fefa17-0ad4-4a62-82be-e6a2b7a0aec3)  
+[HtmlInput Object ActiveX コントロール](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=59fefa17-0ad4-4a62-82be-e6a2b7a0aec3)  
 (KB973768)  
 (緊急)  
 (Media Center Edition 2005 のみ)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista、Windows Vista Service Pack 1 および Windows Vista Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=979ac9da-940f-49e7-91a2-b12db3708076)  
+[Windows Vista、Windows Vista Service Pack 1 および Windows Vista Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=979ac9da-940f-49e7-91a2-b12db3708076)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=00afd94c-b483-4155-884f-b617acca6e7d)  
+[Windows Vista](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=00afd94c-b483-4155-884f-b617acca6e7d)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-Windows Vista のみ: [Microsoft .NET Framework 2.0 Service Pack 1 および Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d42444bb-5030-4b47-87fa-9df3a8c640ff) (KB972591) および [Microsoft .NET Framework 2.0 Service Pack 2 および Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=310f3aa6-c264-45a2-b24a-3f178b41830e)\*\*\*\*\* (KB972592)  
+Windows Vista のみ: [Microsoft .NET Framework 2.0 Service Pack 1 および Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d42444bb-5030-4b47-87fa-9df3a8c640ff) (KB972591) および [Microsoft .NET Framework 2.0 Service Pack 2 および Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=310f3aa6-c264-45a2-b24a-3f178b41830e)\*\*\*\*\* (KB972592)  
 (重要)  
 Windows Vista Service Pack 1 のみ:  
-[Microsoft .NET Framework 2.0 Service Pack 1 および Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd) (KB972593) および [Microsoft .NET Framework 2.0 Service Pack 2 および Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f)\*\*\*\*\* (KB972594)  
+[Microsoft .NET Framework 2.0 Service Pack 1 および Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd) (KB972593) および [Microsoft .NET Framework 2.0 Service Pack 2 および Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f)\*\*\*\*\* (KB972594)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista、Windows Vista Service Pack 1 および Windows Vista Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d77f406d-11cb-4d19-94ec-938b356c3427)  
+[Windows Vista、Windows Vista Service Pack 1 および Windows Vista Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d77f406d-11cb-4d19-94ec-938b356c3427)  
 (警告)
 </td>
 </tr>
@@ -853,10 +853,10 @@ Windows Vista Service Pack 1 のみ:
 Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 および Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition 上の RDP バージョン 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5e19cef7-2413-4575-9597-c6273a097aad)  
+[Windows Vista x64 Edition 上の RDP バージョン 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5e19cef7-2413-4575-9597-c6273a097aad)  
 (KB956744)  
 (重要)  
-[Windows Vista x64 Edition Service Pack 1 および Windows Vista x64 Edition Service Pack 2 上の RDP バージョン 6.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5e19cef7-2413-4575-9597-c6273a097aad)  
+[Windows Vista x64 Edition Service Pack 1 および Windows Vista x64 Edition Service Pack 2 上の RDP バージョン 6.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5e19cef7-2413-4575-9597-c6273a097aad)  
 (KB956744)  
 (緊急)
 </td>
@@ -864,38 +864,38 @@ Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 および W
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 および Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=a6cea61a-4ad9-4e18-bf18-348ae4ae51c4)  
+[Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 および Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=a6cea61a-4ad9-4e18-bf18-348ae4ae51c4)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows Media Player 11](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=64edbd64-9faa-4f54-b0d5-836c683ca7cd)  
+[Windows Media Player 11](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=64edbd64-9faa-4f54-b0d5-836c683ca7cd)  
 (KB973540)  
 (緊急)  
-[Windows ATL コンポーネント](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=82940d30-6a30-47ca-b184-2ac96e35c294)  
+[Windows ATL コンポーネント](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=82940d30-6a30-47ca-b184-2ac96e35c294)  
 (KB973507)  
 (緊急)  
-[HtmlInput Object ActiveX コントロール](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=92de8a2e-2d50-4278-937e-ccb862c5ab8f)  
+[HtmlInput Object ActiveX コントロール](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=92de8a2e-2d50-4278-937e-ccb862c5ab8f)  
 (KB973768)  
 (緊急)  
 (Media Center Edition 2005 のみ)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 および Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b9aa04cc-a5c5-47ae-bf0f-250cff275d26)  
+[Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 および Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b9aa04cc-a5c5-47ae-bf0f-250cff275d26)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=a0c698aa-a913-4981-8798-6bbb8cacfb86)  
+[Windows Vista x64 Edition](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=a0c698aa-a913-4981-8798-6bbb8cacfb86)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-Windows Vista x64 Edition のみ: [Microsoft .NET Framework 2.0 Service Pack 1 および Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d42444bb-5030-4b47-87fa-9df3a8c640ff) (KB972591) および [Microsoft .NET Framework 2.0 Service Pack 2 および Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=310f3aa6-c264-45a2-b24a-3f178b41830e)\*\*\*\*\* (KB972592)  
+Windows Vista x64 Edition のみ: [Microsoft .NET Framework 2.0 Service Pack 1 および Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d42444bb-5030-4b47-87fa-9df3a8c640ff) (KB972591) および [Microsoft .NET Framework 2.0 Service Pack 2 および Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=310f3aa6-c264-45a2-b24a-3f178b41830e)\*\*\*\*\* (KB972592)  
 (重要)  
 Windows Vista x64 Edition Service Pack 1 のみ:  
-[Microsoft .NET Framework 2.0 Service Pack 1 および Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd) (KB972593) および [Microsoft .NET Framework 2.0 Service Pack 2 および Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f) (KB972594)  
+[Microsoft .NET Framework 2.0 Service Pack 1 および Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd) (KB972593) および [Microsoft .NET Framework 2.0 Service Pack 2 および Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f) (KB972594)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 および Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7a41b8c1-f955-474e-a08e-5e73964327d1)  
+[Windows Vista x64 Edition、Windows Vista x64 Edition Service Pack 1 および Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7a41b8c1-f955-474e-a08e-5e73964327d1)  
 (警告)
 </td>
 </tr>
@@ -967,7 +967,7 @@ Windows Server 2008
 Windows Server 2008 for 32-bit Systems および Windows Server 2008 for 32-bit Systems Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[RDP バージョン 6.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=71c17a87-710b-434d-9b2a-2f471674915a)\*\*  
+[RDP バージョン 6.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=71c17a87-710b-434d-9b2a-2f471674915a)\*\*  
 (KB956744)  
 (緊急)
 </td>
@@ -975,30 +975,30 @@ Windows Server 2008 for 32-bit Systems および Windows Server 2008 for 32-bit 
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for 32-bit Systems および Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=fdc96a07-ed79-4798-8077-b2e9ca64cd0f)\*\*  
+[Windows Server 2008 for 32-bit Systems および Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=fdc96a07-ed79-4798-8077-b2e9ca64cd0f)\*\*  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows Media Player 11](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=85d9e69f-99a2-467f-bf37-4b47466a12d4)\*\*  
+[Windows Media Player 11](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=85d9e69f-99a2-467f-bf37-4b47466a12d4)\*\*  
 (KB973540)  
 (緊急)  
-[Windows ATL コンポーネント](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=ba423491-6c29-49f2-811b-ac3f9bbc58fc)\*  
+[Windows ATL コンポーネント](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=ba423491-6c29-49f2-811b-ac3f9bbc58fc)\*  
 (KB973507)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for 32-bit Systems および Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=24c77c27-0b7d-4a35-a871-b453f90e5913)\*  
+[Windows Server 2008 for 32-bit Systems および Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=24c77c27-0b7d-4a35-a871-b453f90e5913)\*  
 (警告)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-Windows Server 2008 for 32-bit Systems のみ: [Microsoft .NET Framework 2.0 Service Pack 1 および Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd) (KB972593) および [Microsoft .NET Framework 2.0 Service Pack 2 および Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f) (KB972594)\*\*  
+Windows Server 2008 for 32-bit Systems のみ: [Microsoft .NET Framework 2.0 Service Pack 1 および Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd) (KB972593) および [Microsoft .NET Framework 2.0 Service Pack 2 および Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f) (KB972594)\*\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for 32-bit Systems および Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=62f2e0a6-5e68-41c7-a851-d99bcff6ff3e)\*  
+[Windows Server 2008 for 32-bit Systems および Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=62f2e0a6-5e68-41c7-a851-d99bcff6ff3e)\*  
 (警告)
 </td>
 </tr>
@@ -1007,7 +1007,7 @@ Windows Server 2008 for 32-bit Systems のみ: [Microsoft .NET Framework 2.0 Ser
 Windows Server 2008 for x64-based Systems および Windows Server 2008 for x64-based Systems Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[RDP バージョン 6.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=f095d2d5-4513-4ae1-96c7-cbcf83304261)\*\*  
+[RDP バージョン 6.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=f095d2d5-4513-4ae1-96c7-cbcf83304261)\*\*  
 (KB956744)  
 (緊急)
 </td>
@@ -1015,30 +1015,30 @@ Windows Server 2008 for x64-based Systems および Windows Server 2008 for x64-
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for x64-based Systems および Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8e3afba4-6761-4b3d-98bb-4b4145e27b7f)\*\*  
+[Windows Server 2008 for x64-based Systems および Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8e3afba4-6761-4b3d-98bb-4b4145e27b7f)\*\*  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows Media Player 11](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=9501c8c2-a526-4661-8cba-7847bace1aa0)\*\*  
+[Windows Media Player 11](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=9501c8c2-a526-4661-8cba-7847bace1aa0)\*\*  
 (KB973540)  
 (緊急)  
-[Windows ATL コンポーネント](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b9311953-889a-415f-a396-250a005e95cd)\*  
+[Windows ATL コンポーネント](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b9311953-889a-415f-a396-250a005e95cd)\*  
 (KB973507)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for x64-based Systems および Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=48d0432e-704a-4bbb-b0a1-cd14069a8e93)\*  
+[Windows Server 2008 for x64-based Systems および Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=48d0432e-704a-4bbb-b0a1-cd14069a8e93)\*  
 (警告)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-Windows Server 2008 for x64-based Systems のみ: [Microsoft .NET Framework 2.0 Service Pack 1 および Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd) (KB972593) および [Microsoft .NET Framework 2.0 Service Pack 2 および Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f) (KB972594)\*\*  
+Windows Server 2008 for x64-based Systems のみ: [Microsoft .NET Framework 2.0 Service Pack 1 および Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd) (KB972593) および [Microsoft .NET Framework 2.0 Service Pack 2 および Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f) (KB972594)\*\*  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for x64-based Systems および Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=6e5d1db9-efef-4112-8138-62f14670cf0d)\*  
+[Windows Server 2008 for x64-based Systems および Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=6e5d1db9-efef-4112-8138-62f14670cf0d)\*  
 (警告)
 </td>
 </tr>
@@ -1047,7 +1047,7 @@ Windows Server 2008 for x64-based Systems のみ: [Microsoft .NET Framework 2.0 
 Windows Server 2008 for Itanium-based Systems および Windows Server 2008 for Itanium-based Systems Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[RDP バージョン 6.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=65d0af4e-22a2-4524-a003-2f4858012fa8)  
+[RDP バージョン 6.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=65d0af4e-22a2-4524-a003-2f4858012fa8)  
 (KB956744)  
 (緊急)
 </td>
@@ -1055,27 +1055,27 @@ Windows Server 2008 for Itanium-based Systems および Windows Server 2008 for 
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for Itanium-based Systems および Windows Server 2008 for Itanium-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=aa1bb13a-5905-48c4-8e74-a41104593046)  
+[Windows Server 2008 for Itanium-based Systems および Windows Server 2008 for Itanium-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=aa1bb13a-5905-48c4-8e74-a41104593046)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows ATL コンポーネント](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e5612bb4-5f37-4b38-bd2e-f198c413371c)  
+[Windows ATL コンポーネント](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e5612bb4-5f37-4b38-bd2e-f198c413371c)  
 (KB973507)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for Itanium-based Systems および Windows Server 2008 for Itanium-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c119223c-f4e0-449b-8e7b-a6bf11c98f94)  
+[Windows Server 2008 for Itanium-based Systems および Windows Server 2008 for Itanium-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c119223c-f4e0-449b-8e7b-a6bf11c98f94)  
 (警告)
 </td>
 <td style="border:1px solid black;">
 対象外
 </td>
 <td style="border:1px solid black;">
-Windows Server 2008 for Itanium-based Systems のみ: [Microsoft .NET Framework 2.0 Service Pack 1 および Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd) (KB972593) および [Microsoft .NET Framework 2.0 Service Pack 2 および Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f) (KB972594)  
+Windows Server 2008 for Itanium-based Systems のみ: [Microsoft .NET Framework 2.0 Service Pack 1 および Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cbf40800-f3b3-43da-ace1-d942d3378ccd) (KB972593) および [Microsoft .NET Framework 2.0 Service Pack 2 および Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=87c4a868-b3b5-467d-96a4-633532ab548f) (KB972594)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for Itanium-based Systems および Windows Server 2008 for Itanium-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4b813c74-b2ae-4962-9ebb-1311193d9e2d)  
+[Windows Server 2008 for Itanium-based Systems および Windows Server 2008 for Itanium-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4b813c74-b2ae-4962-9ebb-1311193d9e2d)  
 (警告)
 </td>
 </tr>
@@ -1135,7 +1135,7 @@ MS09-036 のセキュリティ情報に関する注意:
 Remote Desktop Connection Client for Mac
 </td>
 <td style="border:1px solid black;">
-[Remote Desktop Connection Client for Mac 2.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cd9ec77e-5b07-4332-849f-046611458871)\*  
+[Remote Desktop Connection Client for Mac 2.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cd9ec77e-5b07-4332-849f-046611458871)\*  
 (重要)
 </td>
 </tr>
@@ -1183,7 +1183,7 @@ Microsoft Office スイート、システム およびコンポーネント
 Microsoft Office XP
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office XP Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=60e2e4e7-aa75-441d-b6fc-7e850bf8e580)  
+[Microsoft Office XP Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=60e2e4e7-aa75-441d-b6fc-7e850bf8e580)  
 (KB947320)  
 (緊急)
 </td>
@@ -1193,7 +1193,7 @@ Microsoft Office XP
 Microsoft Office 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2003 Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=95c94c9a-6aca-42fb-9679-3234f06c72f7)  
+[Microsoft Office 2003 Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=95c94c9a-6aca-42fb-9679-3234f06c72f7)  
 (KB947319)  
 (緊急)
 </td>
@@ -1224,7 +1224,7 @@ Office Web Components
 Microsoft Office 2000 Web Components
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2000 Web Components Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=60e2e4e7-aa75-441d-b6fc-7e850bf8e580)  
+[Microsoft Office 2000 Web Components Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=60e2e4e7-aa75-441d-b6fc-7e850bf8e580)  
 (KB947320)  
 (緊急)
 </td>
@@ -1234,7 +1234,7 @@ Microsoft Office 2000 Web Components
 Microsoft Office XP Web Components
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office XP Web Components Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=60e2e4e7-aa75-441d-b6fc-7e850bf8e580)  
+[Microsoft Office XP Web Components Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=60e2e4e7-aa75-441d-b6fc-7e850bf8e580)  
 (KB947320)  
 (緊急)
 </td>
@@ -1244,10 +1244,10 @@ Microsoft Office XP Web Components
 Microsoft Office 2003 Web Components
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 2003 Web Components Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=95c94c9a-6aca-42fb-9679-3234f06c72f7)  
+[Microsoft Office 2003 Web Components Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=95c94c9a-6aca-42fb-9679-3234f06c72f7)  
 (KB947319)  
 (緊急)  
-[Microsoft Office 2003 Web Components Service Pack 1 for the 2007 Microsoft Office System](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=644008e0-77c9-4a02-ac9b-e30d0930c4be)\*  
+[Microsoft Office 2003 Web Components Service Pack 1 for the 2007 Microsoft Office System](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=644008e0-77c9-4a02-ac9b-e30d0930c4be)\*  
 (KB947318)  
 (緊急)
 </td>
@@ -1327,7 +1327,7 @@ Microsoft Visual Studio
 Microsoft Visual Studio .NET 2003
 </td>
 <td style="border:1px solid black;">
-[Microsoft Visual Studio .NET 2003 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=ba2915a0-f5f4-4e18-b0c0-534d2a948585)  
+[Microsoft Visual Studio .NET 2003 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=ba2915a0-f5f4-4e18-b0c0-534d2a948585)  
 (KB969172)  
 (緊急)
 </td>
@@ -1374,10 +1374,10 @@ Microsoft Internet Security and Acceleration Server
 Microsoft Internet Security and Acceleration Server 2004
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Security and Acceleration Server 2004 Standard Edition Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8f79a073-27e8-46ef-87d8-f09b93521326)\*  
+[Microsoft Internet Security and Acceleration Server 2004 Standard Edition Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8f79a073-27e8-46ef-87d8-f09b93521326)\*  
 (KB947826)  
 (緊急)  
-[Microsoft Internet Security and Acceleration Server 2004 Enterprise Edition Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8f79a073-27e8-46ef-87d8-f09b93521326)  
+[Microsoft Internet Security and Acceleration Server 2004 Enterprise Edition Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8f79a073-27e8-46ef-87d8-f09b93521326)  
 (KB947826)  
 (緊急)
 </td>
@@ -1387,10 +1387,10 @@ Microsoft Internet Security and Acceleration Server 2004
 Microsoft Internet Security および Acceleration Server 2006
 </td>
 <td style="border:1px solid black;">
-[Microsoft Internet Security および Acceleration Server 2006 Standard Edition Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8f79a073-27e8-46ef-87d8-f09b93521326)  
+[Microsoft Internet Security および Acceleration Server 2006 Standard Edition Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8f79a073-27e8-46ef-87d8-f09b93521326)  
 (KB947826)  
 (緊急)  
-[Microsoft Internet Security および Acceleration Server 2006 Enterprise Edition Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8f79a073-27e8-46ef-87d8-f09b93521326)  
+[Microsoft Internet Security および Acceleration Server 2006 Enterprise Edition Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8f79a073-27e8-46ef-87d8-f09b93521326)  
 (KB947826)  
 (緊急)
 </td>
@@ -1421,7 +1421,7 @@ Microsoft BizTalk Server
 Microsoft BizTalk Server 2002
 </td>
 <td style="border:1px solid black;">
-[Microsoft BizTalk Server 2002](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=495839b6-0322-4755-997d-4a7762c53333)  
+[Microsoft BizTalk Server 2002](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=495839b6-0322-4755-997d-4a7762c53333)  
 (KB971388)  
 (緊急)
 </td>
@@ -1466,7 +1466,7 @@ Systems Management Server
 
 Microsoft Systems Management Server (SMS) は更新プログラムを管理するための、構成可能なエンタープライズ ソリューションを提供します。SMS により、管理者はセキュリティ更新プログラムを必要とする Windows ベースのコンピューターを識別し、エンド ユーザーへの中断を最小限にして、エンタープライズ全体にこれらの更新プログラムの適用を管理することができます。管理者が SMS 2003 を使用してセキュリティ更新プログラムを展開する方法に関する詳細情報は SMS 2003 セキュリティ パッチの管理をご覧下さい。SMS 2.0 をご使用のお客様は、セキュリティ更新プログラムの適用を補助するツールである SMS Software Update Services Feature Pack を使用することもできます。SMS に関する情報は、Microsoft Systems Management Server をご覧ください。
 
-注: SMS は Microsoft Baseline Security Analyzer および Microsoft Office 検出ツールを活用してセキュリティ情報で提供された更新プログラムの検出と適用について広範なサポートを提供します。これらのツールにより検出されないソフトウェアの更新プログラムもあります。管理者は、特定のコンピューターへの更新プログラムを対象とし、これらの場合に SMS のインベントリ機能を使用することができます。この手順に関する情報は、[Deploying Software Updates Using the SMS Software Distribution Feature](https://go.microsoft.com/fwlink/?linkid=33341) をご覧ください。コンピューターの再起動後、管理者権限を必要とするセキュリティ更新プログラムもあります。管理者は、SMS 2.0 Administration Feature Pack の上位権利での展開ツール ([SMS 2003 Administration Feature Pack](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d&displaylang=ja-nec) および [SMS 2.0 Administration Feature Pack](https://wwwppe/japan/smserver/downloads/20/featurepacks/adminpack/) で利用可能) は、これらの更新プログラムのインストールに使用することができます。
+注: SMS は Microsoft Baseline Security Analyzer および Microsoft Office 検出ツールを活用してセキュリティ情報で提供された更新プログラムの検出と適用について広範なサポートを提供します。これらのツールにより検出されないソフトウェアの更新プログラムもあります。管理者は、特定のコンピューターへの更新プログラムを対象とし、これらの場合に SMS のインベントリ機能を使用することができます。この手順に関する情報は、[Deploying Software Updates Using the SMS Software Distribution Feature](https://go.microsoft.com/fwlink/?linkid=33341) をご覧ください。コンピューターの再起動後、管理者権限を必要とするセキュリティ更新プログラムもあります。管理者は、SMS 2.0 Administration Feature Pack の上位権利での展開ツール ([SMS 2003 Administration Feature Pack](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d&displaylang=ja-nec) および [SMS 2.0 Administration Feature Pack](https://wwwppe/japan/smserver/downloads/20/featurepacks/adminpack/) で利用可能) は、これらの更新プログラムのインストールに使用することができます。
 
 Update Compatibility Evaluator および Application Compatibility Toolkit
 

@@ -359,13 +359,13 @@ Windows XP
 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=20d8d873-a709-4834-a956-f3d9d82dbb73)   
+[Internet Explorer 6](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=20d8d873-a709-4834-a956-f3d9d82dbb73)   
 (KB2799329)  
 (緊急)  
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=dcdcf814-e39d-4515-bc5d-12e11f214d08)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=dcdcf814-e39d-4515-bc5d-12e11f214d08)  
 (KB2799329)  
 (緊急)  
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4e0d584a-c684-408c-bc47-6bd4ecaa9b8a)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4e0d584a-c684-408c-bc47-6bd4ecaa9b8a)  
 (KB2799329)  
 (緊急)
 </td>
@@ -373,28 +373,28 @@ Windows XP Service Pack 3
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b)  
 (KB2758694)  
 (緊急)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=137cc5ee-abf0-4a10-b1c4-d464331cbcfd)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=137cc5ee-abf0-4a10-b1c4-d464331cbcfd)  
 (KB2757638)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.0 Service Pack 3:](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=155a2984-2cd9-40a4-abaa-c1ea21e76062)  
+[Microsoft .NET Framework 1.0 Service Pack 3:](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=155a2984-2cd9-40a4-abaa-c1ea21e76062)  
 (KB2742607)  
 (Media Center Edition 2005 Service Pack 3 および Tablet PC Edition 2005 Service Pack 3 のみ)  
 (重要)  
-[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
 (KB2742597)  
 (重要)  
-[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610)  
+[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610)  
 (KB2742596)  
 (重要)  
-[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=20d07bcd-95cc-44a2-8e3e-f88b22682e21)  
+[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=20d07bcd-95cc-44a2-8e3e-f88b22682e21)  
 (KB2756918)  
 (深刻度なし<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)
 </td>
@@ -405,10 +405,10 @@ Windows XP Service Pack 3
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
 (KB2736416)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -418,13 +418,13 @@ Windows XP Service Pack 3
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=f35f2ea5-d60e-405a-9ed3-248e0d733c2b)   
+[Internet Explorer 6](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=f35f2ea5-d60e-405a-9ed3-248e0d733c2b)   
 (KB2799329)  
 (緊急)  
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=36c9d6a9-d939-4e19-b9f5-576fee048764)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=36c9d6a9-d939-4e19-b9f5-576fee048764)  
 (KB2799329)  
 (緊急)  
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=396f26bd-8c8b-459d-9467-6ec17a11c9d4)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=396f26bd-8c8b-459d-9467-6ec17a11c9d4)  
 (KB2799329)  
 (緊急)
 </td>
@@ -432,27 +432,27 @@ Windows XP Professional x64 Edition Service Pack 2
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d147f865-6a56-4db2-8d78-14f2bee6da18)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d147f865-6a56-4db2-8d78-14f2bee6da18)  
 (KB2757638)  
 (緊急)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
 (KB2758694)  
 (緊急)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=0b13a83c-1e51-4604-a09d-afb2e25646f9)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=0b13a83c-1e51-4604-a09d-afb2e25646f9)  
 (KB2758696)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
 (KB2742597)  
 (重要)  
-[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610)  
+[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610)  
 (KB2742596)  
 (重要)  
-[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=20d07bcd-95cc-44a2-8e3e-f88b22682e21)  
+[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=20d07bcd-95cc-44a2-8e3e-f88b22682e21)  
 (KB2756918)  
 (深刻度なし<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)
 </td>
@@ -463,10 +463,10 @@ Windows XP Professional x64 Edition Service Pack 2
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
 (KB2736416)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -533,13 +533,13 @@ Windows Server 2003
 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1a7cfc5a-2872-4516-a371-f42d4d3969a6)   
+[Internet Explorer 6](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1a7cfc5a-2872-4516-a371-f42d4d3969a6)   
 (KB2799329)  
 (警告)  
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4b7c2bcd-a732-46ba-9d09-cc192efd4755)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4b7c2bcd-a732-46ba-9d09-cc192efd4755)  
 (KB2799329)  
 (警告)  
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7f134d1c-670d-4528-b755-22124aa4d8c9)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7f134d1c-670d-4528-b755-22124aa4d8c9)  
 (KB2799329)  
 (警告)
 </td>
@@ -547,24 +547,24 @@ Windows Server 2003 Service Pack 2
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b)  
 (KB2758694)  
 (警告)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=6a12de5f-de80-48e4-8276-6c420f5a2948)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=6a12de5f-de80-48e4-8276-6c420f5a2948)  
 (KB2758696)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=f1a2eb6e-0290-4a53-b93c-017a48b19973)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=f1a2eb6e-0290-4a53-b93c-017a48b19973)  
 (KB2742604)  
 (重要)  
-[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610)  
+[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610)  
 (KB2742596)  
 (重要)  
-[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=20d07bcd-95cc-44a2-8e3e-f88b22682e21)  
+[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=20d07bcd-95cc-44a2-8e3e-f88b22682e21)  
 (KB2756918)  
 (深刻度なし<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)
 </td>
@@ -575,10 +575,10 @@ Windows Server 2003 Service Pack 2
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
 (KB2736416)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -588,13 +588,13 @@ Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=00304f3b-069f-49dc-a416-b0b5fb97aa4b)   
+[Internet Explorer 6](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=00304f3b-069f-49dc-a416-b0b5fb97aa4b)   
 (KB2799329)  
 (警告)  
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4911899c-863f-4499-9477-340ef8daad29)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4911899c-863f-4499-9477-340ef8daad29)  
 (KB2799329)  
 (警告)  
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b0cf6516-aea6-4879-9a6e-171d4825ae20)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b0cf6516-aea6-4879-9a6e-171d4825ae20)  
 (KB2799329)  
 (警告)
 </td>
@@ -602,27 +602,27 @@ Windows Server 2003 x64 Edition Service Pack 2
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=29985fdc-8aba-44b2-9420-970ca475052e)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=29985fdc-8aba-44b2-9420-970ca475052e)  
 (KB2757638)  
 (警告)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
 (KB2758694)  
 (警告)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=0b13a83c-1e51-4604-a09d-afb2e25646f9)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=0b13a83c-1e51-4604-a09d-afb2e25646f9)  
 (KB2758696)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
 (KB2742597)  
 (重要)  
-[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610)  
+[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610)  
 (KB2742596)  
 (重要)  
-[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=20d07bcd-95cc-44a2-8e3e-f88b22682e21)  
+[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=20d07bcd-95cc-44a2-8e3e-f88b22682e21)  
 (KB2756918)  
 (深刻度なし<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)
 </td>
@@ -633,10 +633,10 @@ Windows Server 2003 x64 Edition Service Pack 2
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
 (KB2736416)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -646,10 +646,10 @@ Windows Server 2003 x64 Edition Service Pack 2
 Windows Server 2003 with SP2 for Itanium-based Systems
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b2c635b7-56ad-426b-8bd6-4aee9deadb69)   
+[Internet Explorer 6](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b2c635b7-56ad-426b-8bd6-4aee9deadb69)   
 (KB2799329)  
 (警告)  
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b33197ab-f489-4c11-a229-044b186d7dda)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b33197ab-f489-4c11-a229-044b186d7dda)  
 (KB2799329)  
 (警告)
 </td>
@@ -657,24 +657,24 @@ Windows Server 2003 with SP2 for Itanium-based Systems
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=bca95077-a28f-406c-9fe4-51dbcf6adee8)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=bca95077-a28f-406c-9fe4-51dbcf6adee8)  
 (KB2757638)  
 (警告)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4719776a-5ff0-491a-934e-99220d8ac3a3)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4719776a-5ff0-491a-934e-99220d8ac3a3)  
 (KB2758694)  
 (警告)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=fb834cf7-d1fe-4291-8a0d-c866fdbdf0e6)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=fb834cf7-d1fe-4291-8a0d-c866fdbdf0e6)  
 (KB2758696)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
 (KB2742597)  
 (重要)  
-[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610)  
+[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8e2cc005-08c5-4e47-b05a-5b36fe539610)  
 (KB2742596)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)
 </td>
@@ -685,10 +685,10 @@ Windows Server 2003 with SP2 for Itanium-based Systems
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
 (KB2736416)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -755,10 +755,10 @@ Windows Vista
 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=95d603e8-9440-4aa6-9765-20c77a55966a)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=95d603e8-9440-4aa6-9765-20c77a55966a)  
 (KB2799329)  
 (緊急)  
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=64b498a6-54fc-4b88-bcc3-2cc15a16abb5)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=64b498a6-54fc-4b88-bcc3-2cc15a16abb5)  
 (KB2799329)  
 (緊急)
 </td>
@@ -766,45 +766,45 @@ Windows Vista Service Pack 2
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b)  
 (KB2758694)  
 (緊急)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d477235d-60f4-420d-8161-82194b4e62e7)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d477235d-60f4-420d-8161-82194b4e62e7)  
 (KB2757638)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
 (KB2742597)  
 (重要)  
-[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b)  
+[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b)  
 (KB2742601)  
 (重要)  
-[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791)  
+[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791)  
 (KB2756919)  
 (深刻度なし<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)  
-[Microsoft .NET Framework 4.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0)  
 (KB2742613)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8b1aef73-cfb2-4998-bca6-35cccfbb2078)  
+[Windows Vista Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8b1aef73-cfb2-4998-bca6-35cccfbb2078)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=3107fadf-5ba8-48f6-bb23-0c0003b4ba76)  
+[Windows Vista Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=3107fadf-5ba8-48f6-bb23-0c0003b4ba76)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
 (KB2736416)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -814,10 +814,10 @@ Windows Vista Service Pack 2
 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=a35ccbff-c476-4ee2-be9c-5b6a4b1664e9)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=a35ccbff-c476-4ee2-be9c-5b6a4b1664e9)  
 (KB2799329)  
 (緊急)  
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b427bace-5297-4593-9dd2-66847ae506c6)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b427bace-5297-4593-9dd2-66847ae506c6)  
 (KB2799329)  
 (緊急)
 </td>
@@ -825,48 +825,48 @@ Windows Vista x64 Edition Service Pack 2
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=873eba5d-5a8f-410e-bad8-e9d538acf1b3)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=873eba5d-5a8f-410e-bad8-e9d538acf1b3)  
 (KB2757638)  
 (緊急)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
 (KB2758694)  
 (緊急)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=873eba5d-5a8f-410e-bad8-e9d538acf1b3)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=873eba5d-5a8f-410e-bad8-e9d538acf1b3)  
 (KB2757638)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
 (KB2742597)  
 (重要)  
-[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b)  
+[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b)  
 (KB2742601)  
 (重要)  
-[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791)  
+[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791)  
 (KB2756919)  
 (深刻度なし<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)  
-[Microsoft .NET Framework 4.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0)  
 (KB2742613)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4287381f-6f23-4a36-a7dc-f79c44bac124)  
+[Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4287381f-6f23-4a36-a7dc-f79c44bac124)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=098958e5-83cd-4ed2-b758-e970cef33325)  
+[Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=098958e5-83cd-4ed2-b758-e970cef33325)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
 (KB2736416)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -933,10 +933,10 @@ Windows Server 2008
 Windows Server 2008 for 32-bit Systems Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=3ce450f1-f71f-4d5d-bf1c-db4742522d18)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=3ce450f1-f71f-4d5d-bf1c-db4742522d18)  
 (KB2799329)  
 (警告)  
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=2d1266fc-f6b0-4062-9799-7b3721c2cf52)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=2d1266fc-f6b0-4062-9799-7b3721c2cf52)  
 (KB2799329)  
 (警告)
 </td>
@@ -944,45 +944,45 @@ Windows Server 2008 for 32-bit Systems Service Pack 2
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b)  
 (KB2758694)  
 (警告)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e6439fef-e5e7-479b-8fc4-daacf3a39f3a)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e6439fef-e5e7-479b-8fc4-daacf3a39f3a)  
 (KB2757638)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
 (KB2742597)  
 (重要)  
-[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b)  
+[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b)  
 (KB2742601)  
 (重要)  
-[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791)  
+[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791)  
 (KB2756919)  
 (深刻度なし<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)  
-[Microsoft .NET Framework 4.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0)  
 (KB2742613)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c635ad51-4e15-461c-8927-a86d79f90b45)  
+[Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c635ad51-4e15-461c-8927-a86d79f90b45)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b3ed781e-b740-4153-aaf3-daafdeb91004)  
+[Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b3ed781e-b740-4153-aaf3-daafdeb91004)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
 (KB2736416)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -992,10 +992,10 @@ Windows Server 2008 for 32-bit Systems Service Pack 2
 Windows Server 2008 for x64-based Systems Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=0f87dd60-92c2-444c-a9ea-dfeb106c88fa)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=0f87dd60-92c2-444c-a9ea-dfeb106c88fa)  
 (KB2799329)  
 (警告)  
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=2f71f8e6-309c-4bea-abde-d91040c46611)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=2f71f8e6-309c-4bea-abde-d91040c46611)  
 (KB2799329)  
 (警告)
 </td>
@@ -1003,48 +1003,48 @@ Windows Server 2008 for x64-based Systems Service Pack 2
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1511377b-0adc-455f-8caa-f3498832c735)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1511377b-0adc-455f-8caa-f3498832c735)  
 (KB2757638)  
 (警告)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
 (KB2758694)  
 (警告)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1511377b-0adc-455f-8caa-f3498832c735)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1511377b-0adc-455f-8caa-f3498832c735)  
 (KB2757638)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
 (KB2742597)  
 (重要)  
-[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b)  
+[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b)  
 (KB2742601)  
 (重要)  
-[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791)  
+[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791)  
 (KB2756919)  
 (深刻度なし<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)  
-[Microsoft .NET Framework 4.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0)  
 (KB2742613)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=eff3a82e-f3db-4733-95aa-a68621e27068)  
+[Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=eff3a82e-f3db-4733-95aa-a68621e27068)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4aa3e3a7-3ebc-4b47-ab62-c22243a4edcc)  
+[Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4aa3e3a7-3ebc-4b47-ab62-c22243a4edcc)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
 (KB2736416)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -1054,7 +1054,7 @@ Windows Server 2008 for x64-based Systems Service Pack 2
 Windows Server 2008 for Itanium-based Systems Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e47425e9-f53e-4e20-a7ec-b4c552bd66eb)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e47425e9-f53e-4e20-a7ec-b4c552bd66eb)  
 (KB2799329)  
 (警告)
 </td>
@@ -1062,45 +1062,45 @@ Windows Server 2008 for Itanium-based Systems Service Pack 2
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c11ec9cd-1a85-4514-a1b9-9da5cdd0926b)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c11ec9cd-1a85-4514-a1b9-9da5cdd0926b)  
 (KB2757638)  
 (警告)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4719776a-5ff0-491a-934e-99220d8ac3a3)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4719776a-5ff0-491a-934e-99220d8ac3a3)  
 (KB2758694)  
 (警告)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c11ec9cd-1a85-4514-a1b9-9da5cdd0926b)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c11ec9cd-1a85-4514-a1b9-9da5cdd0926b)  
 (KB2757638)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
+[Microsoft .NET Framework 1.1 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5091f66f-9b89-496f-95ce-9ac556faa7b5)  
 (KB2742597)  
 (重要)  
-[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b)  
+[Microsoft .NET Framework 2.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=39406634-48ad-4ecf-a6be-f5a47885704b)  
 (KB2742601)  
 (重要)  
-[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791)  
+[Microsoft .NET Framework 3.0 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b8cb7a04-f913-47cc-96c1-27fb7154a791)  
 (KB2756919)  
 (深刻度なし<sup>[2]</sup>)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for Itanium-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d949fde9-31e7-4553-a34c-b41625a8cdc8)  
+[Windows Server 2008 for Itanium-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d949fde9-31e7-4553-a34c-b41625a8cdc8)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for Itanium-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=ab117984-c4cb-473b-8c20-2b0d0409d8d6)  
+[Windows Server 2008 for Itanium-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=ab117984-c4cb-473b-8c20-2b0d0409d8d6)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
+[Microsoft .NET Framework 3.5 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b476d44d-8a79-4857-8c3e-9d547e9b9e2d)  
 (KB2736416)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -1167,49 +1167,49 @@ Windows 7
 Windows 7 for 32-bit Systems
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d20f50ed-89c3-48cb-a78d-a44470fa1285)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d20f50ed-89c3-48cb-a78d-a44470fa1285)  
 (KB2799329)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for 32-bit Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=abbc3f31-e940-4750-acb6-5af477bc8390)  
+[Windows 7 for 32-bit Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=abbc3f31-e940-4750-acb6-5af477bc8390)  
 (KB2769369)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b)  
 (KB2758694)  
 (緊急)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=3a160fc4-1bf0-4db2-aa8d-6ba4f07d196b)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=3a160fc4-1bf0-4db2-aa8d-6ba4f07d196b)  
 (KB2757638)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a)  
 (KB2742598)  
 (重要)  
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127)  
 (KB2756920)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for 32-bit Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=057726d1-cdb4-4488-8cd8-822dabfc62a6)  
+[Windows 7 for 32-bit Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=057726d1-cdb4-4488-8cd8-822dabfc62a6)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for 32-bit Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=6120322b-7e04-4eeb-a9a4-11fe563a9f27)  
+[Windows 7 for 32-bit Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=6120322b-7e04-4eeb-a9a4-11fe563a9f27)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4)  
 (KB2736418)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -1219,52 +1219,52 @@ Windows 7 for 32-bit Systems
 Windows 7 for 32-bit Systems Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d20f50ed-89c3-48cb-a78d-a44470fa1285)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d20f50ed-89c3-48cb-a78d-a44470fa1285)  
 (KB2799329)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for 32-bit Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=abbc3f31-e940-4750-acb6-5af477bc8390)  
+[Windows 7 for 32-bit Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=abbc3f31-e940-4750-acb6-5af477bc8390)  
 (KB2769369)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b)  
 (KB2758694)  
 (緊急)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=3a160fc4-1bf0-4db2-aa8d-6ba4f07d196b)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=3a160fc4-1bf0-4db2-aa8d-6ba4f07d196b)  
 (KB2757638)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0)  
 (KB2742599)  
 (重要)  
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3)  
 (KB2756921)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)  
-[Microsoft .NET Framework 4.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0)  
 (KB2742613)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for 32-bit Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=057726d1-cdb4-4488-8cd8-822dabfc62a6)  
+[Windows 7 for 32-bit Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=057726d1-cdb4-4488-8cd8-822dabfc62a6)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for 32-bit Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=6120322b-7e04-4eeb-a9a4-11fe563a9f27)  
+[Windows 7 for 32-bit Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=6120322b-7e04-4eeb-a9a4-11fe563a9f27)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97)  
 (KB2736422)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -1274,52 +1274,52 @@ Windows 7 for 32-bit Systems Service Pack 1
 Windows 7 for x64-based Systems
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c113b67f-42ca-4fea-ba45-aba6f94de154)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c113b67f-42ca-4fea-ba45-aba6f94de154)  
 (KB2799329)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for x64-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1868c2ca-a184-494e-8eb3-82db45b08e32)  
+[Windows 7 for x64-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1868c2ca-a184-494e-8eb3-82db45b08e32)  
 (KB2769369)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4b442601-2808-4192-aa7d-b6476668cd23)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4b442601-2808-4192-aa7d-b6476668cd23)  
 (KB2757638)  
 (緊急)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
 (KB2758694)  
 (緊急)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4b442601-2808-4192-aa7d-b6476668cd23)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4b442601-2808-4192-aa7d-b6476668cd23)  
 (KB2757638)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a)  
 (KB2742598)  
 (重要)  
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127)  
 (KB2756920)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for x64-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=64249562-1fc3-436d-a9e1-4c9378b632d7)  
+[Windows 7 for x64-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=64249562-1fc3-436d-a9e1-4c9378b632d7)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for x64-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c9e2a55e-170f-4fe1-a306-eda676fd0fdb)  
+[Windows 7 for x64-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c9e2a55e-170f-4fe1-a306-eda676fd0fdb)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4)  
 (KB2736418)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -1329,55 +1329,55 @@ Windows 7 for x64-based Systems
 Windows 7 for x64-based Systems Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c113b67f-42ca-4fea-ba45-aba6f94de154)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c113b67f-42ca-4fea-ba45-aba6f94de154)  
 (KB2799329)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for x64-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1868c2ca-a184-494e-8eb3-82db45b08e32)  
+[Windows 7 for x64-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1868c2ca-a184-494e-8eb3-82db45b08e32)  
 (KB2769369)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4b442601-2808-4192-aa7d-b6476668cd23)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4b442601-2808-4192-aa7d-b6476668cd23)  
 (KB2757638)  
 (緊急)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
 (KB2758694)  
 (緊急)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4b442601-2808-4192-aa7d-b6476668cd23)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4b442601-2808-4192-aa7d-b6476668cd23)  
 (KB2757638)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0)  
 (KB2742599)  
 (重要)  
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3)  
 (KB2756921)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)  
-[Microsoft .NET Framework 4.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0)  
 (KB2742613)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for x64-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=64249562-1fc3-436d-a9e1-4c9378b632d7)  
+[Windows 7 for x64-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=64249562-1fc3-436d-a9e1-4c9378b632d7)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for x64-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c9e2a55e-170f-4fe1-a306-eda676fd0fdb)  
+[Windows 7 for x64-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c9e2a55e-170f-4fe1-a306-eda676fd0fdb)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97)  
 (KB2736422)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -1444,52 +1444,52 @@ Windows Server 2008 R2
 Windows Server 2008 R2 for x64-based Systems
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d2fffc43-a88f-4fe5-9b24-5677258011b8)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d2fffc43-a88f-4fe5-9b24-5677258011b8)  
 (KB2799329)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8de63e96-2822-4e62-af54-bd8d4c6d5c19)  
+[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8de63e96-2822-4e62-af54-bd8d4c6d5c19)  
 (KB2769369)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3)  
 (KB2757638)  
 (警告)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
 (KB2758694)  
 (警告)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3)  
 (KB2757638)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a)  
 (KB2742598)  
 (重要)  
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127)  
 (KB2756920)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=934a2e78-c88b-4d06-9b8f-1d0b612f3fd5)  
+[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=934a2e78-c88b-4d06-9b8f-1d0b612f3fd5)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7fd8a313-9ee3-4665-b8ba-b129994aae1e)  
+[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7fd8a313-9ee3-4665-b8ba-b129994aae1e)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4)  
 (KB2736418)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -1499,55 +1499,55 @@ Windows Server 2008 R2 for x64-based Systems
 Windows Server 2008 R2 for x64-based Systems Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d2fffc43-a88f-4fe5-9b24-5677258011b8)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d2fffc43-a88f-4fe5-9b24-5677258011b8)  
 (KB2799329)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8de63e96-2822-4e62-af54-bd8d4c6d5c19)  
+[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8de63e96-2822-4e62-af54-bd8d4c6d5c19)  
 (KB2769369)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3)  
 (KB2757638)  
 (警告)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
 (KB2758694)  
 (警告)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3)  
 (KB2757638)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0)  
 (KB2742599)  
 (重要)  
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3)  
 (KB2756921)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)  
-[Microsoft .NET Framework 4.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0)  
 (KB2742613)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=934a2e78-c88b-4d06-9b8f-1d0b612f3fd5)  
+[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=934a2e78-c88b-4d06-9b8f-1d0b612f3fd5)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7fd8a313-9ee3-4665-b8ba-b129994aae1e)  
+[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7fd8a313-9ee3-4665-b8ba-b129994aae1e)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97)  
 (KB2736422)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -1557,52 +1557,52 @@ Windows Server 2008 R2 for x64-based Systems Service Pack 1
 Windows Server 2008 R2 for Itanium-based Systems
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=fbcee22b-9801-4c9e-ba0c-eb4a54526d38)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=fbcee22b-9801-4c9e-ba0c-eb4a54526d38)  
 (KB2799329)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for Itanium-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=18070321-8635-4c2e-b9f9-0fc58c924136)  
+[Windows Server 2008 R2 for Itanium-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=18070321-8635-4c2e-b9f9-0fc58c924136)  
 (KB2769369)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e4dfbf88-0e7f-43ca-affe-5d8ddea8657e)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e4dfbf88-0e7f-43ca-affe-5d8ddea8657e)  
 (KB2757638)  
 (警告)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4719776a-5ff0-491a-934e-99220d8ac3a3)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4719776a-5ff0-491a-934e-99220d8ac3a3)  
 (KB2758694)  
 (警告)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e4dfbf88-0e7f-43ca-affe-5d8ddea8657e)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e4dfbf88-0e7f-43ca-affe-5d8ddea8657e)  
 (KB2757638)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a)  
 (KB2742598)  
 (重要)  
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127)  
 (KB2756920)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for Itanium-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=12917b84-1f91-4c19-9197-a7d1e7adcdfc)  
+[Windows Server 2008 R2 for Itanium-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=12917b84-1f91-4c19-9197-a7d1e7adcdfc)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for Itanium-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=86e5b2fc-f530-4259-af90-259b64fcdd73)  
+[Windows Server 2008 R2 for Itanium-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=86e5b2fc-f530-4259-af90-259b64fcdd73)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4)  
 (KB2736418)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -1612,52 +1612,52 @@ Windows Server 2008 R2 for Itanium-based Systems
 Windows Server 2008 R2 for Itanium-based Systems Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=fbcee22b-9801-4c9e-ba0c-eb4a54526d38)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=fbcee22b-9801-4c9e-ba0c-eb4a54526d38)  
 (KB2799329)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for Itanium-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=18070321-8635-4c2e-b9f9-0fc58c924136)  
+[Windows Server 2008 R2 for Itanium-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=18070321-8635-4c2e-b9f9-0fc58c924136)  
 (KB2769369)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e4dfbf88-0e7f-43ca-affe-5d8ddea8657e)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e4dfbf88-0e7f-43ca-affe-5d8ddea8657e)  
 (KB2757638)  
 (警告)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4719776a-5ff0-491a-934e-99220d8ac3a3)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4719776a-5ff0-491a-934e-99220d8ac3a3)  
 (KB2758694)  
 (警告)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e4dfbf88-0e7f-43ca-affe-5d8ddea8657e)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e4dfbf88-0e7f-43ca-affe-5d8ddea8657e)  
 (KB2757638)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0)  
 (KB2742599)  
 (重要)  
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3)  
 (KB2756921)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup>
 (KB2742595)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for Itanium-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=12917b84-1f91-4c19-9197-a7d1e7adcdfc)  
+[Windows Server 2008 R2 for Itanium-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=12917b84-1f91-4c19-9197-a7d1e7adcdfc)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for Itanium-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=86e5b2fc-f530-4259-af90-259b64fcdd73)  
+[Windows Server 2008 R2 for Itanium-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=86e5b2fc-f530-4259-af90-259b64fcdd73)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97)  
 (KB2736422)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup>
 (KB2736428)  
 (重要)
 </td>
@@ -1730,36 +1730,36 @@ Windows 8 for 32-bit Systems
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b)  
 (KB2758694)  
 (緊急)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e19d1373-a3f3-4f60-9142-c2484726aac8)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e19d1373-a3f3-4f60-9142-c2484726aac8)  
 (KB2757638)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e1251343-b585-4feb-8465-7e775ae47998)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e1251343-b585-4feb-8465-7e775ae47998)  
 (KB2742616)  
 (重要)  
-[Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=43bbbc5a-e175-467a-9302-810a2a09eb7e)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=43bbbc5a-e175-467a-9302-810a2a09eb7e)  
 (KB2756923)  
 (重要)  
-[Microsoft .NET Framework 4.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=f21e2bdd-b158-45d5-a6cf-a8f32f099a7a)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=f21e2bdd-b158-45d5-a6cf-a8f32f099a7a)  
 (KB2742614)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows 8 for 32-bit Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1f5441f1-a66d-42c0-bf0e-2f6867d4d43a)  
+[Windows 8 for 32-bit Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1f5441f1-a66d-42c0-bf0e-2f6867d4d43a)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows 8 for 32-bit Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=9f40864f-5347-44ef-bb08-afea45b5351b)  
+[Windows 8 for 32-bit Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=9f40864f-5347-44ef-bb08-afea45b5351b)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b0bbe58b-cb41-4b52-9dd2-b8b4bc0076eb)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b0bbe58b-cb41-4b52-9dd2-b8b4bc0076eb)  
 (KB2736693)  
 (重要)
 </td>
@@ -1775,39 +1775,39 @@ Windows 8 for 64-bit Systems
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c669190d-964c-42d3-b09d-40a397ae3a9c)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c669190d-964c-42d3-b09d-40a397ae3a9c)  
 (KB2757638)  
 (緊急)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
 (KB2758694)  
 (緊急)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c669190d-964c-42d3-b09d-40a397ae3a9c)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c669190d-964c-42d3-b09d-40a397ae3a9c)  
 (KB2757638)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e1251343-b585-4feb-8465-7e775ae47998)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e1251343-b585-4feb-8465-7e775ae47998)  
 (KB2742616)  
 (重要)  
-[Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=43bbbc5a-e175-467a-9302-810a2a09eb7e)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=43bbbc5a-e175-467a-9302-810a2a09eb7e)  
 (KB2756923)  
 (重要)  
-[Microsoft .NET Framework 4.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=f21e2bdd-b158-45d5-a6cf-a8f32f099a7a)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=f21e2bdd-b158-45d5-a6cf-a8f32f099a7a)  
 (KB2742614)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows 8 for 64-bit Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=9d71dc77-9c01-4a1f-b403-8a18ca10979d)  
+[Windows 8 for 64-bit Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=9d71dc77-9c01-4a1f-b403-8a18ca10979d)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows 8 for 64-bit Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1b40baad-784a-4eba-a4ef-703250248057)  
+[Windows 8 for 64-bit Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1b40baad-784a-4eba-a4ef-703250248057)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b0bbe58b-cb41-4b52-9dd2-b8b4bc0076eb)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b0bbe58b-cb41-4b52-9dd2-b8b4bc0076eb)  
 (KB2736693)  
 (重要)
 </td>
@@ -1880,42 +1880,42 @@ Windows Server 2012
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=f7e434e5-1ce8-4754-b9b4-07f3d84e0528)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=f7e434e5-1ce8-4754-b9b4-07f3d84e0528)  
 (KB2757638)  
 (警告)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04)  
 (KB2758694)  
 (警告)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=f7e434e5-1ce8-4754-b9b4-07f3d84e0528)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=f7e434e5-1ce8-4754-b9b4-07f3d84e0528)  
 (KB2757638)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e1251343-b585-4feb-8465-7e775ae47998)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e1251343-b585-4feb-8465-7e775ae47998)  
 (KB2742616)  
 (重要)  
-[Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=43bbbc5a-e175-467a-9302-810a2a09eb7e)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=43bbbc5a-e175-467a-9302-810a2a09eb7e)  
 (KB2756923)  
 (重要)  
-[Microsoft .NET Framework 4.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=f21e2bdd-b158-45d5-a6cf-a8f32f099a7a)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=f21e2bdd-b158-45d5-a6cf-a8f32f099a7a)  
 (KB2742614)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=2ad7872c-a387-41a1-8606-732a6ff0701d)  
+[Windows Server 2012](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=2ad7872c-a387-41a1-8606-732a6ff0701d)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4f0b9fb1-f1c4-4773-a956-94c8983c008a)  
+[Windows Server 2012](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4f0b9fb1-f1c4-4773-a956-94c8983c008a)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b0bbe58b-cb41-4b52-9dd2-b8b4bc0076eb)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b0bbe58b-cb41-4b52-9dd2-b8b4bc0076eb)  
 (KB2736693)  
 (重要)  
-[Management OData IIS 拡張機能](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=77b6fb5f-10b8-4bc2-a5c3-97055c92acf1)  
+[Management OData IIS 拡張機能](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=77b6fb5f-10b8-4bc2-a5c3-97055c92acf1)  
 (KB2753596)  
 (重要)
 </td>
@@ -2082,10 +2082,10 @@ Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core インスト�
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1e2738b9-d3c2-4dfe-8a79-335d5feee55b)  
 (KB2758694)  
 (警告)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e6439fef-e5e7-479b-8fc4-daacf3a39f3a)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e6439fef-e5e7-479b-8fc4-daacf3a39f3a)  
 (KB2757638)  
 (警告)
 </td>
@@ -2093,12 +2093,12 @@ Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core インスト�
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c635ad51-4e15-461c-8927-a86d79f90b45) (Server Core インストール)  
+[Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c635ad51-4e15-461c-8927-a86d79f90b45) (Server Core インストール)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b3ed781e-b740-4153-aaf3-daafdeb91004) (Server Core インストール)  
+[Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b3ed781e-b740-4153-aaf3-daafdeb91004) (Server Core インストール)  
 (KB2785220)  
 (重要)
 </td>
@@ -2117,13 +2117,13 @@ Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core インス�
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1511377b-0adc-455f-8caa-f3498832c735) (Server Core インストール)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1511377b-0adc-455f-8caa-f3498832c735) (Server Core インストール)  
 (KB2757638)  
 (警告)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04) (Server Core インストール)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04) (Server Core インストール)  
 (KB2758694)  
 (警告)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1511377b-0adc-455f-8caa-f3498832c735) (Server Core インストール)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1511377b-0adc-455f-8caa-f3498832c735) (Server Core インストール)  
 (KB2757638)  
 (警告)
 </td>
@@ -2131,12 +2131,12 @@ Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core インス�
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=eff3a82e-f3db-4733-95aa-a68621e27068) (Server Core インストール)  
+[Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=eff3a82e-f3db-4733-95aa-a68621e27068) (Server Core インストール)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4aa3e3a7-3ebc-4b47-ab62-c22243a4edcc) (Server Core インストール)  
+[Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4aa3e3a7-3ebc-4b47-ab62-c22243a4edcc) (Server Core インストール)  
 (KB2785220)  
 (重要)
 </td>
@@ -2152,41 +2152,41 @@ Windows Server 2008 R2 for x64-based Systems (Server Core インストール)
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8de63e96-2822-4e62-af54-bd8d4c6d5c19) (Server Core インストール)  
+[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8de63e96-2822-4e62-af54-bd8d4c6d5c19) (Server Core インストール)  
 (KB2769369)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3) (Server Core インストール)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3) (Server Core インストール)  
 (KB2757638)  
 (警告)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04) (Server Core インストール)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04) (Server Core インストール)  
 (KB2758694)  
 (警告)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3) (Server Core インストール)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3) (Server Core インストール)  
 (KB2757638)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a) (Server Core インストール)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=782fdaa7-7607-4617-97cc-516925e06d8a) (Server Core インストール)  
 (KB2742598)  
 (重要)  
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127) (Server Core インストール)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b8d0c829-ccb8-41a6-86ec-a7afde21c127) (Server Core インストール)  
 (KB2756920)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=934a2e78-c88b-4d06-9b8f-1d0b612f3fd5) (Server Core インストール)  
+[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=934a2e78-c88b-4d06-9b8f-1d0b612f3fd5) (Server Core インストール)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7fd8a313-9ee3-4665-b8ba-b129994aae1e) (Server Core インストール)  
+[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7fd8a313-9ee3-4665-b8ba-b129994aae1e) (Server Core インストール)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4) (Server Core インストール)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4c77925d-4326-483b-9d20-ad533d91c0f4) (Server Core インストール)  
 (KB2736418)  
 (重要)
 </td>
@@ -2199,50 +2199,50 @@ Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core イン�
 対象外
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=8de63e96-2822-4e62-af54-bd8d4c6d5c19) (Server Core インストール)  
+[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=8de63e96-2822-4e62-af54-bd8d4c6d5c19) (Server Core インストール)  
 (KB2769369)  
 (緊急)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3) (Server Core インストール)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3) (Server Core インストール)  
 (KB2757638)  
 (警告)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04) (Server Core インストール)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04) (Server Core インストール)  
 (KB2758694)  
 (警告)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3) (Server Core インストール)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cd979acf-ed95-4d86-a046-ca7dc53523a3) (Server Core インストール)  
 (KB2757638)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0) (Server Core インストール)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5b23d8db-12d3-4404-b089-0c808eec1bd0) (Server Core インストール)  
 (KB2742599)  
 (重要)  
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3) (Server Core インストール)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=a41722e4-4b94-4539-a80e-2714269f8ae3) (Server Core インストール)  
 (KB2756921)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup> (Server Core インストール)  
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c2d4991c-05f1-48c7-96ea-1389281985e5)<sup>[1]</sup> (Server Core インストール)  
 (KB2742595)  
 (重要)  
-[Microsoft .NET Framework 4.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0) (Server Core インストール)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=dafc6924-d798-46b4-9fa5-ea7c35f06fa0) (Server Core インストール)  
 (KB2742613)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=934a2e78-c88b-4d06-9b8f-1d0b612f3fd5) (Server Core インストール)  
+[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=934a2e78-c88b-4d06-9b8f-1d0b612f3fd5) (Server Core インストール)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7fd8a313-9ee3-4665-b8ba-b129994aae1e) (Server Core インストール)  
+[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7fd8a313-9ee3-4665-b8ba-b129994aae1e) (Server Core インストール)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97) (Server Core インストール)  
+[Microsoft .NET Framework 3.5.1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=28f51d80-d87e-4a58-9ef2-d650dd84ad97) (Server Core インストール)  
 (KB2736422)  
 (重要)  
-[Microsoft .NET Framework 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup> (Server Core インストール)  
+[Microsoft .NET Framework 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d22f0d5-d87d-4e4a-bbc9-49826cec79a7)<sup>[1]</sup> (Server Core インストール)  
 (KB2736428)  
 (重要)
 </td>
@@ -2258,42 +2258,42 @@ Windows Server 2012 (Server Core インストール)
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 3.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=f7e434e5-1ce8-4754-b9b4-07f3d84e0528) (Server Core インストール)  
+[Microsoft XML コア サービス 3.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=f7e434e5-1ce8-4754-b9b4-07f3d84e0528) (Server Core インストール)  
 (KB2757638)  
 (警告)  
-[Microsoft XML コア サービス 4.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04) (Server Core インストール)  
+[Microsoft XML コア サービス 4.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7dabf372-4b31-4c9e-a660-4e0f4a65db04) (Server Core インストール)  
 (KB2758694)  
 (警告)  
-[Microsoft XML コア サービス 6.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=f7e434e5-1ce8-4754-b9b4-07f3d84e0528) (Server Core インストール)  
+[Microsoft XML コア サービス 6.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=f7e434e5-1ce8-4754-b9b4-07f3d84e0528) (Server Core インストール)  
 (KB2757638)  
 (警告)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e1251343-b585-4feb-8465-7e775ae47998) (Server Core インストール)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e1251343-b585-4feb-8465-7e775ae47998) (Server Core インストール)  
 (KB2742616)  
 (重要)  
-[Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=43bbbc5a-e175-467a-9302-810a2a09eb7e) (Server Core インストール)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=43bbbc5a-e175-467a-9302-810a2a09eb7e) (Server Core インストール)  
 (KB2756923)  
 (重要)  
-[Microsoft .NET Framework 4.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=f21e2bdd-b158-45d5-a6cf-a8f32f099a7a) (Server Core インストール)  
+[Microsoft .NET Framework 4.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=f21e2bdd-b158-45d5-a6cf-a8f32f099a7a) (Server Core インストール)  
 (KB2742614)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=2ad7872c-a387-41a1-8606-732a6ff0701d) (Server Core インストール)  
+[Windows Server 2012](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=2ad7872c-a387-41a1-8606-732a6ff0701d) (Server Core インストール)  
 (KB2778930)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2012](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4f0b9fb1-f1c4-4773-a956-94c8983c008a) (Server Core インストール)  
+[Windows Server 2012](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4f0b9fb1-f1c4-4773-a956-94c8983c008a) (Server Core インストール)  
 (KB2785220)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft .NET Framework 3.5](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b0bbe58b-cb41-4b52-9dd2-b8b4bc0076eb) (Server Core インストール)  
+[Microsoft .NET Framework 3.5](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b0bbe58b-cb41-4b52-9dd2-b8b4bc0076eb) (Server Core インストール)  
 (KB2736693)  
 (重要)  
-[Management OData IIS 拡張機能](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=77b6fb5f-10b8-4bc2-a5c3-97055c92acf1) (Server Core インストール)  
+[Management OData IIS 拡張機能](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=77b6fb5f-10b8-4bc2-a5c3-97055c92acf1) (Server Core インストール)  
 (KB2753596)  
 (重要)
 </td>
@@ -2357,7 +2357,7 @@ Microsoft Office スイートおよびコンポーネント
 Microsoft Office 2003 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 5.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d108d56c-f9fb-4823-b38e-3d2f838592de)  
+[Microsoft XML コア サービス 5.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d108d56c-f9fb-4823-b38e-3d2f838592de)  
 (KB2760574)  
 (緊急)
 </td>
@@ -2367,7 +2367,7 @@ Microsoft Office 2003 Service Pack 3
 Microsoft Office 2007 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 5.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11)  
+[Microsoft XML コア サービス 5.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11)  
 (KB2687499)  
 (緊急)
 </td>
@@ -2377,7 +2377,7 @@ Microsoft Office 2007 Service Pack 2
 Microsoft Office 2007 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 5.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11)  
+[Microsoft XML コア サービス 5.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11)  
 (KB2687499)  
 (緊急)
 </td>
@@ -2408,7 +2408,7 @@ Microsoft Office 2007 Service Pack 3
 Microsoft Word Viewer
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 5.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11)  
+[Microsoft XML コア サービス 5.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11)  
 (KB2687499)  
 (緊急)
 </td>
@@ -2418,7 +2418,7 @@ Microsoft Word Viewer
 Microsoft Office 互換機能パック Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 5.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11)  
+[Microsoft XML コア サービス 5.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11)  
 (KB2687499)  
 (緊急)
 </td>
@@ -2428,7 +2428,7 @@ Microsoft Office 互換機能パック Service Pack 2
 Microsoft Office 互換機能パック Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 5.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11)  
+[Microsoft XML コア サービス 5.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11)  
 (KB2687499)  
 (緊急)
 </td>
@@ -2470,7 +2470,7 @@ Microsoft Visual Studio Team Foundation Server
 Microsoft Expression Web Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 5.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11)  
+[Microsoft XML コア サービス 5.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11)  
 (KB2687499)  
 (緊急)
 </td>
@@ -2480,7 +2480,7 @@ Microsoft Expression Web Service Pack 1
 Microsoft Expression Web 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 5.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11)  
+[Microsoft XML コア サービス 5.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7ba27dc9-4e9c-4ab5-867e-888c01716e11)  
 (KB2687499)  
 (緊急)
 </td>
@@ -2528,7 +2528,7 @@ Microsoft SharePoint Server
 Microsoft SharePoint Server 2007 Service Pack 2 (32 ビット版)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 5.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=31e1e6cc-9617-416b-8c91-5c026502d5f6)  
+[Microsoft XML コア サービス 5.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=31e1e6cc-9617-416b-8c91-5c026502d5f6)  
 (KB2687497)  
 (緊急)
 </td>
@@ -2541,7 +2541,7 @@ Microsoft SharePoint Server 2007 Service Pack 2 (32 ビット版)
 Microsoft SharePoint Server 2007 Service Pack 2 (64 ビット版)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 5.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=fb21c3f8-b3fd-42f2-9c34-e5fbd8cad689)  
+[Microsoft XML コア サービス 5.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=fb21c3f8-b3fd-42f2-9c34-e5fbd8cad689)  
 (KB2687497)  
 (緊急)
 </td>
@@ -2554,7 +2554,7 @@ Microsoft SharePoint Server 2007 Service Pack 2 (64 ビット版)
 Microsoft SharePoint Server 2007 Service Pack 3 (32 ビット版)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 5.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=31e1e6cc-9617-416b-8c91-5c026502d5f6)  
+[Microsoft XML コア サービス 5.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=31e1e6cc-9617-416b-8c91-5c026502d5f6)  
 (KB2687497)  
 (緊急)
 </td>
@@ -2567,7 +2567,7 @@ Microsoft SharePoint Server 2007 Service Pack 3 (32 ビット版)
 Microsoft SharePoint Server 2007 Service Pack 3 (64 ビット版)
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 5.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=fb21c3f8-b3fd-42f2-9c34-e5fbd8cad689)  
+[Microsoft XML コア サービス 5.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=fb21c3f8-b3fd-42f2-9c34-e5fbd8cad689)  
 (KB2687497)  
 (緊急)
 </td>
@@ -2607,7 +2607,7 @@ Microsoft Groove Server
 Microsoft Groove Server 2007 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 5.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=fb21c3f8-b3fd-42f2-9c34-e5fbd8cad689)  
+[Microsoft XML コア サービス 5.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=fb21c3f8-b3fd-42f2-9c34-e5fbd8cad689)  
 (KB2687497)  
 (緊急)
 </td>
@@ -2620,7 +2620,7 @@ Microsoft Groove Server 2007 Service Pack 2
 Microsoft Groove Server 2007 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft XML コア サービス 5.0](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=fb21c3f8-b3fd-42f2-9c34-e5fbd8cad689)  
+[Microsoft XML コア サービス 5.0](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=fb21c3f8-b3fd-42f2-9c34-e5fbd8cad689)  
 (KB2687497)  
 (緊急)
 </td>
@@ -2663,7 +2663,7 @@ Microsoft System Center Operations Manager 2007 Service Pack 1
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft System Center Operations Manager 2007 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=f848d74d-fdae-4a19-a0f5-12d2d4389db9)<sup>[1]</sup>
+[Microsoft System Center Operations Manager 2007 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=f848d74d-fdae-4a19-a0f5-12d2d4389db9)<sup>[1]</sup>
 (KB2809182)  
 (重要)
 </td>
@@ -2676,7 +2676,7 @@ Microsoft System Center Operations Manager 2007 R2
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft System Center Operations Manager 2007 R2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4e1ab3bd-af0c-41f8-8ebc-1cdc68a3ee37)<sup>[1]</sup><sup>[2]</sup>
+[Microsoft System Center Operations Manager 2007 R2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4e1ab3bd-af0c-41f8-8ebc-1cdc68a3ee37)<sup>[1]</sup><sup>[2]</sup>
 (KB2783850)  
 (重要)
 </td>
@@ -2733,13 +2733,13 @@ Microsoft Systems Management Server (SMS) は更新プログラムを管理す�
 
 注: System Management Server 2003 は 2010 年 1 月 12 日を持って、メインストリーム サポートを終了しました。製品のライフサイクルの詳細については、[マイクロソフト サポート ライフサイクル](https://go.microsoft.com/fwlink/?linkid=21742)を参照してください。現在利用可能な SMS の後継である System Center Configuration Manager については、前のセクション「System Center Configuration Manager」を参照してください。
 
-セキュリティ更新プログラムを適用するための SMS 2003 の使用方法については、[Scenarios and Procedures for Microsoft Systems Management Server 2003:Software Distribution and Patch Management](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f) (英語情報) を参照してください。SMS の詳細については、[Systems Management Server](https://technet.microsoft.com/ja-jp/systemcenter/bb545936) を参照してください。
+セキュリティ更新プログラムを適用するための SMS 2003 の使用方法については、[Scenarios and Procedures for Microsoft Systems Management Server 2003:Software Distribution and Patch Management](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f) (英語情報) を参照してください。SMS の詳細については、[Systems Management Server](https://technet.microsoft.com/ja-jp/systemcenter/bb545936) を参照してください。
 
-注 : SMS は Microsoft Baseline Security Analyzer を使用して、セキュリティ情報で提供された更新プログラムの検出と展開について広範なサポートを提供します。これらのツールにより検出されないソフトウェアの更新プログラムもあります。管理者は、特定のシステムに対する更新プログラムを対象とし、これらの場合に SMS のインベントリ機能を使用することができます。この手順の詳細については、[Deploying Software Updates Using the SMS Software Distribution Feature](https://go.microsoft.com/fwlink/?linkid=33341) (英語情報) を参照してください。コンピューターの再起動後、管理者権限を必要とするセキュリティ更新プログラムもあります。管理者は、上位権利での展開ツール ([SMS 2003 Administration Feature Pack](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d) で入手可能) を使用して、これらの更新プログラムをインストールできます。
+注 : SMS は Microsoft Baseline Security Analyzer を使用して、セキュリティ情報で提供された更新プログラムの検出と展開について広範なサポートを提供します。これらのツールにより検出されないソフトウェアの更新プログラムもあります。管理者は、特定のシステムに対する更新プログラムを対象とし、これらの場合に SMS のインベントリ機能を使用することができます。この手順の詳細については、[Deploying Software Updates Using the SMS Software Distribution Feature](https://go.microsoft.com/fwlink/?linkid=33341) (英語情報) を参照してください。コンピューターの再起動後、管理者権限を必要とするセキュリティ更新プログラムもあります。管理者は、上位権利での展開ツール ([SMS 2003 Administration Feature Pack](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d) で入手可能) を使用して、これらの更新プログラムをインストールできます。
 
 Update Compatibility Evaluator および Application Compatibility Toolkit
 
-更新プログラムはアプリケーションを実行させるために、たびたび同じファイルやレジストリ構成に書き込みをすることがあります。これにより、非互換性が起こったり、セキュリティ更新プログラムの適用時間が長くなったりする可能性があります。[Application Compatibility Toolkit](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971) (英語情報) に含まれている [Update Compatibility Evaluator](https://technet.microsoft.com/ja-jp/library/cc749197) (英語情報) コンポーネントでインストールされているアプリケーションに対し、Windows の更新プログラムのテストおよび確認を効率化することができます。
+更新プログラムはアプリケーションを実行させるために、たびたび同じファイルやレジストリ構成に書き込みをすることがあります。これにより、非互換性が起こったり、セキュリティ更新プログラムの適用時間が長くなったりする可能性があります。[Application Compatibility Toolkit](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971) (英語情報) に含まれている [Update Compatibility Evaluator](https://technet.microsoft.com/ja-jp/library/cc749197) (英語情報) コンポーネントでインストールされているアプリケーションに対し、Windows の更新プログラムのテストおよび確認を効率化することができます。
 
 Application Compatibility Toolkit (ACT) には、お客様の環境に Windows Vista、Windows Update、Microsoft Security Update または Windows Internet Explorer の新しいバージョンを適用する前に、アプリケーションの互換性問題を評価し、緩和するために必要なツールやドキュメントが含まれています。
 
