@@ -289,7 +289,7 @@ Windows XP
 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Windows XP Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=6aa1e4b3-273a-49ff-8086-0d2c16dd14f3)   
+[Windows XP Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=6aa1e4b3-273a-49ff-8086-0d2c16dd14f3)   
 (KB2724197)  
 (重要)
 </td>
@@ -302,7 +302,7 @@ Windows XP Service Pack 3
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=3c509cc0-63a1-4cc7-b7f9-cc9f0f12b378)   
+[Windows XP Professional x64 Edition Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=3c509cc0-63a1-4cc7-b7f9-cc9f0f12b378)   
 (KB2724197)  
 (重要)
 </td>
@@ -342,7 +342,7 @@ Windows Server 2003
 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=6c7dd00a-a983-477b-88b1-dc16f1b5e42a)   
+[Windows Server 2003 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=6c7dd00a-a983-477b-88b1-dc16f1b5e42a)   
 (KB2724197)  
 (重要)
 </td>
@@ -355,7 +355,7 @@ Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=eaac4dae-62e6-4020-8b4d-a95e7e0e11f1)   
+[Windows Server 2003 x64 Edition Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=eaac4dae-62e6-4020-8b4d-a95e7e0e11f1)   
 (KB2724197)  
 (重要)
 </td>
@@ -368,7 +368,7 @@ Windows Server 2003 x64 Edition Service Pack 2
 Windows Server 2003 with SP2 for Itanium-based Systems
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=315cc115-1496-471f-8887-f334a1ca8246)   
+[Windows Server 2003 with SP2 for Itanium-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=315cc115-1496-471f-8887-f334a1ca8246)   
 (KB2724197)  
 (重要)
 </td>
@@ -408,7 +408,7 @@ Windows Vista
 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=828ca8a2-777c-4b41-8d97-caed894a37cb)   
+[Windows Vista Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=828ca8a2-777c-4b41-8d97-caed894a37cb)   
 (KB2724197)  
 (重要)
 </td>
@@ -421,7 +421,7 @@ Windows Vista Service Pack 2
 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=731d67dc-e028-42e4-8ef3-454f74835593)   
+[Windows Vista x64 Edition Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=731d67dc-e028-42e4-8ef3-454f74835593)   
 (KB2724197)  
 (重要)
 </td>
@@ -461,7 +461,7 @@ Windows Server 2008
 Windows Server 2008 for 32-bit Systems Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=526f786b-7aef-4a1f-b03d-587baadf3f5b)   
+[Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=526f786b-7aef-4a1f-b03d-587baadf3f5b)   
 (KB2724197)  
 (重要)
 </td>
@@ -474,7 +474,7 @@ Windows Server 2008 for 32-bit Systems Service Pack 2
 Windows Server 2008 for x64-based Systems Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5697076c-541f-42b7-8dc3-e8bd4a25fda8)   
+[Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5697076c-541f-42b7-8dc3-e8bd4a25fda8)   
 (KB2724197)  
 (重要)
 </td>
@@ -487,7 +487,7 @@ Windows Server 2008 for x64-based Systems Service Pack 2
 Windows Server 2008 for Itanium-based Systems Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for Itanium-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=6216b875-c7a6-4d62-8062-49996ac7a478)   
+[Windows Server 2008 for Itanium-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=6216b875-c7a6-4d62-8062-49996ac7a478)   
 (KB2724197)  
 (重要)
 </td>
@@ -527,12 +527,12 @@ Windows 7
 Windows 7 for 32-bit Systems
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for 32-bit Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=593a29c3-c459-4a39-9f25-016a5268fc7d)   
+[Windows 7 for 32-bit Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=593a29c3-c459-4a39-9f25-016a5268fc7d)   
 (KB2724197)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for 32-bit Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4ffa9c0e-26b1-4309-bfb4-fa5374f28d6c)   
+[Windows 7 for 32-bit Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4ffa9c0e-26b1-4309-bfb4-fa5374f28d6c)   
 (KB2743555)  
 (重要)
 </td>
@@ -542,12 +542,12 @@ Windows 7 for 32-bit Systems
 Windows 7 for 32-bit Systems Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for 32-bit Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=593a29c3-c459-4a39-9f25-016a5268fc7d)   
+[Windows 7 for 32-bit Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=593a29c3-c459-4a39-9f25-016a5268fc7d)   
 (KB2724197)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for 32-bit Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4ffa9c0e-26b1-4309-bfb4-fa5374f28d6c)   
+[Windows 7 for 32-bit Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4ffa9c0e-26b1-4309-bfb4-fa5374f28d6c)   
 (KB2743555)  
 (重要)
 </td>
@@ -557,12 +557,12 @@ Windows 7 for 32-bit Systems Service Pack 1
 Windows 7 for x64-based Systems
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for x64-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=2d273f99-3460-4e84-9f2d-2a349bfc7ce6)   
+[Windows 7 for x64-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=2d273f99-3460-4e84-9f2d-2a349bfc7ce6)   
 (KB2724197)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for x64-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d5584b7d-434f-49fc-9c30-ef16c40d475f)   
+[Windows 7 for x64-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d5584b7d-434f-49fc-9c30-ef16c40d475f)   
 (KB2743555)  
 (重要)
 </td>
@@ -572,12 +572,12 @@ Windows 7 for x64-based Systems
 Windows 7 for x64-based Systems Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for x64-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=2d273f99-3460-4e84-9f2d-2a349bfc7ce6)   
+[Windows 7 for x64-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=2d273f99-3460-4e84-9f2d-2a349bfc7ce6)   
 (KB2724197)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows 7 for x64-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d5584b7d-434f-49fc-9c30-ef16c40d475f)   
+[Windows 7 for x64-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d5584b7d-434f-49fc-9c30-ef16c40d475f)   
 (KB2743555)  
 (重要)
 </td>
@@ -614,12 +614,12 @@ Windows Server 2008 R2
 Windows Server 2008 R2 for x64-based Systems
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=848af16d-c5f7-4a70-b6a9-39f4e7999f1f)   
+[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=848af16d-c5f7-4a70-b6a9-39f4e7999f1f)   
 (KB2724197)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d7210047-788c-4b33-953d-e3134f52f897)   
+[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d7210047-788c-4b33-953d-e3134f52f897)   
 (KB2743555)  
 (重要)
 </td>
@@ -629,12 +629,12 @@ Windows Server 2008 R2 for x64-based Systems
 Windows Server 2008 R2 for x64-based Systems Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=848af16d-c5f7-4a70-b6a9-39f4e7999f1f)   
+[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=848af16d-c5f7-4a70-b6a9-39f4e7999f1f)   
 (KB2724197)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d7210047-788c-4b33-953d-e3134f52f897)   
+[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d7210047-788c-4b33-953d-e3134f52f897)   
 (KB2743555)  
 (重要)
 </td>
@@ -644,12 +644,12 @@ Windows Server 2008 R2 for x64-based Systems Service Pack 1
 Windows Server 2008 R2 for Itanium-based Systems
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for Itanium-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=ded1f351-022a-463c-9f5f-84b6081e6173)   
+[Windows Server 2008 R2 for Itanium-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=ded1f351-022a-463c-9f5f-84b6081e6173)   
 (KB2724197)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for Itanium-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7dc47f1d-8af8-4f31-9f96-3ae226632723)   
+[Windows Server 2008 R2 for Itanium-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7dc47f1d-8af8-4f31-9f96-3ae226632723)   
 (KB2743555)  
 (重要)
 </td>
@@ -659,12 +659,12 @@ Windows Server 2008 R2 for Itanium-based Systems
 Windows Server 2008 R2 for Itanium-based Systems Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for Itanium-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=ded1f351-022a-463c-9f5f-84b6081e6173)   
+[Windows Server 2008 R2 for Itanium-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=ded1f351-022a-463c-9f5f-84b6081e6173)   
 (KB2724197)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for Itanium-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7dc47f1d-8af8-4f31-9f96-3ae226632723)   
+[Windows Server 2008 R2 for Itanium-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7dc47f1d-8af8-4f31-9f96-3ae226632723)   
 (KB2743555)  
 (重要)
 </td>
@@ -701,7 +701,7 @@ Server Core インストール オプション
 Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core インストール)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=526f786b-7aef-4a1f-b03d-587baadf3f5b) (Server Core インストール)   
+[Windows Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=526f786b-7aef-4a1f-b03d-587baadf3f5b) (Server Core インストール)   
 (KB2724197)  
 (重要)
 </td>
@@ -714,7 +714,7 @@ Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core インスト�
 Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core インストール)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5697076c-541f-42b7-8dc3-e8bd4a25fda8) (Server Core インストール)   
+[Windows Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5697076c-541f-42b7-8dc3-e8bd4a25fda8) (Server Core インストール)   
 (KB2724197)  
 (重要)
 </td>
@@ -727,12 +727,12 @@ Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core インス�
 Windows Server 2008 R2 for x64-based Systems (Server Core インストール)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=848af16d-c5f7-4a70-b6a9-39f4e7999f1f) (Server Core インストール)   
+[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=848af16d-c5f7-4a70-b6a9-39f4e7999f1f) (Server Core インストール)   
 (KB2724197)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d7210047-788c-4b33-953d-e3134f52f897) (Server Core インストール)   
+[Windows Server 2008 R2 for x64-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d7210047-788c-4b33-953d-e3134f52f897) (Server Core インストール)   
 (KB2743555)  
 (重要)
 </td>
@@ -742,12 +742,12 @@ Windows Server 2008 R2 for x64-based Systems (Server Core インストール)
 Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core インストール)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=848af16d-c5f7-4a70-b6a9-39f4e7999f1f) (Server Core インストール)   
+[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=848af16d-c5f7-4a70-b6a9-39f4e7999f1f) (Server Core インストール)   
 (KB2724197)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d7210047-788c-4b33-953d-e3134f52f897) (Server Core インストール)   
+[Windows Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d7210047-788c-4b33-953d-e3134f52f897) (Server Core インストール)   
 (KB2743555)  
 (重要)
 </td>
@@ -802,7 +802,7 @@ Microsoft Office スイートおよびコンポーネント
 Microsoft Office 2003 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Word 2003 Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e49eadec-0fe1-43ce-9c25-a92aad17d940)   
+[Microsoft Word 2003 Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e49eadec-0fe1-43ce-9c25-a92aad17d940)   
 (KB2687483)  
 (重要)
 </td>
@@ -818,7 +818,7 @@ Microsoft Office 2003 Service Pack 3
 Microsoft Office 2007 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Word 2007 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=be58b650-ee4f-405e-ab3c-c28aca48345b)<sup>[1]</sup>   
+[Microsoft Word 2007 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=be58b650-ee4f-405e-ab3c-c28aca48345b)<sup>[1]</sup>   
 (KB2687315)  
 (緊急)
 </td>
@@ -834,7 +834,7 @@ Microsoft Office 2007 Service Pack 2
 Microsoft Office 2007 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Word 2007 Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=be58b650-ee4f-405e-ab3c-c28aca48345b)<sup>[1]</sup>   
+[Microsoft Word 2007 Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=be58b650-ee4f-405e-ab3c-c28aca48345b)<sup>[1]</sup>   
 (KB2687315)  
 (緊急)
 </td>
@@ -850,7 +850,7 @@ Microsoft Office 2007 Service Pack 3
 Microsoft Office 2010 Service Pack 1 (32 ビット版)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Word 2010 Service Pack 1 (32 ビット版)](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=27e07115-d569-438c-b95f-203e444d4408)   
+[Microsoft Word 2010 Service Pack 1 (32 ビット版)](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=27e07115-d569-438c-b95f-203e444d4408)   
 (KB2553488)  
 (緊急)
 </td>
@@ -866,7 +866,7 @@ Microsoft Office 2010 Service Pack 1 (32 ビット版)
 Microsoft Office 2010 Service Pack 1 (64 ビット版)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Word 2010 Service Pack 1 (64 ビット版)](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=30f9efac-3ecd-48a6-adcf-922f4d4d18d4)   
+[Microsoft Word 2010 Service Pack 1 (64 ビット版)](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=30f9efac-3ecd-48a6-adcf-922f4d4d18d4)   
 (KB2553488)  
 (緊急)
 </td>
@@ -915,7 +915,7 @@ Microsoft Office 2010 Service Pack 1 (64 ビット版)
 Microsoft Word Viewer
 </td>
 <td style="border:1px solid black;">
-[Microsoft Word Viewer](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1e392ff8-92e9-408d-bb14-1e0a6b4b6c9d)   
+[Microsoft Word Viewer](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1e392ff8-92e9-408d-bb14-1e0a6b4b6c9d)   
 (KB2687485)  
 (重要)
 </td>
@@ -931,7 +931,7 @@ Microsoft Word Viewer
 Microsoft Office 互換機能パック Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 互換機能パック Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=301446f7-991e-4abd-a06e-4a854f05ac84)   
+[Microsoft Office 互換機能パック Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=301446f7-991e-4abd-a06e-4a854f05ac84)   
 (KB2687314)  
 (重要)
 </td>
@@ -947,7 +947,7 @@ Microsoft Office 互換機能パック Service Pack 2
 Microsoft Office 互換機能パック Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office 互換機能パック Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=301446f7-991e-4abd-a06e-4a854f05ac84)   
+[Microsoft Office 互換機能パック Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=301446f7-991e-4abd-a06e-4a854f05ac84)   
 (KB2687314)  
 (重要)
 </td>
@@ -969,10 +969,10 @@ Microsoft InfoPath 2007 Service Pack 2
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft InfoPath 2007 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=a0989a9f-3a7a-4343-9dd0-b2d694a0813b)   
+[Microsoft InfoPath 2007 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=a0989a9f-3a7a-4343-9dd0-b2d694a0813b)   
 (KB2687439)  
 (重要)  
-[Microsoft InfoPath 2007 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=29330e1a-6bac-4c54-98ef-b9a831801247)   
+[Microsoft InfoPath 2007 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=29330e1a-6bac-4c54-98ef-b9a831801247)   
 (KB2687440)  
 (重要)
 </td>
@@ -988,10 +988,10 @@ Microsoft InfoPath 2007 Service Pack 3
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft InfoPath 2007 Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=a0989a9f-3a7a-4343-9dd0-b2d694a0813b)   
+[Microsoft InfoPath 2007 Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=a0989a9f-3a7a-4343-9dd0-b2d694a0813b)   
 (KB2687439)  
 (重要)  
-[Microsoft InfoPath 2007 Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=29330e1a-6bac-4c54-98ef-b9a831801247)   
+[Microsoft InfoPath 2007 Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=29330e1a-6bac-4c54-98ef-b9a831801247)   
 (KB2687440)  
 (重要)
 </td>
@@ -1007,10 +1007,10 @@ Microsoft InfoPath 2010 Service Pack 1 (32 ビット版)
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft InfoPath 2010 Service Pack 1 (32 ビット版)](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=724b12b9-84bf-4102-912e-56aa9ee0878c)   
+[Microsoft InfoPath 2010 Service Pack 1 (32 ビット版)](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=724b12b9-84bf-4102-912e-56aa9ee0878c)   
 (KB2687436)  
 (重要)  
-[Microsoft InfoPath 2010 Service Pack 1 (32 ビット版)](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b0be62c6-4eae-458e-8cf5-754742393e4c)   
+[Microsoft InfoPath 2010 Service Pack 1 (32 ビット版)](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b0be62c6-4eae-458e-8cf5-754742393e4c)   
 (KB2687417)  
 (重要)
 </td>
@@ -1026,10 +1026,10 @@ Microsoft InfoPath 2010 Service Pack 1 (64 ビット版)
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft InfoPath 2010 Service Pack 1 (64 ビット版)](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=17b36fa3-9964-480a-bff8-b028619c5dfd)   
+[Microsoft InfoPath 2010 Service Pack 1 (64 ビット版)](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=17b36fa3-9964-480a-bff8-b028619c5dfd)   
 (KB2687436)  
 (重要)  
-[Microsoft InfoPath 2010 Service Pack 1 (64 ビット版)](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=6e5a7817-345e-4b75-aeca-94f74691c0e0)   
+[Microsoft InfoPath 2010 Service Pack 1 (64 ビット版)](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=6e5a7817-345e-4b75-aeca-94f74691c0e0)   
 (KB2687417)  
 (重要)
 </td>
@@ -1042,7 +1042,7 @@ Microsoft Works 9
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft Works 9](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7e48cd96-4b91-4f7b-b8a0-2b88131ba51d)   
+[Microsoft Works 9](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7e48cd96-4b91-4f7b-b8a0-2b88131ba51d)   
 (KB2754670)  
 (重要)
 </td>
@@ -1112,7 +1112,7 @@ Microsoft SharePoint Server 2007 Service Pack 2 (32 ビット版)
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Server 2007 Service Pack 2 (coreserver) (32 ビット版)](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=a8a818bb-67a3-4558-aac1-aaa33c6f4584)<sup>[1]</sup>   
+[Microsoft SharePoint Server 2007 Service Pack 2 (coreserver) (32 ビット版)](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=a8a818bb-67a3-4558-aac1-aaa33c6f4584)<sup>[1]</sup>   
 (KB2687405)  
 (重要)
 </td>
@@ -1128,7 +1128,7 @@ Microsoft SharePoint Server 2007 Service Pack 3 (32 ビット版)
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Server 2007 Service Pack 3 (coreserver) (32 ビット版)](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=a8a818bb-67a3-4558-aac1-aaa33c6f4584)<sup>[1]</sup>   
+[Microsoft SharePoint Server 2007 Service Pack 3 (coreserver) (32 ビット版)](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=a8a818bb-67a3-4558-aac1-aaa33c6f4584)<sup>[1]</sup>   
 (KB2687405)  
 (重要)
 </td>
@@ -1144,7 +1144,7 @@ Microsoft SharePoint Server 2007 Service Pack 2 (64 ビット版)
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Server 2007 Service Pack 2 (coreserver) (64 ビット版)](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=93f4e385-880a-4edc-9cde-24f38a11a41d)<sup>[1]</sup>   
+[Microsoft SharePoint Server 2007 Service Pack 2 (coreserver) (64 ビット版)](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=93f4e385-880a-4edc-9cde-24f38a11a41d)<sup>[1]</sup>   
 (KB2687405)  
 (重要)
 </td>
@@ -1160,7 +1160,7 @@ Microsoft SharePoint Server 2007 Service Pack 3 (64 ビット版)
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Server 2007 Service Pack 3 (coreserver) (64 ビット版)](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=93f4e385-880a-4edc-9cde-24f38a11a41d)<sup>[1]</sup>   
+[Microsoft SharePoint Server 2007 Service Pack 3 (coreserver) (64 ビット版)](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=93f4e385-880a-4edc-9cde-24f38a11a41d)<sup>[1]</sup>   
 (KB2687405)  
 (重要)
 </td>
@@ -1173,15 +1173,15 @@ Microsoft SharePoint Server 2007 Service Pack 3 (64 ビット版)
 Microsoft SharePoint Server 2010 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Word Automation Services](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=3582ab6c-930b-4660-afcd-e2423ce56d8f)   
+[Word Automation Services](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=3582ab6c-930b-4660-afcd-e2423ce56d8f)   
 (KB2598237)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Server 2010 Service Pack 1 (wosrv)](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=af3ade8e-349f-4eec-a5c3-c5a70071582d)   
+[Microsoft SharePoint Server 2010 Service Pack 1 (wosrv)](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=af3ade8e-349f-4eec-a5c3-c5a70071582d)   
 (KB2687435)  
 (重要)  
-[Microsoft SharePoint Server 2010 Service Pack 1 (coreserver)](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5518b70b-cac9-4aff-b049-156d3c08b04b)   
+[Microsoft SharePoint Server 2010 Service Pack 1 (coreserver)](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5518b70b-cac9-4aff-b049-156d3c08b04b)   
 (KB2589280)  
 (重要)
 </td>
@@ -1233,7 +1233,7 @@ Microsoft FAST Search Server 2010 for SharePoint
 対象外
 </td>
 <td style="border:1px solid black;">
-[Advanced Filter Pack](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=17909d1f-c679-4a20-b39d-b99f9cc7dbc1)  
+[Advanced Filter Pack](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=17909d1f-c679-4a20-b39d-b99f9cc7dbc1)  
 (KB2553402)  
 (重要)
 </td>
@@ -1279,7 +1279,7 @@ Microsoft Groove Server 2010 Service Pack 1
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft Groove Server 2010 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=80552d2c-98f2-4c99-bfc6-e091fd1d51c4)   
+[Microsoft Groove Server 2010 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=80552d2c-98f2-4c99-bfc6-e091fd1d51c4)   
 (KB2687402)  
 (重要)
 </td>
@@ -1328,7 +1328,7 @@ Microsoft Windows SharePoint Services 3.0 Service Pack 2 (32 ビット版)
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows SharePoint Services 3.0 Service Pack 2 (32 ビット版)](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e3a31cd4-bba3-4572-ab24-7b1dd0c4c01c)   
+[Microsoft Windows SharePoint Services 3.0 Service Pack 2 (32 ビット版)](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e3a31cd4-bba3-4572-ab24-7b1dd0c4c01c)   
 (KB2687356)  
 (重要)
 </td>
@@ -1344,7 +1344,7 @@ Microsoft Windows SharePoint Services 3.0 Service Pack 2 (64 ビット版)
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft Windows SharePoint Services 3.0 Service Pack 2 (64 ビット版)](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=77cab67c-be97-4808-9fb4-4defad563851)   
+[Microsoft Windows SharePoint Services 3.0 Service Pack 2 (64 ビット版)](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=77cab67c-be97-4808-9fb4-4defad563851)   
 (KB2687356)  
 (重要)
 </td>
@@ -1360,7 +1360,7 @@ Microsoft SharePoint Foundation 2010 Service Pack 1
 対象外
 </td>
 <td style="border:1px solid black;">
-[Microsoft SharePoint Foundation 2010 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=79724c7c-7cdf-44c9-9e25-577104c5004b)   
+[Microsoft SharePoint Foundation 2010 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=79724c7c-7cdf-44c9-9e25-577104c5004b)   
 (KB2687434)  
 (重要)
 </td>
@@ -1406,12 +1406,12 @@ Microsoft Office Web Apps
 Microsoft Office Web Apps 2010 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Web Apps 2010 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e7a2dd61-36d5-4313-a8dc-15456b275b9c)   
+[Microsoft Office Web Apps 2010 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e7a2dd61-36d5-4313-a8dc-15456b275b9c)   
 (KB2687401)  
 (重要)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Office Web Apps 2010 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e7a2dd61-36d5-4313-a8dc-15456b275b9c)   
+[Microsoft Office Web Apps 2010 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e7a2dd61-36d5-4313-a8dc-15456b275b9c)   
 (KB2687401)  
 (重要)
 </td>
@@ -1466,7 +1466,7 @@ Microsoft Communicator
 Microsoft Communicator 2007 R2
 </td>
 <td style="border:1px solid black;">
-[Microsoft Communicator 2007 R2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=a228c1dd-9e57-48cb-8db4-896d6c499b46)   
+[Microsoft Communicator 2007 R2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=a228c1dd-9e57-48cb-8db4-896d6c499b46)   
 (KB2726391)  
 (重要)
 </td>
@@ -1497,7 +1497,7 @@ Microsoft Lync
 Microsoft Lync 2010 (32 ビット)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Lync 2010 (32 ビット)](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=6ea3afea-baa2-4b74-9747-8051c544ddf7)   
+[Microsoft Lync 2010 (32 ビット)](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=6ea3afea-baa2-4b74-9747-8051c544ddf7)   
 (KB2726382)  
 (重要)
 </td>
@@ -1507,7 +1507,7 @@ Microsoft Lync 2010 (32 ビット)
 Microsoft Lync 2010 (64 ビット)
 </td>
 <td style="border:1px solid black;">
-[Microsoft Lync 2010 (64 ビット)](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=670c20e6-4f26-47b9-b6e0-25f195bf7000)   
+[Microsoft Lync 2010 (64 ビット)](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=670c20e6-4f26-47b9-b6e0-25f195bf7000)   
 (KB2726382)  
 (重要)
 </td>
@@ -1517,11 +1517,11 @@ Microsoft Lync 2010 (64 ビット)
 Microsoft Lync 2010 Attendee
 </td>
 <td style="border:1px solid black;">
-[Microsoft Lync 2010 Attendee](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7f98cb55-027a-40bf-b539-d8fa38ffcc83)   
+[Microsoft Lync 2010 Attendee](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7f98cb55-027a-40bf-b539-d8fa38ffcc83)   
 (管理レベル インストール)  
 (KB2726388)  
 (重要)  
-[Microsoft Lync 2010 Attendee](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=32860684-998e-4e55-b719-c44532bc753d)<sup>[1]</sup>   
+[Microsoft Lync 2010 Attendee](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=32860684-998e-4e55-b719-c44532bc753d)<sup>[1]</sup>   
 (ユーザー レベル インストール)  
 (KB2726384)  
 (重要)
@@ -1570,7 +1570,7 @@ SQL Server 2000
 Microsoft SQL Server 2000 Reporting Services Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2000 Reporting Services Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1c70a2cb-e8a9-439f-b34a-7d1641daf325)   
+[Microsoft SQL Server 2000 Reporting Services Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1c70a2cb-e8a9-439f-b34a-7d1641daf325)   
 (KB983814)  
 (重要)
 </td>
@@ -1601,11 +1601,11 @@ SQL Server 2005
 Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=623841cc-06f7-4475-b2c0-531aed9972a3)<sup>[1]</sup>   
+[Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=623841cc-06f7-4475-b2c0-531aed9972a3)<sup>[1]</sup>   
 (GDR)  
 (KB2716429)  
 (重要)  
-[Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=16cc7b80-ea4c-4b17-9ac2-250b771a569a)<sup>[1]</sup>   
+[Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=16cc7b80-ea4c-4b17-9ac2-250b771a569a)<sup>[1]</sup>   
 (QFE)  
 (KB2716427)  
 (重要)
@@ -1616,11 +1616,11 @@ Microsoft SQL Server 2005 Express Edition with Advanced Services Service Pack 4
 Microsoft SQL Server 2005 for 32-bit Systems Service Pack 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2005 for 32-bit Systems Service Pack 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=623841cc-06f7-4475-b2c0-531aed9972a3)<sup>[1]</sup>   
+[Microsoft SQL Server 2005 for 32-bit Systems Service Pack 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=623841cc-06f7-4475-b2c0-531aed9972a3)<sup>[1]</sup>   
 (GDR)  
 (KB2716429)  
 (重要)  
-[Microsoft SQL Server 2005 for 32-bit Systems Service Pack 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=16cc7b80-ea4c-4b17-9ac2-250b771a569a)<sup>[1]</sup>   
+[Microsoft SQL Server 2005 for 32-bit Systems Service Pack 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=16cc7b80-ea4c-4b17-9ac2-250b771a569a)<sup>[1]</sup>   
 (QFE)  
 (KB2716427)  
 (重要)
@@ -1631,11 +1631,11 @@ Microsoft SQL Server 2005 for 32-bit Systems Service Pack 4
 Microsoft SQL Server 2005 for x64-based Systems Service Pack 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2005 for x64-based Systems Service Pack 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=623841cc-06f7-4475-b2c0-531aed9972a3)<sup>[1]</sup>   
+[Microsoft SQL Server 2005 for x64-based Systems Service Pack 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=623841cc-06f7-4475-b2c0-531aed9972a3)<sup>[1]</sup>   
 (GDR)  
 (KB2716429)  
 (重要)  
-[Microsoft SQL Server 2005 for x64-based Systems Service Pack 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=16cc7b80-ea4c-4b17-9ac2-250b771a569a)<sup>[1]</sup>   
+[Microsoft SQL Server 2005 for x64-based Systems Service Pack 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=16cc7b80-ea4c-4b17-9ac2-250b771a569a)<sup>[1]</sup>   
 (QFE)  
 (KB2716427)  
 (重要)
@@ -1646,11 +1646,11 @@ Microsoft SQL Server 2005 for x64-based Systems Service Pack 4
 Microsoft SQL Server 2005 for Itanium-based Systems Service Pack 4
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2005 for Itanium-based Systems Service Pack 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=623841cc-06f7-4475-b2c0-531aed9972a3)<sup>[1]</sup>   
+[Microsoft SQL Server 2005 for Itanium-based Systems Service Pack 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=623841cc-06f7-4475-b2c0-531aed9972a3)<sup>[1]</sup>   
 (GDR)  
 (KB2716429)  
 (重要)  
-[Microsoft SQL Server 2005 for Itanium-based Systems Service Pack 4](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=16cc7b80-ea4c-4b17-9ac2-250b771a569a)<sup>[1]</sup>   
+[Microsoft SQL Server 2005 for Itanium-based Systems Service Pack 4](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=16cc7b80-ea4c-4b17-9ac2-250b771a569a)<sup>[1]</sup>   
 (QFE)  
 (KB2716427)  
 (重要)
@@ -1682,11 +1682,11 @@ SQL Server 2008
 Microsoft SQL Server 2008 for 32-bit Systems Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1bf8dc30-2a90-4196-814c-717ccd74ea13)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1bf8dc30-2a90-4196-814c-717ccd74ea13)<sup>[1]</sup>   
 (GDR)  
 (KB2716434)  
 (重要)  
-[Microsoft SQL Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7d8b1b25-45ad-4f19-ba50-e77debf2b463)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 for 32-bit Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7d8b1b25-45ad-4f19-ba50-e77debf2b463)<sup>[1]</sup>   
 (QFE)  
 (KB2716433)  
 (重要)
@@ -1697,11 +1697,11 @@ Microsoft SQL Server 2008 for 32-bit Systems Service Pack 2
 Microsoft SQL Server 2008 for 32-bit Systems Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2008 for 32-bit Systems Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=04621a83-c2e2-4a60-9198-10104372b120)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 for 32-bit Systems Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=04621a83-c2e2-4a60-9198-10104372b120)<sup>[1]</sup>   
 (GDR)  
 (KB2716436)  
 (重要)  
-[Microsoft SQL Server 2008 for 32-bit Systems Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4c4597d2-dea0-49b9-a5a9-a7771a3d64c0)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 for 32-bit Systems Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4c4597d2-dea0-49b9-a5a9-a7771a3d64c0)<sup>[1]</sup>   
 (QFE)  
 (KB2716435)  
 (重要)
@@ -1712,11 +1712,11 @@ Microsoft SQL Server 2008 for 32-bit Systems Service Pack 3
 Microsoft SQL Server 2008 for x64-based Systems Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1bf8dc30-2a90-4196-814c-717ccd74ea13)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1bf8dc30-2a90-4196-814c-717ccd74ea13)<sup>[1]</sup>   
 (GDR)  
 (KB2716434)  
 (重要)  
-[Microsoft SQL Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7d8b1b25-45ad-4f19-ba50-e77debf2b463)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 for x64-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7d8b1b25-45ad-4f19-ba50-e77debf2b463)<sup>[1]</sup>   
 (QFE)  
 (KB2716433)  
 (重要)
@@ -1727,11 +1727,11 @@ Microsoft SQL Server 2008 for x64-based Systems Service Pack 2
 Microsoft SQL Server 2008 for x64-based Systems Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2008 for x64-based Systems Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=04621a83-c2e2-4a60-9198-10104372b120)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 for x64-based Systems Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=04621a83-c2e2-4a60-9198-10104372b120)<sup>[1]</sup>   
 (GDR)  
 (KB2716436)  
 (重要)  
-[Microsoft SQL Server 2008 for x64-based Systems Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4c4597d2-dea0-49b9-a5a9-a7771a3d64c0)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 for x64-based Systems Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4c4597d2-dea0-49b9-a5a9-a7771a3d64c0)<sup>[1]</sup>   
 (QFE)  
 (KB2716435)  
 (重要)
@@ -1742,11 +1742,11 @@ Microsoft SQL Server 2008 for x64-based Systems Service Pack 3
 Microsoft SQL Server 2008 for Itanium-based Systems Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2008 for Itanium-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1bf8dc30-2a90-4196-814c-717ccd74ea13)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 for Itanium-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1bf8dc30-2a90-4196-814c-717ccd74ea13)<sup>[1]</sup>   
 (GDR)  
 (KB2716434)  
 (重要)  
-[Microsoft SQL Server 2008 for Itanium-based Systems Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7d8b1b25-45ad-4f19-ba50-e77debf2b463)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 for Itanium-based Systems Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7d8b1b25-45ad-4f19-ba50-e77debf2b463)<sup>[1]</sup>   
 (QFE)  
 (KB2716433)  
 (重要)
@@ -1757,11 +1757,11 @@ Microsoft SQL Server 2008 for Itanium-based Systems Service Pack 2
 Microsoft SQL Server 2008 for Itanium-based Systems Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2008 for Itanium-based Systems Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=04621a83-c2e2-4a60-9198-10104372b120)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 for Itanium-based Systems Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=04621a83-c2e2-4a60-9198-10104372b120)<sup>[1]</sup>   
 (GDR)  
 (KB2716436)  
 (重要)  
-[Microsoft SQL Server 2008 for Itanium-based Systems Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=4c4597d2-dea0-49b9-a5a9-a7771a3d64c0)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 for Itanium-based Systems Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=4c4597d2-dea0-49b9-a5a9-a7771a3d64c0)<sup>[1]</sup>   
 (QFE)  
 (KB2716435)  
 (重要)
@@ -1793,11 +1793,11 @@ SQL Server 2008 R2
 Microsoft SQL Server 2008 R2 for 32-bit Systems Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2008 R2 for 32-bit Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=215a9184-71c5-41e6-b4d5-03602182a88f)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 R2 for 32-bit Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=215a9184-71c5-41e6-b4d5-03602182a88f)<sup>[1]</sup>   
 (GDR)  
 (KB2716440)  
 (重要)  
-[Microsoft SQL Server 2008 R2 for 32-bit Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cdc4fc03-dfba-41d4-b651-d7967a067eea)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 R2 for 32-bit Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cdc4fc03-dfba-41d4-b651-d7967a067eea)<sup>[1]</sup>   
 (QFE)  
 (KB2716439)  
 (重要)
@@ -1808,11 +1808,11 @@ Microsoft SQL Server 2008 R2 for 32-bit Systems Service Pack 1
 Microsoft SQL Server 2008 R2 for x64-based Systems Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=215a9184-71c5-41e6-b4d5-03602182a88f)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=215a9184-71c5-41e6-b4d5-03602182a88f)<sup>[1]</sup>   
 (GDR)  
 (KB2716440)  
 (重要)  
-[Microsoft SQL Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cdc4fc03-dfba-41d4-b651-d7967a067eea)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 R2 for x64-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cdc4fc03-dfba-41d4-b651-d7967a067eea)<sup>[1]</sup>   
 (QFE)  
 (KB2716439)  
 (重要)
@@ -1823,11 +1823,11 @@ Microsoft SQL Server 2008 R2 for x64-based Systems Service Pack 1
 Microsoft SQL Server 2008 R2 for Itanium-based Systems Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2008 R2 for Itanium-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=215a9184-71c5-41e6-b4d5-03602182a88f)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 R2 for Itanium-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=215a9184-71c5-41e6-b4d5-03602182a88f)<sup>[1]</sup>   
 (GDR)  
 (KB2716440)  
 (重要)  
-[Microsoft SQL Server 2008 R2 for Itanium-based Systems Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cdc4fc03-dfba-41d4-b651-d7967a067eea)<sup>[1]</sup>   
+[Microsoft SQL Server 2008 R2 for Itanium-based Systems Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cdc4fc03-dfba-41d4-b651-d7967a067eea)<sup>[1]</sup>   
 (QFE)  
 (KB2716439)  
 (重要)
@@ -1859,11 +1859,11 @@ SQL Server 2012
 Microsoft SQL Server 2012 for 32-bit Systems
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2012 for 32-bit Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e79b4e5b-1549-4e76-afef-b771b432365b)<sup>[1]</sup>   
+[Microsoft SQL Server 2012 for 32-bit Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e79b4e5b-1549-4e76-afef-b771b432365b)<sup>[1]</sup>   
 (GDR)  
 (KB2716442)  
 (重要)  
-[Microsoft SQL Server 2012 for 32-bit Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=ebfcb341-e240-4107-92f1-ab75cc28151a)<sup>[1]</sup>   
+[Microsoft SQL Server 2012 for 32-bit Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=ebfcb341-e240-4107-92f1-ab75cc28151a)<sup>[1]</sup>   
 (QFE)  
 (KB2716441)  
 (重要)
@@ -1874,11 +1874,11 @@ Microsoft SQL Server 2012 for 32-bit Systems
 Microsoft SQL Server 2012 for x64-based Systems
 </td>
 <td style="border:1px solid black;">
-[Microsoft SQL Server 2012 for x64-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e79b4e5b-1549-4e76-afef-b771b432365b)<sup>[1]</sup>   
+[Microsoft SQL Server 2012 for x64-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e79b4e5b-1549-4e76-afef-b771b432365b)<sup>[1]</sup>   
 (GDR)  
 (KB2716442)  
 (重要)  
-[Microsoft SQL Server 2012 for x64-based Systems](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=ebfcb341-e240-4107-92f1-ab75cc28151a)<sup>[1]</sup>   
+[Microsoft SQL Server 2012 for x64-based Systems](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=ebfcb341-e240-4107-92f1-ab75cc28151a)<sup>[1]</sup>   
 (QFE)  
 (KB2716441)  
 (重要)
@@ -1933,13 +1933,13 @@ Microsoft Systems Management Server (SMS) は更新プログラムを管理す�
 
 注: System Management Server 2003 は 2010 年 1 月 12 日を持って、メインストリーム サポートを終了しました。製品のライフサイクルの詳細については、[マイクロソフト サポート ライフサイクル](https://go.microsoft.com/fwlink/?linkid=21742)を参照してください。現在利用可能な SMS の後継である System Center Configuration Manager については、前のセクション「System Center Configuration Manager」を参照してください。
 
-セキュリティ更新プログラムを適用するための SMS 2003 の使用方法については、[Scenarios and Procedures for Microsoft Systems Management Server 2003:Software Distribution and Patch Management](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f) (英語情報) を参照してください。SMS の詳細については、[Systems Management Server](https://technet.microsoft.com/ja-jp/systemcenter/bb545936) を参照してください。
+セキュリティ更新プログラムを適用するための SMS 2003 の使用方法については、[Scenarios and Procedures for Microsoft Systems Management Server 2003:Software Distribution and Patch Management](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f) (英語情報) を参照してください。SMS の詳細については、[Systems Management Server](https://technet.microsoft.com/ja-jp/systemcenter/bb545936) を参照してください。
 
-注 : SMS は Microsoft Baseline Security Analyzer を使用して、セキュリティ情報で提供された更新プログラムの検出と展開について広範なサポートを提供します。これらのツールにより検出されないソフトウェアの更新プログラムもあります。管理者は、特定のシステムに対する更新プログラムを対象とし、これらの場合に SMS のインベントリ機能を使用することができます。この手順の詳細については、[Deploying Software Updates Using the SMS Software Distribution Feature](https://go.microsoft.com/fwlink/?linkid=33341) (英語情報) を参照してください。コンピューターの再起動後、管理者権限を必要とするセキュリティ更新プログラムもあります。管理者は、上位権利での展開ツール ([SMS 2003 Administration Feature Pack](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d) で入手可能) を使用して、これらの更新プログラムをインストールできます。
+注 : SMS は Microsoft Baseline Security Analyzer を使用して、セキュリティ情報で提供された更新プログラムの検出と展開について広範なサポートを提供します。これらのツールにより検出されないソフトウェアの更新プログラムもあります。管理者は、特定のシステムに対する更新プログラムを対象とし、これらの場合に SMS のインベントリ機能を使用することができます。この手順の詳細については、[Deploying Software Updates Using the SMS Software Distribution Feature](https://go.microsoft.com/fwlink/?linkid=33341) (英語情報) を参照してください。コンピューターの再起動後、管理者権限を必要とするセキュリティ更新プログラムもあります。管理者は、上位権利での展開ツール ([SMS 2003 Administration Feature Pack](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d) で入手可能) を使用して、これらの更新プログラムをインストールできます。
 
 Update Compatibility Evaluator および Application Compatibility Toolkit
 
-更新プログラムはアプリケーションを実行させるために、たびたび同じファイルやレジストリ構成に書き込みをすることがあります。これにより、非互換性が起こったり、セキュリティ更新プログラムの適用時間が長くなったりする可能性があります。[Application Compatibility Toolkit](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971) (英語情報) に含まれている [Update Compatibility Evaluator](https://technet.microsoft.com/ja-jp/library/cc749197) (英語情報) コンポーネントでインストールされているアプリケーションに対し、Windows の更新プログラムのテストおよび確認を効率化することができます。
+更新プログラムはアプリケーションを実行させるために、たびたび同じファイルやレジストリ構成に書き込みをすることがあります。これにより、非互換性が起こったり、セキュリティ更新プログラムの適用時間が長くなったりする可能性があります。[Application Compatibility Toolkit](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971) (英語情報) に含まれている [Update Compatibility Evaluator](https://technet.microsoft.com/ja-jp/library/cc749197) (英語情報) コンポーネントでインストールされているアプリケーションに対し、Windows の更新プログラムのテストおよび確認を効率化することができます。
 
 Application Compatibility Toolkit (ACT) には、お客様の環境に Windows Vista、Windows Update、Microsoft Security Update または Windows Internet Explorer の新しいバージョンを適用する前に、アプリケーションの互換性問題を評価し、緩和するために必要なツールやドキュメントが含まれています。
 
