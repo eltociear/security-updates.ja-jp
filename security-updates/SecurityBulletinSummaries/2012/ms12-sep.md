@@ -236,13 +236,13 @@ Windows XP
 Windows XP Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=967c9ef3-db48-4c2f-9a67-87851fd54962)  
+[Internet Explorer 6](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=967c9ef3-db48-4c2f-9a67-87851fd54962)  
 (KB2744842)  
 (緊急)  
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=6ba78d4c-3657-4963-b2da-7a3763c6b5c9)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=6ba78d4c-3657-4963-b2da-7a3763c6b5c9)  
 (KB2744842)  
 (緊急)  
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=ac71ffe3-f077-4753-a238-47a2e9623363)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=ac71ffe3-f077-4753-a238-47a2e9623363)  
 (KB2744842)  
 (緊急)
 </td>
@@ -252,13 +252,13 @@ Windows XP Service Pack 3
 Windows XP Professional x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=020b36c6-7050-4458-8762-bae35eb713cd)  
+[Internet Explorer 6](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=020b36c6-7050-4458-8762-bae35eb713cd)  
 (KB2744842)  
 (緊急)  
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1e2e412a-be97-407e-9f02-fc074db3bb07)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1e2e412a-be97-407e-9f02-fc074db3bb07)  
 (KB2744842)  
 (緊急)  
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c727d956-be3e-4cd2-913c-f26cb6c33227)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c727d956-be3e-4cd2-913c-f26cb6c33227)  
 (KB2744842)  
 (緊急)
 </td>
@@ -289,13 +289,13 @@ Windows Server 2003
 Windows Server 2003 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7aaaa15b-87d8-4afc-b183-8ce5becda026)  
+[Internet Explorer 6](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7aaaa15b-87d8-4afc-b183-8ce5becda026)  
 (KB2744842)  
 (警告)  
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=aef34ce4-a6ce-4f5e-9892-0a7fbd90c3b4)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=aef34ce4-a6ce-4f5e-9892-0a7fbd90c3b4)  
 (KB2744842)  
 (警告)  
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d63e25ad-ab8c-425f-89cd-29cd2b7b69d6)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d63e25ad-ab8c-425f-89cd-29cd2b7b69d6)  
 (KB2744842)  
 (警告)
 </td>
@@ -305,13 +305,13 @@ Windows Server 2003 Service Pack 2
 Windows Server 2003 x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=366feacb-16ad-455c-b2ad-5038f998c432)  
+[Internet Explorer 6](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=366feacb-16ad-455c-b2ad-5038f998c432)  
 (KB2744842)  
 (警告)  
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=baa47c53-2724-43ef-8590-d3733b47e75b)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=baa47c53-2724-43ef-8590-d3733b47e75b)  
 (KB2744842)  
 (警告)  
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=84144e56-f653-4c92-bf49-d44d9ba10489)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=84144e56-f653-4c92-bf49-d44d9ba10489)  
 (KB2744842)  
 (警告)
 </td>
@@ -321,10 +321,10 @@ Windows Server 2003 x64 Edition Service Pack 2
 Windows Server 2003 with SP2 for Itanium-based Systems
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 6](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c28d6dc3-c2f0-4505-a545-85b7a0e3e2dc)  
+[Internet Explorer 6](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c28d6dc3-c2f0-4505-a545-85b7a0e3e2dc)  
 (KB2744842)  
 (警告)  
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=86c28695-86a5-4c17-82d6-7f98b3162aa6)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=86c28695-86a5-4c17-82d6-7f98b3162aa6)  
 (KB2744842)  
 (警告)
 </td>
@@ -355,13 +355,13 @@ Windows Vista
 Windows Vista Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=053546fc-ed41-43c2-b4f2-b76334314f5c)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=053546fc-ed41-43c2-b4f2-b76334314f5c)  
 (KB2744842)  
 (緊急)  
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=0a5a446d-0a48-4eec-b424-87339b34a3be)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=0a5a446d-0a48-4eec-b424-87339b34a3be)  
 (KB2744842)  
 (緊急)  
-[Internet Explorer 9](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=daba1ef1-62db-43db-9d5b-495aa2d3550f)  
+[Internet Explorer 9](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=daba1ef1-62db-43db-9d5b-495aa2d3550f)  
 (KB2744842)  
 (緊急)
 </td>
@@ -371,13 +371,13 @@ Windows Vista Service Pack 2
 Windows Vista x64 Edition Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=cbe5681b-c28e-4a6a-9b97-0bfe44acf077)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=cbe5681b-c28e-4a6a-9b97-0bfe44acf077)  
 (KB2744842)  
 (緊急)  
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=5642136e-68f6-42e8-b48e-1549733c6e7d)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=5642136e-68f6-42e8-b48e-1549733c6e7d)  
 (KB2744842)  
 (緊急)  
-[Internet Explorer 9](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=aae496ef-fca2-4632-9a8f-2108722d2b28)  
+[Internet Explorer 9](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=aae496ef-fca2-4632-9a8f-2108722d2b28)  
 (KB2744842)  
 (緊急)
 </td>
@@ -408,13 +408,13 @@ Windows Server 2008
 Windows Server 2008 for 32-bit Systems Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=df861b42-bcf2-4f7a-9019-f49e6725f5dc)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=df861b42-bcf2-4f7a-9019-f49e6725f5dc)  
 (KB2744842)  
 (警告)  
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=1d4f0f25-9539-4c38-babb-4af7f0f4c6cf)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=1d4f0f25-9539-4c38-babb-4af7f0f4c6cf)  
 (KB2744842)  
 (警告)  
-[Internet Explorer 9](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=0b2965d7-e0b2-4035-a9e4-f6badb389098)  
+[Internet Explorer 9](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=0b2965d7-e0b2-4035-a9e4-f6badb389098)  
 (KB2744842)  
 (警告)
 </td>
@@ -424,13 +424,13 @@ Windows Server 2008 for 32-bit Systems Service Pack 2
 Windows Server 2008 for x64-based Systems Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=fa9878c0-b7e5-43ac-b1eb-679e62cf62fc)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=fa9878c0-b7e5-43ac-b1eb-679e62cf62fc)  
 (KB2744842)  
 (警告)  
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=10bab7d4-0dd8-4fa7-b26c-715a68553707)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=10bab7d4-0dd8-4fa7-b26c-715a68553707)  
 (KB2744842)  
 (警告)  
-[Internet Explorer 9](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=612a94ef-0950-41e8-9875-a8f0e71eba6f)  
+[Internet Explorer 9](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=612a94ef-0950-41e8-9875-a8f0e71eba6f)  
 (KB2744842)  
 (警告)
 </td>
@@ -440,7 +440,7 @@ Windows Server 2008 for x64-based Systems Service Pack 2
 Windows Server 2008 for Itanium-based Systems Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 7](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=ded887a4-a06d-4447-b19d-19d0f4928523)  
+[Internet Explorer 7](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=ded887a4-a06d-4447-b19d-19d0f4928523)  
 (KB2744842)  
 (警告)
 </td>
@@ -471,10 +471,10 @@ Windows 7
 Windows 7 for 32-bit Systems
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=93591461-39ff-4cbd-8df3-88cb80ed6255)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=93591461-39ff-4cbd-8df3-88cb80ed6255)  
 (KB2744842)  
 (緊急)  
-[Internet Explorer 9](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b303f86a-df17-4961-b677-0c38bd6a86d3)  
+[Internet Explorer 9](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b303f86a-df17-4961-b677-0c38bd6a86d3)  
 (KB2744842)  
 (緊急)
 </td>
@@ -484,10 +484,10 @@ Windows 7 for 32-bit Systems
 Windows 7 for 32-bit Systems Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=93591461-39ff-4cbd-8df3-88cb80ed6255)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=93591461-39ff-4cbd-8df3-88cb80ed6255)  
 (KB2744842)  
 (緊急)  
-[Internet Explorer 9](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=b303f86a-df17-4961-b677-0c38bd6a86d3)  
+[Internet Explorer 9](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=b303f86a-df17-4961-b677-0c38bd6a86d3)  
 (KB2744842)  
 (緊急)
 </td>
@@ -497,10 +497,10 @@ Windows 7 for 32-bit Systems Service Pack 1
 Windows 7 for x64-based Systems
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e2083388-19a9-4754-9449-1dad2a7f7543)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e2083388-19a9-4754-9449-1dad2a7f7543)  
 (KB2744842)  
 (緊急)  
-[Internet Explorer 9](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=01045ee2-c7c4-4078-969f-905fd7e8774f)  
+[Internet Explorer 9](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=01045ee2-c7c4-4078-969f-905fd7e8774f)  
 (KB2744842)  
 (緊急)
 </td>
@@ -510,10 +510,10 @@ Windows 7 for x64-based Systems
 Windows 7 for x64-based Systems Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=e2083388-19a9-4754-9449-1dad2a7f7543)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=e2083388-19a9-4754-9449-1dad2a7f7543)  
 (KB2744842)  
 (緊急)  
-[Internet Explorer 9](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=01045ee2-c7c4-4078-969f-905fd7e8774f)  
+[Internet Explorer 9](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=01045ee2-c7c4-4078-969f-905fd7e8774f)  
 (KB2744842)  
 (緊急)
 </td>
@@ -544,10 +544,10 @@ Windows Server 2008 R2
 Windows Server 2008 R2 for x64-based Systems
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d46ec8ea-b8c8-42d9-a201-f36eb97b91b8)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d46ec8ea-b8c8-42d9-a201-f36eb97b91b8)  
 (KB2744842)  
 (警告)  
-[Internet Explorer 9](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c44a0253-fefc-4ce6-9cfd-396fdea71f8d)  
+[Internet Explorer 9](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c44a0253-fefc-4ce6-9cfd-396fdea71f8d)  
 (KB2744842)  
 (警告)
 </td>
@@ -557,10 +557,10 @@ Windows Server 2008 R2 for x64-based Systems
 Windows Server 2008 R2 for x64-based Systems Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=d46ec8ea-b8c8-42d9-a201-f36eb97b91b8)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=d46ec8ea-b8c8-42d9-a201-f36eb97b91b8)  
 (KB2744842)  
 (警告)  
-[Internet Explorer 9](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c44a0253-fefc-4ce6-9cfd-396fdea71f8d)  
+[Internet Explorer 9](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c44a0253-fefc-4ce6-9cfd-396fdea71f8d)  
 (KB2744842)  
 (警告)
 </td>
@@ -570,7 +570,7 @@ Windows Server 2008 R2 for x64-based Systems Service Pack 1
 Windows Server 2008 R2 for Itanium-based Systems
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c132173b-f869-47ec-bb70-6307081473fe)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c132173b-f869-47ec-bb70-6307081473fe)  
 (KB2744842)  
 (警告)
 </td>
@@ -580,7 +580,7 @@ Windows Server 2008 R2 for Itanium-based Systems
 Windows Server 2008 R2 for Itanium-based Systems Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Internet Explorer 8](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=c132173b-f869-47ec-bb70-6307081473fe)  
+[Internet Explorer 8](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=c132173b-f869-47ec-bb70-6307081473fe)  
 (KB2744842)  
 (警告)
 </td>
@@ -623,7 +623,7 @@ Microsoft Visual Studio Team Foundation Server
 Microsoft Visual Studio Team Foundation Server 2010 Service Pack 1
 </td>
 <td style="border:1px solid black;">
-[Microsoft Visual Studio Team Foundation Server 2010 Service Pack 1](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=721c4a38-b255-4792-83a5-7526a680a79a)<sup>[1]</sup>   
+[Microsoft Visual Studio Team Foundation Server 2010 Service Pack 1](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=721c4a38-b255-4792-83a5-7526a680a79a)<sup>[1]</sup>   
 (KB2719584)   
 (重要)
 </td>
@@ -669,7 +669,7 @@ Microsoft System Center Configuration Manager
 Microsoft Systems Management Server 2003 Service Pack 3
 </td>
 <td style="border:1px solid black;">
-[Microsoft Systems Management Server 2003 Service Pack 3](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=f3a3d8e1-d551-43b4-9d54-9536f30c074d)<sup>[1]</sup>   
+[Microsoft Systems Management Server 2003 Service Pack 3](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=f3a3d8e1-d551-43b4-9d54-9536f30c074d)<sup>[1]</sup>   
 (KB2733631)   
 (重要)
 </td>
@@ -679,7 +679,7 @@ Microsoft Systems Management Server 2003 Service Pack 3
 Microsoft System Center Configuration Manager 2007 Service Pack 2
 </td>
 <td style="border:1px solid black;">
-[Microsoft System Center Configuration Manager 2007 Service Pack 2](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=89890c0e-118b-49ea-9fd1-6d23c674f9e8)<sup>[1]</sup>   
+[Microsoft System Center Configuration Manager 2007 Service Pack 2](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=89890c0e-118b-49ea-9fd1-6d23c674f9e8)<sup>[1]</sup>   
 (KB2721642)   
 (重要)
 </td>
@@ -733,13 +733,13 @@ Microsoft Systems Management Server (SMS) は更新プログラムを管理す�
 
 注: System Management Server 2003 は 2010 年 1 月 12 日を持って、メインストリーム サポートを終了しました。製品のライフサイクルの詳細については、[マイクロソフト サポート ライフサイクル](https://go.microsoft.com/fwlink/?linkid=21742)を参照してください。現在利用可能な SMS の後継である System Center Configuration Manager については、前のセクション「System Center Configuration Manager」を参照してください。
 
-セキュリティ更新プログラムを適用するための SMS 2003 の使用方法については、[Scenarios and Procedures for Microsoft Systems Management Server 2003:Software Distribution and Patch Management](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f) (英語情報) を参照してください。SMS の詳細については、[Systems Management Server](https://technet.microsoft.com/ja-jp/systemcenter/bb545936) を参照してください。
+セキュリティ更新プログラムを適用するための SMS 2003 の使用方法については、[Scenarios and Procedures for Microsoft Systems Management Server 2003:Software Distribution and Patch Management](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=32f2bb4c-42f8-4b8d-844f-2553fd78049f) (英語情報) を参照してください。SMS の詳細については、[Systems Management Server](https://technet.microsoft.com/ja-jp/systemcenter/bb545936) を参照してください。
 
-注 : SMS は Microsoft Baseline Security Analyzer を使用して、セキュリティ情報で提供された更新プログラムの検出と展開について広範なサポートを提供します。これらのツールにより検出されないソフトウェアの更新プログラムもあります。管理者は、特定のシステムに対する更新プログラムを対象とし、これらの場合に SMS のインベントリ機能を使用することができます。この手順の詳細については、[Deploying Software Updates Using the SMS Software Distribution Feature](https://go.microsoft.com/fwlink/?linkid=33341) (英語情報) を参照してください。コンピューターの再起動後、管理者権限を必要とするセキュリティ更新プログラムもあります。管理者は、上位権利での展開ツール ([SMS 2003 Administration Feature Pack](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d) で入手可能) を使用して、これらの更新プログラムをインストールできます。
+注 : SMS は Microsoft Baseline Security Analyzer を使用して、セキュリティ情報で提供された更新プログラムの検出と展開について広範なサポートを提供します。これらのツールにより検出されないソフトウェアの更新プログラムもあります。管理者は、特定のシステムに対する更新プログラムを対象とし、これらの場合に SMS のインベントリ機能を使用することができます。この手順の詳細については、[Deploying Software Updates Using the SMS Software Distribution Feature](https://go.microsoft.com/fwlink/?linkid=33341) (英語情報) を参照してください。コンピューターの再起動後、管理者権限を必要とするセキュリティ更新プログラムもあります。管理者は、上位権利での展開ツール ([SMS 2003 Administration Feature Pack](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=7bd3a16e-1899-4e0b-bb99-1320e816167d) で入手可能) を使用して、これらの更新プログラムをインストールできます。
 
 Update Compatibility Evaluator および Application Compatibility Toolkit
 
-更新プログラムはアプリケーションを実行させるために、たびたび同じファイルやレジストリ構成に書き込みをすることがあります。これにより、非互換性が起こったり、セキュリティ更新プログラムの適用時間が長くなったりする可能性があります。[Application Compatibility Toolkit](https://www.microsoft.com/downloads/ja-jp/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971) (英語情報) に含まれている [Update Compatibility Evaluator](https://technet.microsoft.com/ja-jp/library/cc749197) (英語情報) コンポーネントでインストールされているアプリケーションに対し、Windows の更新プログラムのテストおよび確認を効率化することができます。
+更新プログラムはアプリケーションを実行させるために、たびたび同じファイルやレジストリ構成に書き込みをすることがあります。これにより、非互換性が起こったり、セキュリティ更新プログラムの適用時間が長くなったりする可能性があります。[Application Compatibility Toolkit](https://www.microsoft.com/download/ja-jp/details.aspx?familyid=24da89e9-b581-47b0-b45e-492dd6da2971) (英語情報) に含まれている [Update Compatibility Evaluator](https://technet.microsoft.com/ja-jp/library/cc749197) (英語情報) コンポーネントでインストールされているアプリケーションに対し、Windows の更新プログラムのテストおよび確認を効率化することができます。
 
 Application Compatibility Toolkit (ACT) には、お客様の環境に Windows Vista、Windows Update、Microsoft Security Update または Windows Internet Explorer の新しいバージョンを適用する前に、アプリケーションの互換性問題を評価し、緩和するために必要なツールやドキュメントが含まれています。
 
